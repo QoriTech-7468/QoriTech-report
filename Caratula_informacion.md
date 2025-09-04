@@ -77,3 +77,8 @@ Ingeniería de software - 2025-02
   
 </table>
 
+## Project Report Collaboration Insights
+
+## Contenido
+
+## Student Outcome
