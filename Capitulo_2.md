@@ -38,22 +38,22 @@
 
    <tr>
    <td>
-    <b>📝Entrevistador:</b> Christofer William Costa Morales <br>
-    <b>🗣️Entrevistado:</b> John Huaman Huaman <br>
+    <b>Entrevistador:</b> Christofer William Costa Morales <br>
+    <b>Entrevistado:</b> John Huaman Huaman <br>
     <b>Inicio de la entrevista:</b>
     <p> John Huaman 
     </p>
    </td>
    <td>
-    <b>📝Entrevistador:</b>  <br>
-    <b>🗣️Entrevistado:</b> <br>
+    <b>Entrevistador:</b>  <br>
+    <b>Entrevistado:</b> <br>
     <b>Inicio de la entrevista:</b> 
 
    </p>
    </td>
       <td>
-    <b>📝Entrevistador:</b>  <br>
-    <b>🗣️Entrevistado:</b> <br>
+    <b>Entrevistador:</b>  <br>
+    <b>Entrevistado:</b> <br>
     <b>Inicio de la entrevista:</b> 
      <p>
      </p>
@@ -94,23 +94,23 @@
 
    <tr>
    <td>
-    <b>📝Entrevistador:</b>  <br>
-    <b>🗣️Entrevistado:</b> <br>
+    <b>Entrevistador:</b>  <br>
+    <b>Entrevistado:</b> <br>
     <b>Inicio de la entrevista:</b> 
     <p>  
     </p>
    </td>
    <td>
-    <b>📝Entrevistador:</b>  <br>
-    <b>🗣️Entrevistado:</b> <br>
+    <b>Entrevistador:</b>  <br>
+    <b>Entrevistado:</b> <br>
     <b>Inicio de la entrevista:</b> 
    <p>
 
    </p>
    </td>
       <td>
-    <b>📝Entrevistador:</b>  <br>
-    <b>🗣️Entrevistado:</b> <br>
+    <b>Entrevistador:</b>  <br>
+    <b>Entrevistado:</b> <br>
     <b>Inicio de la entrevista:</b> 
      <p>
      </p>
