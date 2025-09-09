@@ -1,6 +1,140 @@
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
+
+<table style="width:100%; border-collapse:collapse; table-layout:fixed;" border="1" align="center">
+
+<!-- Título -->
+<tr>
+<th colspan="6" align="center">Competitive Analysis Landscape</th>
+</tr>
+
+<!-- Objetivo -->
+<tr>
+<td rowspan="2" colspan="1" align="center"><b>¿Por qué llevar a cabo este análisis?</b></td>
+<td colspan="6" align="center">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+</tr>
+ <tr>
+    <td colspan="6">
+       <b></b> ... <br> 
+    </td>
+  </tr>
+
+<!-- Cabeceras -->
+<tr>
+<th colspan="2" style="width:12%">(En la cabecera colocar por cada competidor nombre y logo)</th>
+<th style="width:22%">Su Startup
+<img src="..." alt="Logo"width="100" height="100">
+</th>
+<th style="width:22%">Competidor 1
+<img src="..." alt="Logo1" width="100" height="100">
+</th>
+<th style="width:22%">Competidor 2
+<img src="..." alt="Logo2" width="100" height="100">
+</th>
+   
+<th style="width:22%">Competidor 3
+<img src="..." alt="Logo3" width="100" height="100">
+</th>
+</tr>
+
+<!-- PERFIL -->
+<tr>
+<td rowspan="2" colspan="1" align="center" ><b>Perfil</b></td>
+<td style="word-wrap:break-word; white-space:normal;"><b>Overview</b></td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> aaaa </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> aaaa </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> aaaa </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> aaaa </td>
+</tr>
+<tr>
+<td  style="word-wrap:break-word; white-space:normal;"><b>Ventaja competitiva:<br>¿Qué valor ofrece a los clientes?</b></td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+</tr>
+
+<!-- PERFIL DE MARKETING -->
+<tr>
+<td rowspan="2" colspan="1" align="center"><b>Perfil de Marketing</b></td>
+<td style="word-wrap:break-word; white-space:normal;"><b>Mercado objetivo</b></td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+</tr>
+<tr>
+<td  style="word-wrap:break-word; white-space:normal;"><b>Estrategias de marketing</b></td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+</tr>
+
+<!-- PERFIL DE PRODUCTO -->
+<tr>
+<td rowspan="3" colspan="1" align="center"><b>Perfil de Producto</b></td>
+<td style="word-wrap:break-word; white-space:normal;"><b>Productos & Servicios</b></td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+</tr>
+<tr>
+<td " style="word-wrap:break-word; white-space:normal;"><b>Precios & Costos</b></td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+</tr>
+<tr>
+<td  style="word-wrap:break-word; white-space:normal;"><b>Canales de distribución<br>(Web y/o Móvil)</b></td>
+   
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+</tr>
+
+<!-- ANÁLISIS SWOT -->
+<tr>
+<td rowspan="4" colspan="1" align="center"><b>Análisis SWOT</b></td>
+<td  style="word-wrap:break-word; white-space:normal;"><b>Fortalezas</b></td>
+   
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+</tr>
+<tr>
+<td  style="word-wrap:break-word; white-space:normal;"><b>Debilidades</b></td>
+   
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+</tr>
+<tr>
+<td  style="word-wrap:break-word; white-space:normal;"><b>Oportunidades</b></td>
+   
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+</tr>
+<tr>
+<td  style="word-wrap:break-word; white-space:normal;"><b>Amenazas</b></td>
+   
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+</tr>
+
+</table>
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ### 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
