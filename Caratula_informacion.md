@@ -22,27 +22,27 @@ Ingeniería de software - 2025-02
 <table align="center"> 
 <tr>
 <th>Integrantes</th>
-<th>Codigo</th>
+<th>Código</th>
 </tr> 
 <tr>
 <td>Castillo Vidal, Jesus Ivan</td>
-<td>Codigo</td>
+<td>U202322952</td>
 </tr> 
 <tr>
 <td>Costa Morales, Christofer William</td>
-<td>Codigo</td>
+<td>U202315968</td>
 </tr> 
 <tr>
 <td>Gordillo Ramos, Santiago Alonso </td>
-<td>Codigo</td>
+<td>U202215160</td>
 </tr> 
 <tr>
 <td>Guzmán Cabrejos, Yaku Mateo </td>
-<td>Codigo</td>
+<td>U20231B173</td>
 </tr> 
 <tr>
 <td>Medina Merma, Ingrid Melani </td>
-<td>Codigo</td>
+<td>U202213185</td>
 </tr> 
 
 </table>
