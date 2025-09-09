@@ -70,23 +70,28 @@
    <tr>
    <td>
     <b>Entrevistador:</b> Christofer William Costa Morales <br>
-    <b>Entrevistado:</b> John Huaman Huaman <br>
+    <b>Entrevistado:</b> Jhon Huaman Huaman <br>
+    <b>Edad:</b> 3 años <br>
+    <b>Distrito:</b> San Sebastian - Cusco <br>
     <b>Inicio de la entrevista:</b>
-    <p> John Huaman 
+    <p> Entrevista Jhon Huaman 
     </p>
    </td>
    <td>
-    <b>Entrevistador:</b>  <br>
-    <b>Entrevistado:</b> <br>
+    <b>Entrevistador:</b> Jesus Ivan Castillo Vidal <br>
+    <b>Entrevistado:</b> Carlos Maque Huachaca <br>
+    <b>Edad:</b> 30 años <br>
+    <b>Distrito:</b> Santiago - Cusco <br>
     <b>Inicio de la entrevista:</b> 
-
-   </p>
+   </p>Entrevista Carlos Maque
    </td>
       <td>
-    <b>Entrevistador:Ingrid Melani Medina Merma</b>  <br>
-    <b>Entrevistado:Danny Riverra Ticona</b> <br>
-    <b>Inicio de la entrevista:Entrevista Danny Riverra</b> 
-     <p>
+    <b>Entrevistador:</b> Ingrid Melani Medina Merma <br>
+    <b>Entrevistado:</b> Danny Riverra Ticona<br>
+    <b>Edad:</b> 24 años <br>
+    <b>Distrito:</b> San Jeronimo - Cusco <br>
+    <b>Inicio de la entrevista:</b> 
+     <p> Entrevista Danny Riverra
      </p>
    </td>
    </tr>
