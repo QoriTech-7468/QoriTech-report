@@ -3,18 +3,18 @@
 
 <table border="1" style="border-collapse:collapse; width:100%; table-layout:fixed;">
   <tr>
-    <th style="width:15%;">Epic / Story/ID</th>
+    <th style="width:15%;">Epic /<br> Story/<br>ID</th>
     <th style="width:15%;">Título</th>
     <th style="width:35%;">Descripción</th>
     <th style="width:25%;">Criterios de Aceptación</th>
-    <th style="width:10%;">Relacionado con (Epic ID)</th>
+    <th style="width:10%;">Relacionado con<br>(Epic ID)</th>
   </tr>
   <!-- User Storie 01 -->
   <tr>
     <td>US01</td>
     <td>AAA...</td>
     <td>
-      <b></b> ...<br>
+      <b></b> ddd<br>
       <p> </p>
     </td>
     <td>
