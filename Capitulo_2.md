@@ -56,14 +56,14 @@
 <!--Colocar Screenshot y el enlace para el video -->
 <td align='center'>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EXnpE4mhsDFMmHRdgpIgWdkBw5qgJK4qoQR-ptPTdy-Lbg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=23t4N5" target= 'blank'>
-<img src="" alt="Segunda entrevista del primer segmento">
+<img src="Resources/Entrevista_Transportista_2.png" alt="Segunda entrevista del primer segmento">
 </a>
 </td>
 
 <!--Colocar Screenshot y el enlace para el video -->
 <td align='center'>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EeUGT35ds8JEgUb9SddYv_MB7fjld1Jtl7ajbjpe9i-S3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ny0ro0" target= 'blank'>
-<img src="" alt="Tercera entrevista del primer segmento">
+<img src="Resources/Entrevista_Transportista_3.png" alt="Tercera entrevista del primer segmento">
 </a>
 </td>
 
