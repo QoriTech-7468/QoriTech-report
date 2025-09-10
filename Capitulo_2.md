@@ -197,7 +197,7 @@
 <!--Colocar Screenshot y el enlace para el video -->
 <td align='center'>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EeUGT35ds8JEgUb9SddYv_MB7fjld1Jtl7ajbjpe9i-S3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ny0ro0" target= 'blank'>
-<img src="Resources/Entrevista_Transportista_3.png" alt="Tercera entrevista del primer segmento">
+<img src="Resources/Entrevista_Transportista_3.png" alt="Tercera entrevista del primer segmento" width="200" height="200">
 </a>
 </td>
 
@@ -207,8 +207,9 @@
     <b>Entrevistado:</b> Jhon Huaman Huaman <br>
     <b>Edad:</b> 3 años <br>
     <b>Distrito:</b> San Sebastian - Cusco <br>
-    <b>Inicio de la entrevista:</b>
-    <p> Entrevista Jhon Huaman 
+    <b>Inicio de la entrevista:</b>  Entrevista Jhon Huaman <br>
+    <b> Resumen:</b>  <br>
+    <p>
     </p>
    </td>
    <td>
@@ -216,16 +217,19 @@
     <b>Entrevistado:</b> Carlos Maque Huachaca <br>
     <b>Edad:</b> 30 años <br>
     <b>Distrito:</b> Santiago - Cusco <br>
-    <b>Inicio de la entrevista:</b> 
-   </p>Entrevista Carlos Maque
+    <b>Inicio de la entrevista:</b> Entrevista Carlos Maque <br>
+    <b> Resumen:</b>  <br>
+  <p> </p>
    </td>
       <td>
     <b>Entrevistador:</b> Ingrid Melani Medina Merma <br>
     <b>Entrevistado:</b> Danny Riverra Ticona<br>
     <b>Edad:</b> 24 años <br>
     <b>Distrito:</b> San Jeronimo - Cusco <br>
-    <b>Inicio de la entrevista:</b> 
-     <p> Entrevista Danny Riverra
+    <b>Inicio de la entrevista:</b> Entrevista Danny Riverra <br>
+     <b>Resumen:</b> Danny Riverra, encargado y chofer en una empresa de transporte, utiliza el teléfono móvil y la aplicación "Beetrack" para gestionar entregas, junto con documentos de oficina. Usa Beetrack para localizar direcciones y referencias de clientes, necesitando solo la dirección exacta y calles cercanas. Registra las entregas con la firma del cliente y valida en Beetrack, aunque las fallas de internet complican el proceso. Los retrasos principales son por tráfico, demoras en alistar mercadería y clientes sin pedidos, lo que requiere contactar al vendedor y reportar en WhatsApp. Los incidentes más comunes son locales cerrados o clientes sin dinero, también notificados por WhatsApp. El entrevistado muestra una actitud práctica y confianza en herramientas digitales, pero se frustra por factores externos como el tráfico, la falta de preparación de clientes y la dependencia de internet.
+ <br>
+      <p> 
      </p>
    </td>
    </tr>
