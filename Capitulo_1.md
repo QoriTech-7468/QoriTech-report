@@ -31,28 +31,27 @@ Frente a esta situación, nuestra aplicación se presenta como una alternativa i
 </td>
 
 <td>
--Sistema de monitoreo en tiempo real: para estos se utilizaria dipositivo (sensores y GPS) con IoT (internet de las cosas) para poder poder mantener un control de los productos transportados y calcular la ruta más optima de transporte, ante cualquier inconveniente que pueda ocurrir (clima, accidentes, etc). <br>
+- Sistema de monitoreo en tiempo real: El sistema utilizaría dipositivos (sensores y GPS) con IoT (internet de las cosas) para poder poder mantener un control de los productos transportados, vehiculos y calcular la ruta más optima de transporte, ante cualquier inconveniente que pueda ocurrir (clima, accidentes, etc). <br>
 <br>
--Sistema de monitoreo <br>
+- Sistema de registro y validaciones de pedidos automatizada: El sistema se utilizaría para optimizar el proceso de registro y mantener un mejor control de los pedidos, para evitar los pedidos duplicados y los inconvenientes de viajes con direcciones desactualizadas. <br>
 <br>
--Sistema de monitoreo <br>
+- Sistema de alertas y notificaciones: El sistema se utilizaría para mantener un monitoreo constante para verificar los registros, ingreso y salida de vehiculos, conductores y productos. Adicionalmente, se monitorea durante el recorrido y la entrega de los productos al cliente final.  <br>
 <br>
--Sistema de monitoreo <br>
-</td>
+
 
 <td>
 <br>
--Aumentar la cantidad de usuarios diarios. de ambos segmentos objetivos, en un 25% en los 2 primeros meses<br>
+-Aumentar la cantidad de usuarios diarios. de ambos segmentos objetivos, en un 25% en los 2 primeros meses.<br>
 <br>
--Reducir en un 40% los errores en las entregas y de viajes repetidos en los primeros 6 meses <br>
+-Reducir en un 40% los errores en las entregas y de viajes repetidos en los primeros 6 meses. <br>
 <br>
--Optimización de las rutas y reducción los tiempos de entrega en un 30%<br>
+-Optimización de las rutas y reducción los tiempos de entrega en un 30%.<br>
 <br>
--Obtener una base de camiones operativos en la plataforma de 300 unidades en el primer año (2025)<br>
+-Obtener una base de camiones operativos en la plataforma de 300 unidades en el primer año (2025).<br>
 <br>
--Consolidar el 90% de pedidos duplicados de manera automatica <br>
+-Consolidar el 90% de pedidos duplicados de manera automatica. <br>
 <br>
--Mantener el 70% de nuestros usuarios al finalizar el segundo año de uso  <br>
+-Mantener el 70% de nuestros usuarios al finalizar el segundo año de uso.  <br>
 </td>
 
 </tr>
@@ -68,8 +67,9 @@ Frente a esta situación, nuestra aplicación se presenta como una alternativa i
 <tr>
 
 <td>
--Transportistas: Transportistas de materiales o de insumos desde provincia a Lima, con edades de entre 20 a 50 años <br>
--Administradores: Administradores micro y pequeñas empresas, con edades de 25 a 60 años, que
+-Transportistas: Transportistas de materiales o de insumos desde provincia a Lima, con edades de entre 20 a 50 años, que buscan mejorar sus tiempo de ruta y evitar viajes innecesarios <br>
+<br>
+-Administradores: Administradores micro y pequeñas empresas, con edades de 25 a 55 años, que buscan mantener un control, monitoreo y mejor toma de decisiones con datos actualizados, en tiempo real.
 </td>
 
 <td>
@@ -104,13 +104,13 @@ Frente a esta situación, nuestra aplicación se presenta como una alternativa i
 <tr>
 
 <td>
-hipotesis 1 <br>
+- Creemos que al implementar un módulo de optimización de rutas con geolocalización en tiempo real, reduciremos el tiempo promedio de entrega en 1 hora por reparto. <br>
 <br>
-hipotesis 2 <br>
+- Creemos que al integrar alertas de desvíos no autorizados y paradas inusuales, reduciremos en un 30 % las incidencias de robo o pérdida de mercadería. <br>
 <br>
-hipotesis 3 <br>
+- Creemos que al ofrecer un panel de control en tiempo real para monitorear la ubicación y actividad de cada conductor, aumentaremos la puntualidad de entregas en un 25 %. <br>
 <br>
-hipotesis 4 <br>
+- Creemos que al permitir registrar y consultar un listado digital de productos por camión, reduciremos los errores de carga y entrega en un 30 % y mejoraremos la trazabilidad de la distribución. <br>
 
 
 </td>
