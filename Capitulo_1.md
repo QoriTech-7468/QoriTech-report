@@ -41,17 +41,17 @@ Frente a esta situación, nuestra aplicación se presenta como una alternativa i
 
 <td>
 <br>
--Aumentar la cantidad de usuarios diarios. de ambos segmentos objetivos, en un 25% en los 2 primeros meses.<br>
+- Aumentar la cantidad de usuarios diarios. de ambos segmentos objetivos, en un 25% en los 2 primeros meses.<br>
 <br>
--Reducir en un 40% los errores en las entregas y de viajes repetidos en los primeros 6 meses. <br>
+- Reducir en un 40% los errores en las entregas y de viajes repetidos en los primeros 6 meses. <br>
 <br>
--Optimización de las rutas y reducción los tiempos de entrega en un 30%.<br>
+- Optimización de las rutas y reducción los tiempos de entrega en un 30%.<br>
 <br>
--Obtener una base de camiones operativos en la plataforma de 300 unidades en el primer año (2025).<br>
+- Obtener una base de camiones operativos en la plataforma de 300 unidades en el primer año (2025).<br>
 <br>
--Consolidar el 90% de pedidos duplicados de manera automatica. <br>
+- Consolidar el 90% de pedidos duplicados de manera automatica. <br>
 <br>
--Mantener el 70% de nuestros usuarios al finalizar el segundo año de uso.  <br>
+- Mantener el 70% de nuestros usuarios al finalizar el segundo año de uso.  <br>
 </td>
 
 </tr>
@@ -67,24 +67,24 @@ Frente a esta situación, nuestra aplicación se presenta como una alternativa i
 <tr>
 
 <td>
--Transportistas: Transportistas de materiales o de insumos desde provincia a Lima, con edades de entre 20 a 50 años, que buscan mejorar sus tiempo de ruta y evitar viajes innecesarios <br>
+- Transportistas: Transportistas de materiales o de insumos desde provincia a Lima, con edades de entre 20 a 50 años, que buscan mejorar sus tiempo de ruta y evitar viajes innecesarios <br>
 <br>
--Administradores: Administradores micro y pequeñas empresas, con edades de 25 a 55 años, que buscan mantener un control, monitoreo y mejor toma de decisiones con datos actualizados, en tiempo real.
+- Administradores: Administradores micro y pequeñas empresas, con edades de 25 a 55 años, que buscan mantener un control, monitoreo y mejor toma de decisiones con datos actualizados, en tiempo real.
 </td>
 
 <td>
 </td>
 
 <td>
--Obtener una ruta más eficiente y menos viajes inecesarios<br>
+- Obtener una ruta más eficiente y menos viajes inecesarios<br>
 <br>
--Menor tiempo en las entregas y reducción de costos operativos <br>
+- Menor tiempo en las entregas y reducción de costos operativos <br>
 <br>
--Consolidar los pedidos duplicados, para reducir errores y mantener la productividad al máximo <br>
+- Consolidar los pedidos duplicados, para reducir errores y mantener la productividad al máximo <br>
 <br>
--Satisfacción a los clientes finales al recibir los pedidos de manera rápida y de forma ordenada <br>
+- Satisfacción a los clientes finales al recibir los pedidos de manera rápida y de forma ordenada <br>
 <br>
--Mejor control y toma de decisiones gracias a los datos obtenidos en tiempo real <br>
+- Mejor control y toma de decisiones gracias a los datos obtenidos en tiempo real <br>
 
 
 </td>
@@ -116,22 +116,22 @@ Frente a esta situación, nuestra aplicación se presenta como una alternativa i
 </td>
 
 <td>
-Saber el proceso de  <br>
+- Si el sistema no puede realizar las validaciones necesarias para el registro de los pedidos, los transportistas no la utilizarían por miedo a la posibilidad de tener varios pedidos repetidos.<br>
 <br>
-Saber el proceso de <br>
+- Si la información que proporciona el sistema de monitoreo no esta actualizada, en tiempo real, los administradores no confiarán en su capacidad de optimizar el control de los pedidos. <br>
 <br>
-Saber el proceso de <br>
+- Si la interfaz y la navegación de la plataforma resulta muy complicada de utilizar, nuestros posibles usuarios no lo adoptarían en sus empresas y dejarían de utilizarla.<br>
 
 
 </td>
 
 <td>
-Entrevistas: Realizar entrevistas a nuestros posibles usuarios para que estos nos puedan contar sus experiencias. Con lo anterior, podriamos comprender sus necesidades, perspectiva y visión sobre el sistema de transportes y la administración<br>
+- Entrevistas: Realizar entrevistas a nuestros posibles usuarios para que estos nos puedan contar sus experiencias. Con lo anterior, podriamos comprender sus necesidades, perspectiva y visión sobre el sistema de transportes y la administración.<br>
 <br>
-Prototipos: Crear una versión preliminar y funcional de nuestra plataforma. Además, con este prototipo se realizarían pruebas y se recolectaría información para poder mejorar y corregir errores del mismo <br>
+- Prototipos: Crear una versión preliminar y funcional de nuestra plataforma. Además, con este prototipo se realizarían pruebas y se recolectaría información para poder mejorar y corregir errores del mismo.<br>
 
 <br>
-Pruebas: Estas se realizarian con los prototipos creados y serian a un grupo pequeño y seleccionado de nuestros usuarios que se ofrecieron a <br>
+- Pruebas: Estas se realizarian con los prototipos creados y serian a un grupo pequeño y seleccionado de nuestros usuarios que se ofrecieron a implementarlo en sus empresas. <br>
 
 </td>
 
