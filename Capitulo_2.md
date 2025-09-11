@@ -247,8 +247,8 @@
 
 <tr>
 <td align='center'>
-<a href="" target= 'blank'>
-<img src="" alt="Primera entrevista del segundo segmento">
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EVTQKC-v_1lEhE1mJT9JnmsB9xNmx4hF5Exa5TUm8AYjtg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=7hPrXO" target= 'blank'>
+<img src="Resources/Entrevista_Administrador_1.png" alt="Primera entrevista del segundo segmento" width="200" height="200">
 </a>
 </td>
 
@@ -268,11 +268,13 @@
 
    <tr>
    <td>
-    <b>Entrevistador:</b>  <br>
-    <b>Entrevistado:</b> <br>
-    <b>Inicio de la entrevista:</b> 
-    <p>  
-    </p>
+    <b>Entrevistador:</b> Santiago Alonso Gordillo Ramos <br>
+    <b>Entrevistado:</b> Miguel Fernandez <br>
+    <b>Edad:</b> 27 años <br>
+    <b>Distrito:</b> Cusco <br>
+    <b>Inicio de la entrevista:</b>  0:55 <br>
+    <b> Resumen:</b>  <br>
+    <p>
    </td>
    <td>
     <b>Entrevistador:</b>  <br>
