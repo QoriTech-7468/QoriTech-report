@@ -204,11 +204,11 @@
    <tr>
    <td>
     <b>Entrevistador:</b> Christofer William Costa Morales <br>
-    <b>Entrevistado:</b> Jhon Huaman Huaman <br>
-    <b>Edad:</b> 3 años <br>
+    <b>Entrevistado:</b> Jhon Willy Huaman Huaman <br>
+    <b>Edad:</b> 34 años <br>
     <b>Distrito:</b> San Sebastian - Cusco <br>
     <b>Inicio de la entrevista:</b>  Entrevista Jhon Huaman <br>
-    <b> Resumen:</b>  <br>
+    <b> Resumen: </b>John Willy es un chofer y encargado de una empresa de transporte, que esta encargado de hacer las rutas y la liquidación de los pedidos de transporte. Este utiliza la dirección en las boletas que emite para calcular su ruta, además, con la información que el cliente le proporcione sobre la ruta (accidentes, desfiles, etc). Sin embargo, todos estos procesos pueden conllevan a muchos inconvenientes, cómo la confirmación de la ruta y de la dirección final, la recepción por parte del cliente, la zona en donde se despacha el pedido, la actitud de los clientes y el tiempo de espera. Adicionalmente, nos comento no usar su aplicativo laboral, ya que, gracias a su experiencia puede manejar mejor algún problema y lo considera algo innecesario y tedioso de utilizar al poseer características muy intrusivas para su flujo laboral<br>
     <p>
     </p>
    </td>
@@ -218,7 +218,7 @@
     <b>Edad:</b> 30 años <br>
     <b>Distrito:</b> Santiago - Cusco <br>
     <b>Inicio de la entrevista:</b> Entrevista Carlos Maque <br>
-    <b> Resumen:</b>  <br>
+    <b> Resumen:</b> Carlos Maque es un conductor y encargado, su rol es de transportista de producto de la marca Gloria. Este utiliza una aplicación llamada el "Beetrack", la cual le otorga la geolocalización del cliente en un mapa, previamente proporcionado por la empresa. Además, la aplicación le proporciona un número de contacto de los clientes, en caso se pierda o la dirección sea incorrecta, y le otorga opciones para confirmar, rechazar o justificar la entrega o devolución de los pedidos. Por otro lado, se guia con las boletas para obtener la información necesaria del pedido. Adicionalmente, los retrasos en los pedidos más importantes, según el entrevistado, son: las tiendas cerradas, clientes sin dinero y mala geoposición. Por lo anterior, el reporta los inconvenientes por el WhatsApp y el Beetrack. Sin embargo, este ultimo no funciona correctamente en las zonas con poca señal, por ello, se puede retrasar las confirmaciones de la entrega del pedidos y necesitan dirigirse a una zona con mejor señal para que cargue las confirmaciones.<br>
   <p> </p>
    </td>
       <td>
@@ -254,15 +254,15 @@
 
 <!--Colocar Screenshot y el enlace para el video -->
 <td align='center'>
-<a href="" target= 'blank'>
-<img src="" alt="Segunda entrevista del segundo segmento">
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EZLL3X652L5KoLk1RWZn0zoBWGmWOQ80ZYl12yLueoednQ?e=vXoTwInav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target= 'blank'>
+<img src="Resources/Entrevista_Administrador_2.png" alt="Segunda entrevista del segundo segmento">
 </a>
 </td>
 
 <!--Colocar Screenshot y el enlace para el video -->
 <td align='center'>
-<a href="" target= 'blank'>
-<img src="" alt="Tercera entrevista del segundo segmento">
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EcOPh-bhFsNCjQaceAJEYO8BwE3BUIW-e4wFdvoBHN-O2w?e=NPvjhC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target= 'blank'>
+<img src="Resources/Entrevista_Administrador_3.png" alt="Tercera entrevista del segundo segmento">
 </a>
 </td>
 
@@ -277,16 +277,16 @@
     <p>
    </td>
    <td>
-    <b>Entrevistador:</b>  <br>
-    <b>Entrevistado:</b> <br>
+    <b>Entrevistador: </b> Jesus Ivan Castillo Vidal <br>
+    <b>Entrevistado:</b>Eliana Paullo <br>
     <b>Inicio de la entrevista:</b> 
    <p>
 
    </p>
    </td>
       <td>
-    <b>Entrevistador:</b>  <br>
-    <b>Entrevistado:</b> <br>
+    <b>Entrevistador:</b> Yaku Mateo Guzmán Cabrejos  <br>
+    <b>Entrevistado: </b>Adriana Merma <br>
     <b>Inicio de la entrevista:</b> 
      <p>
      </p>
@@ -297,6 +297,46 @@
 
 
 ### 2.2.3. Análisis de entrevistas.
+
+#### Segmento 1: Transportistas
+
+##### Caracteristicas
+
+<table>
+
+<tr>
+
+<th>Características</th>
+<th>Mención</th>
+<th>Porcentaje</th>
+<th>Evidencia</th>
+
+</tr>
+
+</table>
+
+##### Insights
+
+
+#### Segmento 2: Administradores
+
+##### Caracteristicas
+
+<table>
+
+<tr>
+
+<th>Características</th>
+<th>Mención</th>
+<th>Porcentaje</th>
+<th>Evidencia</th>
+
+</tr>
+
+</table>
+
+##### Insights
+
 ### 2.3. Needfinding.
 ### 2.3.1. User Personas.
 ### 2.3.2. User Task Matrix.
