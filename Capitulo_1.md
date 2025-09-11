@@ -40,6 +40,7 @@ Los problemas ocurren principalmente en las rutas de transporte, en los puntos d
 Los involucrados principales son el personal de Administración, responsable de la planificación de rutas, registro de cargas y monitoreo general, y los Transportistas como choferes y auxiliares, quienes ejecutan las entregas, reportan incidencias y manejan herramientas digitales en el terreno. Además, afectan indirectamente a clientes/dueños de la carga por la falta de trazabilidad.
 
 **Why (Porqué)**
+
 ¿Por qué se implementa este sistema?
 
 Se implementa este sistema para optimizar la planificación, mejorar la trazabilidad de los envíos, reducir riesgos de pérdida y aumentar la eficiencia y confianza en el servicio.Esto agrega valor a las empresas al ofrecer alertas inmediatas y datos confiables, beneficiando a Administración en la planificación y a Transportistas en la resolución de problemas en ruta, fomentando mayor transparencia y competitividad.
@@ -48,11 +49,13 @@ Se implementa este sistema para optimizar la planificación, mejorar la trazabil
 **2H**
 
 How (Cómo)
+
 ¿Cómo se puede dar solución al problema identificado?
 
 La solución se puede lograr mediante la implementación de una plataforma digital con módulos específicos: Control de Ingreso para validar documentos digitalmente, Rutas para asignar y monitorear trayectos en tiempo real, Despacho para registrar cargas y confirmaciones, e integración IoT para sensores que envíen alertas sobre condiciones de la carga y desviaciones. Para Administración, esto optimiza la planificación y reduce confusiones; para Transportistas, facilita la localización con GPS y reportes automáticos, minimizando la dependencia de WhatsApp o conexiones inestables.
 
 **How much(Cuánto)**
+
 
 ¿Cuánto afecta este problema? 
 
