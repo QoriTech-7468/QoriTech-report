@@ -345,6 +345,15 @@ El **transportista**, concentra sus esfuerzos en la ejecución operativa de las 
 Ambos perfiles coinciden en la importancia de **gestionar incidencias** y **mantener una comunicación fluida**, ya que cualquier error o retraso impacta tanto en la operación del administrador como en la del transportista. 
 
 ### 2.3.3. User Journey Mapping.
+
+**Luis Gutierrez**
+
+<img src="Resources/UJM-Transportista.png" alt="User Journey Mapping de Transportistas">
+
+**Jorge Caceres**
+
+<img src="Resources/UJM-Administración.png" alt="User Journey Mapping de Transportistas">
+
 ### 2.3.4. Empathy Mapping.
 ### 2.4. Big Picture EventStorming.
 ### 2.5. Ubiquitous Language.
