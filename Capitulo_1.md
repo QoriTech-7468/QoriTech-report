@@ -2,6 +2,22 @@
 
 ### 1.1. Startup Profile
 
+**Qoritech** nace con el propósito de digitalizar y optimizar la gestión del transporte de carga en el Perú, ofreciendo una solución integral para empresas que buscan modernizar sus procesos logísticos. En un sector donde predominan los registros manuales, la falta de trazabilidad y los altos riesgos por pérdidas o retrasos, nuestra propuesta tecnológica se centra en proporcionar orden, visibilidad en tiempo real y eficiencia operativa.
+
+Nuestra plataforma, bajo el modelo SaaS, permite a las empresas gestionar centralizadamente el ingreso de vehículos, la planificación de rutas, el monitoreo de viajes y el despacho de cargas, integrando toda la operación en un solo ecosistema digital. Desde un panel web intuitivo, los administradores pueden supervisar camiones en ruta, controlar la carga de cada vehículo y generar reportes automáticos, mientras que los transportistas acceden a rutas optimizadas, listados digitales de productos y alertas de incidencias, facilitando su labor y mejorando la puntualidad en las entregas.
+
+Qoritech se enfoca en apoyar a pequeñas y medianas empresas de transporte, centros de acopio y clientes corporativos, brindando herramientas accesibles y escalables que fortalecen la productividad, la seguridad y la trazabilidad de la cadena de suministro. Además, proyectamos la integración con tecnologías IoT como GPS en camiones y sensores de carga, consolidando un sistema de monitoreo avanzado que garantice mayor control y confianza en las operaciones.
+
+Creemos firmemente que la digitalización del transporte de carga es un pilar esencial para la competitividad y sostenibilidad del sector logístico en el Perú, contribuyendo a reducir pérdidas, optimizar tiempos y mejorar la experiencia tanto de transportistas como de administradores.
+
+**Misión y Visión**
+
+**Misión**
+Nuestra misión es revolucionar la gestión del transporte de carga en el Perú mediante una plataforma SaaS que optimice la planificación de rutas, el monitoreo de viajes y la trazabilidad de productos. Buscamos reducir pérdidas operativas, incrementar la seguridad y mejorar la eficiencia de las empresas de transporte, ofreciendo una solución accesible, intuitiva y adaptable a sus necesidades.
+
+**Visión**
+Visualizamos un futuro en el que todas las empresas de transporte, sin importar su tamaño, cuenten con herramientas digitales de última generación que les permitan operar con precisión, transparencia y sostenibilidad. Aspiramos a convertirnos en líderes en la transformación digital del transporte de carga en Latinoamérica, impulsando la innovación tecnológica y fortaleciendo la confianza en la cadena de suministro.
+
 ### 1.1.1. Descripción de la Startup
 
 ### 1.1.2. Perfiles de integrantes del equipo
