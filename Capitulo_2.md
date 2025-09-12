@@ -269,11 +269,11 @@
    <tr>
    <td>
     <b>Entrevistador:</b> Santiago Alonso Gordillo Ramos <br>
-    <b>Entrevistado:</b> Miguel Fernandez <br>
+    <b>Entrevistado:</b> Miguel Alcelmo Fernandez <br>
     <b>Edad:</b> 27 años <br>
     <b>Distrito:</b> Cusco <br>
     <b>Inicio de la entrevista:</b>  0:55 <br>
-    <b> Resumen:</b>  <br>
+    <b> Resumen:</b> es un radiotransportista en la empresa de RM emprendimientos <br>
     <p>
    </td>
    <td>
@@ -283,7 +283,7 @@
     <b>Edad:</b> 49 años <br>
     <b>Distrito:</b> Lima <br>
     <b>Inicio de la entrevista:</b>  0:17 <br>
-    <b> Resumen:</b>  <br>
+    <b> Resumen:</b> Eliana Paullo es una administradora de la empresa MR emprendimientos, esta encargada de la planificación de los camiones, el monitoreo de personal y transportes, evaluar y ayudar al personal. Después, nos menciona que todo el personal de la empresa, por camión, usa el aplicativo "Beetrack", el cual le ayuda a monitorear el porcentaje de avance que posee cada camión y los clientes y productos asignados a cada camión. Además, utilizan GPS para mantener un control de las rutas de los camiones y del uso de sensores, ya que los productos deben mantenerse refrigerados y este le alerta si esta o no activado el refrigerante. Los principales incidentes que sufrieron son: Confunción en el cargamento del camión, a causa de la forma en cómo estan divididos los camiones, y el daño de los productos y la compensación económica por los mismos. Luego, nos comenta cómo realizan la planificación de las rutas y cómo lidian con problemas que pueden ocurrir el mismo dia de entrega. Esto lo realizan de manera manual, con llamadas y mensajes a los clientes para informarle de los retrasos. Adicionalmente, nos comenta que se utiliza bastante Whatsapp para la coordinación de pedidos para los diferentes conductores. Finalmente, nos comento su sugerencia para mejorar las herramientas que usan, este seria la Opción para identificar a clientes complicados y deribarlos a un plan de pago adelantado para evitar problemas al momento de realizar las entregas. <br>
    <p>
 
    </p>
