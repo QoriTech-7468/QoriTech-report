@@ -20,6 +20,69 @@ Visualizamos un futuro en el que todas las empresas de transporte, sin importar 
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+**Jesús Iván Castillo Vidal (U202322952)**
+
+<div style="display: flex; align-items: center;">
+  <img src="Resources/Jesus.jpg" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px; border-radius: 10%;">
+  <div style="flex: 1;">
+  <p> Soy estudiante de Ingeniería de Software y un apasionado por la creación de productos digitales que simplifiquen procesos y ayuden a las personas a ahorrar tiempo para enfocarse en lo que realmente importa. Me motiva transformar problemas en soluciones prácticas, eficientes y con impacto real. Creativo por naturaleza, encuentro en la programación y la música una forma de expresión. Disfruto liderar equipos, escuchar activamente y potenciar las habilidades de los demás a través de la enseñanza, ayudándolos a alcanzar su mejor versión. Me encanta el ecosistema de TypeScript y JavaScript, y busco constantemente nuevas oportunidades para aplicar estas tecnologías en la construcción de productos innovadores. 
+   </p>
+   </div> 
+</div>
+
+<br>
+
+**Santiago Gordillo Ramos (U202215160)**
+
+<div style="display: flex; align-items: center;">
+  <img src="Resources/Santiago.jpg" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px; border-radius: 10%;">
+  <div style="flex: 1;">
+  <p>me encuentro estudiando ingeniería de software, cuento con conocimiento de frontend, me interesa javascript, cuento con base sólida con html y css, trabajo bien en equipo, trato de organizarme de manera eficaz para poder terminar el trabajo correctamente. A futuro busco especializarme en ciberseguridad ya que es una rubro que me interesa mucho.
+  </div>
+</div>
+
+<br>
+
+**Yaku Mateo Guzmán Cabrejos (u20231b173)**
+
+<div style="display: flex; align-items: center;">
+  <img src="Resources/Yaku.jpg" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px; border-radius: 10%;">
+  <div style="flex: 1;">
+<p> 
+  Soy estudiante de Ingeniería de Software, motivado por el desarrollo de aplicaciones y por entender cómo funcionan las tecnologías detrás de ellas. 
+  Tengo experiencia en frontend y backend, con conocimientos en Spring Boot, TypeScript y Angular, así como en la construcción de APIs RESTful. 
+  Además, poseo bases sólidas en estructuras de datos, patrones de diseño y arquitectura de software, lo que me permite crear soluciones útiles, eficientes, seguras y escalables.  
+  A futuro, me gustaría especializarme en informática forense y ciberseguridad. Me interesa aprender nuevas herramientas y metodologías que mejoren el desarrollo y la calidad del software.  
+  Me considero analítico, con buenas prácticas en trabajo en equipo y organización usando Git.
+</p>
+   </div> 
+</div>
+
+<br>
+
+**Ingrid Melani Medina Merma (U202213185)**
+
+<div style="display: flex; align-items: center;">
+  <img src="Resources/Ingrid.jpg" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px; border-radius: 10%;">
+  <div style="flex: 1;">
+  <p> 
+  Soy estudiante de la carrera de Ingeniería de Software. Poseo conocimiento en programas de edición y lenguajes como el c++, un poco de python y typescript, tengo una buena adaptabilidad y un gusto por aprender y ayudar en lo que pueda
+  </p>
+  </div> 
+</div>
+
+<br>
+
+**Christofer William Costa Morales (U202315968)**
+
+<div style="display: flex; align-items: center;">
+  <img src="Resources/Christofer.jpg" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px; border-radius: 10%;">
+  <div style="flex: 1;">
+  <p>Soy estudiante de la carrera de Ingeniería de Software. Cuento con conocimientos en programación C++, edición de videos en canvas, experiencia con los formatos Start up y conocimiento con los programas de Office, como Excel. </p>
+  </div>
+</div>
+
+<br>
 ### 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
