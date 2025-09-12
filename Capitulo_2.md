@@ -315,14 +315,14 @@ El User Persona Luis Gutiérrez representa a los transportistas que realizan las
 La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios realizan al utilizar la solución propuesta. Estas tareas, al clasificarse por su frecuencia e importancia, nos ayudan a priorizar qué funcionalidades de la aplicación deben ser desarrolladas con mayor énfasis para optimizar la experiencia.  
 
 Los segmentos considerados para este análisis son:  
-- **Administrador (Jorge Salazar)**  
+- **Administrador (Jorge Caceres)**  
 - **Transportista (Luis Gutiérrez)**  
 
 ---
 
 ### Task Matrix  
 
-| **Tarea** | **Jorge Salazar (Administrador)** |  | **Luis Gutiérrez (Transportista)** |  |
+| **Tarea** | **Jorge Caceres (Administrador)** |  | **Luis Gutiérrez (Transportista)** |  |
 |-----------|-----------------------------------|--|------------------------------------|--|
 | Supervisar y controlar inventario de productos | Often | High | Sometimes | Medium |
 | Coordinar pedidos y entregas | Always | High | Often | High |
