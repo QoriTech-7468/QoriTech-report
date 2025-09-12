@@ -1,5 +1,7 @@
 ## Capítulo II: Requirements Elicitation & Analysis
+
 ### 2.1. Competidores.
+
 ### 2.1.1. Análisis competitivo.
 
 <table style="width:100%; border-collapse:collapse; table-layout:fixed;" border="1" align="center">
@@ -12,11 +14,11 @@
 <!-- Objetivo -->
 <tr>
 <td rowspan="2" colspan="1" align="center"><b>¿Por qué llevar a cabo este análisis?</b></td>
-<td colspan="6" align="center">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+<td colspan="6" align="center">Identificar fortalezas, debilidades y estrategias de los principales competidores en logística de última milla (SimpliRoute, Beetrack, FarEye) para posicionar nuestra aplicación web.</td>
 </tr>
  <tr>
     <td colspan="6">
-       <b></b> ... <br> 
+       <b>Objetivo:</b> Determinar cómo diferenciar nuestro producto frente a competidores consolidados en LATAM y globales. <br> 
     </td>
   </tr>
 
@@ -26,14 +28,14 @@
 <th style="width:22%">Su Startup
 <img src="..." alt="Logo"width="100" height="100">
 </th>
-<th style="width:22%">Competidor 1
+<th style="width:22%">SimpliRoute
 <img src="..." alt="Logo1" width="100" height="100">
 </th>
-<th style="width:22%">Competidor 2
+<th style="width:22%">Beetrack
 <img src="..." alt="Logo2" width="100" height="100">
 </th>
    
-<th style="width:22%">Competidor 3
+<th style="width:22%">FarEye
 <img src="..." alt="Logo3" width="100" height="100">
 </th>
 </tr>
@@ -42,137 +44,142 @@
 <tr>
 <td rowspan="2" colspan="1" align="center" ><b>Perfil</b></td>
 <td style="word-wrap:break-word; white-space:normal;"><b>Overview</b></td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> aaaa </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> aaaa </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> aaaa </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> aaaa </td>
+   <td> Plataforma logística para el mercado peruano que integra IoT y GPS para monitoreo en tiempo real, optimización de rutas y control de productos en tránsito, adaptada a problemas locales como tráfico, bloqueos y cambios climáticos. </td>
+   <td> Plataforma chilena con fuerte presencia en LATAM; optimización de rutas y seguimiento en tiempo real. </td>
+   <td> Fundada en Chile, adquirida por DispatchTrack; fuerte en trazabilidad de última milla. </td>
+   <td> Empresa global india; ofrece orquestación de entregas, visibilidad y devoluciones. </td>
 </tr>
 <tr>
-<td  style="word-wrap:break-word; white-space:normal;"><b>Ventaja competitiva:<br>¿Qué valor ofrece a los clientes?</b></td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+<td><b>Ventaja competitiva:<br>¿Qué valor ofrece a los clientes?</b></td>
+   <td> Ofrece en una sola solución: seguimiento en vivo, validación automatizada de pedidos y alertas inteligentes. Está pensada para pymes peruanas, ayudándolas a reducir errores de entrega, evitar pérdidas y mejorar la puntualidad. </td>
+   <td> Reducción de costos logísticos hasta 30% con algoritmos de optimización. </td>
+   <td> Experiencia de usuario robusta y alta penetración en empresas medianas/grandes de LATAM. </td>
+   <td> Escalabilidad global y capacidad de integración con grandes retailers y 3PL. </td>
 </tr>
 
 <!-- PERFIL DE MARKETING -->
 <tr>
 <td rowspan="2" colspan="1" align="center"><b>Perfil de Marketing</b></td>
-<td style="word-wrap:break-word; white-space:normal;"><b>Mercado objetivo</b></td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+<td><b>Mercado objetivo</b></td>
+   <td> Pequeñas y medianas empresas de transporte y distribución en Perú, con foco inicial en Lima y ciudades con alta informalidad logística como las empresas de provincia también.</td>
+   <td> Pymes y grandes empresas de distribución en LATAM. </td>
+   <td> Retail, consumo masivo y distribución en varios países de LATAM. </td>
+   <td> Retailers, e-commerce y logística global (Asia, Europa, LATAM). </td>
 </tr>
 <tr>
-<td  style="word-wrap:break-word; white-space:normal;"><b>Estrategias de marketing</b></td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+<td><b>Estrategias de marketing</b></td>
+   <td> Evidenciar beneficios cuantitativos (menos errores, más puntualidad) mediante pilotos locales, campañas digitales y casos de éxito adaptados a la realidad peruana.</td>
+   <td> Casos de éxito locales, métricas de reducción de costos y demos personalizadas. </td>
+   <td> Branding fuerte en trazabilidad y seguridad de entregas; foco en confiabilidad. </td>
+   <td> Posicionamiento como solución integral global; alianzas con grandes corporativos. </td>
 </tr>
 
 <!-- PERFIL DE PRODUCTO -->
 <tr>
 <td rowspan="3" colspan="1" align="center"><b>Perfil de Producto</b></td>
-<td style="word-wrap:break-word; white-space:normal;"><b>Productos & Servicios</b></td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+<td><b>Productos & Servicios</b></td>
+   <td> Incluye monitoreo IoT en tiempo real, registro automático de pedidos, panel de control para administradores y alertas de desvíos o incidencias.</td>
+   <td> Optimización de rutas, seguimiento en vivo, gestión de flota y analítica. </td>
+   <td> PlannerPro (rutas), LastMile (seguimiento), notificaciones y prueba de entrega. </td>
+   <td> Gestión integral de entregas, devoluciones, visibilidad en tiempo real. </td>
 </tr>
 <tr>
-<td " style="word-wrap:break-word; white-space:normal;"><b>Precios & Costos</b></td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+<td><b>Precios & Costos</b></td>
+   <td> Suscripción mensual escalonada: plan básico para pymes, plan estándar para medianas flotas y plan corporativo para grandes empresas. Adaptado al mercado peruano, permite empezar con bajo costo y escalar según crecimiento.</td>
+   <td> Modelo SaaS flexible según volumen de entregas. </td>
+   <td> Suscripción mensual adaptada al tamaño de la operación. </td>
+   <td> Tarifas empresariales escalables para operaciones globales. </td>
 </tr>
 <tr>
-<td  style="word-wrap:break-word; white-space:normal;"><b>Canales de distribución<br>(Web y/o Móvil)</b></td>
-   
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+<td><b>Canales de distribución<br>(Web y/o Móvil)</b></td>
+   <td> El sistema será accesible a través de plataforma web para administradores y conductores, garantizando sincronización en tiempo real entre ambos segmentos. </td>
+   <td> Web y app móvil para conductores y administradores. </td>
+   <td> Web, app móvil y APIs de integración. </td>
+   <td> Plataforma web, apps móviles, integraciones con ERP/CRM. </td>
 </tr>
 
 <!-- ANÁLISIS SWOT -->
 <tr>
-<td rowspan="4" colspan="1" align="center"><b>Análisis SWOT</b></td>
-<td  style="word-wrap:break-word; white-space:normal;"><b>Fortalezas</b></td>
-   
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+   <td rowspan="4" colspan="1" align="center"><b>Análisis SWOT</b></td>
+   <td><b>Fortalezas</b></td>
+   <td> Integración de IoT y validaciones automatizadas que ofrecen una trazabilidad superior a competidores regionales. </td>
+   <td> Alta adopción en LATAM; soporte local. </td>
+   <td> Reconocimiento de marca y respaldo de DispatchTrack. </td>
+   <td> Cobertura global, escalabilidad y capacidad de integración. </td>
 </tr>
 <tr>
-<td  style="word-wrap:break-word; white-space:normal;"><b>Debilidades</b></td>
-   
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+<td><b>Debilidades</b></td>
+   <td> Al ser una solución nueva, carece todavía de base de clientes consolidados y casos de éxito reales. </td>
+   <td> Menos reconocimiento fuera de LATAM. </td>
+   <td> Dependencia de adaptación tras adquisición. </td>
+   <td> Puede resultar costosa y compleja para pymes locales. </td>
 </tr>
 <tr>
-<td  style="word-wrap:break-word; white-space:normal;"><b>Oportunidades</b></td>
-   
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+<td><b>Oportunidades</b></td>
+   <td> Aprovechar el crecimiento acelerado del e-commerce y la digitalización logística en LATAM para posicionarse como alternativa innovadora. </td>
+   <td> Crecimiento del e-commerce en LATAM. </td>
+   <td> Sinergias con la expansión global de DispatchTrack. </td>
+   <td> Expansión en mercados emergentes con alto crecimiento digital. </td>
 </tr>
 <tr>
-<td  style="word-wrap:break-word; white-space:normal;"><b>Amenazas</b></td>
-   
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
-   <td  style="word-wrap:break-word; white-space:normal;"><b></b> bbbb </td>
+<td><b>Amenazas</b></td>
+   <td> Competidores consolidados como Beetrack y SimpliRoute ya cuentan con reconocimiento de marca y clientes en el mercado. </td>
+   <td> Aparición de nuevos SaaS locales más económicos. </td>
+   <td> Competencia fuerte de soluciones globales más completas. </td>
+   <td> Regulaciones locales y adaptación cultural en LATAM. </td>
 </tr>
 
 </table>
 
-
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
+Nuestra estrategia frente a competidores como SimpliRoute, Beetrack y FarEye será iniciar con pymes de transporte y distribución en el mercado peruano, ofreciendo una solución accesible y adaptable. A diferencia de los competidores consolidados, priorizaremos la simplicidad de uso, el soporte local y la personalización de funciones según la realidad de cada empresa.
+
+Como táctica, implementaremos un modelo SaaS escalonado que permita a las pequeñas empresas comenzar con un costo bajo y ampliar funcionalidades conforme crezcan sus operaciones. Asimismo, reforzaremos la confianza del mercado mediante pilotos gratuitos, casos de éxito locales y un soporte técnico cercano.
+
+Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, validación automática de pedidos y alertas inteligentes en una sola plataforma ligera, lo que permitirá reducir costos, mejorar la puntualidad y aumentar la seguridad de las entregas en el contexto peruano.
+
 ### 2.2. Entrevistas.
+
 ### 2.2.1. Diseño de entrevistas.
+
 **Preguntas Generales**
 
 **Objetivo:** obtener información personal y de contexto laboral del entrevistado.  
 **Presentación con:** Nombres, apellidos, edad.
 
-   - **Principal:** ¿Cuál es tu rol dentro de la empresa de transporte?
-   - **Principal:** ¿Qué responsabilidades tienes en tu área?
-   - **Complementaria:** ¿Qué herramientas digitales/apps usas ahora para tu trabajo y qué te frustra de ellas?
-  
+- **Principal:** ¿Cuál es tu rol dentro de la empresa de transporte?
+- **Principal:** ¿Qué responsabilidades tienes en tu área?
+- **Complementaria:** ¿Qué herramientas digitales/apps usas ahora para tu trabajo y qué te frustra de ellas?
+
 **Primer Segmento Objetivo: Transportistas**
 
 **Objetivo:** identificar cómo reciben, procesan y ejecutan la información de entregas, así como dificultades comunes en ruta.
 
-   - **Principal:** Actualmente, ¿cómo te pasan las ubicaciones de entrega (canal, formato y con cuánta anticipación) y quiénes son los que deciden?
-   - **Principal:** Si no conoces el lugar, ¿qué haces para encontrar el punto de entrega?
-   - **Principal:** ¿Qué información mínima necesitas por entrega?
-   - **Principal:** ¿Cómo confirmas una entrega realizada (firma, foto) y qué te complica de ese proceso?
-   - **Principal:** ¿Qué factores te retrasan con mayor frecuencia (tráfico, direcciones erróneas, esperas, documentación) y cómo los resuelves hoy?
-   - **Complementaria:** ¿Cómo reportas incidencias durante el reparto y qué tipos de incidencias son las más comunes?
-  
+- **Principal:** Actualmente, ¿cómo te pasan las ubicaciones de entrega (canal, formato y con cuánta anticipación) y quiénes son los que deciden?
+- **Principal:** Si no conoces el lugar, ¿qué haces para encontrar el punto de entrega?
+- **Principal:** ¿Qué información mínima necesitas por entrega?
+- **Principal:** ¿Cómo confirmas una entrega realizada (firma, foto) y qué te complica de ese proceso?
+- **Principal:** ¿Qué factores te retrasan con mayor frecuencia (tráfico, direcciones erróneas, esperas, documentación) y cómo los resuelves hoy?
+- **Complementaria:** ¿Cómo reportas incidencias durante el reparto y qué tipos de incidencias son las más comunes?
+
 **Segundo Segmento Objetivo: Administradores**
 
 **Objetivo:** conocer procesos actuales de planificación y monitoreo, así como problemas y oportunidades de mejora.
 
-   - **Principal:** ¿Cómo registran actualmente qué productos se cargan en cada camión?
-   - **Complementaria:** ¿Han tenido incidentes de pérdida, daño o confusión en las cargas? ¿Cómo los resolvieron?
-   - **Principal:** ¿Qué problemas suelen enfrentar con la planificación de rutas?
-   - **Principal:** ¿Cómo registran la finalización de una ruta o la entrega al cliente?
-   - **Principal:** ¿Cómo monitorean hoy en día si un camión está siguiendo la ruta prevista?
-   - **Complementaria:** ¿Qué hacen cuando un camión se retrasa o cambia de ruta?
+- **Principal:** ¿Cómo registran actualmente qué productos se cargan en cada camión?
+- **Complementaria:** ¿Han tenido incidentes de pérdida, daño o confusión en las cargas? ¿Cómo los resolvieron?
+- **Principal:** ¿Qué problemas suelen enfrentar con la planificación de rutas?
+- **Principal:** ¿Cómo registran la finalización de una ruta o la entrega al cliente?
+- **Principal:** ¿Cómo monitorean hoy en día si un camión está siguiendo la ruta prevista?
+- **Complementaria:** ¿Qué hacen cuando un camión se retrasa o cambia de ruta?
 
 ### 2.2.2. Registro de entrevistas.
+
 #### 1. Primer Segmento Objetivo:
 
 **1️⃣ Primer Segmento Objetivo: Transportistas**
+
 <table style="width: 100%" align='center'>
 <tr>
 <th>Entrevistado 1</th>
@@ -247,8 +254,8 @@
 
 <tr>
 <td align='center'>
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EVTQKC-v_1lEhE1mJT9JnmsB9xNmx4hF5Exa5TUm8AYjtg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=7hPrXO" target= 'blank'>
-<img src="Resources/Entrevista_Administrador_1.png" alt="Primera entrevista del segundo segmento" width="200" height="200">
+<a href="" target= 'blank'>
+<img src="" alt="Primera entrevista del segundo segmento">
 </a>
 </td>
 
@@ -268,13 +275,11 @@
 
    <tr>
    <td>
-    <b>Entrevistador:</b> Santiago Alonso Gordillo Ramos <br>
-    <b>Entrevistado:</b> Miguel Fernandez <br>
-    <b>Edad:</b> 27 años <br>
-    <b>Distrito:</b> Cusco <br>
-    <b>Inicio de la entrevista:</b>  0:55 <br>
-    <b> Resumen:</b>  <br>
-    <p>
+    <b>Entrevistador:</b>  <br>
+    <b>Entrevistado:</b> <br>
+    <b>Inicio de la entrevista:</b> 
+    <p>  
+    </p>
    </td>
    <td>
     <b>Entrevistador:</b>  <br>
@@ -295,56 +300,18 @@
 
 </table>
 
-
 ### 2.2.3. Análisis de entrevistas.
+
 ### 2.3. Needfinding.
+
 ### 2.3.1. User Personas.
-
-En esta sección se presentan dos User Personas que representan los segmentos del proyecto: los Administradores y los Transportistas. Estos perfiles permiten comprender en profundidad las necesidades, motivaciones, frustraciones y comportamientos de los usuarios potenciales del sistema, el cual busca mejorar el seguimiento de rutas, la gestión de pedidos y el control de las operaciones de transporte.
-
-El User Persona Jorge Caceres representa a los administradores de distribución. Jorge Caceres trabaja coordinando diariamente las rutas de camiones y supervisando la correcta entrega de cientos de pedidos. A pesar de su experiencia en el sector, suele enfrentarse a problemas de visibilidad: no siempre sabe en qué punto exacto se encuentran los transportistas ni si los pedidos han sido entregados en orden y a tiempo. Ha intentado usar otras plataformas de gestión, pero se queja de que son demasiado complejas o poco adaptables a la realidad de su empresa. Su motivación principal es tener un control en tiempo real y sin errores, que le permita optimizar rutas, reducir costos y asegurar la satisfacción de los clientes. Jorge busca una herramienta práctica, intuitiva y confiable que le dé autonomía y reduzca su dependencia de reportes manuales.
-
-<img src="Resources/Jorge Caceres.png" alt="Jorge Caceres">
-
-El User Persona Luis Gutiérrez representa a los transportistas que realizan las entregas en ruta. Luis tiene tiempo trabajando en transporte de mercancías y conoce de primera mano las dificultades de su labor diaria: rutas mal planificadas, entregas duplicadas o mal registradas y la falta de comunicación clara con los administradores. Actualmente utiliza aplicaciones que le resultan confusas y que generan frustración porque no consolidan pedidos de un mismo cliente, obligándolo a hacer viajes innecesarios y perder tiempo valioso. Su principal motivación es contar con una app sencilla y ágil en su teléfono que le muestre claramente su ruta, los pedidos cargados y entregados, y el estado de su camión. Luis quiere reducir la carga administrativa de su trabajo y enfocarse en lo que mejor sabe hacer: transportar y entregar productos de manera segura y puntual.
-
-<img src="Resources/Luis Gutierrez1.png" alt="Luis Gutierrez">
 
 ### 2.3.2. User Task Matrix.
 
-La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios realizan al utilizar la solución propuesta. Estas tareas, al clasificarse por su frecuencia e importancia, nos ayudan a priorizar qué funcionalidades de la aplicación deben ser desarrolladas con mayor énfasis para optimizar la experiencia.  
-
-Los segmentos considerados para este análisis son:  
-- **Administrador (Jorge Caceres)**  
-- **Transportista (Luis Gutiérrez)**  
-
----
-
-### Task Matrix  
-
-| **Tarea** | **Jorge Caceres (Administrador)** |  | **Luis Gutiérrez (Transportista)** |  |
-|-----------|-----------------------------------|--|------------------------------------|--|
-| Supervisar y controlar inventario de productos | Often | High | Sometimes | Medium |
-| Coordinar pedidos y entregas | Always | High | Often | High |
-| Revisar ingresos, costos y márgenes de venta | Often | High | Rarely | Low |
-| Comunicarse con clientes y proveedores | Often | High | Sometimes | Medium |
-| Gestionar incidencias en pedidos (faltantes, devoluciones) | Sometimes | High | Sometimes | Medium |
-| Optimizar rutas de distribución | Rarely | Medium | Always | High |
-| Confirmar entregas en destino | Sometimes | Medium | Always | High |
-| Cargar y despachar productos al camión | Sometimes | Low | Often | High |
-| Buscar herramientas para mejorar la gestión logística | Sometimes | Medium | Rarely | Low |
-
----
-
-### Análisis  
-
-El **administrador** se enfoca en el control y la eficiencia del negocio: supervisa, gestiona pedidos, revisa márgenes de venta y mantiene comunicación constante con los proveedores y demás áreas. Su prioridad está en asegurar que los productos estén disponibles y que las entregas se realicen sin contratiempos, lo cual impacta directamente en la rentabilidad.  
-
-El **transportista**, concentra sus esfuerzos en la ejecución operativa de las entregas: optimiza rutas, confirma entregas en destino y monitorea el estado del camión. Su rol está directamente ligado a la puntualidad y la confiabilidad de la distribución, lo que lo convierte en un eslabón esencial.  
-
-Ambos perfiles coinciden en la importancia de **gestionar incidencias** y **mantener una comunicación fluida**, ya que cualquier error o retraso impacta tanto en la operación del administrador como en la del transportista. 
-
 ### 2.3.3. User Journey Mapping.
+
 ### 2.3.4. Empathy Mapping.
+
 ### 2.4. Big Picture EventStorming.
+
 ### 2.5. Ubiquitous Language.
