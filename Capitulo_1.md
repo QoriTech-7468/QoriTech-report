@@ -83,6 +83,7 @@ Visualizamos un futuro en el que todas las empresas de transporte, sin importar 
 </div>
 
 <br>
+
 ### 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
