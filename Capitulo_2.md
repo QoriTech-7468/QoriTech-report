@@ -208,7 +208,7 @@
     <b>Edad:</b> 34 años <br>
     <b>Distrito:</b> San Sebastian - Cusco <br>
     <b>Inicio de la entrevista:</b>  Entrevista Jhon Huaman <br>
-    <b> Resumen: </b>John Willy es un chofer y encargado de una empresa de transporte, que esta encargado de hacer las rutas y la liquidación de los pedidos de transporte. Este utiliza la dirección en las boletas que emite para calcular su ruta, además, con la información que el cliente le proporcione sobre la ruta (accidentes, desfiles, etc). Sin embargo, todos estos procesos pueden conllevan a muchos inconvenientes, cómo la confirmación de la ruta y de la dirección final, la recepción por parte del cliente, la zona en donde se despacha el pedido, la actitud de los clientes y el tiempo de espera. Adicionalmente, nos comento no usar su aplicativo laboral, ya que, gracias a su experiencia puede manejar mejor algún problema y lo considera algo innecesario y tedioso de utilizar al poseer características muy intrusivas para su flujo laboral<br>
+    <b> Resumen: </b>John Willy es un chofer y encargado de una empresa de transporte, que esta encargado de hacer las rutas y la liquidación de los pedidos de transporte. Este utiliza la dirección en las boletas que emite para calcular su ruta, además, con la información que el cliente le proporcione sobre la ruta (accidentes, desfiles, etc). Sin embargo, todos estos procesos pueden conllevan a muchos inconvenientes, cómo la confirmación de la ruta y de la dirección final, la recepción por parte del cliente, la zona en donde se despacha el pedido, la actitud de los clientes y el tiempo de espera. Adicionalmente, nos comento no usar su aplicativo laboral, ya que, gracias a su experiencia puede manejar mejor algún problema y lo considera algo innecesario y tedioso de utilizar al poseer características muy intrusivas para su flujo laboral.<br>
     <p>
     </p>
    </td>
@@ -278,16 +278,24 @@
    </td>
    <td>
     <b>Entrevistador: </b> Jesus Ivan Castillo Vidal <br>
-    <b>Entrevistado:</b>Eliana Paullo <br>
+    <b>Entrevistado:</b>Eliana Paullo Palma<br>
     <b>Inicio de la entrevista:</b> 
+    <b>Edad:</b> 49 años <br>
+    <b>Distrito:</b> Lima <br>
+    <b>Inicio de la entrevista:</b>  0:17 <br>
+    <b> Resumen:</b>  <br>
    <p>
 
    </p>
    </td>
       <td>
     <b>Entrevistador:</b> Yaku Mateo Guzmán Cabrejos  <br>
-    <b>Entrevistado: </b>Adriana Merma <br>
+    <b>Entrevistado: </b>Adriana Merma Noblega<br>
     <b>Inicio de la entrevista:</b> 
+    <b>Edad:</b> 50 años <br>
+    <b>Distrito:</b> Lima <br>
+    <b>Inicio de la entrevista:</b>  0:08 <br>
+    <b> Resumen:</b> Adriana Merma es una gerente de una empresa de transporte que se encarga de la gestión de las diferentes áreas y del personal. El entrevistado dice que poseen varios aplicativos empresariales con diferentes usos. Por ejemplo, uno de ellos le da actualizaciones del avance del trabajo en las diferente áreas, otro le ayuda a mantener su inventario ordenado, qué se debe transportar en cada pedido y de informar de algún error o daños en los productos, y otro más para poder registrar la finalización del trabajo y poder registrarlo. Además, comenta que no hay muchos errores en las planificación de rutas, en caso los haya, se utilizarían los aplicativos anteriormente mencionado y documentos de registros o control. Al final, el entrevistado nos comenta que todo lo que realizan, siempre usan varios aplicativos durante todo el proceso. <br>
      <p>
      </p>
    </td>
@@ -299,6 +307,8 @@
 ### 2.2.3. Análisis de entrevistas.
 
 #### Segmento 1: Transportistas
+
+Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en el sector. Con la información obtenida se puede identificar las características claves para el perfil de nuestros segmento objetivo de transportistas.  
 
 ##### Caracteristicas
 
@@ -313,12 +323,51 @@
 
 </tr>
 
+<tr>
+
+<td>Características</td>
+<td>Mención</td>
+<td>Porcentaje</td>
+<td>Evidencia</td>
+
+</tr>
+
+<tr>
+
+<td>Características</td>
+<td>Mención</td>
+<td>Porcentaje</td>
+<td>Evidencia</td>
+
+</tr>
+
+<tr>
+
+<td>Características</td>
+<td>Mención</td>
+<td>Porcentaje</td>
+<td>Evidencia</td>
+
+</tr>
+
+<tr>
+
+<td>Características</td>
+<td>Mención</td>
+<td>Porcentaje</td>
+<td>Evidencia</td>
+
+</tr>
+
+
 </table>
 
 ##### Insights
 
 
 #### Segmento 2: Administradores
+
+Se realizo el analisis de 3 entrevistas a los administradores con experiencia en el sector. Con la información obtenida se puede identificar las características claves para el perfil de nuestros segmento objetivo de transportistas. 
 
 ##### Caracteristicas
 
@@ -330,6 +379,42 @@
 <th>Mención</th>
 <th>Porcentaje</th>
 <th>Evidencia</th>
+
+</tr>
+
+<tr>
+
+<td>Características</td>
+<td>Mención</td>
+<td>Porcentaje</td>
+<td>Evidencia</td>
+
+</tr>
+
+<tr>
+
+<td>Características</td>
+<td>Mención</td>
+<td>Porcentaje</td>
+<td>Evidencia</td>
+
+</tr>
+
+<tr>
+
+<td>Características</td>
+<td>Mención</td>
+<td>Porcentaje</td>
+<td>Evidencia</td>
+
+</tr>
+
+<tr>
+
+<td>Características</td>
+<td>Mención</td>
+<td>Porcentaje</td>
+<td>Evidencia</td>
 
 </tr>
 
