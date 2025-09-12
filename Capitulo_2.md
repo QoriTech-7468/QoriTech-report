@@ -309,6 +309,39 @@ El User Persona Luis Gutiérrez representa a los transportistas que realizan las
 <img src="Resources/Luis Gutierrez1.png" alt="Luis Gutierrez">
 
 ### 2.3.2. User Task Matrix.
+
+La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios realizan al utilizar la solución propuesta. Estas tareas, al clasificarse por su frecuencia e importancia, nos ayudan a priorizar qué funcionalidades de la aplicación deben ser desarrolladas con mayor énfasis para optimizar la experiencia.  
+
+Los segmentos considerados para este análisis son:  
+- **Administrador (Jorge Salazar)**  
+- **Transportista (Luis Gutiérrez)**  
+
+---
+
+### Task Matrix  
+
+| **Tarea** | **Jorge Salazar (Administrador)** |  | **Luis Gutiérrez (Transportista)** |  |
+|-----------|-----------------------------------|--|------------------------------------|--|
+| Supervisar y controlar inventario de productos | Often | High | Sometimes | Medium |
+| Coordinar pedidos y entregas | Always | High | Often | High |
+| Revisar ingresos, costos y márgenes de venta | Often | High | Rarely | Low |
+| Comunicarse con clientes y proveedores | Often | High | Sometimes | Medium |
+| Gestionar incidencias en pedidos (faltantes, devoluciones) | Sometimes | High | Sometimes | Medium |
+| Optimizar rutas de distribución | Rarely | Medium | Always | High |
+| Confirmar entregas en destino | Sometimes | Medium | Always | High |
+| Cargar y despachar productos al camión | Sometimes | Low | Often | High |
+| Buscar herramientas para mejorar la gestión logística | Sometimes | Medium | Rarely | Low |
+
+---
+
+### Análisis  
+
+El **administrador** se enfoca en el control y la eficiencia del negocio: supervisa, gestiona pedidos, revisa márgenes de venta y mantiene comunicación constante con los proveedores y demás áreas. Su prioridad está en asegurar que los productos estén disponibles y que las entregas se realicen sin contratiempos, lo cual impacta directamente en la rentabilidad.  
+
+El **transportista**, concentra sus esfuerzos en la ejecución operativa de las entregas: optimiza rutas, confirma entregas en destino y monitorea el estado del camión. Su rol está directamente ligado a la puntualidad y la confiabilidad de la distribución, lo que lo convierte en un eslabón esencial.  
+
+Ambos perfiles coinciden en la importancia de **gestionar incidencias** y **mantener una comunicación fluida**, ya que cualquier error o retraso impacta tanto en la operación del administrador como en la del transportista. 
+
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.4. Big Picture EventStorming.
