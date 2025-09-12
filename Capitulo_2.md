@@ -299,7 +299,51 @@
 ### 2.2.3. Análisis de entrevistas.
 ### 2.3. Needfinding.
 ### 2.3.1. User Personas.
+
+En esta sección se presentan dos User Personas que representan los segmentos del proyecto: los Administradores y los Transportistas. Estos perfiles permiten comprender en profundidad las necesidades, motivaciones, frustraciones y comportamientos de los usuarios potenciales del sistema, el cual busca mejorar el seguimiento de rutas, la gestión de pedidos y el control de las operaciones de transporte.
+
+El User Persona Jorge Caceres representa a los administradores de distribución. Jorge Caceres trabaja coordinando diariamente las rutas de camiones y supervisando la correcta entrega de cientos de pedidos. A pesar de su experiencia en el sector, suele enfrentarse a problemas de visibilidad: no siempre sabe en qué punto exacto se encuentran los transportistas ni si los pedidos han sido entregados en orden y a tiempo. Ha intentado usar otras plataformas de gestión, pero se queja de que son demasiado complejas o poco adaptables a la realidad de su empresa. Su motivación principal es tener un control en tiempo real y sin errores, que le permita optimizar rutas, reducir costos y asegurar la satisfacción de los clientes. Jorge busca una herramienta práctica, intuitiva y confiable que le dé autonomía y reduzca su dependencia de reportes manuales.
+
+<img src="Resources/Jorge Caceres.png" alt="Jorge Caceres">
+
+El User Persona Luis Gutiérrez representa a los transportistas que realizan las entregas en ruta. Luis tiene tiempo trabajando en transporte de mercancías y conoce de primera mano las dificultades de su labor diaria: rutas mal planificadas, entregas duplicadas o mal registradas y la falta de comunicación clara con los administradores. Actualmente utiliza aplicaciones que le resultan confusas y que generan frustración porque no consolidan pedidos de un mismo cliente, obligándolo a hacer viajes innecesarios y perder tiempo valioso. Su principal motivación es contar con una app sencilla y ágil en su teléfono que le muestre claramente su ruta, los pedidos cargados y entregados, y el estado de su camión. Luis quiere reducir la carga administrativa de su trabajo y enfocarse en lo que mejor sabe hacer: transportar y entregar productos de manera segura y puntual.
+
+<img src="Resources/Luis Gutierrez1.png" alt="Luis Gutierrez">
+
 ### 2.3.2. User Task Matrix.
+
+La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios realizan al utilizar la solución propuesta. Estas tareas, al clasificarse por su frecuencia e importancia, nos ayudan a priorizar qué funcionalidades de la aplicación deben ser desarrolladas con mayor énfasis para optimizar la experiencia.  
+
+Los segmentos considerados para este análisis son:  
+- **Administrador (Jorge Salazar)**  
+- **Transportista (Luis Gutiérrez)**  
+
+---
+
+### Task Matrix  
+
+| **Tarea** | **Jorge Salazar (Administrador)** |  | **Luis Gutiérrez (Transportista)** |  |
+|-----------|-----------------------------------|--|------------------------------------|--|
+| Supervisar y controlar inventario de productos | Often | High | Sometimes | Medium |
+| Coordinar pedidos y entregas | Always | High | Often | High |
+| Revisar ingresos, costos y márgenes de venta | Often | High | Rarely | Low |
+| Comunicarse con clientes y proveedores | Often | High | Sometimes | Medium |
+| Gestionar incidencias en pedidos (faltantes, devoluciones) | Sometimes | High | Sometimes | Medium |
+| Optimizar rutas de distribución | Rarely | Medium | Always | High |
+| Confirmar entregas en destino | Sometimes | Medium | Always | High |
+| Cargar y despachar productos al camión | Sometimes | Low | Often | High |
+| Buscar herramientas para mejorar la gestión logística | Sometimes | Medium | Rarely | Low |
+
+---
+
+### Análisis  
+
+El **administrador** se enfoca en el control y la eficiencia del negocio: supervisa, gestiona pedidos, revisa márgenes de venta y mantiene comunicación constante con los proveedores y demás áreas. Su prioridad está en asegurar que los productos estén disponibles y que las entregas se realicen sin contratiempos, lo cual impacta directamente en la rentabilidad.  
+
+El **transportista**, concentra sus esfuerzos en la ejecución operativa de las entregas: optimiza rutas, confirma entregas en destino y monitorea el estado del camión. Su rol está directamente ligado a la puntualidad y la confiabilidad de la distribución, lo que lo convierte en un eslabón esencial.  
+
+Ambos perfiles coinciden en la importancia de **gestionar incidencias** y **mantener una comunicación fluida**, ya que cualquier error o retraso impacta tanto en la operación del administrador como en la del transportista. 
+
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.4. Big Picture EventStorming.
