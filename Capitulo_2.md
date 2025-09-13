@@ -254,8 +254,8 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
 
 <tr>
 <td align='center'>
-<a href="" target= 'blank'>
-<img src="" alt="Primera entrevista del segundo segmento">
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EVTQKC-v_1lEhE1mJT9JnmsB9xNmx4hF5Exa5TUm8AYjtg?e=tQDRf8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target= 'blank'>
+<img src="Resources/Entrevista_Administrador_1.png" alt="Primera entrevista del segundo segmento">
 </a>
 </td>
 
