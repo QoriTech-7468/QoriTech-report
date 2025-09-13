@@ -207,8 +207,8 @@
     <b>Entrevistado:</b> Jhon Willy Huaman Huaman <br>
     <b>Edad:</b> 34 años <br>
     <b>Distrito:</b> San Sebastian - Cusco <br>
-    <b>Inicio de la entrevista:</b>  Entrevista Jhon Huaman <br>
-    <b> Resumen: </b>John Willy es un chofer y encargado de una empresa de transporte, que esta encargado de hacer las rutas y la liquidación de los pedidos de transporte. Este utiliza la dirección en las boletas que emite para calcular su ruta, además, con la información que el cliente le proporcione sobre la ruta (accidentes, desfiles, etc). Sin embargo, todos estos procesos pueden conllevan a muchos inconvenientes, cómo la confirmación de la ruta y de la dirección final, la recepción por parte del cliente, la zona en donde se despacha el pedido, la actitud de los clientes y el tiempo de espera. Adicionalmente, nos comento no usar su aplicativo laboral, ya que, gracias a su experiencia puede manejar mejor algún problema y lo considera algo innecesario y tedioso de utilizar al poseer características muy intrusivas para su flujo laboral.<br>
+    <b>Inicio de la entrevista:</b>  0:20 <br>
+    <b> Resumen: </b>John Willy es un chofer y encargado de una empresa de transporte, que esta encargado de hacer las rutas y la liquidación de los pedidos de transporte. Este utiliza la dirección en las boletas que emite para calcular su ruta, además, con la información que el cliente le proporcione sobre la ruta (accidentes, desfiles, etc). Sin embargo, todos estos procesos pueden conllevan a muchos inconvenientes, cómo la confirmación de la ruta y de la dirección final, la recepción por parte del cliente, la zona en donde se despacha el pedido, la actitud de los clientes y el tiempo de espera. Adicionalmente, nos comento no usar su aplicación laboral, ya que, gracias a su experiencia puede manejar mejor algún problema y lo considera algo innecesario y tedioso de utilizar al poseer características muy intrusivas para su flujo laboral.<br>
     <p>
     </p>
    </td>
@@ -217,7 +217,7 @@
     <b>Entrevistado:</b> Carlos Maque Huachaca <br>
     <b>Edad:</b> 30 años <br>
     <b>Distrito:</b> Santiago - Cusco <br>
-    <b>Inicio de la entrevista:</b> Entrevista Carlos Maque <br>
+    <b>Inicio de la entrevista:</b> 0:33 <br>
     <b> Resumen:</b> Carlos Maque es un conductor y encargado, su rol es de transportista de producto de la marca Gloria. Este utiliza una aplicación llamada el "Beetrack", la cual le otorga la geolocalización del cliente en un mapa, previamente proporcionado por la empresa. Además, la aplicación le proporciona un número de contacto de los clientes, en caso se pierda o la dirección sea incorrecta, y le otorga opciones para confirmar, rechazar o justificar la entrega o devolución de los pedidos. Por otro lado, se guia con las boletas para obtener la información necesaria del pedido. Adicionalmente, los retrasos en los pedidos más importantes, según el entrevistado, son: las tiendas cerradas, clientes sin dinero y mala geoposición. Por lo anterior, el reporta los inconvenientes por el WhatsApp y el Beetrack. Sin embargo, este ultimo no funciona correctamente en las zonas con poca señal, por ello, se puede retrasar las confirmaciones de la entrega del pedidos y necesitan dirigirse a una zona con mejor señal para que cargue las confirmaciones.<br>
   <p> </p>
    </td>
@@ -226,7 +226,7 @@
     <b>Entrevistado:</b> Danny Riverra Ticona<br>
     <b>Edad:</b> 24 años <br>
     <b>Distrito:</b> San Jeronimo - Cusco <br>
-    <b>Inicio de la entrevista:</b> Entrevista Danny Riverra <br>
+    <b>Inicio de la entrevista:</b> 0:25<br>
      <b>Resumen:</b> Danny Riverra, encargado y chofer en una empresa de transporte, utiliza el teléfono móvil y la aplicación "Beetrack" para gestionar entregas, junto con documentos de oficina. Usa Beetrack para localizar direcciones y referencias de clientes, necesitando solo la dirección exacta y calles cercanas. Registra las entregas con la firma del cliente y valida en Beetrack, aunque las fallas de internet complican el proceso. Los retrasos principales son por tráfico, demoras en alistar mercadería y clientes sin pedidos, lo que requiere contactar al vendedor y reportar en WhatsApp. Los incidentes más comunes son locales cerrados o clientes sin dinero, también notificados por WhatsApp. El entrevistado muestra una actitud práctica y confianza en herramientas digitales, pero se frustra por factores externos como el tráfico, la falta de preparación de clientes y la dependencia de internet.
  <br>
       <p> 
@@ -273,7 +273,7 @@
     <b>Edad:</b> 27 años <br>
     <b>Distrito:</b> Cusco <br>
     <b>Inicio de la entrevista:</b>  0:55 <br>
-    <b> Resumen:</b> es un radiotransportista en la empresa de RM emprendimientos, esta encargado del monitoreo y coordinación de los pedidos. Luego, nos menciona que su empresa utiliza el aplicativo "Beetrack" que le permite mantener un monitoreo constante del estado de los pedidos. Sin embargo, este aplicativo posee inconvenientes con la geolocalización, no identifica la ubicación exacta del cliente y eso confunde y frustra a los transportistas encargados. Siguiendo con la entrevista, nos menciona que la manera que registran los productos que ingresan a los camiones es con dos personas que van a la localidad y se encarga de verificar si esta todo en orden. Además, la manera en la que subsanan alguna perdida de producto, es por medio de los transportistas que se hacen responsables. En el caso de la planificación de las rutas, nos da su opinión de cómo los planificadores que trabajan en Lima, desconocen lo complicado que puede ser las rutas en Cusco y por ello, extienden las horas laborales de los transportistas. Finalmente, nos comenta cómo arreglan los problemas de retraso o incumplimiento de entregas y esto lo realizan llamando al encargado del camión, luego lo redirigen al área de ventas y este comunica al cliente mismo. <br>
+    <b> Resumen:</b> es un radiotransportista en la empresa de RM emprendimientos, esta encargado del monitoreo y coordinación de los pedidos. Luego, nos menciona que su empresa utiliza la aplicación "Beetrack" que le permite mantener un monitoreo constante del estado de los pedidos. Sin embargo, este aplicación posee inconvenientes con la geolocalización, no identifica la ubicación exacta del cliente y eso confunde y frustra a los transportistas encargados. Siguiendo con la entrevista, nos menciona que la manera que registran los productos que ingresan a los camiones es con dos personas que van a la localidad y se encarga de verificar si esta todo en orden. Además, la manera en la que subsanan alguna perdida de producto, es por medio de los transportistas que se hacen responsables. En el caso de la planificación de las rutas, nos da su opinión de cómo los planificadores que trabajan en Lima, desconocen lo complicado que puede ser las rutas en Cusco y por ello, extienden las horas laborales de los transportistas. Finalmente, nos comenta cómo arreglan los problemas de retraso o incumplimiento de entregas y esto lo realizan llamando al encargado del camión, luego lo redirigen al área de ventas y este comunica al cliente mismo. <br>
     <p>
    </td>
    <td>
@@ -283,7 +283,7 @@
     <b>Edad:</b> 49 años <br>
     <b>Distrito:</b> Cusco <br>
     <b>Inicio de la entrevista:</b>  0:17 <br>
-    <b> Resumen:</b> Eliana Paullo es una administradora de la empresa MR emprendimientos, esta encargada de la planificación de los camiones, el monitoreo de personal y transportes, evaluar y ayudar al personal. Después, nos menciona que todo el personal de la empresa, por camión, usa el aplicativo "Beetrack", el cual le ayuda a monitorear el porcentaje de avance que posee cada camión y los clientes y productos asignados a cada camión. Además, utilizan GPS para mantener un control de las rutas de los camiones y del uso de sensores, ya que los productos deben mantenerse refrigerados y este le alerta si esta o no activado el refrigerante. Los principales incidentes que sufrieron son: Confunción en el cargamento del camión, a causa de la forma en cómo estan divididos los camiones, y el daño de los productos y la compensación económica por los mismos. Luego, nos comenta cómo realizan la planificación de las rutas y cómo lidian con problemas que pueden ocurrir el mismo dia de entrega. Esto lo realizan de manera manual, con llamadas y mensajes a los clientes para informarle de los retrasos. Adicionalmente, nos comenta que se utiliza bastante Whatsapp para la coordinación de pedidos para los diferentes conductores. Finalmente, nos comento su sugerencia para mejorar las herramientas que usan, este seria la Opción para identificar a clientes complicados y deribarlos a un plan de pago adelantado para evitar problemas al momento de realizar las entregas. <br>
+    <b> Resumen:</b> Eliana Paullo es una administradora de la empresa MR emprendimientos, esta encargada de la planificación de los camiones, el monitoreo de personal y transportes, evaluar y ayudar al personal. Después, nos menciona que todo el personal de la empresa, por camión, usa el la aplicación "Beetrack", el cual le ayuda a monitorear el porcentaje de avance que posee cada camión y los clientes y productos asignados a cada camión. Además, utilizan GPS para mantener un control de las rutas de los camiones y del uso de sensores, ya que los productos deben mantenerse refrigerados y este le alerta si esta o no activado el refrigerante. Los principales incidentes que sufrieron son: Confunción en el cargamento del camión, a causa de la forma en cómo estan divididos los camiones, y el daño de los productos y la compensación económica por los mismos. Luego, nos comenta cómo realizan la planificación de las rutas y cómo lidian con problemas que pueden ocurrir el mismo dia de entrega. Esto lo realizan de manera manual, con llamadas y mensajes a los clientes para informarle de los retrasos. Adicionalmente, nos comenta que se utiliza bastante Whatsapp para la coordinación de pedidos para los diferentes conductores. Finalmente, nos comento su sugerencia para mejorar las herramientas que usan, este seria la Opción para identificar a clientes complicados y deribarlos a un plan de pago adelantado para evitar problemas al momento de realizar las entregas. <br>
    <p>
 
    </p>
@@ -295,7 +295,7 @@
     <b>Edad:</b> 50 años <br>
     <b>Distrito:</b> Lima <br>
     <b>Inicio de la entrevista:</b>  0:08 <br>
-    <b> Resumen:</b> Adriana Merma es una gerente de una empresa de transporte que se encarga de la gestión de las diferentes áreas y del personal. El entrevistado dice que poseen varios aplicativos empresariales con diferentes usos. Por ejemplo, uno de ellos le da actualizaciones del avance del trabajo en las diferente áreas, otro le ayuda a mantener su inventario ordenado, qué se debe transportar en cada pedido y de informar de algún error o daños en los productos, y otro más para poder registrar la finalización del trabajo y poder registrarlo. Además, comenta que no hay muchos errores en las planificación de rutas, en caso los haya, se utilizarían los aplicativos anteriormente mencionado y documentos de registros o control. Al final, el entrevistado nos comenta que todo lo que realizan, siempre usan varios aplicativos durante todo el proceso. <br>
+    <b> Resumen:</b> Adriana Merma es una gerente de una empresa de transporte que se encarga de la gestión de las diferentes áreas y del personal. El entrevistado dice que poseen varios aplicaciones empresariales con diferentes usos. Por ejemplo, uno de ellos le da actualizaciones del avance del trabajo en las diferente áreas, otro le ayuda a mantener su inventario ordenado, qué se debe transportar en cada pedido y de informar de algún error o daños en los productos, y otro más para poder registrar la finalización del trabajo y poder registrarlo. Además, comenta que no hay muchos errores en las planificación de rutas, en caso los haya, se utilizarían los aplicaciones anteriormente mencionado y documentos de registros o control. Al final, el entrevistado nos comenta que todo lo que realizan, siempre usan varios aplicaciones durante todo el proceso. <br>
      <p>
      </p>
    </td>
@@ -323,55 +323,99 @@ Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en 
 
 </tr>
 
-<tr>
-
-<td>Personas con </td>
-<td>Mención</td>
-<td>Porcentaje</td>
-<td>Evidencia</td>
-
-</tr>
 
 <tr>
 
-<td>Uso de algún aplicativo</td>
+<td>Uso de aplicaciones de gestión de entregas</td>
 <td>2/3</td>
-<td></td>
-<td>Evidencia</td>
+<td>66.7%</td>
+<td><b>Entrevistado 2:</b> Utiliza "Beetrack" para geolocalización, contacto de clientes y confirmar/rechazar pedidos. <br>
+<b>Entrevistado 3:</b> Usa "Beetrack" para localizar direcciones y validar entregas con la firma del cliente.</td>
 
 </tr>
 
 <tr>
 
-<td>Problemas con las rutas </td>
-<td>Mención</td>
-<td>Porcentaje</td>
-<td>Evidencia</td>
+<td>Dependencia de documentos físicos (boletas) </td>
+<td>2/3</td>
+<td>66.7%</td>
+<td><b>Entrevistado 1:</b> Utiliza la dirección en las boletas para calcular su ruta.<br>
+<b>Entrevistado 2:</b> Se guía con las boletas para obtener la información del pedido.</td>
 
 </tr>
 
 <tr>
 
-<td>Problemas con los clientes</td>
-<td>Mención</td>
-<td>Porcentaje</td>
-<td>Evidencia</td>
+<td>Problemas de conectividad (Señal/Internet)</td>
+<td>2/3</td>
+<td>66.7%</td>
+<td><b>Entrevistado 2:</b> La app no funciona en zonas con poca señal, retrasando confirmaciones. <br>
+<b>Entrevistado 3: </b>Las fallas de internet complican el proceso de validación.</td>
 
 </tr>
 
 <tr>
 
-<td></td>
-<td>Mención</td>
-<td>Porcentaje</td>
-<td>Evidencia</td>
+<td>Problemas con clientes (Local cerrado/Sin dinero)</td>
+<td>3/3</td>
+<td>100%</td>
+<td><b>Entrevistado 1:</b> Menciona "la recepción por parte del cliente" como inconveniente.<br>
+<b>Entrevistado 2: </b>"Tiendas cerradas, clientes sin dinero".<br>
+<b>Entrevistado 3:</b> "Locales cerrados o clientes sin dinero".
+</td>
 
 </tr>
 
+<tr>
+
+<td>Problemas de logística externa (Tráfico/Mala geolocalización)</td>
+<td>3/3</td>
+<td>100%</td>
+<td><b>Entrevistado 1:</b> Considera información sobre "accidentes, desfiles" para su ruta. <br>
+<b>Entrevistado 2:</b> "Mala geoposición" como causa de retraso. <br>
+<b>Entrevistado 3:</b> "Tráfico" como retraso principal. </td>
+
+</tr>
+
+<tr>
+
+<td>Uso de canales informales de comunicación (WhatsApp)</td>
+<td>2/3</td>
+<td>66.7%</td>
+<td><b>Entrevistado 2:</b> Reporta inconvenientes por WhatsApp.<br>
+<b>Entrevistado 3:</b> Notifica incidentes y contacta al vendedor por WhatsApp</td>
+
+</tr>
+
+<tr>
+
+<td>Rol multifuncional (Conductor y encargado)</td>
+<td>3/3</td>
+<td>100%</td>
+<td><b>Todos los entrevistados </b>son descritos como "chofer y encargado", lo que implica responsabilidades beyond solo manejar, como la liquidación de pedidos (Entrevistado 1) y la gestión de incidencias.</td>
+
+</tr>
+
+<tr>
+
+<td>Frustración con factores externos incontrolables</td>
+<td>2/3</td>
+<td>66.7%</td>
+<td>Entrevistado 3: Muestra "frustración por factores externos como el tráfico y la falta de preparación de clientes". <br>
+Entrevistado 2: Los retrasos e incidencias son causados por factores que escapan a su control.</td>
+
+</tr>
 
 </table>
 
 ##### Insights
+
+<b>1. Brecha Digital Operativa:</b> Existe una brecha entre la tecnología implementada y la realidad operativa. Las apps son útiles pero fallan en el momento crítico (falta de conectividad), lo que fuerza a los transportistas a crear soluciones híbridas (apps + WhatsApp + documentos físicos) para cumplir con su trabajo, duplicando esfuerzos en algunos casos. Una solución ideal debería integrar un sistema de mensajería robusto que funcione offline o con mala señal, eliminando la necesidad de cambiar de aplicación.
+
+<b>2. Respeto por la experiencia: </b>Para transportistas experimentados, la autonomía y el criterio propio son más valiosos que la supervisión estricta. Una aplicación que priorice el control sobre la utilidad práctica es percibida como un obstáculo, no como una ayuda. La utilidad de una herramienta digital está sujeta a que respete y le apoye en situaciones extraordinarias.
+
+<b>3. Problemas con los retrasos:</b>La principal causa de retrasos e ineficiencias no son fallas técnicas o de planificación de rutas, sino imprevistos originados en el punto de entrega (cliente ausente, sin dinero, local cerrado). Esto sugiere que cualquier solución tecnológica debe incluir mecanismos para mejorar la comunicación y preparación previa del cliente.
+
 
 
 #### Segmento 2: Administradores
@@ -393,43 +437,76 @@ Se realizo el analisis de 3 entrevistas a los administradores con experiencia en
 
 <tr>
 
-<td>Utilizan aplicativos</td>
+<td>Uso de multiples aplicaciones empresariales</td>
 <td>3/3</td>
-<td>Porcentaje</td>
-<td>Evidencia</td>
+<td>100%</td>
+<td><b>Entrevistado 1: </b>Utilizan "Beetrack" para monitoreo y GPS. <br>
+<b>Entrevistado 2: </b> Usan "Beetrack", GPS y sensores de refrigeración.  <br>
+<b>Entrevistado 3: </b>Poseen "varios aplicativos empresariales con diferentes usos" (avance, inventario, registro).</td>
 
 </tr>
 
 <tr>
 
-<td>Problemas de planificación</td>
+<td>Problemas de coordinación y comunicación</td>
 <td>2/3</td>
-<td>Porcentaje</td>
-<td>Evidencia</td>
+<td>66.7%</td>
+<td><b>Entrevistado 1: </b> Planificadores en Lima desconocen las rutas de Cusco. Problemas se resuelven con llamadas al camión y luego a ventas.<br>
+<b>Entrevistado 2: </b> La planificación de rutas y solución de problemas del día se hace de manera manual con llamadas y mensajes.</td>
 
 </tr>
 
 <tr>
 
-<td>Uso de metodos fisicos, cómo boleta</td>
-<td>3/3</td>
-<td>Porcentaje</td>
-<td>Evidencia</td>
-
-</tr>
-
-<tr>
-
-<td>Monitoreo constante de los pedidos</td>
+<td>Dependencia de canales informales (WhatsApp/Llamadas)</td>
 <td>2/3</td>
-<td>Porcentaje</td>
-<td>Evidencia</td>
+<td>66.7%</td>
+<td><b>Entrevistado 1: </b>Arreglan problemas llamando al encargado del camión. <br>
+<b>Entrevistado 2: </b> "Se utiliza bastante Whatsapp para la coordinación".</td>
+
+</tr>
+
+<tr>
+
+<td>Problemas con la integridad de la carga (daños, pérdidas, confusión)</td>
+<td>2/3</td>
+<td>66.7%</td>
+<td><b>Entrevistado 1: </b>Verificación manual de la carga. Los transportistas se hacen responsables de las pérdidas.<br>
+<b>Entrevistado 2: </b>Incidentes por "confusión en el cargamento" y "daño de los productos" que generan compensaciones económicas.</td>
+
+</tr>
+
+<tr>
+
+<td>Monitoreo en tiempo real del estado de la flota</td>
+<td>2/3</td>
+<td>66.7%</td>
+<td><b>Entrevistado 1:</b> Monitoreo constante con Beetrack.
+<b>Entrevistado 2: </b>Monitorean porcentaje de avance, usan GPS para control de rutas y sensores para estado de refrigeración.</td>
+
+</tr>
+
+<tr>
+
+<td>Procesos manuales de verificación y registro</td>
+<td>2/3</td>
+<td>66.7%</td>
+<td><b>Entrevistado 1:</b> Verificación física de la carga por dos personas. <br>
+<b>Entrevistado 3:</b> Uso de "documentos de registros o control" además de los aplicativos.</td>
 
 </tr>
 
 </table>
 
 ##### Insights
+
+<b>1. Valor a la visibilidad y precisión:</b> Los administradores valoran profundamente la visibilidad en tiempo real de su operación (avance, ubicación, estado de refrigeración). Sin embargo, esta visibilidad se ve empañada cuando los datos de base (como la geolocalización) son inexactos. Un sistema que asegure la calidad y precisión de los datos sería igual de importante como la capacidad de monitoreo.
+
+<b>2. Fragmentación Operativa:</b> Los administradores operan en un ecosistema de herramientas fragmentado. Utilizan múltiples aplicativos especializados (monitoreo, inventario, registro) junto con métodos manuales y canales informales como WhatsApp. Esto sugiere una falta de una plataforma unificada que centralice todas las funciones críticas, lo que puede generar ineficiencia y riesgo de error
+
+<b>3. La desinformación de las rutas</b> Existe una desconexión crítica entre la planificación centralizada y la ejecución operativa en terreno. Los planificadores toman decisiones sin conocimiento contextual real (ej: complejidad de rutas en Cusco vs. Lima), lo que impacta directamente en la eficiencia y el bienestar de los transportistas. Un sistema de planificación necesitaría ser más colaborativa y basada en datos reales de campo.
+
+<b>4. Problemas con la comunicación durante incidentes:</b> Los protocolos para manejar imprevistos (retrasos, incumplimiento) son más reactivos y dependen de la comunicación interpersonal (llamadas, WhatsApp) en lugar de flujos automatizados dentro de una plataforma. Esto hace que la resolución de problemas sea lenta, poco escalable y difícil de trackea.
 
 ### 2.3. Needfinding.
 ### 2.3.1. User Personas.
