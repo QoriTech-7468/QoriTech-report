@@ -353,6 +353,14 @@ Ambos perfiles coinciden en la importancia de **gestionar incidencias** y **mant
 
 ### 2.3.4. Empathy Mapping.
 
+**Jorge Caceres**
+
+![empathy map jorge caceres](Resources/Jorge%20Caceres%20empathy%20mapping.png)
+
+**Luis Gutiérrez**
+
+![empathy map luis gutiérrez](Resources/Luis%20Gutiérrez%20empathy%20mapping.png)
+
 ### 2.4. Big Picture EventStorming.
 
 ### 2.5. Ubiquitous Language.
