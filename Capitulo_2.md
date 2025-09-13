@@ -273,7 +273,7 @@
     <b>Edad:</b> 27 años <br>
     <b>Distrito:</b> Cusco <br>
     <b>Inicio de la entrevista:</b>  0:55 <br>
-    <b> Resumen:</b> es un radiotransportista en la empresa de RM emprendimientos <br>
+    <b> Resumen:</b> es un radiotransportista en la empresa de RM emprendimientos, esta encargado del monitoreo y coordinación de los pedidos. Luego, nos menciona que su empresa utiliza el aplicativo "Beetrack" que le permite mantener un monitoreo constante del estado de los pedidos. Sin embargo, este aplicativo posee inconvenientes con la geolocalización, no identifica la ubicación exacta del cliente y eso confunde y frustra a los transportistas encargados. Siguiendo con la entrevista, nos menciona que la manera que registran los productos que ingresan a los camiones es con dos personas que van a la localidad y se encarga de verificar si esta todo en orden. Además, la manera en la que subsanan alguna perdida de producto, es por medio de los transportistas que se hacen responsables. En el caso de la planificación de las rutas, nos da su opinión de cómo los planificadores que trabajan en Lima, desconocen lo complicado que puede ser las rutas en Cusco y por ello, extienden las horas laborales de los transportistas. Finalmente, nos comenta cómo arreglan los problemas de retraso o incumplimiento de entregas y esto lo realizan llamando al encargado del camión, luego lo redirigen al área de ventas y este comunica al cliente mismo. <br>
     <p>
    </td>
    <td>
@@ -281,7 +281,7 @@
     <b>Entrevistado:</b>Eliana Paullo Palma<br>
     <b>Inicio de la entrevista:</b> 
     <b>Edad:</b> 49 años <br>
-    <b>Distrito:</b> Lima <br>
+    <b>Distrito:</b> Cusco <br>
     <b>Inicio de la entrevista:</b>  0:17 <br>
     <b> Resumen:</b> Eliana Paullo es una administradora de la empresa MR emprendimientos, esta encargada de la planificación de los camiones, el monitoreo de personal y transportes, evaluar y ayudar al personal. Después, nos menciona que todo el personal de la empresa, por camión, usa el aplicativo "Beetrack", el cual le ayuda a monitorear el porcentaje de avance que posee cada camión y los clientes y productos asignados a cada camión. Además, utilizan GPS para mantener un control de las rutas de los camiones y del uso de sensores, ya que los productos deben mantenerse refrigerados y este le alerta si esta o no activado el refrigerante. Los principales incidentes que sufrieron son: Confunción en el cargamento del camión, a causa de la forma en cómo estan divididos los camiones, y el daño de los productos y la compensación económica por los mismos. Luego, nos comenta cómo realizan la planificación de las rutas y cómo lidian con problemas que pueden ocurrir el mismo dia de entrega. Esto lo realizan de manera manual, con llamadas y mensajes a los clientes para informarle de los retrasos. Adicionalmente, nos comenta que se utiliza bastante Whatsapp para la coordinación de pedidos para los diferentes conductores. Finalmente, nos comento su sugerencia para mejorar las herramientas que usan, este seria la Opción para identificar a clientes complicados y deribarlos a un plan de pago adelantado para evitar problemas al momento de realizar las entregas. <br>
    <p>
@@ -325,7 +325,7 @@ Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en 
 
 <tr>
 
-<td>Características</td>
+<td>Personas con </td>
 <td>Mención</td>
 <td>Porcentaje</td>
 <td>Evidencia</td>
@@ -334,7 +334,16 @@ Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en 
 
 <tr>
 
-<td>Características</td>
+<td>Uso de algún aplicativo</td>
+<td>2/3</td>
+<td></td>
+<td>Evidencia</td>
+
+</tr>
+
+<tr>
+
+<td>Problemas con las rutas </td>
 <td>Mención</td>
 <td>Porcentaje</td>
 <td>Evidencia</td>
@@ -343,7 +352,7 @@ Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en 
 
 <tr>
 
-<td>Características</td>
+<td>Problemas con los clientes</td>
 <td>Mención</td>
 <td>Porcentaje</td>
 <td>Evidencia</td>
@@ -352,7 +361,7 @@ Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en 
 
 <tr>
 
-<td>Características</td>
+<td></td>
 <td>Mención</td>
 <td>Porcentaje</td>
 <td>Evidencia</td>
@@ -384,8 +393,8 @@ Se realizo el analisis de 3 entrevistas a los administradores con experiencia en
 
 <tr>
 
-<td>Características</td>
-<td>Mención</td>
+<td>Utilizan aplicativos</td>
+<td>3/3</td>
 <td>Porcentaje</td>
 <td>Evidencia</td>
 
@@ -393,8 +402,8 @@ Se realizo el analisis de 3 entrevistas a los administradores con experiencia en
 
 <tr>
 
-<td>Características</td>
-<td>Mención</td>
+<td>Problemas de planificación</td>
+<td>2/3</td>
 <td>Porcentaje</td>
 <td>Evidencia</td>
 
@@ -402,8 +411,8 @@ Se realizo el analisis de 3 entrevistas a los administradores con experiencia en
 
 <tr>
 
-<td>Características</td>
-<td>Mención</td>
+<td>Uso de metodos fisicos, cómo boleta</td>
+<td>3/3</td>
 <td>Porcentaje</td>
 <td>Evidencia</td>
 
@@ -411,8 +420,8 @@ Se realizo el analisis de 3 entrevistas a los administradores con experiencia en
 
 <tr>
 
-<td>Características</td>
-<td>Mención</td>
+<td>Monitoreo constante de los pedidos</td>
+<td>2/3</td>
 <td>Porcentaje</td>
 <td>Evidencia</td>
 
