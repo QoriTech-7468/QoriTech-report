@@ -6,6 +6,59 @@
 ### 4.2.1. Organization Systems.
 ### 4.2.2. Labeling Systems.
 ### 4.2.3. SEO Tags and Meta Tags
+
+### 1. Landing Page
+#### Charset
+```html
+<meta charset="utf-8">
+```
+Define la codificación de caracteres como UTF-8, garantizando que se muestren correctamente acentos, la ñ y símbolos especiales en cualquier idioma.
+
+#### Viewport (responsive)
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1">
+```
+Hace que la página sea responsiva, adaptándose automáticamente a diferentes tamaños de pantalla (computadora, tablet, móvil) para una visualización óptima y kegible en cualquier tamaño de pantalla.
+
+#### Title (SEO)
+```html
+<title>QoriTech |Improve routes and control your transports</title>
+```
+Define el título de la página que aparece en la pestaña del navegador y en los resultados de búsqueda. Debe ser claro, conciso y relevante, adaptado al idioma y público objetivo de la landing page.
+
+#### Meta Description (SEO)
+```html
+<meta name="description" content="Platform that improves your transportation routes and times, as well as helping you manage transportation in a simple and stress-free way.">
+```
+Proporciona un resumen breve y atractivo del contenido de la página. Es lo que aparece como snippet en Google, por lo que debe estar escrito en el idioma de la página y enfocado en atraer clics.
+
+#### Meta Keywords (SEO, en desuso para Google)
+```html
+<meta name="keywords" content="Transport, administrators, route management, transport management, role assignment, suppliers">
+```
+Esta línea de código especifíca palabras clave para el contenido de la página. Hoy en día ya no es usado por google.
+
+#### Meta Author
+```html
+<meta name="author" content="QoriTech Team">
+```
+Identifica al creador o responsable del contenido.
+
+#### Meta Language
+```html
+<meta name="language" content="en">
+```
+Esta línea de código declara el idioma principal del contenido de la página. Su función es informar a
+los navegadores que el texto de la landing page está en inglés.
+
+#### Meta Copyright
+```html
+<meta name="copyright" content="QoriTech 2025">
+```
+Indica la entidad propietaria de los derechos de autor y el año correspondiente.
+
+### 2. Web Application (Frontend) 
+
 ### 4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
 
