@@ -1,34 +1,212 @@
 ## Capítulo III: Requirements Specification
 ### 3.1. User Stories.
 
-<table border="1" style="border-collapse:collapse; width:100%; table-layout:fixed;"> <tr> <th style="width:15%;">Epic /<br> Story/<br>ID</th> <th style="width:15%;">Título</th> <th style="width:35%;">Descripción</th> <th style="width:25%;">Criterios de Aceptación</th> <th style="width:10%;">Relacionado con<br>(Epic ID)</th> </tr> <!-- Epic 01 --> <tr> <td>EP01</td> <td>Registro y autenticación</td> <td> <b>Como usuario</b>, quiero poder registrar, iniciar sesión, recuperar mi contraseña y cambiarla, <br> <p>para poder acceder a la plataforma y mantener mi cuenta segura.</p> </td> <td>-</td> <td>-</td> </tr> <!-- Epic 02 --> <tr> <td>EP02</td> <td>Roles y permisos</td> <td> <b>Como administrador</b>, quiero administrar los diferentes perfiles bajo mi cuenta y otorgarles los permisos pertinentes, <br> <p>para que realicen sus trabajos sin que personal no autorizado acceda a información reservada.</p> </td> <td>-</td> <td>-</td> </tr> <!-- Epic 03 --> <tr> <td>EP03</td> <td>Suscripciones y organización</td> <td> <b>Como usuario</b>, quiero manejar y monitorear mis suscripciones, <br> <p>para poder crear y gestionar una mayor cantidad de organizaciones y asignarles su respectivo personal.</p> </td> <td>-</td> <td>-</td> </tr> <!-- Epic 04 --> <tr> <td>EP04</td> <td>Gestión de clientes</td> <td> <b>Como administrador</b>, quiero controlar la información, estado y puntos de entrega de clientes frecuentes, <br> <p>para agilizar la asignación de zonas de despacho a transportistas.</p> </td> <td>-</td> <td>-</td> </tr> <!-- Epic 05 --> <tr> <td>EP05</td> <td>Ubicaciones</td> <td> <b>Como administrador</b>, quiero registrar, organizar y gestionar ubicaciones relacionadas con las operaciones de transporte, <br> <p>para optimizar la planificación de rutas y la logística de entregas.</p> </td> <td>-</td> <td>-</td> </tr> <!-- Epic 06 --> <tr> <td>EP06</td> <td>Flota y Recursos</td> <td> <b>Como administrador</b>, quiero gestionar el estado de los vehículos y los recursos de la flota, <br> <p>para garantizar que las unidades estén disponibles, en buen estado y listas para operar.</p> </td> <td>-</td> <td>-</td> </tr> <!-- Epic 07 --> <tr> <td>EP07</td> <td>Monitoreo y control de ruta</td> <td> <b>Como transportista</b>, quiero actualizar los estados de cada pedido a lo largo de la ruta de distribución, <br> <p>para proporcionar visibilidad sobre mi progreso y garantizar que administración reciba información actualizada.</p> </td> <td>-</td> <td>-</td> </tr> <!-- Epic 08 --> <tr> <td>EP08</td> <td>Incidencias</td> <td> <b>Como transportista</b>, quiero reportar eventos inesperados que afecten la operación de transporte (retrasos, problemas mecánicos, clientes ausentes), <br> <p>para que los administradores reciban notificaciones y puedan resolver o mitigar los problemas oportunamente.</p> </td> <td>-</td> <td>-</td> </tr> <!-- Epic 09 --> <tr> <td>EP09</td> <td>Reportes y análisis</td> <td> <b>Como administrador</b>, quiero generar reportes y análisis detallados sobre el rendimiento de mis vehículos, <br> <p>para optimizar la eficiencia, mejorar las rutas y aumentar la satisfacción del cliente.</p> </td> <td>-</td> <td>-</td> </tr> 
-<tr> <th style="width:15%;">Epic /<br> Story/<br>ID</th> <th style="width:15%;">Título</th> <th style="width:35%;">Descripción</th> <th style="width:25%;">Criterios de Aceptación</th> <th style="width:10%;">Relacionado con<br>(Epic ID)</th> </tr> <!-- User Story 01 --> <tr> <td>US01</td> <td>Crear cuenta</td> <td> <b>Como usuario</b>, quiero crear una nueva cuenta, <br> <p>para estar registrado en la plataforma.</p> </td> <td> <b>Escenario 1: Creación de usuario</b><br> Dado que el usuario selecciona la opción de registro de cuenta,<br> Cuando ingresa los datos correspondientes,<br> Entonces se le informa que su cuenta se creó con éxito.<br><br>  <b>Escenario 2: Usuario ya registrado</b><br>
-  Dado que el usuario selecciona la opción de registro de cuenta,<br>
-  Cuando ingresa los datos correspondientes,<br>
-  Entonces la aplicación le avisa que ya existe una cuenta con ese nombre o correo.
+<table border="1" style="border-collapse:collapse; width:100%; table-layout:fixed;">
+  <tr><th style="width:15%;">Epic /<br> Story/<br>ID</th>    <th style="width:15%;">Título</th><th style="width:35%;">Descripción</th><th style="width:25%;">Criterios de Aceptación</th><th style="width:10%;">Relacionado con<br>(Epic ID)</th></tr>
+  <!-- Epic 01 -->
+  <tr>
+    <td>EP01</td>
+    <td>Registro y autenticación</td>
+    <td>
+      <b>Como usuario</b>, quiero poder registrar, iniciar sesión, recuperar mi contraseña y cambiarla,
+      <p>para poder acceder a la plataforma y mantener mi cuenta segura.</p>
+    </td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <!-- Epic 02 -->
+  <tr>
+    <td>EP02</td>
+    <td>Roles y permisos</td>
+    <td>
+      <b>Como administrador</b>, quiero administrar los diferentes perfiles bajo mi cuenta y otorgarles los permisos pertinentes,
+      <p>para que realicen sus trabajos sin que personal no autorizado acceda a información reservada.</p>
+    </td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <!-- Epic 03 -->
+  <tr>
+    <td>EP03</td>
+    <td>Suscripciones y organización</td>
+    <td>
+      <b>Como usuario</b>, quiero manejar y monitorear mis suscripciones,
+      <p>para poder crear y gestionar una mayor cantidad de organizaciones y asignarles su respectivo personal.</p>
+    </td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <!-- Epic 04 -->
+  <tr>
+    <td>EP04</td>
+    <td>Gestión de clientes</td>
+    <td>
+      <b>Como administrador</b>, quiero controlar la información, estado y puntos de entrega de clientes frecuentes,
+      <p>para agilizar la asignación de zonas de despacho a transportistas.</p>
+    </td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <!-- Epic 05 -->
+  <tr>
+    <td>EP05</td>
+    <td>Ubicaciones</td>
+    <td>
+      <b>Como administrador</b>, quiero registrar, organizar y gestionar ubicaciones relacionadas con las operaciones de transporte,
+      <p>para optimizar la planificación de rutas y la logística de entregas.</p>
+    </td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <!-- Epic 06 -->
+  <tr>
+    <td>EP06</td>
+    <td>Flota y Recursos</td>
+    <td>
+      <b>Como administrador</b>, quiero gestionar el estado de los vehículos y los recursos de la flota,
+      <p>para garantizar que las unidades estén disponibles, en buen estado y listas para operar.</p>
+    </td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <!-- Epic 07 -->
+  <tr>
+    <td>EP07</td>
+    <td>Monitoreo y control de ruta</td>
+    <td>
+      <b>Como transportista</b>, quiero actualizar los estados de cada pedido a lo largo de la ruta de distribución,
+      <p>para proporcionar visibilidad sobre mi progreso y garantizar que administración reciba información actualizada.</p>
+    </td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <!-- Epic 08 -->
+  <tr>
+    <td>EP08</td>
+    <td>Incidencias</td>
+    <td>
+      <b>Como transportista</b>, quiero reportar eventos inesperados que afecten la operación de transporte (retrasos, problemas mecánicos, clientes ausentes),
+      <p>para que los administradores reciban notificaciones y puedan resolver o mitigar los problemas oportunamente.</p>
+    </td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <!-- Epic 09 -->
+  <tr>
+    <td>EP09</td>
+    <td>Reportes y análisis</td>
+    <td>
+      <b>Como administrador</b>, quiero generar reportes y análisis detallados sobre el rendimiento de mis vehículos,
+      <p>para optimizar la eficiencia, mejorar las rutas y aumentar la satisfacción del cliente.</p>
+    </td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+
+  <!-- Separador de secciones -->
+  <tr>
+    <th style="width:15%;">Epic /<br> Story/<br>ID</th>
+    <th style="width:15%;">Título</th>
+    <th style="width:35%;">Descripción</th>
+    <th style="width:25%;">Criterios de Aceptación</th>
+    <th style="width:10%;">Relacionado con<br>(Epic ID)</th>
+  </tr>
+
+  <!-- User Story 01 -->
+  <tr>
+    <td>US01</td>
+    <td>Crear cuenta</td>
+    <td>
+      <b>Como usuario</b>, quiero crear una nueva cuenta,
+      <p>para estar registrado en la plataforma.</p>
+    </td>
+    <td>
+      <b>Escenario 1: Creación de usuario</b><br>
+      Dado que el usuario selecciona la opción de registro de cuenta,<br>
+      Cuando ingresa los datos correspondientes,<br>
+      Entonces se le informa que su cuenta se creó con éxito.<br><br>
+      <b>Escenario 2: Usuario ya registrado</b><br>
+      Dado que el usuario selecciona la opción de registro de cuenta,<br>
+      Cuando ingresa los datos correspondientes,<br>
+      Entonces la aplicación le avisa que ya existe una cuenta con ese nombre o correo.
+    </td>
+    <td>EP01</td>
+  </tr>
+<!-- User Story 02 -->
+<tr>
+<td>US02</td>
+<td>Ingreso a la plataforma</td>
+<td>
+<b>Como usuario</b>, quiero poder ingresar con mi cuenta,
+<p>para acceder a la plataforma.</p>
+</td>
+<td>
+<b>Escenario 1: Inicio de sesión</b><br>
+Dado que el usuario selecciona la opción iniciar sesión,<br>
+Cuando ingresa su cuenta y contraseña correcta,<br>
+Entonces la plataforma le permite el acceso.<br><br>
+<b>Escenario 2: Error en iniciar sesión</b><br>
+Dado que el usuario selecciona la opción iniciar sesión,<br>
+Cuando no ingresa la contraseña o nombre correctos,<br>
+Entonces aparece un mensaje que le dice que el usuario o contraseña no son correctos.
 </td>
 <td>EP01</td>
-</tr> <!-- User Story 02 --> <tr> <td>US02</td> <td>Ingreso a la plataforma</td> <td> <b>Como usuario</b>, quiero poder ingresar con mi cuenta, <br> <p>para acceder a la plataforma.</p> </td> <td> <b>Escenario 1: Inicio de sesión</b><br> Dado que el usuario selecciona la opción iniciar sesión,<br> Cuando ingresa su cuenta y contraseña correcta,<br> Entonces la plataforma le permite el acceso.<br><br>
-  <b>Escenario 2: Error en iniciar sesión</b><br>
-  Dado que el usuario selecciona la opción iniciar sesión,<br>
-  Cuando no ingresa la contraseña o nombre correctos,<br>
-  Entonces aparece un mensaje que le dice que el usuario o contraseña no son correctos.
-</td>
-<td>EP01</td> 
 </tr>
-</tr> <!-- User Story 03 --> <tr> <td>US03</td> <td>Creación de rol de equipo de transporte</td> <td> <b>Como administrador</b>, quiero crear roles de equipo de transporte,<br> <p>para organizar a los equipos.</p> </td> <td> <b>Escenario 1: Creación exitosa</b><br> Dado que el administrador entra a la opción de gestión de roles,<br> Cuando ingresa un nombre y descripción válidos para un nuevo rol,<br> Entonces el sistema registra el rol y confirma su creación.<br><br> <b>Escenario 2: Falta de información</b><br>
-  Dado que el administrador entra a la opción de gestión de roles,<br>
-  Cuando intenta guardar un rol sin nombre o datos obligatorios,<br>
-  Entonces el sistema muestra un mensaje de error indicando la falta de información.
+
+<!-- User Story 03 -->
+<tr>
+<td>US03</td>
+<td>Creación de rol de equipo de transporte</td>
+<td>
+  <b>Como administrador</b>, quiero crear roles de equipo de transporte,
+  <p>para organizar a los equipos.</p>
+</td>
+<td>
+<b>Escenario 1: Creación exitosa</b><br>
+Dado que el administrador entra a la opción de gestión de roles,<br>
+Cuando ingresa un nombre y descripción válidos para un nuevo rol,<br>
+Entonces el sistema registra el rol y confirma su creación.<br><br>
+<b>Escenario 2: Falta de información</b><br>
+Dado que el administrador entra a la opción de gestión de roles,<br>
+Cuando intenta guardar un rol sin nombre o datos obligatorios,<br>
+Entonces el sistema muestra un mensaje de error indicando la falta de información.
 </td>
 <td>EP02</td>
-</tr> <!-- User Story 04 --> <tr> <td>US04</td> <td>Gestión de permisos</td> <td> <b>Como administrador con suscripción</b>, quiero dar permisos necesarios a los miembros de los equipos,<br> <p>para que tengan acceso solo a la información o acciones pertinentes a su rol laboral.</p> </td> <td> <b>Escenario 1: Permiso asignado</b><br> Dado que el administrador selecciona a un miembro del equipo,<br> Cuando le asigna un permiso específico relacionado a su rol,<br> Entonces el sistema registra la asignación y confirma que el permiso fue otorgado.<br><br> <b>Escenario 2: Permiso denegado</b><br>
-  Dado que el administrador selecciona a un miembro del equipo,<br>
-  Cuando intenta asignar un permiso no permitido por la suscripción,<br>
-  Entonces el sistema muestra un mensaje informando que no es posible otorgar ese permiso.
+</tr>
+
+<!-- User Story 04 -->
+<tr>
+<td>US04</td>
+<td>Gestión de permisos</td>
+<td>
+<b>Como administrador con suscripción</b>, quiero dar permisos necesarios a los miembros de los equipos,
+<p>para que tengan acceso solo a la información o acciones pertinentes a su rol laboral.</p>
+</td>
+<td>
+<b>Escenario 1: Permiso asignado</b><br>
+Dado que el administrador selecciona a un miembro del equipo,<br>
+Cuando le asigna un permiso específico relacionado a su rol,<br>
+Entonces el sistema registra la asignación y confirma que el permiso fue otorgado.<br><br>
+<b>Escenario 2: Permiso denegado</b><br>
+Dado que el administrador selecciona a un miembro del equipo,<br>
+Cuando intenta asignar un permiso no permitido por la suscripción,<br>
+Entonces el sistema muestra un mensaje informando que no es posible otorgar ese permiso.
 </td>
 <td>EP02</td>
-</tr> <!-- User Story 05 --> <tr> <td>US05</td> <td>Gestión de roles del equipo de transporte</td> <td> <b>Como administrador</b>, quiero actualizar o modificar los diferentes roles del equipo de transporte,<br> <p>para renombrar, deshabilitar o habilitar los roles pertinentes a cada equipo de trabajo.</p> </td> <td> <b>Escenario 1: Rol renombrado</b><br> Dado que el administrador selecciona un rol existente,<br> Cuando edita su nombre y guarda los cambios,<br> Entonces el sistema actualiza el rol y confirma la modificación.<br><br>
+</tr>
+<!-- User Story 05 -->
+<tr>
+<td>US05</td>
+<td>Gestión de roles del equipo de transporte</td>
+<td>
+<b>Como administrador</b>, quiero actualizar o modificar los diferentes roles del equipo de transporte,<br>
+<p>para renombrar, deshabilitar o habilitar los roles pertinentes a cada equipo de trabajo.</p>
+</td>
+<td>
+<b>Escenario 1: Rol renombrado</b><br>
+Dado que el administrador selecciona un rol existente,<br>
+Cuando edita su nombre y guarda los cambios,<br>
+Entonces el sistema actualiza el rol y confirma la modificación.<br><br>
 <b>Escenario 2: Rol habilitado</b><br>
 Dado que un rol estaba deshabilitado,<br>
 Cuando el administrador lo habilita nuevamente,<br>
@@ -39,14 +217,42 @@ Cuando el administrador lo deshabilita,<br>
 Entonces el sistema cambia su estado a inactivo y lo bloquea para nuevas asignaciones.
 </td>
 <td>EP02</td>
-</tr> <!-- User Story 06 --> <tr> <td>US06</td> <td>Suscripción a planes</td> <td> <b>Como usuario</b>, quiero suscribirme a un plan de suscripción,<br> <p>para poder acceder a los beneficios que este ofrece (ej. más cuentas, plan mensual).</p> </td> <td> <b>Escenario 1: Suscripción exitosa</b><br> Dado que el usuario selecciona un tipo de plan,<br> Cuando ingresa la información de pago y confirma la suscripción,<br> Entonces el sistema activa el plan y habilita los beneficios asociados.<br><br>
- <b>Escenario 2: Falta de información</b><br>
-  Dado que el usuario intenta suscribirse,<br>
-  Cuando omite información obligatoria de pago o selección de plan,<br>
-  Entonces el sistema muestra un mensaje de error indicando la falta de datos.
+</tr>
+
+<!-- User Story 06 -->
+<tr>
+<td>US06</td>
+<td>Suscripción a planes</td>
+<td>
+<b>Como usuario</b>, quiero suscribirme a un plan de suscripción,<br>
+<p>para poder acceder a los beneficios que este ofrece (ej. más cuentas, plan mensual).</p>
+</td>
+<td>
+<b>Escenario 1: Suscripción exitosa</b><br>
+Dado que el usuario selecciona un tipo de plan,<br>
+Cuando ingresa la información de pago y confirma la suscripción,<br>
+Entonces el sistema activa el plan y habilita los beneficios asociados.<br><br>
+<b>Escenario 2: Falta de información</b><br>
+Dado que el usuario intenta suscribirse,<br>
+Cuando omite información obligatoria de pago o selección de plan,<br>
+Entonces el sistema muestra un mensaje de error indicando la falta de datos.
 </td>
 <td>EP03</td>
-</tr> <!-- User Story 07 --> <tr> <td>US07</td> <td>Gestión de perfil de la empresa</td> <td> <b>Como usuario con suscripción</b>, quiero crear y modificar el perfil de la empresa,<br> <p>para personalizar la aplicación en base a la información de esta.</p> </td> <td> <b>Escenario 1: Empresa creada</b><br> Dado que el usuario accede a la opción de perfil de empresa,<br> Cuando completa la información requerida y guarda,<br> Entonces el sistema registra el perfil de la empresa.<br><br>
+</tr>
+
+<!-- User Story 07 -->
+<tr>
+<td>US07</td>
+<td>Gestión de perfil de la empresa</td>
+<td>
+<b>Como usuario con suscripción</b>, quiero crear y modificar el perfil de la empresa,<br>
+<p>para personalizar la aplicación en base a la información de esta.</p>
+</td>
+<td>
+<b>Escenario 1: Empresa creada</b><br>
+Dado que el usuario accede a la opción de perfil de empresa,<br>
+Cuando completa la información requerida y guarda,<br>
+Entonces el sistema registra el perfil de la empresa.<br><br>
 <b>Escenario 2: Empresa modificada</b><br>
 Dado que el usuario ya tiene un perfil registrado,<br>
 Cuando actualiza la información de la empresa y guarda,<br>
@@ -57,26 +263,50 @@ Cuando omite datos obligatorios,<br>
 Entonces el sistema muestra un mensaje indicando qué información falta.
 </td>
 <td>EP03</td>
- <!-- User Story 08 --> <tr> <td>US08</td> <td>Asignación del personal</td> <td> <b>Como usuario</b>, quiero agregar al personal al perfil de la empresa,<br> <p>para hacer un seguimiento de sus actividades.</p> </td> <td> <b>Escenario 1: Asignación exitosa</b><br> Dado que el usuario accede a la opción de gestión de personal,<br> Cuando ingresa los datos de un miembro válido,<br> Entonces el sistema lo asocia correctamente al perfil de la empresa.<br><br>
-  <b>Escenario 2: Asignación denegada</b><br>
-  Dado que el usuario intenta asignar a una persona,<br>
-  Cuando el sistema no encuentra la cuenta ingresada,<br>
-  Entonces el sistema muestra un mensaje de error indicando que el personal no existe.
-</td>EP03</td>
- <b>Escenario 2: Asignación denegada</b><br>
-  Dado que el usuario intenta asignar a una persona,<br>
-  Cuando el sistema no encuentra la cuenta ingresada,<br>
-  Entonces el sistema muestra un mensaje de error indicando que el personal no existe.
+</tr>
+
+<!-- User Story 08 -->
+<tr>
+<td>US08</td>
+<td>Asignación del personal</td>
+<td>
+<b>Como usuario</b>, quiero agregar al personal al perfil de la empresa,<br>
+<p>para hacer un seguimiento de sus actividades.</p>
+</td>
+<td>
+<b>Escenario 1: Asignación exitosa</b><br>
+Dado que el usuario accede a la opción de gestión de personal,<br>
+Cuando ingresa los datos de un miembro válido,<br>
+Entonces el sistema lo asocia correctamente al perfil de la empresa.<br><br>
+<b>Escenario 2: Asignación denegada</b><br>
+Dado que el usuario intenta asignar a una persona,<br>
+Cuando el sistema no encuentra la cuenta ingresada,<br>
+Entonces el sistema muestra un mensaje de error indicando que el personal no existe.
 </td>
 <td>EP03</td>
-</tr> <!-- User Story 09 --> <tr> <td>US09</td> <td>Registro de clientes</td> <td> <b>Como administrador</b>, quiero registrar clientes frecuentes con su punto de entrega y forma de contacto,<br> <p>para mantener una lista organizada.</p> </td> <td> <b>Escenario 1: Registro exitoso</b><br> Dado que el administrador accede a la opción de registro de clientes,<br> Cuando ingresa la información completa y válida,<br> Entonces el sistema guarda al cliente y confirma el registro.<br><br>
-  <b>Escenario 2: Información insuficiente</b><br>
-  Dado que el administrador intenta registrar un cliente,<br>
-  Cuando no ingresa todos los campos requeridos,<br>
-  Entonces el sistema muestra un mensaje indicando qué información falta.
+</tr>
+
+<!-- User Story 09 -->
+<tr>
+<td>US09</td>
+<td>Registro de clientes</td>
+<td>
+<b>Como administrador</b>, quiero registrar clientes frecuentes con su punto de entrega y forma de contacto,<br>
+<p>para mantener una lista organizada.</p>
+</td>
+<td>
+<b>Escenario 1: Registro exitoso</b><br>
+Dado que el administrador accede a la opción de registro de clientes,<br>
+Cuando ingresa la información completa y válida,<br>
+Entonces el sistema guarda al cliente y confirma el registro.<br><br>
+<b>Escenario 2: Información insuficiente</b><br>
+Dado que el administrador intenta registrar un cliente,<br>
+Cuando no ingresa todos los campos requeridos,<br>
+Entonces el sistema muestra un mensaje indicando qué información falta.
 </td>
 <td>EP04</td>
-</tr> <!-- User Story 10 --> <tr> <td>US10</td> <td>Gestión de clientes</td> <td> <b>Como administrador</b>, quiero manejar el estado de los clientes,<br> <p>para poder determinar si están o no disponibles.</p> </td> <td> <b>Escenario 1: Cliente habilitado</b><br> Dado que el cliente estaba inhabilitado,<br> Cuando el administrador lo habilita,<br> Entonces el sistema cambia su estado a activo y disponible.<br><br>
+</tr>
+<!-- User Story 10 --> <tr> <td>US10</td> <td>Gestión de clientes</td> <td> <b>Como administrador</b>, quiero manejar el estado de los clientes,<br> <p>para poder determinar si están o no disponibles.</p> </td> <td> <b>Escenario 1: Cliente habilitado</b><br> Dado que el cliente estaba inhabilitado,<br> Cuando el administrador lo habilita,<br> Entonces el sistema cambia su estado a activo y disponible.<br><br>
   <b>Escenario 2: Cliente deshabilitado</b><br>
   Dado que el cliente está activo,<br>
   Cuando el administrador lo deshabilita,<br>
