@@ -4,8 +4,15 @@
 ### 1.1.2. Perfiles de integrantes del equipo
 ### 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-La técnica de las 5W analiza una situación mediante preguntas básicas que, al combinarse, generan una visión completa de un evento, interés o contexto.  
-Por su parte, las 2H complementan las 5W al cuestionar los métodos y la cuantificación de eventos relacionados con el proyecto.
+**Antecedentes**
+
+El sector de transporte y logística enfrenta desafíos globales debido al aumento del comercio electrónico, la globalización y eventos disruptivos como la pandemia de COVID-19, que han incrementado la congestión vial, costos operativos y escasez de mano de obra. En el transporte de alimentos, las ineficiencias generan pérdidas de más de 6 millones de dólares anuales por empresa debido a daños y retrasos, con un desperdicio de 2.4 millones de libras de alimentos al año. En Perú, estos problemas se agravan por congestión vial y rutas improvisadas, especialmente en agroexportación y distribución de perecibles. Tecnologías como IoT permiten mejorar la trazabilidad, reducir costos en un 10-15% y minimizar pérdidas por robo en un 40%, optimizando rutas y monitoreo en tiempo real. Sin embargo, las soluciones actuales son fragmentadas, basadas en procesos manuales o herramientas como WhatsApp, que no ofrecen integración ni visibilidad completa.
+
+Las empresas de transporte enfrentan retrasos por tráfico, demoras en preparación de mercancía y clientes no preparados (locales cerrados o falta de pago), generando reportes manuales ineficientes vía WhatsApp. Estos problemas ocurren en rutas, puntos de entrega y vehículos, especialmente en horarios pico o rutas desconocidas, afectando a personal de Administración (planificación y monitoreo), transportistas (entregas y reportes) y clientes por falta de trazabilidad. Lo que las soluciones actuales no logran es una plataforma integral que centralice la planificación, monitoreo y reporte de incidencias en tiempo real.
+
+Qoritech aborda esta brecha con una plataforma SaaS que optimiza la gestión logística, enfocándose inicialmente en el transporte de perecibles en Perú, donde la digitalización es crítica. El éxito se medirá por la mejora en la eficiencia operativa y la satisfacción del cliente, reflejada en la adopción de la plataforma y el cumplimiento de metas de suscripción en el primer año.
+
+**Problematica**
 
 **5W**
 
