@@ -29,7 +29,7 @@
 <img src="./Resources/Capitulo_2/Logo_rutana.png" alt="Rutana"width="100" height="100">
 </th>
 <th style="width:22%">
-<img src="./Resources/Capitulo_2/Logo_simpliRoute.png" alt="SimpliRoute" width="100" height="100">
+<img src="./Resources/Capitulo_2/Logo_simpliroute.png" alt="SimpliRoute" width="100" height="100">
 </th>
 <th style="width:22%">
 <img src="./Resources/Capitulo_2/Logo_beetrack.png" alt="Beetrack" width="100" height="100">
