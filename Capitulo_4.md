@@ -1,5 +1,23 @@
 ##  Capítulo IV: Product Design
 ### 4.1. Style Guidelines.
+
+### **Espaciado**  
+El diseño de Rutana se apoya en un uso estratégico del espacio en blanco, que contribuye a una experiencia de navegación fluida y organizada. Cada sección mantiene un ancho máximo que evita la sobrecarga visual y asegura que el contenido respire adecuadamente. Los márgenes alrededor de bloques de texto, imágenes y tarjetas generan equilibrio visual, mientras que los rellenos internos en botones y secciones principales permiten destacar las acciones clave. Esta distribución pensada facilita la lectura y asegura que los elementos más relevantes, como los planes, testimonios o valores de la empresa, sobresalgan con claridad.
+
+### **Dimensiones para el tono de comunicación y lenguaje aplicado**  
+En Rutana, el tono de comunicación refleja cercanía y confianza, transmitiendo la misión de apoyar a negocios y profesionales en la gestión de sus operaciones logísticas. La voz de la marca es clara, sencilla y motivadora, con el objetivo de que los usuarios se sientan acompañados y seguros al interactuar con la plataforma.  
+El lenguaje es directo y accesible, pero conserva un nivel profesional que refuerza la seriedad del servicio. De esta forma, Rutana proyecta dinamismo y compromiso, generando un balance entre inspiración y confianza.
+
+### **Elementos de diseño**  
+El diseño visual de Rutana se basa en una estética limpia, moderna y enfocada en la claridad. La paleta de colores combina principalmente el azul, que transmite confianza y profesionalismo, con acentos en amarillo que resaltan las llamadas a la acción y generan dinamismo en la interfaz. La tipografía mantiene jerarquías claras: títulos de gran tamaño que capturan la atención, subtítulos intermedios que organizan el contenido y textos de apoyo con buena legibilidad en distintos dispositivos.  
+
+En cuanto a las formas, predominan los bordes redondeados en botones y tarjetas, aportando accesibilidad y cercanía al diseño. Esto se complementa con el uso de iconografía simple y fotografías contextuales, que refuerzan la propuesta de valor de la empresa mostrando personas y situaciones reales. La combinación de estos elementos garantiza que el usuario perciba la plataforma como profesional, pero también amigable y fácil de usar.
+
+### **Principios de diseño**  
+Los principios de diseño aplicados en Rutana buscan asegurar coherencia, claridad y facilidad de uso. El contraste juega un papel clave para resaltar los botones de acción, precios y testimonios, garantizando que siempre estén visibles y cumplan su función de guiar al usuario. La repetición de patrones visuales, como colores, estilos de tarjetas y tipografías, genera consistencia y familiaridad, reduciendo la necesidad de reaprender cada interacción.  
+
+La alineación refuerza el orden y la profesionalidad, asegurando que encabezados, párrafos, imágenes y listas mantengan una disposición armónica y fácil de seguir. Finalmente, la proximidad organiza los elementos de manera lógica: por ejemplo, los planes de suscripción se agrupan en un bloque que facilita la comparación, y los testimonios se presentan juntos para reforzar la credibilidad. Estos principios en conjunto permiten que la experiencia de usuario sea intuitiva, confiable y visualmente atractiva, alineada con la misión de Rutana de ofrecer una herramienta clara y eficiente.
+
 ### 4.1.1. General Style Guidelines.
 ### 4.1.2. Web Style Guidelines.
 ### 4.2. Information Architecture.
@@ -62,9 +80,9 @@ Indica la entidad propietaria de los derechos de autor y el año correspondiente
 ### 4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
 
-El sistema de navegación de esta landing page está meticulosamente diseñado para guiar al usuario de forma fluida. En la parte superior, la barra de navegación principal funciona como un índice claro, ofreciendo acceso rápido a las secciones clave de la página. Los enlaces como "Benefits", "About us" y "Testimonials" están estratégicamente ubicados para seguir una lógica de ventas: primero se presenta la solución, luego se construye la credibilidad y, finalmente, se ofrece prueba social para generar confianza. Los botones de "login" y "Get Start" están resaltados para funcionar como los principales llamados a la acción (CTAs), accesibles en todo momento, lo que facilita que el usuario inicie el proceso de registro en cuanto se sienta listo.
+El sistema de navegación de esta landing page está meticulosamente diseñado para guiar al usuario de forma fluida. En la parte superior, la barra de navegación principal funciona como un índice claro, ofreciendo acceso rápido a las secciones clave de la página. Los enlaces como "Features", "About us" y "Testimonials" están estratégicamente ubicados para seguir una lógica de ventas: primero se presenta la solución, luego se construye la credibilidad y, finalmente, se ofrece prueba social para generar confianza. Los botones de "login" y "Get Start" están resaltados para funcionar como los principales llamados a la acción (CTAs), accesibles en todo momento, lo que facilita que el usuario inicie el proceso de registro en cuanto se sienta listo.
 
-El diseño utiliza el desplazamiento vertical como el principal mecanismo de navegación. El contenido está estructurado en secciones que cuentan una historia lógica. La primera sección presenta el problema y la solución. A continuación, la sección de "Benefits" desglosa la propuesta de valor con un enfoque en las ventajas clave, como la gestión de rutas, lo que ayuda al usuario a visualizar cómo el producto puede resolver sus problemas. Finalmente, la sección "About us" busca construir una conexión personal, presentando la misión, la visión, los valores y quienes conforman la empresa.
+El diseño utiliza el desplazamiento vertical como el principal mecanismo de navegación. El contenido está estructurado en secciones que cuentan una historia lógica. La primera sección presenta el problema y la solución. A continuación, la sección de "Features" desglosa la propuesta de valor con un enfoque en las ventajas clave, como la gestión de rutas, lo que ayuda al usuario a visualizar cómo el producto puede resolver sus problemas. Finalmente, la sección "About us" busca construir una conexión personal, presentando la misión, la visión, los valores y quienes conforman la empresa.
 
 Este sistema de navegación es intuitivo y efectivo porque no solo le dice al usuario dónde ir, sino que también le muestra por qué debería hacerlo. El diseño de la página anticipa las preguntas y objeciones más comunes y las aborda en un orden lógico, guiando al visitante desde una simple curiosidad hasta la acción de convertirse en un usuario registrado. Esta estructura bien pensada demuestra una arquitectura de información que va más allá de la simple página de inicio para abarcar un recorrido completo del usuario dentro del ecosistema del producto.
 
