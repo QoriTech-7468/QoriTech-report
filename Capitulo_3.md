@@ -687,7 +687,11 @@ Entonces se descarga el archivo en formato Excel.
 </table>
 
 ### 3.2. Impact Mapping.
+A continuación se presenta el Impact Map de Rutana, el cual permite visualizar de manera clara
+cómo las funcionalidades clave de la aplicación se alinean con los objetivos de negocio, considerando
+a los actores involucrados y los impactos esperados en su comportamiento.
 
+![impact mapping](./Resources/Capitulo_3/impact%20mapping.png)
 
 ### 3.3. Product Backlog.
 
