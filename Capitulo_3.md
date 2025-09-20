@@ -103,6 +103,18 @@
     <td>-</td>
   </tr>
 
+  <!-- Epic 10 -->
+  <tr>
+    <td>EP10</td>
+    <td>Landing Page e internacionalización</td>
+    <td>
+      <b>Como visitante</b>, quiero acceder a un sitio web estático bien diseñado, segmentado y disponible en múltiples idiomas,
+      <p>para informarme sobre la plataforma y facilitar mi decisión de registrarme.</p>
+    </td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+
   <!-- Separador de secciones -->
   <tr>
     <th style="width:15%;">Epic /<br> Story/<br>ID</th>
@@ -684,6 +696,69 @@ Entonces se descarga el archivo en formato Excel.
 <td>EP09</td>
 </tr>
 
+<!-- User Story 28 -->
+  <tr>
+    <td>US28</td>
+    <td>Diseño responsivo y navegación</td>
+    <td>
+      <b>Como visitante</b>, quiero que la landing page se adapte a cualquier dispositivo y tenga navegación clara,
+      <p>para explorar fácilmente la información sin importar si uso móvil, tablet o escritorio.</p>
+    </td>
+    <td>
+      <b>Escenario 1: Vista en dispositivos móviles</b><br>
+      Dado que el visitante abre la landing page en un celular,<br>
+      Cuando navega entre secciones,<br>
+      Entonces el contenido se adapta sin perder legibilidad ni usabilidad.<br><br>
+      <b>Escenario 2: Navegación intuitiva</b><br>
+      Dado que el visitante ingresa al sitio,<br>
+      Cuando usa el menú principal,<br>
+      Entonces puede acceder rápidamente a las secciones principales sin confusión.
+    </td>
+    <td>EP10</td>
+  </tr>
+
+  <!-- User Story 29 -->
+  <tr>
+    <td>US29</td>
+    <td>Secciones segmentadas</td>
+    <td>
+      <b>Como visitante del segmento empresa de transporte</b>, quiero ver una sección dedicada con beneficios y planes,
+      <p>para evaluar si la plataforma se ajusta a las necesidades de mi negocio.</p>
+    </td>
+    <td>
+      <b>Escenario 1: Visualización de planes</b><br>
+      Dado que el visitante navega a la sección de empresas de transporte,<br>
+      Cuando revisa el contenido,<br>
+      Entonces visualiza información sobre los planes premium y sus beneficios.<br><br>
+      <b>Escenario 2: Segmento correcto</b><br>
+      Dado que existen diferentes tipos de visitantes,<br>
+      Cuando un visitante del segmento "transportista independiente" ingresa,<br>
+      Entonces ve una sección adaptada a sus necesidades específicas.
+    </td>
+    <td>EP10</td>
+  </tr>
+
+  <!-- User Story 30 -->
+  <tr>
+    <td>US30</td>
+    <td>Internacionalización (i18n)</td>
+    <td>
+      <b>Como visitante internacional</b>, quiero poder seleccionar el idioma de la landing page (ej. español o inglés),
+      <p>para comprender claramente la propuesta de valor sin barreras idiomáticas.</p>
+    </td>
+    <td>
+      <b>Escenario 1: Selección de idioma</b><br>
+      Dado que el visitante está en la landing page,<br>
+      Cuando selecciona "Inglés" en el selector de idioma,<br>
+      Entonces todo el contenido se muestra en inglés.<br><br>
+      <b>Escenario 2: Idioma por defecto</b><br>
+      Dado que un visitante abre la página sin seleccionar idioma,<br>
+      Cuando el sistema detecta la configuración de su navegador,<br>
+      Entonces la landing page se muestra en el idioma más adecuado automáticamente.
+    </td>
+    <td>EP10</td>
+  </tr>
+  
 </table>
 
 ### 3.2. Impact Mapping.
