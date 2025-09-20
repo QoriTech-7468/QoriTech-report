@@ -1,0 +1,38 @@
+@startuml
+!define RECTANGLE class
+title System Context - Plataforma de Gestión de Entregas
+
+actor "Administrador (Web)" as Admin
+actor "Transportista (App Móvil)" as Driver
+actor "Almacén" as Warehouse
+actor "Cliente / Receptor" as Customer
+
+rectangle "Plataforma QoriTech" {
+  [Web App / Admin Dashboard]
+  [Mobile App / Driver]
+  [API Backend]
+  [Data Store (RDBMS)]
+  [Message Broker]
+  [Analytics Service]
+  [IoT Ingestion Gateway]
+}
+
+Admin --> [Web App / Admin Dashboard]
+Driver --> [Mobile App / Driver]
+Warehouse --> [API Backend]
+Customer --> [Web App / Admin Dashboard]
+[Mobile App / Driver] --> [API Backend]
+[Web App / Admin Dashboard] --> [API Backend]
+
+[API Backend] --> [Data Store (RDBMS)]
+[API Backend] --> [Message Broker]
+[IoT Ingestion Gateway] --> [API Backend]
+[API Backend] --> [Analytics Service]
+
+' External Systems
+[API Backend] ..> "Google Maps / GPS Provider" : geocoding & routes
+[API Backend] ..> "Notification Service (Push/Email/SMS)" : send alerts
+[API Backend] ..> "Payment Gateway" : (optional)
+[IoT Ingestion Gateway] ..> "IoT Devices (beacons, sensors)" 
+
+@enduml
