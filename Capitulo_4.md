@@ -241,13 +241,74 @@ El diseño utiliza el desplazamiento vertical como el principal mecanismo de nav
 Este sistema de navegación es intuitivo y efectivo porque no solo le dice al usuario dónde ir, sino que también le muestra por qué debería hacerlo. El diseño de la página anticipa las preguntas y objeciones más comunes y las aborda en un orden lógico, guiando al visitante desde una simple curiosidad hasta la acción de convertirse en un usuario registrado. Esta estructura bien pensada demuestra una arquitectura de información que va más allá de la simple página de inicio para abarcar un recorrido completo del usuario dentro del ecosistema del producto.
 
 ### 4.3. Landing Page UI Design.
+
+
 ### 4.3.1. Landing Page Wireframe.
+
+
+
+
+
+
+
 ### 4.3.2. Landing Page Mock-up.
+
+
 ### 4.4. Web Applications UX/UI Design.
+
+
 ### 4.4.1. Web Applications Wireframes.
+
+Inicio de Sesión
+![Login](Resources/Login.png)
+
+Creación de usuario
+![Register](Resources/Rgsiter.png)
+
+Manejo de Clientes:
+
+![User Management](<Resources/User management.png>)
+
+![User Management 2](<Resources/User management_2.png>)
+
+Manejo de Vehiculos y equipos asignados a estos:
+
+![alt text](Resources/Vehiculos.png)
+
+![alt text](<Resources/Vehiculos 2.png>)
+
+![alt text](<Resources/Vehiculos 3.png>)
+
+Manejo de clientes frecuentes:
+
+![alt text](Resources/Clients.png)
+
+![alt text](Resources/Clientes_2.png)
+
+Manejo de rutas:
+
+![alt text](Resources/Rutas.png)
+
+![alt text](Resources/Rutas_2.png)
+
+Manejo de las localidades activas para la ruta:
+
+![alt text](Resources/Localidades.png)
+
+Asignación de equipo para la ruta:
+
+![alt text](Resources/Equipos.png)
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+
 ### 4.4.2. Web Applications Mock-ups.
+
+
 ### 4.4.3. Web Applications User Flow Diagrams.
+
+
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level EventStorming.
