@@ -20,7 +20,17 @@
 ### 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level EventStorming.
 ### 4.6.2. Software Architecture Context Diagram.
+Este diagrama muestra una vista general del sistema dentro de su entorno,
+identificando a los actores externos (como administradores o transportistas) y cómo interactúan con el sistema.
+
+![software architecture context diagram](./Resources/Capitulo_4/context.png)
+
 ### 4.6.3. Software Architecture Container Diagrams.
+Aquí se describen los principales contenedores del sistema (landing page, web application, web service y base de datos). El diagrama detalla cómo se divide la aplicación en
+diferentes partes desplegables
+
+![software architecture container diagram](./Resources/Capitulo_4/container.png)
+
 ### 4.6.4. Software Architecture Components Diagrams.
 ### 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
