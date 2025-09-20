@@ -25,18 +25,18 @@
 <!-- Cabeceras -->
 <tr>
 <th colspan="2" style="width:12%">(En la cabecera colocar por cada competidor nombre y logo)</th>
-<th style="width:22%">Su Startup
-<img src="..." alt="Logo"width="100" height="100">
+<th style="width:22%">
+<img src="./Resources/Capitulo_2/Logo_rutana.png" alt="Rutana"width="100" height="100">
 </th>
-<th style="width:22%">SimpliRoute
-<img src="..." alt="Logo1" width="100" height="100">
+<th style="width:22%">
+<img src="./Resources/Capitulo_2/Logo_simpliRoute.png" alt="SimpliRoute" width="100" height="100">
 </th>
-<th style="width:22%">Beetrack
-<img src="..." alt="Logo2" width="100" height="100">
+<th style="width:22%">
+<img src="./Resources/Capitulo_2/Logo_beetrack.png" alt="Beetrack" width="100" height="100">
 </th>
    
-<th style="width:22%">FarEye
-<img src="..." alt="Logo3" width="100" height="100">
+<th style="width:22%">
+<img src="./Resources/Capitulo_2/Logo_fareye.png" alt="FarEye" width="100" height="100">
 </th>
 </tr>
 
@@ -314,10 +314,9 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
 
 ### 2.2.3. Análisis de entrevistas.
 
-
 #### Segmento 1: Transportistas
 
-Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en el sector. Con la información obtenida se puede identificar las características claves para el perfil de nuestros segmento objetivo de transportistas.  
+Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en el sector. Con la información obtenida se puede identificar las características claves para el perfil de nuestros segmento objetivo de transportistas.
 
 ##### Caracteristicas
 
@@ -331,7 +330,6 @@ Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en 
 <th>Evidencia</th>
 
 </tr>
-
 
 <tr>
 
@@ -425,11 +423,9 @@ Entrevistado 2: Los retrasos e incidencias son causados por factores que escapan
 
 <b>3. Problemas con los retrasos:</b>La principal causa de retrasos e ineficiencias no son fallas técnicas o de planificación de rutas, sino imprevistos originados en el punto de entrega (cliente ausente, sin dinero, local cerrado). Esto sugiere que cualquier solución tecnológica debe incluir mecanismos para mejorar la comunicación y preparación previa del cliente.
 
-
-
 #### Segmento 2: Administradores
 
-Se realizo el analisis de 3 entrevistas a los administradores con experiencia en el sector. Con la información obtenida se puede identificar las características claves para el perfil de nuestros segmento objetivo de transportistas. 
+Se realizo el analisis de 3 entrevistas a los administradores con experiencia en el sector. Con la información obtenida se puede identificar las características claves para el perfil de nuestros segmento objetivo de transportistas.
 
 ##### Caracteristicas
 
@@ -518,6 +514,7 @@ Se realizo el analisis de 3 entrevistas a los administradores con experiencia en
 <b>4. Problemas con la comunicación durante incidentes:</b> Los protocolos para manejar imprevistos (retrasos, incumplimiento) son más reactivos y dependen de la comunicación interpersonal (llamadas, WhatsApp) en lugar de flujos automatizados dentro de una plataforma. Esto hace que la resolución de problemas sea lenta, poco escalable y difícil de trackea.
 
 ### 2.3. Needfinding.
+
 ### 2.3.1. User Personas.
 
 En esta sección se presentan dos User Personas que representan los segmentos del proyecto: los Administradores y los Transportistas. Estos perfiles permiten comprender en profundidad las necesidades, motivaciones, frustraciones y comportamientos de los usuarios potenciales del sistema, el cual busca mejorar el seguimiento de rutas, la gestión de pedidos y el control de las operaciones de transporte.
@@ -532,37 +529,38 @@ El User Persona Luis Gutiérrez representa a los transportistas que realizan las
 
 ### 2.3.2. User Task Matrix.
 
-La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios realizan al utilizar la solución propuesta. Estas tareas, al clasificarse por su frecuencia e importancia, nos ayudan a priorizar qué funcionalidades de la aplicación deben ser desarrolladas con mayor énfasis para optimizar la experiencia.  
+La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios realizan al utilizar la solución propuesta. Estas tareas, al clasificarse por su frecuencia e importancia, nos ayudan a priorizar qué funcionalidades de la aplicación deben ser desarrolladas con mayor énfasis para optimizar la experiencia.
 
-Los segmentos considerados para este análisis son:  
-- **Administrador (Jorge Cáceres)**  
-- **Transportista (Luis Gutiérrez)**  
+Los segmentos considerados para este análisis son:
 
----
-
-### Task Matrix  
-
-| **Tarea** | **Jorge Cáceres (Administrador)** |  | **Luis Gutiérrez (Transportista)** |  |
-|-----------|-----------------------------------|--|------------------------------------|--|
-| Supervisar y controlar inventario de productos | Often | High | Sometimes | Medium |
-| Coordinar pedidos y entregas | Always | High | Often | High |
-| Revisar ingresos, costos y márgenes de venta | Often | High | Rarely | Low |
-| Comunicarse con clientes y proveedores | Often | High | Sometimes | Medium |
-| Gestionar incidencias en pedidos (faltantes, devoluciones) | Sometimes | High | Sometimes | Medium |
-| Optimizar rutas de distribución | Rarely | Medium | Always | High |
-| Confirmar entregas en destino | Sometimes | Medium | Always | High |
-| Cargar y despachar productos al camión | Sometimes | Low | Often | High |
-| Buscar herramientas para mejorar la gestión logística | Sometimes | Medium | Rarely | Low |
+- **Administrador (Jorge Cáceres)**
+- **Transportista (Luis Gutiérrez)**
 
 ---
 
-### Análisis  
+### Task Matrix
 
-El **administrador** se enfoca en el control y la eficiencia del negocio: supervisa, gestiona pedidos, revisa márgenes de venta y mantiene comunicación constante con los proveedores y demás áreas. Su prioridad está en asegurar que los productos estén disponibles y que las entregas se realicen sin contratiempos, lo cual impacta directamente en la rentabilidad.  
+| **Tarea**                                                  | **Jorge Cáceres (Administrador)** |        | **Luis Gutiérrez (Transportista)** |        |
+| ---------------------------------------------------------- | --------------------------------- | ------ | ---------------------------------- | ------ |
+| Supervisar y controlar inventario de productos             | Often                             | High   | Sometimes                          | Medium |
+| Coordinar pedidos y entregas                               | Always                            | High   | Often                              | High   |
+| Revisar ingresos, costos y márgenes de venta               | Often                             | High   | Rarely                             | Low    |
+| Comunicarse con clientes y proveedores                     | Often                             | High   | Sometimes                          | Medium |
+| Gestionar incidencias en pedidos (faltantes, devoluciones) | Sometimes                         | High   | Sometimes                          | Medium |
+| Optimizar rutas de distribución                            | Rarely                            | Medium | Always                             | High   |
+| Confirmar entregas en destino                              | Sometimes                         | Medium | Always                             | High   |
+| Cargar y despachar productos al camión                     | Sometimes                         | Low    | Often                              | High   |
+| Buscar herramientas para mejorar la gestión logística      | Sometimes                         | Medium | Rarely                             | Low    |
 
-El **transportista**, concentra sus esfuerzos en la ejecución operativa de las entregas: optimiza rutas, confirma entregas en destino y monitorea el estado del camión. Su rol está directamente ligado a la puntualidad y la confiabilidad de la distribución, lo que lo convierte en un eslabón esencial.  
+---
 
-Ambos perfiles coinciden en la importancia de **gestionar incidencias** y **mantener una comunicación fluida**, ya que cualquier error o retraso impacta tanto en la operación del administrador como en la del transportista. 
+### Análisis
+
+El **administrador** se enfoca en el control y la eficiencia del negocio: supervisa, gestiona pedidos, revisa márgenes de venta y mantiene comunicación constante con los proveedores y demás áreas. Su prioridad está en asegurar que los productos estén disponibles y que las entregas se realicen sin contratiempos, lo cual impacta directamente en la rentabilidad.
+
+El **transportista**, concentra sus esfuerzos en la ejecución operativa de las entregas: optimiza rutas, confirma entregas en destino y monitorea el estado del camión. Su rol está directamente ligado a la puntualidad y la confiabilidad de la distribución, lo que lo convierte en un eslabón esencial.
+
+Ambos perfiles coinciden en la importancia de **gestionar incidencias** y **mantener una comunicación fluida**, ya que cualquier error o retraso impacta tanto en la operación del administrador como en la del transportista.
 
 ### 2.3.3. User Journey Mapping.
 
@@ -573,8 +571,6 @@ Ambos perfiles coinciden en la importancia de **gestionar incidencias** y **mant
 **Luis Gutierrez**
 
 <img src="Resources/UJM-Transportista.png" alt="User Journey Mapping de Transportistas">
-
-
 
 ### 2.3.4. Empathy Mapping.
 
