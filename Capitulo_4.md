@@ -260,44 +260,44 @@ Este sistema de navegación es intuitivo y efectivo porque no solo le dice al us
 ### 4.4.1. Web Applications Wireframes.
 
 Inicio de Sesión
-![Login](Resources/Login.png)
+![Login](Resources/wireframes/WebAplication/Login.png)
 
 Creación de usuario
-![Register](Resources/Rgsiter.png)
+![Register](Resources/wireframes/WebAplication/Rgsiter.png)
 
 Manejo de Clientes:
 
-![User Management](<Resources/User management.png>)
+![User Management](<Resources/wireframes/WebAplication/ management.png>)
 
-![User Management 2](<Resources/User management_2.png>)
+![User Management 2](<Resources/wireframes/WebAplication/User management_2.png>)
 
 Manejo de Vehiculos y equipos asignados a estos:
 
-![alt text](Resources/Vehiculos.png)
+![alt text](Resources/wireframes/WebAplication/Vehiculos.png)
 
-![alt text](<Resources/Vehiculos 2.png>)
+![alt text](<Resources/wireframes/WebAplication/Vehiculos 2.png>)
 
-![alt text](<Resources/Vehiculos 3.png>)
+![alt text](<Resources/wireframes/WebAplication/Vehiculos 3.png>)
 
 Manejo de clientes frecuentes:
 
-![alt text](Resources/Clients.png)
+![alt text](Resources/wireframes/WebAplication/Clients.png)
 
-![alt text](Resources/Clientes_2.png)
+![alt text](Resources/wireframes/WebAplication/Clientes_2.png)
 
 Manejo de rutas:
 
-![alt text](Resources/Rutas.png)
+![alt text](Resources/wireframes/WebAplication/Rutas.png)
 
-![alt text](Resources/Rutas_2.png)
+![alt text](Resources/wireframes/WebAplication/Rutas_2.png)
 
 Manejo de las localidades activas para la ruta:
 
-![alt text](Resources/Localidades.png)
+![alt text](Resources/wireframes/WebAplication/Localidades.png)
 
 Asignación de equipo para la ruta:
 
-![alt text](Resources/Equipos.png)
+![alt text](Resources/wireframes/WebAplication/Equipos.png)
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
@@ -305,6 +305,48 @@ Asignación de equipo para la ruta:
 
 ### 4.4.2. Web Applications Mock-ups.
 
+Inicio de Sesión:
+
+![alt text](Resources/mockups/WebAplication/Login.png)
+
+Creación de cuenta:
+
+![alt text](Resources/mockups/WebAplication/Register.png)
+
+Manejo de Usuarios
+
+![alt text](<Resources/mockups/WebAplication/User management.png>)
+
+![alt text](<Resources/mockups/WebAplication/User management 2.png>)
+
+
+Manejo de Vehiculos y el equipo asignado a este:
+
+![alt text](Resources/mockups/WebAplication/Vehiculos.png)
+
+![alt text](<Resources/mockups/WebAplication/Vehiculos 2.png>)
+
+![alt text](<Resources/mockups/WebAplication/Vehiculos 3.png>)
+
+Manejo de Clientes frecuentes:
+
+![alt text](Resources/wireframes/WebAplication/Clients.png)
+
+![alt text](Resources/wireframes/WebAplication/Clientes_2.png)
+
+Listado de las Rutas programadas:
+
+![alt text](Resources/wireframes/WebAplication/Rutas.png)
+
+![alt text](Resources/wireframes/WebAplication/Rutas_2.png)
+
+Lista de localidades para la ruta:
+
+![alt text](Resources/wireframes/WebAplication/Localidades.png)
+
+Lista de equipos para la ruta:
+
+![alt text](Resources/wireframes/WebAplication/Equipos.png)
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
