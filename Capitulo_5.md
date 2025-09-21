@@ -300,6 +300,35 @@ Testimonios:
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
+Durante este sprint se completó el diseño e implementación del Landing Page del sistema, el cual forma parte del acceso inicial al sistema. Aunque no se implementaron endpoints tradicionales de tipo REST en este sprint, se documenta a continuación la URL del recurso publicado, junto con evidencia de despliegue, interacción y commits relacionados.
+
+**Descripción del Logro:**
+
+-Implementación del Landing Page estático.
+
+-Deployment del landing page.
+
+### Recursos del Sprint
+
+| Recurso      | Acción implementada   | Método HTTP | URL / Endpoint                                           | Link de repositorio                                      |
+| ------------ | --------------------- | ----------- | -------------------------------------------------------- | -------------------------------------------------------- |
+| Landing Page | Visualización inicial | GET         | https://qoritech-7468.github.io/Landing-Page-Repository/ | https://github.com/QoriTech-7468/Landing-Page-Repository |
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 1, el equipo de Qoritec se enfocó en el desarrollo de la **Landing Page**.
+Las actividades de implementación se llevaron a cabo de la siguiente manera:
+
+- Se crearon ramas específicas para cada sección o funcionalidad (`feature/[nombre-de-seccion]`)
+- Cada miembro del equipo asumió la responsabilidad de desarrollar una o más secciones de la Landing Page.
+- Se realizaron commits frecuentes, registrando avances de manera continua y detallada.
+- Las funcionalidades desarrolladas se integraron mediante Pull Requests hacia la rama `develop`.
+- Se mantuvo una comunicación constante mediante la plataforma Discord para coordinar avances y resolver dudas en tiempo real.
+
+Gracias a esta organización, se logró cumplir de manera efectiva el objetivo del sprint, garantizando que todos los integrantes contribuyeran de forma activa en el desarrollo de la Landing Page.
+
+##### Evidencia de Colaboración en GitHub
+
+![Captura Insights](./Resources/Capitulo_5/team-collaboration-insights-during-sprint-1.png)
