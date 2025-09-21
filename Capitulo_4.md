@@ -463,6 +463,15 @@ diferentes partes desplegables
 ![software architecture container diagram](./Resources/Capitulo_4/container.png)
 
 ### 4.6.4. Software Architecture Components Diagrams.
+
+**Component Diagram: Rutana App (Web App)** 
+Este diagrama representa la estructura de componentes dentro del frontend. Describe los módulos visuales y funcionales de la interfaz, como vistas, componentes compartidos y servicios de comunicación con el backend
+![software architecture component diagram web app](./Resources/Capitulo_4/web%20app%20component.png)
+
+**Component Diagram: Web Service**
+Este diagrama se enfoca en los componentes internos del contenedor backend (Web Service). Muestra los módulos y servicios que lo conforman, como controladores REST, servicios de dominio y repositorios
+![software architecture component diagram web service](./Resources/Capitulo_4/web%20service%20component.png)
+
 ### 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ### 4.8. Database Design.
