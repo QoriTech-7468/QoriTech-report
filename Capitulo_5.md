@@ -279,6 +279,18 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 1**, 
 
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
+Durante el Sprint 1, el equipo se enfocó exclusivamente en el desarrollo de la Landing Page de la plataforma Rutana. El objetivo principal fue construir una página pública funcional, atractiva visualmente y completamente responsiva, que comunique eficazmente la propuesta de valor de la plataforma a los usuarios potenciales. A lo largo del Sprint se diseñaron e implementaron secciones clave como Hero, Sobre Nosotros, Beneficios, Testimonios, Preguntas Frecuentes, etc.
+
+**Productos según alcance del Sprint:**
+**1. Landing Page**
+
+Durante el Sprint 1 se implementó la Landing Page de Rutana. Los principales avances fueron:
+- Diseño responsivo para diferentes tamaños de pantalla.
+- Creación de secciones: Hero, Sobre Nosotros, Features, Testimonios, Preguntas Frecuentes y Footer.
+- Aplicación de buenas prácticas de accesibilidad (etiquetado semántico, contraste adecuado).
+- Optimización inicial para motores de búsqueda (SEO básico).
+- Implementación de navegación fluida entre secciones.
+
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
