@@ -213,28 +213,76 @@ Cualquier commit realizado en la rama `main` será desplegado automáticamente e
 
 ### 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.X. Sprint n
+### 5.2.1. Sprint 1
 
-### 5.2.X.1. Sprint Planning n.
+A continuación, se expone la planificación de nuestro Sprint 1, orientado principalmente a la construcción de la landing page de Rutana. En esta primera fase, el equipo definió la meta del sprint, priorizó las historias de usuario más significativas y determinó los entregables esenciales que harán posible presentar una versión inicial funcional y con un diseño atractivo. Esta planificación busca garantizar una visión común entre todos los integrantes del equipo y establecer un punto de partida sólido para transmitir con claridad el valor de la plataforma a los futuros usuarios.
 
-### 5.2.X.2. Aspect Leaders and Collaborators.
+### 5.2.1.1. Sprint Planning 1.
 
-### 5.2.X.3. Sprint Backlog n.
+| Sprint #                            | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Date**                            | 2025-09-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Time**                            | 18:50 PM (GMT-5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Location**                        | Modalidad remota mediante la plataforma Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Prepared By**                     | Jesús Castillo Vidal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Attendees (to planning meeting)** | Castillo Vidal, Jesús Iván / Costa Morales, Christofer William / Gordillo Ramos, Santiago Alonso / Guzmán Cabrejos, Yaku Mateo / Medina Merma, Ingrid Melani                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Sprint 0 Review Summary**         | Dado que este es el sprint inicial, no se presenta un resumen del sprint anterior.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Sprint 0 Retrospective Summary**  | Dado que este es el sprint inicial, no se presenta una retroalimentación del sprint anterior.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Sprint 1 Goal**                   | **Nuestro propósito es** diseñar y entregar una primera versión de la landing page para nuestra plataforma de gestión de rutas, basada en entrevistas con administradores y transportistas de una empresa distribuidora. **Creemos que esto aportará** claridad y valor inicial a los usuarios potenciales, comunicando el propósito del producto y la visión del equipo. **Esto se confirmará cuando** los visitantes puedan comprender fácilmente los beneficios de la plataforma y muestren interés en conocer más o contactarnos a través de la landing page. |
+| **Sprint 1 Velocity**               | 15 puntos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Sum of Story Points**             | 15 puntos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-### 5.2.X.4. Development Evidence for Sprint Review.
+### 5.2.1.2. Aspect Leaders and Collaborators
 
-### 5.2.X.5. Execution Evidence for Sprint Review.
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** correspondiente al Sprint 1. Cada aspecto se relaciona con tareas clave del sprint, asignando un **líder (L)** responsable principal y **colaboradores (C)** que apoyan en su ejecución.
 
-### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+| Team Member (Last Name, First Name) | GitHub Username | Mockup (L/C) | Entrevistas (L/C) | Wireframes (L/C) | Landing Page (L/C) |
+| ----------------------------------- | --------------- | ------------ | ----------------- | ---------------- | ------------------ |
+| Castillo Vidal, Jesús Iván          | Jcdev04         | L            | C                 | C                | C                  |
+| Costa Morales, Christofer William   | miniChorri      | C            | L                 | C                | C                  |
+| Gordillo Ramos, Santiago Alonso     | SantiIHC        | C            | C                 | L                | C                  |
+| Guzmán Cabrejos, Yaku Mateo         | yak-cod         | C            | C                 | C                | L                  |
+| Medina Merma, Ingrid Melani         | Grini913        | C            | C                 | C                | C                  |
 
-### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+**Notas:**
 
-### 5.2.X.8. Team Collaboration Insights during Sprint.
+- Cada integrante asume liderazgo en al menos un aspecto para distribuir responsabilidades.
+- Los colaboradores apoyan al líder en la ejecución, revisión y validación de las tareas correspondientes.
+- La organización de líderes y colaboradores se vincula directamente con la selección posterior de tasks en el Sprint.
 
-### 5.3. Validation Interviews.
+### 5.2.1.3. Sprint Backlog 1.
 
-### 5.3.1. Diseño de Entrevistas.
+<img src="./Resources/Capitulo_5/Trello_sprint1.png" alt="Trello Sprint 1">
+  <br>
+  <a href="https://trello.com/b/vqfXmatr/sprint-1" target="_blank">
+    <span>Tablero Sprint 1 en Trello</span>
+  </a>
 
-### 5.3.2. Registro de Entrevistas.
+A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 1**, en el cual se incluyen las User Stories seleccionadas y su descomposición en tasks. Cada ítem contiene su respectiva descripción, estimación en horas, asignación y estado actual.
 
-### 5.3.3. Evaluaciones según heurísticas
+| Sprint # | User Story Id | User Story Title               | Work-Item / Task Id | Task Title         | Description                                                                             | Estimation (Hours) | Assigned To | Status (To-Do / In-Process / To-Review / Done) |
+| -------- | ------------- | ------------------------------ | ------------------- | ------------------ | --------------------------------------------------------------------------------------- | ------------------ | ----------- | ---------------------------------------------- |
+| 1        | US28          | Diseño responsivo y navegación | T28-1               | Hero Section       | Implementar sección hero con diseño responsivo y navegación clara.                      | 1                  | Jesús       | To-Do                                          |
+|          |               |                                | T28-2               | Our Value          | Desarrollar sección de valores con estilo adaptable a móviles, tablets y desktop.       | 1                  | Santiago    | Done                                           |
+|          |               |                                | T28-3               | About Us           | Crear sección “Sobre nosotros” con diseño adaptable a diferentes dispositivos.          | 1                  | Ingrid      | Done                                           |
+|          |               |                                | T28-4               | Our Team           | Diseñar sección de equipo con estructura clara y responsiva.                            | 1                  | Yaku        | Done                                           |
+|          |               |                                | T28-5               | Testimonials & FAQ | Implementar testimonios, preguntas frecuentes y footer con diseño responsivo.           | 1                  | Christopher | Done                                           |
+| 1        | US29          | Secciones segmentadas          | T29-1               | Hero Section       | Adaptar sección hero enfocada en beneficios y planes para empresas de transporte.       | 1                  | Jesús       | Done                                           |
+|          |               |                                | T29-2               | Our Value          | Diseñar sección de valores segmentada con enfoque en transporte.                        | 1                  | Santiago    | Done                                           |
+|          |               |                                | T29-3               | About Us           | Implementar sección “Sobre nosotros” con contenido dirigido a empresas de transporte.   | 1                  | Ingrid      | Done                                           |
+|          |               |                                | T29-4               | Our Team           | Diseñar sección de equipo adaptada a la segmentación de transporte.                     | 1                  | Yaku        | Done                                           |
+|          |               |                                | T29-5               | Testimonials & FAQ | Incluir testimonios, preguntas frecuentes y footer orientados a empresas de transporte. | 1                  | Christopher | Done                                           |
+| 1        | US30          | Internacionalización (i18n)    | T30-1               | English            | Implementar opción de idioma inglés en la landing page.                                 | 1                  | Jesús       | Done                                           |
+|          |               |                                | T30-2               | Spanish            | Implementar opción de idioma español en la landing page (idioma por defecto).           | 1                  | Yaku        | Done                                           |
+
+### 5.2.1.4. Development Evidence for Sprint Review.
+
+### 5.2.1.5. Execution Evidence for Sprint Review.
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+### 5.2.1.8. Team Collaboration Insights during Sprint.
