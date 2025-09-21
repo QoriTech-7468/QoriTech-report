@@ -170,16 +170,16 @@ Ingeniería de software - 2025-02
     * [5.1.4 Software Deployment Configuration](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#514-software-deployment-configuration)
   * [5.2 Landing Page, Services & Applications Implementation](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#52-landing-page-services--applications-implementation)
 
-    * [5.2.X Sprint n](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#521-sprint-1)
+    * [5.2.1 Sprint n](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#521-sprint-1)
 
-      * [5.2.X.1 Sprint Planning n](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5211-sprint-planning-1)
-      * [5.2.X.2 Aspect Leaders and Collaborators](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5212-aspect-leaders-and-collaborators)
-      * [5.2.X.3 Sprint Backlog n](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5213-sprint-backlog-1)
-      * [5.2.X.4 Development Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5214-development-evidence-for-sprint-review)
-      * [5.2.X.5 Execution Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5215-execution-evidence-for-sprint-review)
-      * [5.2.X.6 Services Documentation Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5216-services-documentation-evidence-for-sprint-review)
-      * [5.2.X.7 Software Deployment Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5217-software-deployment-evidence-for-sprint-review)
-      * [5.2.X.8 Team Collaboration Insights during Sprint](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5218-team-collaboration-insights-during-sprint)
+      * [5.2.1.1 Sprint Planning n](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5211-sprint-planning-1)
+      * [5.2.1.2 Aspect Leaders and Collaborators](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5212-aspect-leaders-and-collaborators)
+      * [5.2.1.3 Sprint Backlog n](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5213-sprint-backlog-1)
+      * [5.2.1.4 Development Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5214-development-evidence-for-sprint-review)
+      * [5.2.1.5 Execution Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5215-execution-evidence-for-sprint-review)
+      * [5.2.1.6 Services Documentation Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5216-services-documentation-evidence-for-sprint-review)
+      * [5.2.1.7 Software Deployment Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5217-software-deployment-evidence-for-sprint-review)
+      * [5.2.1.8 Team Collaboration Insights during Sprint](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5218-team-collaboration-insights-during-sprint)
   * [5.3 Validation Interviews](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#53-validation-interviews)
 
     * [5.3.1 Diseño de Entrevistas](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#531-dise%C3%B1o-de-entrevistas)
@@ -187,14 +187,14 @@ Ingeniería de software - 2025-02
     * [5.3.3 Evaluaciones según heurísticas](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#533-evaluaciones-seg%C3%BAn-heur%C3%ADsticas)
   * [5.4 Video About-the-Product](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#54-video-about-the-product)
 
-* [Conclusiones](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Conclusiones.md)
+* [Conclusiones](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Conclusiones_bibliografica.md#conclusiones)
 
-  * [Conclusiones y recomendaciones](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Conclusiones.md#conclusiones-y-recomendaciones)
-  * [Video About-the-Team](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Conclusiones.md#video-about-the-team)
+  * [Conclusiones y recomendaciones](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Conclusiones_bibliografica.md#conclusiones-y-recomendaciones)
+  * [Video About-the-Team](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Conclusiones_bibliografica.md#video-about-the-team)
 
-* [Bibliografía](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Bibliografia.md)
+* [Bibliografía](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Conclusiones_bibliografica.md#bibliograf%C3%ADa)
 
-* [Anexos](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Anexos.md)
+* [Anexos](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Conclusiones_bibliografica.md#anexos)
 
 ## Student Outcome
 
