@@ -182,16 +182,16 @@ Ingeniería de software - 2025-02
 
   - [5.2 Landing Page, Services & Applications Implementation](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#52-landing-page-services--applications-implementation)
 
-    - [5.2.X Sprint n](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#521-sprint-1)
+    - [5.2.1 Sprint 1](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#521-sprint-1)
 
-      - [5.2.X.1 Sprint Planning n](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5211-sprint-planning-1)
-      - [5.2.X.2 Aspect Leaders and Collaborators](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5212-aspect-leaders-and-collaborators)
-      - [5.2.X.3 Sprint Backlog n](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5213-sprint-backlog-1)
-      - [5.2.X.4 Development Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5214-development-evidence-for-sprint-review)
-      - [5.2.X.5 Execution Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5215-execution-evidence-for-sprint-review)
-      - [5.2.X.6 Services Documentation Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.X.7 Software Deployment Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.X.8 Team Collaboration Insights during Sprint](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5218-team-collaboration-insights-during-sprint)
+      - [5.2.1.1 Sprint Planning 1](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5211-sprint-planning-1)
+      - [5.2.1.2 Aspect Leaders and Collaborators](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3 Sprint Backlog 1](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5213-sprint-backlog-1)
+      - [5.2.1.4 Development Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5 Execution Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6 Services Documentation Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7 Software Deployment Evidence for Sprint Review](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8 Team Collaboration Insights during Sprint](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#5218-team-collaboration-insights-during-sprint)
 
   - [5.3 Validation Interviews](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_5.md#53-validation-interviews)
 
