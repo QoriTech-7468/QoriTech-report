@@ -465,5 +465,41 @@ diferentes partes desplegables
 ### 4.6.4. Software Architecture Components Diagrams.
 ### 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+<img src="Resources/Capitulo_4/ClassDiagram.png">
+
+
+1. Subscriptions and Payment Management
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Subscriptions.png" alt="SuscripcionesyPagos">
+</div>
+
+2. Identity and Access Management
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Identity.png" alt="IdentidadyAcceso">
+</div>
+
+3. Resource and Asset Management
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Resource.png" alt="Recursos">
+</div>
+
+4. Service Execution and Monitoring
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Service.png" alt="Ejecucion">
+</div>
+
+5. Incidents
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Incidents.png" alt="Incidencias">
+</div>
+
+6. Transportation Route Management
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Transportation.png" alt="rutas">
+</div>
+
 ### 4.8. Database Design.
+
+
+
 ### 4.8.1. Database Diagrams
