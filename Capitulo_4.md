@@ -417,6 +417,39 @@ Lista de equipos para la ruta:
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level EventStorming.
+
+<img src="Resources/Level-ES/Storming AppsWeb - Marco 1.jpg" alt="Paleta de colores">
+
+1. Unstructured Exploration
+<img src="Resources/Level-ES/Storming AppsWeb - Step 1_ Unstructured Exploration.jpg" alt="Unstructured Exploration">
+
+2. Timelines
+<img src="Resources/Level-ES/Storming AppsWeb - Step 2_ Timelines.jpg" alt="Times Lines">
+
+3. Pain Points
+<img src="Resources/Level-ES/Storming AppsWeb - Step 3_ Pain Points.jpg" alt="Pain Points">
+
+4. Pivotal Points
+<img src="Resources/level-ES/Storming AppsWeb - Step 4_ Pivotal Points.jpg" alt="Pivotal Points">
+
+5. Commands
+<img src="Resources/Level-ES/Storming AppsWeb - Step 5_ Commands.jpg" alt="Commands">
+
+6. Policies
+<img src="Resources/Level-ES/Storming AppsWeb - Step 6_ Policies.jpg" alt="Policies">
+
+7. Read Models
+<img src="Resources/Level-ES/Storming AppsWeb - Step 7_ Read Models.jpg" alt="Read Models">
+
+8. External Systems
+<img src="Resources/Level-ES/Storming AppsWeb - Step 8_ External Systems.jpg" alt="External Systems">
+
+9. Aggregates
+<img src="Resources/Level-ES/Storming AppsWeb - Step 9_ Aggregates.jpg" alt="Aggregates">
+
+10. Bounded Contexts
+<img src="Resources/Level-ES/Storming AppsWeb - Step 10_ Bounded Contexts.jpg" alt="Bounded Contexts">
+
 ### 4.6.2. Software Architecture Context Diagram.
 Este diagrama muestra una vista general del sistema dentro de su entorno,
 identificando a los actores externos (como administradores o transportistas) y cómo interactúan con el sistema.
