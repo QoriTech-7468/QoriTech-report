@@ -583,17 +583,25 @@ Ambos perfiles coinciden en la importancia de **gestionar incidencias** y **mant
 ![empathy map luis gutiérrez](Resources/Luis%20Gutiérrez%20empathy%20mapping.png)
 
 ### 2.4. Big Picture EventStorming.
-1. Gestión de identidad y acceso
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Gestión de identidad y acceso.jpg" alt="Gestion de identidad y gstion">
 
-2. Entregas
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Entregas.jpg" alt="Entregas">
+1. Subscriptions and Payment Management
+<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Suscripciones y Pagos.jpg" alt="SuscripcionesyPagos">
 
-3. Incidencias
+2. Identity and Access Management
+<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Gestión de identidad y acceso.jpg" alt="IdentidadyAcceso">
+
+3. Resource and Asset Management
+<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Gestión de Recursos y Activos.jpg" alt="Recursos">
+
+4. Service Execution and Monitoring
+<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Ejecución y Monitoreo del Servicio.jpg" alt="Ejecucion">
+
+5. Incidents
 <img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Incidencias.jpg" alt="Incidencias">
 
-4. Gestión de rutas
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Gestión de rutas.jpg" alt="Gestion de Rutas">
+6. Transportation Route Management
+<img src="resources/Big-Picture-EventStorming/Storming AppsWeb - Gestión de rutas.jpg" alt="rutas">
+
 
 ### 2.5. Ubiquitous Language.
 
