@@ -464,9 +464,13 @@ diferentes partes desplegables
 
 ### 4.6.4. Software Architecture Components Diagrams.
 ### 4.7. Software Object-Oriented Design.
-### 4.7.1. Class Diagrams.
-<img src="Resources/Capitulo_4/ClassDiagram.png">
 
+En esta sección se presentan los diagramas de clases que detallan la implementación orientada a objetos de los distintos componentes del sistema Qoritech Logistics. Cada diagrama está organizado por bounded context, lo que permite visualizar las entidades, agregados, value objects y relaciones clave dentro de cada dominio del negocio. Se destacan los agregados root para mantener la consistencia de los procesos críticos, como rutas e incidencias, así como las asociaciones, composiciones y dependencias entre clases.
+
+### 4.7.1. Class Diagrams.
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/ClassDiagram.png">
+</div>
 
 1. Subscriptions and Payment Management
 <div style="text-align: center;">
