@@ -556,6 +556,39 @@ En esta etapa el usuario crea una ruta y es redirigido a las pestañas de Locali
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level EventStorming.
+
+<img src="Resources/Level-ES/Storming AppsWeb - Marco 1.jpg" alt="Paleta de colores">
+
+1. Unstructured Exploration
+<img src="Resources/Level-ES/Storming AppsWeb - Step 1_ Unstructured Exploration.jpg" alt="Unstructured Exploration">
+
+2. Timelines
+<img src="Resources/Level-ES/Storming AppsWeb - Step 2_ Timelines.jpg" alt="Times Lines">
+
+3. Pain Points
+<img src="Resources/Level-ES/Storming AppsWeb - Step 3_ Pain Points.jpg" alt="Pain Points">
+
+4. Pivotal Points
+<img src="Resources/level-ES/Storming AppsWeb - Step 4_ Pivotal Points.jpg" alt="Pivotal Points">
+
+5. Commands
+<img src="Resources/Level-ES/Storming AppsWeb - Step 5_ Commands.jpg" alt="Commands">
+
+6. Policies
+<img src="Resources/Level-ES/Storming AppsWeb - Step 6_ Policies.jpg" alt="Policies">
+
+7. Read Models
+<img src="Resources/Level-ES/Storming AppsWeb - Step 7_ Read Models.jpg" alt="Read Models">
+
+8. External Systems
+<img src="Resources/Level-ES/Storming AppsWeb - Step 8_ External Systems.jpg" alt="External Systems">
+
+9. Aggregates
+<img src="Resources/Level-ES/Storming AppsWeb - Step 9_ Aggregates.jpg" alt="Aggregates">
+
+10. Bounded Contexts
+<img src="Resources/Level-ES/Storming AppsWeb - Step 10_ Bounded Contexts.jpg" alt="Bounded Contexts">
+
 ### 4.6.2. Software Architecture Context Diagram.
 Este diagrama muestra una vista general del sistema dentro de su entorno,
 identificando a los actores externos (como administradores o transportistas) y cómo interactúan con el sistema.
@@ -569,6 +602,15 @@ diferentes partes desplegables
 ![software architecture container diagram](./Resources/Capitulo_4/container.png)
 
 ### 4.6.4. Software Architecture Components Diagrams.
+
+**Component Diagram: Rutana App (Web App)** 
+Este diagrama representa la estructura de componentes dentro del frontend. Describe los módulos visuales y funcionales de la interfaz, como vistas, componentes compartidos y servicios de comunicación con el backend
+![software architecture component diagram web app](./Resources/Capitulo_4/web%20app%20component.png)
+
+**Component Diagram: Web Service**
+Este diagrama se enfoca en los componentes internos del contenedor backend (Web Service). Muestra los módulos y servicios que lo conforman, como controladores REST, servicios de dominio y repositorios
+![software architecture component diagram web service](./Resources/Capitulo_4/web%20service%20component.png)
+
 ### 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ### 4.8. Database Design.
