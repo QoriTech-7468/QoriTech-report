@@ -395,13 +395,13 @@ Manejo de Clientes frecuentes:
 
 ![alt text](Resources/mockups/WebAplication/Clients.png)
 
-![alt text](Resources/mockups/WebAplication/Clientes_2.png)
+![alt text](Resources/mockups/WebAplication/Clients2.png)
 
 Listado de las Rutas programadas:
 
 ![alt text](Resources/mockups/WebAplication/Rutas.png)
 
-![alt text](Resources/mockups/WebAplication/Rutas_2.png)
+![alt text](Resources/mockups/WebAplication/Rutas2.png)
 
 Lista de localidades para la ruta:
 
