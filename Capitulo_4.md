@@ -38,7 +38,7 @@ Se selecciono la tipografia "Plus Jakarta Sans" como la principal para los titul
 
 El branding de Rutana se diesño para demostrar simpleza, profesionalidad y enfoque. El logo posee un enfoque modesto y con el significado de seguir las rutas, demostrado con las flechas direccionales, el de color blanco simbolizando el camión y las amarilla simbolizan las rutas ya definidas que se deben de realizar. 
 
-![Rutana](<Resources/Logo Icon.png>)
+![Rutana](<Resources/Logo.png>)
 
 
 ### **Espaciado**  
@@ -324,11 +324,11 @@ Inicio de Sesión
 ![Login](Resources/wireframes/WebAplication/Login.png)
 
 Creación de usuario
-![Register](Resources/wireframes/WebAplication/Rgsiter.png)
+![Register](Resources/wireframes/WebAplication/Register.png)
 
 Manejo de Clientes:
 
-![User Management](<Resources/wireframes/WebAplication/ management.png>)
+![User Management](<Resources/wireframes/WebAplication/User management.png>)
 
 ![User Management 2](<Resources/wireframes/WebAplication/User management_2.png>)
 
@@ -391,23 +391,23 @@ Manejo de Vehiculos y el equipo asignado a este:
 
 Manejo de Clientes frecuentes:
 
-![alt text](Resources/wireframes/WebAplication/Clients.png)
+![alt text](Resources/mockups/WebAplication/Clients.png)
 
-![alt text](Resources/wireframes/WebAplication/Clientes_2.png)
+![alt text](Resources/mockups/WebAplication/Clientes_2.png)
 
 Listado de las Rutas programadas:
 
-![alt text](Resources/wireframes/WebAplication/Rutas.png)
+![alt text](Resources/mockups/WebAplication/Rutas.png)
 
-![alt text](Resources/wireframes/WebAplication/Rutas_2.png)
+![alt text](Resources/mockups/WebAplication/Rutas_2.png)
 
 Lista de localidades para la ruta:
 
-![alt text](Resources/wireframes/WebAplication/Localidades.png)
+![alt text](Resources/mockups/WebAplication/Localidades.png)
 
 Lista de equipos para la ruta:
 
-![alt text](Resources/wireframes/WebAplication/Equipos.png)
+![alt text](Resources/mockups/WebAplication/Equipos.png)
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
