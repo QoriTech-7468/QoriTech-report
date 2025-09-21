@@ -651,7 +651,229 @@ En esta sección se presentan los diagramas de clases que detallan la implementa
 </div>
 
 ### 4.8. Database Design.
+En esta sección el equipo presenta y explica los **Database Diagrams** para cada *bounded context*. Esta sección incluye una introducción que resume las principales características que se consideran en los diagramas.  
 
+
+
+1. Subscriptions and Payments
+
+**Tabla: Subscription**
+| Atributo    | Tipo     |
+|-------------|----------|
+| id          | INT (PK) |
+| planType    | VARCHAR(50) |
+| startDate   | DATE     |
+| status      | VARCHAR(20) |
+
+**Métodos**  
+| Método                | Descripción |
+|-----------------------|-------------|
+| activateSubscription()| Activa la suscripción. |
+| updatePlan()          | Cambia el plan actual. |
+| cancelSubscription()  | Cancela la suscripción. |
+
+---
+
+**Tabla: Company**
+| Atributo | Tipo         |
+|----------|--------------|
+| id       | INT (PK)     |
+| name     | VARCHAR(100) |
+
+**Métodos**  
+| Método          | Descripción |
+|-----------------|-------------|
+| createCompany() | Crea una nueva compañía. |
+| addMember()     | Agrega un usuario a la compañía. |
+| renameMember()  | Cambia el nombre de un miembro. |
+
+---
+
+2. Identity and Access Management
+
+**Tabla: User**
+| Atributo   | Tipo         |
+|------------|--------------|
+| id         | INT (PK)     |
+| email      | VARCHAR(100) |
+| password   | VARCHAR(100) |
+| roleId (FK)| INT          |
+| companyId (FK)| INT       |
+
+**Métodos**  
+| Método             | Descripción |
+|--------------------|-------------|
+| registerUser()     | Registra un nuevo usuario. |
+| assignToCompany()  | Asigna un usuario a una compañía. |
+| updateUser()       | Actualiza la información del usuario. |
+
+---
+
+**Tabla: Role**
+| Atributo | Tipo         |
+|----------|--------------|
+| id       | INT (PK)     |
+| name     | VARCHAR(50)  |
+
+**Métodos**  
+| Método             | Descripción |
+|--------------------|-------------|
+| createRole()       | Crea un nuevo rol. |
+| renameRole()       | Cambia el nombre de un rol. |
+| enableRole()       | Activa un rol. |
+| disableRole()      | Desactiva un rol. |
+| assignPermission() | Asigna un permiso a un rol. |
+
+---
+
+3. Resource and Asset Management
+
+**Tabla: Vehicle**
+| Atributo | Tipo         |
+|----------|--------------|
+| id       | INT (PK)     |
+| plate    | VARCHAR(20)  |
+| type     | VARCHAR(50)  |
+| status   | VARCHAR(20)  |
+| companyId (FK)| INT     |
+
+**Métodos**  
+| Método                | Descripción |
+|-----------------------|-------------|
+| registerVehicle()     | Registra un vehículo. |
+| updateVehicleDate()   | Actualiza los datos del vehículo. |
+| enableVehicle()       | Activa un vehículo. |
+| disableVehicle()      | Desactiva un vehículo. |
+
+---
+
+4. Service Execution and Monitoring
+
+**Tabla: Client**
+| Atributo    | Tipo         |
+|-------------|--------------|
+| id          | INT (PK)     |
+| name        | VARCHAR(100) |
+| contactInfo | VARCHAR(200) |
+| status      | VARCHAR(20)  |
+
+**Métodos**  
+| Método           | Descripción |
+|------------------|-------------|
+| createClient()   | Registra un nuevo cliente. |
+| enableClient()   | Activa un cliente. |
+| disableClient()  | Desactiva un cliente. |
+| assignDeliveryPoint() | Asigna un punto de entrega al cliente. |
+
+---
+
+**Tabla: DeliveryPoint**
+| Atributo   | Tipo         |
+|------------|--------------|
+| id         | INT (PK)     |
+| clientId (FK)| INT        |
+| address    | VARCHAR(200) |
+| coordinates| VARCHAR(100) |
+
+**Métodos**  
+| Método             | Descripción |
+|--------------------|-------------|
+| assignPoint()      | Asigna un punto de entrega a un cliente. |
+| updatePoint()      | Actualiza los datos de un punto de entrega. |
+| getClientInfo()    | Obtiene la información del cliente asociado. |
+
+---
+
+**Tabla: Delivery**
+| Atributo  | Tipo         |
+|-----------|--------------|
+| id        | INT (PK)     |
+| routeId(FK)| INT         |
+| status    | VARCHAR(20)  |
+| pointId(FK)| INT         |
+
+**Métodos**  
+| Método                | Descripción |
+|-----------------------|-------------|
+| scheduleDelivery()    | Programa una entrega. |
+| updateDeliveryStatus()| Actualiza el estado de la entrega. |
+| markDelivered()       | Marca la entrega como completada. |
+| markRejected()        | Marca la entrega como rechazada. |
+
+---
+
+5. Transportation Route Management
+
+**Tabla: Route**
+| Atributo  | Tipo         |
+|-----------|--------------|
+| id        | INT (PK)     |
+| type      | VARCHAR(50)  |
+| status    | VARCHAR(20)  |
+| vehicleId (FK)| INT      |
+
+**Métodos**  
+| Método           | Descripción |
+|------------------|-------------|
+| createRoute()    | Crea una nueva ruta. |
+| startRoute()     | Inicia la ruta. |
+| updateProgress() | Actualiza el progreso de la ruta. |
+| closeRoute()     | Cierra la ruta. |
+| confirmPending() | Confirma entregas pendientes. |
+
+---
+
+**Tabla: Report**
+| Atributo      | Tipo         |
+|---------------|--------------|
+| id            | INT (PK)     |
+| type          | VARCHAR(50)  |
+| generatedDate | DATE         |
+| data          | TEXT         |
+
+**Métodos**  
+| Método             | Descripción |
+|--------------------|-------------|
+| generateReport()   | Genera un reporte. |
+| viewDashboard()    | Muestra los reportes en el panel. |
+| exportDocuments()  | Exporta el reporte a documentos. |
+
+---
+
+6. Incidents
+
+**Tabla: Incident**
+| Atributo   | Tipo         |
+|------------|--------------|
+| id         | INT (PK)     |
+| deliveryId (FK)| INT      |
+| description| VARCHAR(200) |
+| status     | VARCHAR(20)  |
+
+**Métodos**  
+| Método            | Descripción |
+|-------------------|-------------|
+| reportIncident()  | Registra un incidente. |
+| confirmIncident() | Confirma un incidente. |
+| attachEvidence()  | Adjunta evidencia a un incidente. |
+| resolveIncident() | Marca un incidente como resuelto. |
+
+---
+
+**Tabla: Evidence**
+| Atributo   | Tipo         |
+|------------|--------------|
+| id         | INT (PK)     |
+| incidentId (FK)| INT      |
+| filePath   | VARCHAR(200) |
+
+**Métodos**  
+| Método            | Descripción |
+|-------------------|-------------|
+| uploadEvidence()  | Sube un archivo como evidencia. |
+| viewEvidence()    | Visualiza la evidencia adjunta. |
 
 
 ### 4.8.1. Database Diagrams
+
+<img src="Resources/Capitulo_4/Diagram_DataBase">
