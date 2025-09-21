@@ -78,6 +78,35 @@ Ingeniería de software - 2025-02
 
 ## Project Report Collaboration Insights
 
+Para el desarrollo del **Project Report**, se utilizó un repositorio dentro de la organización del equipo en GitHub. A continuación, se presenta la evidencia de colaboración correspondiente, en coherencia con el Registro de Versiones del Informe.
+
+**Repositorio del informe del proyecto:**
+[https://shorturl.at/aQDFp](https://shorturl.at/aQDFp)
+
+![Contributors](./Resources/contributors-tb1.png)
+
+- **Total de commits:** 59
+- **Autores contribuyentes:**
+  - Jesús Castillo
+  - Ingrid Medina
+  - Christofer Costa
+  - Yaku Guzmán
+  - Santiago Gordillo
+- Actividad distribuida por ramas correspondientes a cada sección del informe.
+
+## TB1 - Informe inicial y Landing Page (8 de setiembre - 21 de setiembre de 2025)
+
+Durante esta fase, el equipo elaboró el informe base del proyecto, abarcando la definición del problema, justificación, objetivos y marco teórico. Simultáneamente, se desarrolló la **Landing Page** utilizando HTML5, CSS3 y JavaScript puro.
+
+![Evidencia de commits del repositorio](./Resources/contributors-tb1.png)
+
+  - Jesús Castillo: 13 commits, 1021 adiciones, 438 eliminaciones
+  - Ingrid Medina: 29 commits, 4600 adiciones, 42 eliminaciones
+  - Christofer Costa: 24 commits, 1289 adiciones, 195 eliminaciones
+  - Yaku Guzmán: 33 commits, 1200 adiciones, 153 eliminaciones
+  - Santiago Gordillo: 27 commits, 283 adiciones, 28 eliminaciones
+- **Total de commits en TB1:** 59
+
 ## Tabla de Contenidos
 
 - [Capítulo I: Introducción](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Capitulo_1.md)
