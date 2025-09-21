@@ -293,6 +293,11 @@ Durante el Sprint 1 se implementó la Landing Page de Rutana. Los principales av
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 
+En este primer sprint, se desarrolló la Landing Page de Rutana, que sirve como punto de entrada para los usuarios interesados en la plataforma. Esto incluye la presentación de nuestro servicio, información sobre la empresa y acceso a funcionalidades clave. Se implementaron secciones como:
+Hero Section: 
+Sobre Nosotros:
+Testimonios: 
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
