@@ -612,6 +612,46 @@ Este diagrama se enfoca en los componentes internos del contenedor backend (Web 
 ![software architecture component diagram web service](./Resources/Capitulo_4/web%20service%20component.png)
 
 ### 4.7. Software Object-Oriented Design.
+
+En esta sección se presentan los diagramas de clases que detallan la implementación orientada a objetos de los distintos componentes del sistema Qoritech Logistics. Cada diagrama está organizado por bounded context, lo que permite visualizar las entidades, agregados, value objects y relaciones clave dentro de cada dominio del negocio. Se destacan los agregados root para mantener la consistencia de los procesos críticos, como rutas e incidencias, así como las asociaciones, composiciones y dependencias entre clases.
+
 ### 4.7.1. Class Diagrams.
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/ClassDiagram.png">
+</div>
+
+1. Subscriptions and Payment Management
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Subscriptions.png" alt="SuscripcionesyPagos">
+</div>
+
+2. Identity and Access Management
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Identity.png" alt="IdentidadyAcceso">
+</div>
+
+3. Resource and Asset Management
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Resource.png" alt="Recursos">
+</div>
+
+4. Service Execution and Monitoring
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Service.png" alt="Ejecucion">
+</div>
+
+5. Incidents
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Incidents.png" alt="Incidencias">
+</div>
+
+6. Transportation Route Management
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Transportation.png" alt="rutas">
+</div>
+
 ### 4.8. Database Design.
+
+
+
 ### 4.8.1. Database Diagrams
