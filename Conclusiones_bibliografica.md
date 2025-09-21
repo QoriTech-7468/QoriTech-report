@@ -37,3 +37,17 @@ En resumen, este sprint cumplió con sentar las bases conceptuales, de diseño y
 - Showen, J. (2025, 10 de julio). *What Are the Top 5 Issues in the Transportation and Logistics Industry?* ECAM. Recuperado el 10 de setiembre de 2025 de [ECAM](https://ecam.com/security-blog/what-are-the-top-5-issues-in-the-transportation-and-logistics-industry)
 
 ## Anexos
+
+---
+
+### Anexo A. Figma
+
+Link del figma: https://shorturl.at/cmiuH
+
+![evidencia de figma](./Resources/anexos/figma-evidencia-anexo.png)
+
+### Anexo B. Trello
+
+Link del trello: https://shorturl.at/yq54o
+
+![evidencia de trello](./Resources/Capitulo_5/Trello_sprint1.png)
