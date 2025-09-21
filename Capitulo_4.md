@@ -8,17 +8,18 @@
 ![Colors](Resources/Colors.png)
 
 
-Amarillo:
+Amarillo-#FFD60A: El color transmite energía, atención y optimismo. Eso lo hace ideal para llamados a la acción, iconos y botones importantes, alertas y elementos que necesiten destacar.
 
-Azul Medio:
+Azul Medio-#6184A6: El color expresa confianza, estabilidad y profesionalismo. perfecto para botones secundarios y resaltar estados.
 
-Azul Claro:
 
-Azul Intenso:
+Azul Claro - #A7CEFC: El color expresa tranquilidad, innovación, claridad. Bueno para fondos, para el color cuando seleccionamos una opción o de elementos interactivos.
 
-Azul Oscuro:
+Azul Intenso - #043873: El color expresa autoridad, seriedad y confiabilidad. Es perfecto para que sea el color de fondo para el encabezado principal y los elementos principales de nuestra plataforma.
 
-Blanco: 
+Azul Oscuro - #0E2948: El color expresa: seguridad, elegancia, profundidad. Es bueno para nuestro para nuestro pie de pagina y para el fondo oscuro cuando una pantalla emergente aparece.
+
+Blanco - #FFFFFF: El color expresa limpieza, simplicidad y elegancia. Es el color ideal para el fondo principal de nuestra aplicación para que el usuario pueda distinguir las opciones.
 
 
 
@@ -27,9 +28,11 @@ Blanco:
 Se selecciono la tipografia "Plus Jakarta Sans" como la principal para los titulos de la plataforma y de los botones. Además, de la typografia "Inter" como secundaria para los textos de la plataforma. Ambos, se escogieron por su estilo moderno, legible y llamativo, para mejorar la experiencia de uso y que sea reconocible las funcionalidades de nuestra plataforma.
 
 
+Plus Jakarta:
 
 ![Plus Jakarta](Resources/Plus_Jakarta_Tamaños.png)
 
+Inter:
 
 ![Inter](Resources/Inter_Tamaños.png)
 
@@ -45,10 +48,12 @@ El branding de Rutana se diesño para demostrar simpleza, profesionalidad y enfo
 El diseño de Rutana se apoya en un uso estratégico del espacio en blanco, que contribuye a una experiencia de navegación fluida y organizada. Cada sección mantiene un ancho máximo que evita la sobrecarga visual y asegura que el contenido respire adecuadamente. Los márgenes alrededor de bloques de texto, imágenes y tarjetas generan equilibrio visual, mientras que los rellenos internos en botones y secciones principales permiten destacar las acciones clave. Esta distribución pensada facilita la lectura y asegura que los elementos más relevantes, como los planes, testimonios o valores de la empresa, sobresalgan con claridad.
 
 ### **Dimensiones para el tono de comunicación y lenguaje aplicado**  
+
 En Rutana, el tono de comunicación refleja cercanía y confianza, transmitiendo la misión de apoyar a negocios y profesionales en la gestión de sus operaciones logísticas. La voz de la marca es clara, sencilla y motivadora, con el objetivo de que los usuarios se sientan acompañados y seguros al interactuar con la plataforma.  
 El lenguaje es directo y accesible, pero conserva un nivel profesional que refuerza la seriedad del servicio. De esta forma, Rutana proyecta dinamismo y compromiso, generando un balance entre inspiración y confianza.
 
 ### **Elementos de diseño**  
+
 El diseño visual de Rutana se basa en una estética limpia, moderna y enfocada en la claridad. La paleta de colores combina principalmente el azul, que transmite confianza y profesionalismo, con acentos en amarillo que resaltan las llamadas a la acción y generan dinamismo en la interfaz. La tipografía mantiene jerarquías claras: títulos de gran tamaño que capturan la atención, subtítulos intermedios que organizan el contenido y textos de apoyo con buena legibilidad en distintos dispositivos.  
 
 En cuanto a las formas, predominan los bordes redondeados en botones y tarjetas, aportando accesibilidad y cercanía al diseño. Esto se complementa con el uso de iconografía simple y fotografías contextuales, que refuerzan la propuesta de valor de la empresa mostrando personas y situaciones reales. La combinación de estos elementos garantiza que el usuario perciba la plataforma como profesional, pero también amigable y fácil de usar.
@@ -80,7 +85,7 @@ Se ha priorizado la claridad semántica y la coherencia con el lenguaje visual d
 
 Inicio: Sección principal de bienvenida. Incluye el una bienvenida y acceso a la plataforma
 
-Beneficios: Explicación segmentada de las ventajas de Rutina para administradores y transportistas.
+Beneficios: Explicación segmentada de las ventajas de Rutina para nuestros usuarios.
 
 Testimonios: Comentarios reales de usuarios sobre cómo la plataforma les ha ayudado en su gestión.
 
@@ -92,15 +97,15 @@ Inicio: Vista general para el inicio de sesión y creación de cuenta.
 
 Usuarios: Listado de usuarios que se puede agregar a tu cuenta.
 
-Vehiculos: Registro de compras de insumos. Permite agregar nuevas compras y consultar historial.
+Vehiculos: Registro y Monitoreo de vehiculos. Permite agregar y verificar el estado de los vehiculos y sus equipos asignados.
 
-Clientes: Sección para generar y gestionar pedidos a los proveedores registrados.
+Clientes: Sección para registrar a los clientes frecuentes y designarles un almacén cercano para entregarle sus productos.
 
-Rutas: Notificaciones automáticas por stock crítico, vencimientos o anomalías en el uso de insumos.
+Rutas: El registro y planeación de rutas. En esta sección vemos que rutas estan planeadas para cierto dia.
 
-Localidades: Registro de platos del menú vinculados a insumos. Permite calcular consumo y optimizar compras.
+Localidades: Lista de las localidades del negocio y su estado. Permite asignarle la localidad más cercana al cliente que lo requiera.
 
-Equipos: Acceso a reportes descargables sobre consumo, compras, stock y desempeño operativo.
+Equipos: Listado de los vehiculos y el personal que lo operan. Sirve para seleccionar los equipos disponibles para que vayan a la ubicación destino.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
@@ -166,38 +171,37 @@ Define la codificación de caracteres como UTF-8, garantizando que se muestren c
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1">
 ```
-Hace que la página sea responsiva, adaptándose automáticamente a diferentes tamaños de pantalla (computadora, tablet, móvil) para una visualización óptima y kegible en cualquier tamaño de pantalla.
+Hace que la aplicación web sea responsiva, adaptándose automáticamente a diferentes tamaños de pantalla (computadora, tablet, móvil) para una visualización óptima y kegible en cualquier tamaño de pantalla.
 
 #### Title (SEO)
 ```html
 <title>QoriTech |Improve routes and control your transports</title>
 ```
-Define el título de la página que aparece en la pestaña del navegador y en los resultados de búsqueda. Debe ser claro, conciso y relevante, adaptado al idioma y público objetivo de la landing page.
+Define el título de la aplicación web que aparece en la pestaña del navegador y en los resultados de búsqueda. Debe ser claro, conciso y relevante, adaptado al idioma y público objetivo de la landing page.
 
 #### Meta Description (SEO)
 ```html
 <meta name="description" content="Platform that improves your transportation routes and times, as well as helping you manage transportation in a simple and stress-free way.">
 ```
-Proporciona un resumen breve y atractivo del contenido de la página. Es lo que aparece como snippet en Google, por lo que debe estar escrito en el idioma de la página y enfocado en atraer clics.
+Proporciona un resumen breve y atractivo del contenido de la aplicación web. Es lo que aparece cuando se comparte enlace de la aplicación, por lo que debe estar escrito en el idioma de la aplicación web y enfocado en atraer visitas.
 
-#### Meta Keywords (SEO, en desuso para Google)
+#### Meta Keywords 
 ```html
 <meta name="keywords" content="Transport, administrators, route management, transport management, role assignment, suppliers">
 ```
-Esta línea de código especifíca palabras clave para el contenido de la página. Hoy en día ya no es usado por google.
+Esta línea de código especifíca palabras clave para el contenido de la aplicación web.
 
 #### Meta Author
 ```html
 <meta name="author" content="QoriTech Team">
 ```
-Identifica al creador o responsable del contenido.
+Para identificar al creador o responsable del contenido.
 
 #### Meta Language
 ```html
 <meta name="language" content="en">
 ```
-Esta línea de código declara el idioma principal del contenido de la página. Su función es informar a
-los navegadores que el texto de la landing page está en inglés.
+Esta línea de código declara el idioma principal del contenido de la aplicación web. Su función es informar a los usuarios que el texto de la landing page está en inglés o en el idioma que seleccione.
 
 #### Meta Copyright
 ```html
@@ -208,28 +212,26 @@ Indica la entidad propietaria de los derechos de autor y el año correspondiente
 ### 4.2.4. Searching Systems.
 
 Vista del Usuario
-#### 1. Medios de ayuda para la búsqueda de datos
-Barra de búsqueda principal en cada módulo (Inventario, Pedidos, Proveedores).
+#### 1. Medios de ayuda para la busqueda de elementos de gestión
+Barra de búsqueda principal en cada módulo (Usuarios, Clientes, Vehiculos, Rutas y el perfil).
 Autocompletado inteligente: se muestran sugerencias conforme el usuario escribe.
-Historial de búsquedas recientes.
-Mensajes contextuales si no se encuentran resultados (“¿Desea agregar un nuevo insumo?”).
+Historial de búsquedas recientes o más frecuentes.
+Mensajes contextuales si no se encuentran resultados o no están disponibles (“El vehiculo se encuentra inactivo”).
 #### 2. Filtros y opciones
-Por nombre de producto.
-Por categoría de insumo (carnes, bebidas, verduras, etc.).
-Por proveedor asociado.
-Por estado de stock (stock bajo, suficiente, excedente).
-Por fecha de vencimiento próxima.
-Por pedidos con retraso o por llegar.
+Por ubicación del cliente.
+Por busqueda de placa de vehiculo.
+Por permisos otorgados.
+Por estado de los usuarios.
+Por fecha de la ruta.
 #### 3. Visualización de resultados
 Filas con:
-Nombre del insumo.
-Cantidad actual.
-Alerta de stock bajo (ícono y color).
-Botones de acción rápida: Editar, Eliminar, Reordenar.
-Íconos y colores visuales:
-Stock crítico.
-Stock bajo.
-Stock saludable.
+Nombre de usuarios.
+Placa de los vehiculos.
+Nombre de los clientes frecuentes.
+El id de la ruta ya planificada.
+Las localizaciones disponibles:
+Placa del vehiculo para identificar a los equipos de trabajo.
+
 
 
 ### 4.2.5. Navigation Systems.
