@@ -103,7 +103,6 @@
     <td>-</td>
     <td>-</td>
   </tr>
-
   <!-- Epic 10 -->
   <tr>
     <td>EP10</td>
@@ -115,7 +114,6 @@
     <td>-</td>
     <td>-</td>
   </tr>
-
   <!-- Separador de secciones -->
   <tr>
     <th style="width:15%;">Epic /<br> Story/<br>ID</th>
@@ -124,7 +122,6 @@
     <th style="width:25%;">Criterios de Aceptación</th>
     <th style="width:10%;">Relacionado con<br>(Epic ID)</th>
   </tr>
-
   <!-- User Story 01 -->
   <tr>
     <td>US01</td>
@@ -165,7 +162,6 @@ Entonces aparece un mensaje que le dice que el usuario o contraseña no son corr
 </td>
 <td>EP01</td>
 </tr>
-
 <!-- User Story 03 -->
 <tr>
 <td>US03</td>
@@ -186,7 +182,6 @@ Entonces el sistema muestra un mensaje de error indicando la falta de informaci�
 </td>
 <td>EP02</td>
 </tr>
-
 <!-- User Story 04 -->
 <tr>
 <td>US04</td>
@@ -231,7 +226,6 @@ Entonces el sistema cambia su estado a inactivo y lo bloquea para nuevas asignac
 </td>
 <td>EP02</td>
 </tr>
-
 <!-- User Story 06 -->
 <tr>
 <td>US06</td>
@@ -252,7 +246,6 @@ Entonces el sistema muestra un mensaje de error indicando la falta de datos.
 </td>
 <td>EP03</td>
 </tr>
-
 <!-- User Story 07 -->
 <tr>
 <td>US07</td>
@@ -277,7 +270,6 @@ Entonces el sistema muestra un mensaje indicando qué información falta.
 </td>
 <td>EP03</td>
 </tr>
-
 <!-- User Story 08 -->
 <tr>
 <td>US08</td>
@@ -298,7 +290,6 @@ Entonces el sistema muestra un mensaje de error indicando que el personal no exi
 </td>
 <td>EP03</td>
 </tr>
-
 <!-- User Story 09 -->
 <tr>
 <td>US09</td>
@@ -334,7 +325,6 @@ Entonces el sistema muestra un mensaje indicando qué información falta.
 </td>
 <td>EP04</td>
 </tr>
-
 <!-- User Story 12 -->
 <tr>
 <td>US12</td>
@@ -364,7 +354,6 @@ Entonces el sistema muestra un mensaje indicando qué información falta.
 </td>
 <td>EP05</td>
 </tr>
-
 <!-- User Story 13 -->
 <tr>
 <td>US13</td>
@@ -387,7 +376,6 @@ Entonces el sistema muestra un mensaje indicando qué información falta.
 </td>
 <td>EP05</td>
 </tr>
-
 <!-- User Story 14 -->
 <tr>
 <td>US14</td>
@@ -406,7 +394,6 @@ Entonces el sistema muestra un mensaje indicando qué información falta.
 </td>
 <td>EP05</td>
 </tr>
-
 <!-- User Story 15 -->
 <tr>
 <td>US15</td>
@@ -429,7 +416,6 @@ Entonces el sistema muestra un mensaje indicando qué información falta.
 </td>
 <td>EP05</td>
 </tr>
-
 <!-- User Story 16 -->
 <tr>
 <td>US16</td>
@@ -458,7 +444,6 @@ Entonces el sistema muestra un mensaje indicando qué información falta.
 </td>
 <td>EP05</td>
 </tr>
-
 <!-- User Story 17 -->
 <tr>
 <td>US17</td>
@@ -480,7 +465,6 @@ Y el vehículo no se crea.
 </td>
 <td>EP06</td>
 </tr>
-
 <!-- User Story 18 -->
 <tr>
 <td>US18</td>
@@ -499,7 +483,6 @@ Entonces veo el mensaje "El vehículo está inhabilitado" y la publicación se b
 </td>
 <td>EP06</td>
 </tr>
-
 <!-- User Story 19 -->
 <tr>
 <td>US19</td>
@@ -527,7 +510,6 @@ Y la ruta permanece en estado "borrador".
 </td>
 <td>EP06</td>
 </tr>
-
 <!-- User Story 20 -->
 <tr>
 <td>US20</td>
@@ -550,7 +532,6 @@ Y la ruta no se crea.
 </td>
 <td>EP07</td>
 </tr>
-
 <!-- User Story 21 -->
 <tr>
 <td>US21</td>
@@ -596,7 +577,6 @@ Y las entregas pendientes se listarán en la ruta como entregas pendientes.
 </td>
 <td>EP07</td>
 </tr>
-
 <!-- User Story 23 -->
 <tr>
 <td>US23</td>
@@ -614,7 +594,6 @@ Y se muestra una lista lateral con los puntos seleccionados.
 </td>
 <td>EP07</td>
 </tr>
-
 <!-- User Story 24 -->
 <tr>
 <td>US24</td>
@@ -635,7 +614,6 @@ Entonces el administrador recibe una alerta en el sistema de gestión para regis
 </td>
 <td>EP07</td>
 </tr>
-
 <!-- User Story 25 -->
 <tr>
 <td>US25</td>
@@ -652,7 +630,6 @@ Entonces la evidencia queda registrada junto a la incidencia.
 </td>
 <td>EP08</td>
 </tr>
-
 <!-- User Story 26 -->
 <tr>
 <td>US26</td>
@@ -675,7 +652,6 @@ Y se adjunta en el apartado de incidencias para coordinar la reposición o repro
 </td>
 <td>EP08</td>
 </tr>
-
 <!-- User Story 27 -->
 <tr>
 <td>US27</td>
@@ -696,7 +672,6 @@ Entonces se descarga el archivo en formato Excel.
 </td>
 <td>EP09</td>
 </tr>
-
 <!-- User Story 28 -->
   <tr>
     <td>US28</td>
@@ -717,7 +692,6 @@ Entonces se descarga el archivo en formato Excel.
     </td>
     <td>EP10</td>
   </tr>
-
   <!-- User Story 29 -->
   <tr>
     <td>US29</td>
@@ -738,7 +712,6 @@ Entonces se descarga el archivo en formato Excel.
     </td>
     <td>EP10</td>
   </tr>
-
   <!-- User Story 30 -->
   <tr>
     <td>US30</td>
@@ -759,7 +732,6 @@ Entonces se descarga el archivo en formato Excel.
     </td>
     <td>EP10</td>
   </tr>
-  
 </table>
 
 ### 3.2. Impact Mapping.
