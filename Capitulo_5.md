@@ -319,6 +319,7 @@ Durante el Sprint 1, el equipo se enfocó exclusivamente en el desarrollo de la 
 **1. Landing Page**
 
 Durante el Sprint 1 se implementó la Landing Page de Rutana. Los principales avances fueron:
+
 - Diseño responsivo para diferentes tamaños de pantalla.
 - Creación de secciones: Hero, Sobre Nosotros, Features, Testimonios, Preguntas Frecuentes y Footer.
 - Aplicación de buenas prácticas de accesibilidad (etiquetado semántico, contraste adecuado).
@@ -328,10 +329,10 @@ Durante el Sprint 1 se implementó la Landing Page de Rutana. Los principales av
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 
 En este primer sprint, se desarrolló la Landing Page de Rutana, que sirve como punto de entrada para los usuarios interesados en la plataforma. Esto incluye la presentación de nuestro servicio, información sobre la empresa y acceso a funcionalidades clave. Se implementaron secciones como:
-Hero Section: 
+Hero Section:
 ![Hero Section](./Resources/Capitulo_5/hero.png)
 
-Feature: 
+Feature:
 ![Feature Section](./Resources/Capitulo_5/feature.png)
 
 Sobre Nosotros:
@@ -360,6 +361,17 @@ Durante este sprint se completó el diseño e implementación del Landing Page d
 | Landing Page | Visualización inicial | GET         | https://qoritech-7468.github.io/Landing-Page-Repository/ | https://github.com/QoriTech-7468/Landing-Page-Repository |
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+1. **Se activó GitHub Pages** en el repositorio `Landing-Page-Repository`
+   <img src="./Resources/Capitulo_5/github_pages.jpg" alt="GitHub Pages Activation">
+   **Se configuró la rama `main`** como fuente de publicación.
+2. **Verificando en el Workflow de GitHub Actions** que el despliegue se haya realizado correctamente.
+   <img src="./Resources/Capitulo_5/building.jpg" alt="GitHub Actions Workflow">
+3. **Se documentó la URL pública** y se compartió con el equipo para su revisión y feedback.
+   <img src="./Resources/Capitulo_5/github_link.png" alt="Landing Page Live">
+
+4. **Se probó la accesibilidad pública** de la Landing Page mediante la URL generada por GitHub Pages.
+   <img src="./Resources/Capitulo_5/landing_live.png" alt="Landing Page Live">
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
