@@ -1,4 +1,5 @@
 ## Capítulo III: Requirements Specification
+
 ### 3.1. User Stories.
 
 <table border="1" style="border-collapse:collapse; width:100%; table-layout:fixed;">
@@ -762,6 +763,7 @@ Entonces se descarga el archivo en formato Excel.
 </table>
 
 ### 3.2. Impact Mapping.
+
 A continuación se presenta el Impact Map de Rutana, el cual permite visualizar de manera clara
 cómo las funcionalidades clave de la aplicación se alinean con los objetivos de negocio, considerando
 a los actores involucrados y los impactos esperados en su comportamiento.
@@ -778,56 +780,335 @@ a los actores involucrados y los impactos esperados en su comportamiento.
     <th style="width:42%; word-wrap:break-word; white-space:normal;">Descripción</th>
     <th style="width:20%; word-wrap:break-word; white-space:normal;">Story Points <br> (1 / 2 / 3 / 5 / 8)</th>
   </tr>
+
+  <!-- US01 -->
   <tr>
-    <!-- User Storie 01 -->
     <td>1</td>
     <td>US01</td>
-    <td>AAA…</td>
-    <td>
-     <b></b> ... <br>
-      <p> </p>
-    </td>
-    <td> 1...</td>
+    <td>Crear cuenta</td>
+    <td><b>Como usuario</b>, quiero crear una nueva cuenta,<br><p>para estar registrado en la plataforma.</p>
+        <b>Escenario 1:</b> Creación de usuario. <br>
+        <b>Escenario 2:</b> Usuario ya registrado.</td>
+    <td>3</td>
   </tr>
+
+  <!-- US02 -->
   <tr>
-    <!-- User Storie 02 -->
     <td>2</td>
     <td>US02</td>
-    <td>BBB…</td>
-    <td>
-      <b></b> ... <br>
-      <p> </p>
-    </td>
-    <td>5</td>
+    <td>Ingreso a la plataforma</td>
+    <td><b>Como usuario</b>, quiero poder ingresar con mi cuenta,<br><p>para acceder a la plataforma.</p>
+        <b>Escenario 1:</b> Inicio de sesión. <br>
+        <b>Escenario 2:</b> Error en iniciar sesión.</td>
+    <td>3</td>
   </tr>
-<!-- User Storie 03 -->
-   <td>3</td>
+
+  <!-- US03 -->
+  <tr>
+    <td>3</td>
     <td>US03</td>
-    <td>BBB…</td>
-    <td>
-      <b></b> ... <br>
-      <p> </p>
-    </td>
-    <td>5</td>
+    <td>Creación de rol de equipo de transporte</td>
+    <td><b>Como administrador</b>, quiero crear roles de equipo de transporte,<br><p>para organizar a los equipos.</p>
+        <b>Escenario 1:</b> Creación exitosa. <br>
+        <b>Escenario 2:</b> Falta de información.</td>
+    <td>3</td>
   </tr>
-  <!-- User Storie 04 -->
-   <td>4</td>
+
+  <!-- US04 -->
+  <tr>
+    <td>4</td>
     <td>US04</td>
-    <td>BBB…</td>
-    <td>
-      <b></b> ... <br>
-      <p> </p>
-    </td>
+    <td>Gestión de permisos</td>
+    <td><b>Como administrador con suscripción</b>, quiero dar permisos a los miembros,<br><p>para limitar el acceso según su rol.</p>
+        <b>Escenario 1:</b> Permiso asignado. <br>
+        <b>Escenario 2:</b> Permiso denegado por plan.</td>
     <td>5</td>
   </tr>
-  <!-- User Storie 05 -->
-   <td>5</td>
+
+  <!-- US05 -->
+  <tr>
+    <td>5</td>
     <td>US05</td>
-    <td>BBB…</td>
-    <td>
-      <b></b> ... <br>
-      <p> </p>
-    </td>
+    <td>Gestión de roles del equipo de transporte</td>
+    <td><b>Como administrador</b>, quiero actualizar/renombrar/deshabilitar roles,<br><p>para mantenerlos vigentes por equipo.</p>
+        <b>Escenario 1:</b> Rol renombrado. <br>
+        <b>Escenario 2:</b> Rol habilitado. <br>
+        <b>Escenario 3:</b> Rol deshabilitado.</td>
+    <td>3</td>
+  </tr>
+
+  <!-- US06 -->
+  <tr>
+    <td>6</td>
+    <td>US06</td>
+    <td>Suscripción a planes</td>
+    <td><b>Como usuario</b>, quiero suscribirme a un plan,<br><p>para acceder a beneficios (más cuentas, plan mensual).</p>
+        <b>Escenario 1:</b> Suscripción exitosa. <br>
+        <b>Escenario 2:</b> Falta de información.</td>
+    <td>8</td>
+  </tr>
+
+  <!-- US07 -->
+  <tr>
+    <td>7</td>
+    <td>US07</td>
+    <td>Gestión de perfil de la empresa</td>
+    <td><b>Como usuario con suscripción</b>, quiero crear/modificar el perfil de empresa,<br><p>para personalizar la aplicación.</p>
+        <b>Escenario 1:</b> Empresa creada. <br>
+        <b>Escenario 2:</b> Empresa modificada. <br>
+        <b>Escenario 3:</b> Falta de información.</td>
+    <td>3</td>
+  </tr>
+
+  <!-- US08 -->
+  <tr>
+    <td>8</td>
+    <td>US08</td>
+    <td>Asignación del personal</td>
+    <td><b>Como usuario</b>, quiero agregar personal al perfil de empresa,<br><p>para dar seguimiento a sus actividades.</p>
+        <b>Escenario 1:</b> Asignación exitosa. <br>
+        <b>Escenario 2:</b> Asignación denegada (usuario no existe).</td>
+    <td>3</td>
+  </tr>
+
+  <!-- US09 -->
+  <tr>
+    <td>9</td>
+    <td>US09</td>
+    <td>Registro de clientes</td>
+    <td><b>Como administrador</b>, quiero registrar clientes frecuentes,<br><p>para mantener una lista organizada.</p>
+        <b>Escenario 1:</b> Registro exitoso. <br>
+        <b>Escenario 2:</b> Información insuficiente.</td>
+    <td>3</td>
+  </tr>
+
+  <!-- US10 -->
+  <tr>
+    <td>10</td>
+    <td>US10</td>
+    <td>Gestión de clientes</td>
+    <td><b>Como administrador</b>, quiero habilitar/inhabilitar clientes,<br><p>para controlar su disponibilidad.</p>
+        <b>Escenario 1:</b> Cliente habilitado. <br>
+        <b>Escenario 2:</b> Cliente deshabilitado.</td>
+    <td>2</td>
+  </tr>
+
+  <!-- US11 -->
+  <tr>
+    <td>11</td>
+    <td>US11</td>
+    <td>Actualizar información de contacto</td>
+    <td><b>Como administrador</b>, quiero actualizar contactos del cliente,<br><p>para comunicar incidentes.</p>
+        <b>Escenario 1:</b> Información modificada. <br>
+        <b>Escenario 2:</b> Falta de información.</td>
+    <td>2</td>
+  </tr>
+
+  <!-- US12 -->
+  <tr>
+    <td>12</td>
+    <td>US12</td>
+    <td>Crear ubicación y asignarla a un cliente</td>
+    <td><b>Como administrador</b>, quiero crear una ubicación en el mapa,<br><p>para usarla luego en rutas.</p>
+        <b>Escenario 1:</b> Guardar dirección (reverse geocoding). <br>
+        <b>Escenario 2:</b> Bloqueo sin cliente seleccionado. <br>
+        <b>Escenario 3:</b> Falla de geocoding con fallback.</td>
+    <td>8</td>
+  </tr>
+
+  <!-- US13 -->
+  <tr>
+    <td>13</td>
+    <td>US13</td>
+    <td>Reubicar una ubicación existente</td>
+    <td><b>Como administrador</b>, quiero mover el marcador de una ubicación,<br><p>para corregir su posición.</p>
+        <b>Escenario 1:</b> Reubicar arrastrando. <br>
+        <b>Escenario 2:</b> Validar coordenadas obligatorias.</td>
+    <td>3</td>
+  </tr>
+
+  <!-- US14 -->
+  <tr>
+    <td>14</td>
+    <td>US14</td>
+    <td>Inhabilitar ubicación</td>
+    <td><b>Como administrador</b>, quiero marcar una ubicación como cerrada,<br><p>para no usarla en nuevas rutas.</p>
+        <b>Escenario 1:</b> Marcar como cerrada e impedir selección.</td>
+    <td>2</td>
+  </tr>
+
+  <!-- US15 -->
+  <tr>
+    <td>15</td>
+    <td>US15</td>
+    <td>Filtrar puntos por cliente en el mapa</td>
+    <td><b>Como administrador</b>, quiero ver solo los puntos de un cliente,<br><p>para seleccionar rápidamente.</p>
+        <b>Escenario 1:</b> Filtrar por nombre. <br>
+        <b>Escenario 2:</b> Limpiar filtro.</td>
+    <td>3</td>
+  </tr>
+
+  <!-- US16 -->
+  <tr>
+    <td>16</td>
+    <td>US16</td>
+    <td>Agregar/Quitar puntos en una ruta</td>
+    <td><b>Como administrador</b>, quiero asignar o quitar puntos en la ruta del día,<br><p>para crear entregas rápidamente.</p>
+        <b>Escenario 1:</b> Asignar y reservar punto. <br>
+        <b>Escenario 2:</b> Impedir duplicado el mismo día. <br>
+        <b>Escenario 3:</b> Quitar punto.</td>
+    <td>5</td>
+  </tr>
+
+  <!-- US17 -->
+  <tr>
+    <td>17</td>
+    <td>US17</td>
+    <td>Registrar vehículo</td>
+    <td><b>Como administrador</b>, quiero registrar un vehículo con placa y capacidad,<br><p>para asignarlo a una ruta.</p>
+        <b>Escenario 1:</b> Registro exitoso. <br>
+        <b>Escenario 2:</b> Placa duplicada.</td>
+    <td>2</td>
+  </tr>
+
+  <!-- US18 -->
+  <tr>
+    <td>18</td>
+    <td>US18</td>
+    <td>Inhabilitar vehículo</td>
+    <td><b>Como administrador</b>, quiero inhabilitar un vehículo,<br><p>para evitar su uso en nuevas rutas.</p>
+        <b>Escenario 1:</b> Bloquea nuevas asignaciones/publicación.</td>
+    <td>3</td>
+  </tr>
+
+  <!-- US19 -->
+  <tr>
+    <td>19</td>
+    <td>US19</td>
+    <td>Publicar ruta bloquea edición</td>
+    <td><b>Como administrador</b>, quiero bloquear cambios al publicar,<br><p>para evitar modificaciones posteriores.</p>
+        <b>Escenario 1:</b> Bloquear edición tras publicar. <br>
+        <b>Escenario 2:</b> Impedir agregar punto en publicada. <br>
+        <b>Escenario 3:</b> Validar requisitos mínimos.</td>
+    <td>3</td>
+  </tr>
+
+  <!-- US20 -->
+  <tr>
+    <td>20</td>
+    <td>US20</td>
+    <td>Crear una ruta en borrador</td>
+    <td><b>Como administrador</b>, quiero crear una ruta del día en borrador,<br><p>para ocultarla hasta publicar.</p>
+        <b>Escenario 1:</b> Crear borrador. <br>
+        <b>Escenario 2:</b> Validar fecha obligatoria.</td>
+    <td>3</td>
+  </tr>
+
+  <!-- US21 -->
+  <tr>
+    <td>21</td>
+    <td>US21</td>
+    <td>Transportista actualiza estado de entrega</td>
+    <td><b>Como transportista</b>, quiero marcar entregada o rechazada con motivo,<br><p>para dejar constancia.</p>
+        <b>Escenario 1:</b> Entrega finalizada. <br>
+        <b>Escenario 2:</b> Rechazada con motivo.</td>
+    <td>5</td>
+  </tr>
+
+  <!-- US22 -->
+  <tr>
+    <td>22</td>
+    <td>US22</td>
+    <td>Cierre de ruta con y sin pendientes</td>
+    <td><b>Como transportista</b>, quiero cerrar la ruta y reprogramar pendientes,<br><p>para continuar al día siguiente.</p>
+        <b>Escenario 1:</b> Cierre normal. <br>
+        <b>Escenario 2:</b> Cierre forzado con pendientes.</td>
+    <td>5</td>
+  </tr>
+
+  <!-- US23 -->
+  <tr>
+    <td>23</td>
+    <td>US23</td>
+    <td>Vista previa de la ruta</td>
+    <td><b>Como administrador</b>, quiero una vista previa con solo puntos asignados,<br><p>para validar antes de publicar.</p>
+        <b>Escenario 1:</b> Mostrar y resaltar puntos asignados.</td>
+    <td>3</td>
+  </tr>
+
+  <!-- US24 -->
+  <tr>
+    <td>24</td>
+    <td>US24</td>
+    <td>Visualización de progreso</td>
+    <td><b>Como administrador</b>, quiero ver progreso en tiempo real y alertas,<br><p>para tomar decisiones oportunas.</p>
+        <b>Escenario 1:</b> Estado actualizado en panel. <br>
+        <b>Escenario 2:</b> Notificación automática.</td>
+    <td>8</td>
+  </tr>
+
+  <!-- US25 -->
+  <tr>
+    <td>25</td>
+    <td>US25</td>
+    <td>Adjuntar evidencia</td>
+    <td><b>Como transportista</b>, quiero adjuntar fotos en incidencias,<br><p>para brindar pruebas claras.</p>
+        <b>Escenario 1:</b> Foto como evidencia.</td>
+    <td>5</td>
+  </tr>
+
+  <!-- US26 -->
+  <tr>
+    <td>26</td>
+    <td>US26</td>
+    <td>Etiquetado de incidencias por prioridad</td>
+    <td><b>Como administrador</b>, quiero etiquetar incidencias por prioridad,<br><p>para gestionar lo urgente primero.</p>
+        <b>Escenario 1:</b> Incidencia urgente destacada. <br>
+        <b>Escenario 2:</b> Rechazo por mercadería dañada con evidencia.</td>
+    <td>5</td>
+  </tr>
+
+  <!-- US27 -->
+  <tr>
+    <td>27</td>
+    <td>US27</td>
+    <td>Generación de reportes operativos</td>
+    <td><b>Como administrador</b>, quiero reportes de entregas y exportación a Excel,<br><p>para evaluar desempeño.</p>
+        <b>Escenario 1:</b> Reporte diario. <br>
+        <b>Escenario 2:</b> Exportación a Excel.</td>
+    <td>5</td>
+  </tr>
+
+  <!-- US28 -->
+  <tr>
+    <td>28</td>
+    <td>US28</td>
+    <td>Diseño responsivo y navegación</td>
+    <td><b>Como visitante</b>, quiero que la landing se adapte y sea clara,<br><p>para explorar en móvil/tablet/desktop.</p>
+        <b>Escenario 1:</b> Vista móvil usable. <br>
+        <b>Escenario 2:</b> Navegación intuitiva.</td>
+    <td>5</td>
+  </tr>
+
+  <!-- US29 -->
+  <tr>
+    <td>29</td>
+    <td>US29</td>
+    <td>Secciones segmentadas</td>
+    <td><b>Como empresa de transporte</b>, quiero una sección dedicada con beneficios y planes,<br><p>para evaluar si se ajusta a mi negocio.</p>
+        <b>Escenario 1:</b> Visualización de planes. <br>
+        <b>Escenario 2:</b> Segmento correcto por tipo de visitante.</td>
+    <td>5</td>
+  </tr>
+
+  <!-- US30 -->
+  <tr>
+    <td>30</td>
+    <td>US30</td>
+    <td>Internacionalización (i18n)</td>
+    <td><b>Como visitante internacional</b>, quiero seleccionar idioma (ES/EN),<br><p>para entender la propuesta sin barreras.</p>
+        <b>Escenario 1:</b> Selector de idioma. <br>
+        <b>Escenario 2:</b> Idioma por defecto según navegador.</td>
     <td>5</td>
   </tr>
 </table>
