@@ -66,6 +66,9 @@ La alineación refuerza el orden y la profesionalidad, asegurando que encabezado
 
 ### 4.1.2. Web Style Guidelines.
 
+El diseño web de Rutana está diseñada y optimizada para proporcionar una experiencia sin complicaciones e igual en disintos dispositivos con tamaños diferente. Se emplean diseños de solo una columna para que sea facil la lectura. Por otro lado. los anchos y las imagenes se ajustan y acomodan de manera dinámica para preservar las proporciones necesarias para que no se distorsionen. Además, los elementos interactivos resaltan cuando esten interactuando con este, lo cual mejora la navegación. Siguiendo con la implementación de elementos interactivos, los botones y enlaces son claros y faciles de reconocer, al poseer estados visuales para indicarle al usuario si esta seleccionando la opción correcta. Finalmente, los formularios fuero diseñados para que sean intutivos y faciles de completar, además, de utilizar mensajes y validaciones clara para cualquier error o inconveniente que pueda ocurrir.
+
+
 ### 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 
@@ -365,6 +368,117 @@ Asignación de equipo para la ruta:
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
+#### Task Flow 1: Gestión de usuarios y almacenes
+
+objetivo del usuario: Asignar las almacenes más cercana para clientes frecuentes organizada de clientes para planificar mejor las rutas.
+
+**Pasos del Task Flow:**
+
+Acceder a la vista "Clientes"
+
+Buscar y seleccionar al cliente
+
+En caso no haya un cliente, crearlo con los datos correspondientes
+
+Visualizar si esta disponible o no
+
+Seleccionar una dirección en el mapa
+
+Designar ese punto como un almacén de la empresa
+
+Asignar el almacén al cliente seleccionado
+
+Guardar los cambios y se quedara asignada ese almacén al cliente
+
+![alt text](Resources/TaskFlow1.png)
+
+**User goals:**
+
+User goal 1: Como administrador, quiero poder designar los almacenes más cercanos a mis clientes frecuentes
+
+**User Story:**
+
+US12: Crear ubicación y asignarla a un cliente
+US10: Gestión de clientes
+US13: Reubicar una ubicación existente
+US15: Filtrar puntos por cliente en el mapa
+
+#### Task Flow 2: Gestión de vehículos
+
+El objetivo del usuario: Mantener un registro preciso y actualizado de todos los vehículos de la flota para una planificación de rutas eficiente
+
+**Pasos del Task Flow:**
+
+Acceder a la vista "Vehículos"
+
+Visualizar los vehículos disponibles
+
+Registrar uno nuevo, de ser necesario
+
+Buscar y seleccionar al vehículo que se requiera
+
+Editar los datos necesarios
+
+Guardar los cambios
+
+![alt text](Resources/TaskFlow2.png)
+
+**User Goals:**
+
+User goal 2: Como administrador quiero monitorear el estado de mis vehículos y su especificaciones.
+
+**User Stories:**
+
+US18: Inhabilitar vehículo
+US17: Registrar vehículo
+
+#### Task Flow 3: Gestión de rutas
+
+El objetivo del usuario: Realizar una planificación sencilla y rapida de agendar
+
+**Pasos del Task Flow:**
+
+Acceder a la pantalla de "Rutas"
+
+Visualizar las rutas planeas
+
+Verificar cuales están publicadas y cuales les falta agregar más información
+
+Si se quiere crear, se presiona el botón de nueva ruta
+
+Se elije el tipo de ruta
+
+El color en el que saldrá en el mapa
+
+Se presiona confirmar
+
+Se redirige a la vista Localidades
+
+Donde se ven las diferentes localidades y los clientes designados a cada una
+
+Se selecciona una de esta localidades 
+
+Luego se cambia a la pestaña de Equipos
+
+Se Visualizan los equipos que están disponible o no
+
+Se selecciona uno de los disponibles
+
+Se guardan los cambios y se publica la nueva ruta 
+
+![alt text](Resources/TaskFlow3.png)
+
+**User Goals:**
+
+User goal 3: Como administrador quiero planificar de manera rápida y eficiente mis rutas.
+
+**User Story:**
+
+US20: Crear una ruta en borrador
+US19: Publicar ruta bloquea edición
+US18: Inhabilitar vehículo
+US16: Agregar/Quitar puntos en una ruta
+
 
 ### 4.4.2. Web Applications Mock-ups.
 
@@ -413,6 +527,31 @@ Lista de equipos para la ruta:
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
+User Flow 1:
+
+Relacionado con el User Goal 1: Como administrador, quiero poder designar los almacenes más cercanos a mis clientes frecuentes
+
+En esta etapa el usuario escoge al cliente que quiere y se le muestran las posibles opciones de los almacenes más cercanos para que pueda asignarle.
+
+![alt text](Resources/UserFlow1.png)
+
+User Flow 2:
+
+Relacionado con el User Goal 2: Como administrador quiero monitorear el estado de mis vehículos y su especificaciones.
+
+
+En esta etapa el usuario escoge al vehiculo que quiere monitorear y se le muestran las especificaciones de este. Además de presentarle la opción de modificar sus datos de ser necesarios o de crear uno nuevo completamente.
+
+![alt text](Resources/UserFlow2.png)
+
+User Flow 3:
+
+Relacionado con el User Goal 3: Como administrador quiero planificar de manera rápida y eficiente mis rutas.
+
+
+En esta etapa el usuario crea una ruta y es redirigido a las pestañas de Localidades y Equipos para que pueda especificar los datos relevantes para que se pueda realizar las entregas de productos.
+
+![alt text](Resources/UserFlow3.png)
 
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
