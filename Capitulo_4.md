@@ -1096,5 +1096,5 @@ En esta sección el equipo presenta y explica los **Database Diagrams** para cad
 
 ### 4.8.1. Database Diagrams
 
-<img src="Resources/Capitulo_4/Diagram_DataBase" alt="DataBase">
+<img src="Resources/Capitulo_4/D_DataBase.png" alt="DataBase">
 
