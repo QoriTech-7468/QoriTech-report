@@ -88,9 +88,9 @@ Preguntas Frecuentes: Preguntas comunes con respuestas claras. Ayuda a resolver 
 
 #### 2. Aplicación Web:
 
-Ingeso: Vista general de indicadores clave: stock actual, compras recientes, alertas importantes.
+Inicio: Vista general para el inicio de sesión y creación de cuenta.
 
-Usuarios: Listado de insumos registrados. Incluye cantidades, fechas, perecibilidad y opciones para editar.
+Usuarios: Listado de usuarios que se puede agregar a tu cuenta.
 
 Vehiculos: Registro de compras de insumos. Permite agregar nuevas compras y consultar historial.
 
@@ -245,13 +245,74 @@ Este sistema de navegación es intuitivo y efectivo porque no solo le dice al us
 
 ### 4.3.1. Landing Page Wireframe.
 
+Inicio:
 
+![alt text](Resources/wireframes/LandingPage/Home.png)
 
+Características:
+
+![alt text](Resources/wireframes/LandingPage/feature.png)
+
+Sobre nosotros:
+
+![alt text](<Resources/wireframes/LandingPage/About us.png>)
+
+Nuestro equipo:
+
+![alt text](<Resources/wireframes/LandingPage/Our team.png>)
+
+Planes:
+
+![alt text](Resources/wireframes/LandingPage/Plans.png)
+
+Testimonios:
+
+![alt text](Resources/wireframes/LandingPage/Testimonials.png)
+
+Preguntas frecuentes:
+
+![alt text](Resources/wireframes/LandingPage/FAQ.png)
+
+Footer:
+
+![alt text](Resources/wireframes/LandingPage/Footer.png)
 
 
 
 
 ### 4.3.2. Landing Page Mock-up.
+
+Inicio:
+
+![alt text](Resources/mockups/LandingPage/Home.png)
+
+Características:
+
+![alt text](Resources/mockups/LandingPage/feature.png)
+
+Sobre nosotros:
+
+![alt text](<Resources/mockups/LandingPage/About us.png>)
+
+Nuestro equipo:
+
+![alt text](<Resources/mockups/LandingPage/Our team.png>)
+
+Planes:
+
+![alt text](Resources/mockups/LandingPage/Plans.png)
+
+Testimonios:
+
+![alt text](Resources/mockups/LandingPage/Testimonials.png)
+
+Preguntas frecuentes:
+
+![alt text](Resources/mockups/LandingPage/FAQ.png)
+
+Footer:
+
+![alt text](Resources/mockups/LandingPage/Footer.png)
 
 
 ### 4.4. Web Applications UX/UI Design.
