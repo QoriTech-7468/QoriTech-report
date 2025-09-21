@@ -16,9 +16,9 @@
   <tbody>
     <tr>
       <td>Gestión de proyecto</td>
-      <td>Jira</td>
+      <td>Trello</td>
       <td>Organizar y dar seguimiento a tareas</td>
-      <td><a href="https://jira.com" target="_blank">Jira</a></td>
+      <td><a href="https://trello.com" target="_blank">Trello</a></td>
     </tr>
     <tr>
       <td>Gestión de requerimientos</td>
