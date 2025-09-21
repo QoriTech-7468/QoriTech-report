@@ -197,3 +197,12 @@ Ingeniería de software - 2025-02
 * [Anexos](https://github.com/QoriTech-7468/QoriTech-report/blob/develop/Anexos.md)
 
 ## Student Outcome
+
+ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+
+| Criterio | Acciones realizadas | Conclusiones|
+|---------|--------------------|------------|
+|Trabaja en equipo para proporcionar liderazgo en forma conjunta.| **Jesus Castillo:**<br> **TB1:** <br>TexxtoAqui <br>**Christofer Costa:**<br> **TB1:** <br>TextoAqui <br>**Santiago Gordillo**<br>**TB1:** <br>TexxtoAqui <br>**Yaku Guzmán**<br>**TB1:** <br>TexxtoAqui <br>**Ingrid Medina**<br>**TB1:** <br>TexxtoAqui <br> |**Jesus Castillo:**<br> **TB1:** <br>TexxtoAqui <br>**Christofer Costa:**<br> **TB1:** <br>TextoAqui <br>**Santiago Gordillo**<br>**TB1:** <br>TexxtoAqui <br>**Yaku Guzmán**<br>**TB1:** <br>TexxtoAqui <br>**Ingrid Medina**<br>**TB1:** <br>TexxtoAqui <br> |
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.| **Jesus Castillo:**<br> **TB1:** <br>TexxtoAqui <br>**Christofer Costa:**<br> **TB1:** <br>TextoAqui <br>**Santiago Gordillo**<br>**TB1:** <br>TexxtoAqui <br>**Yaku Guzmán**<br>**TB1:** <br>TexxtoAqui <br>**Ingrid Medina**<br>**TB1:** <br>TexxtoAqui <br>  |**Jesus Castillo:**<br> **TB1:** <br>TexxtoAqui <br>**Christofer Costa:**<br> **TB1:** <br>TextoAqui <br>**Santiago Gordillo**<br>**TB1:** <br>TexxtoAqui <br>**Yaku Guzmán**<br>**TB1:** <br>TexxtoAqui <br>**Ingrid Medina**<br>**TB1:** <br>TexxtoAqui <br> |
+
+</div>
