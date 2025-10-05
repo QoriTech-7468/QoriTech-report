@@ -59,21 +59,273 @@ Ingeniería de software - 2025-02
     <th>Autor</th>
     <th>Descripción de modificación </th>
   </tr>
+   <tr>
+    <td align="center">1.0</td>
+    <td align="center">2025-09-10</td>
+    <td> Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+      Se creo la ramificación del repositorio y adicionó los documentos en su versión inicial previa a la investigacón</td>
+  </tr>
   <tr>
-    <td>TB1</td>
-    <td>2025-09-4</td>
-    <td> <ul> <li>Castillo Vidal, Jesus Ivan</li> <li>Costa Morales, Christofer William</li> <li> Gordillo Ramos, Santiago Alonso </li><li>Guzmán Cabrejos, Yaku Mateo</li><li>Medina Merma, Ingrid Melani</li></ul></td>
-    <td> Se han incluído los siguientes capítulos:
+    <td align="center">1.1</td>
+    <td align="center">2025-09-10</td>
+    <td> Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
         <ul>
-          <li>Capítulo I: Introducción</li>
-          <li>Capítulo II: Requirements Elicitation & Analysis</li>
-          <li>Capítulo III: Requirements Specification</li>
-          <li>Capítulo IV: Product Design</li>
-          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
-          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+          <li>Startup Profile</li>
+          <li>Descripción de la Startup</li>
+          <li>Perfiles de integrantes del equipo</li>
         </ul></td>
   </tr>
-  
+  <tr>
+  <td align="center">1.2</td>
+    <td align="center">2025-09-10</td>
+    <td> Medina Merma, Ingrid Melani</td>
+    <td>
+        <ul>
+          <li>Solution Profile</li>
+          <li>Antecedentes y problemática</li>
+          <li>Bibliografía</li>
+        </ul></td>
+  </tr>
+    <tr>
+    <td align="center">1.3</td>
+    <td align="center">2025-09-10</td>
+    <td>Gordillo Ramos, Santiago Alonso</td>
+    <td>
+        <ul>
+          <li> Lean UX Process.</li>
+          <li> Lean UX Problem Statements.</li>
+          <li> Lean UX Assumptions.</li>
+        </ul></td>
+  </tr>
+      <tr>
+      <td align="center">1.4</td>
+    <td align="center">2025-09-10</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td>
+        <ul>
+          <li> Lean UX Hypothesis Statements.</li>
+        </ul></td>
+  </tr>
+      <tr>
+      <td align="center">1.5</td>
+    <td align="center">2025-09-10</td>
+    <td>Costa Morales, Christofer William</td>
+    <td>
+        <ul>
+          <li>  Lean UX Canvas.</li>
+        </ul></td>
+  </tr>
+        <tr>
+      <td align="center">1.6</td>
+    <td align="center">2025-09-10</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td>
+        <ul>
+          <li>Segmentos objetivo.</li>
+        </ul></td>
+  </tr>
+<tr>
+<td align="center">1.7</td>
+    <td align="center">2025-09-11</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Competidores.</li>
+          <li>Análisis competitivo.</li>
+          <li>Estrategias y tácticas frente a competidores.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.8</td>
+    <td align="center">2025-09-11</td>
+    <td>Costa Morales, Christofer William</td>
+    <td> 
+        <ul>
+          <li>Se agrego el Diseño de entrevistas hecho en grupo</li>
+          <li>Registro de entrevistas (foto, descripción).</li>
+          <li> Análisis de entrevistas</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.9</td>
+    <td align="center">2025-09-12</td>
+    <td>Costa Morales, Christofer William</td>
+    <td> 
+        <ul>
+          <li>User Personas</li>
+          <li>User Task Matrix</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.10</td>
+    <td align="center">2025-09-12</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td> 
+        <ul>
+          <li>User Journey Mapping</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.11</td>
+    <td align="center">2025-09-12</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td> 
+        <ul>
+          <li>User Journey Mapping</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.12</td>
+    <td align="center">2025-09-12</td>
+    <td>Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+        <ul>
+          <li>Empathy Mapping.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.13</td>
+    <td align="center">2025-09-15</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td> 
+        <ul>
+          <li>Big Picture EventStorming</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.14</td>
+    <td align="center">2025-09-15</td>
+     <td>Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+        <ul>
+          <li>Ubiquitous Language</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.15</td>
+    <td align="center">2025-09-15</td>
+    <td>Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+        <ul>
+          <li>User Stories (epics)</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.15</td>
+    <td align="center">2025-09-16</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Impact Mapping</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.17</td>
+    <td align="center">2025-09-16</td>
+    <td>Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+        <ul>
+          <li>Product Backlog.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.18</td>
+    <td align="center">2025-09-18</td>
+    <td>Costa Morales, Christofer William<</td>
+    <td> 
+        <ul>
+          <li>Style Guidelines.</li>
+          <li>General Style Guidelines.</li>
+          <li>Web Style Guidelines.</li>
+          <li>Organization Systems.</li>
+          <li>Labeling Systems.</li>
+        </ul></td>
+</tr>
+<td align="center">1.19</td>
+    <td align="center">2025-09-18</td>
+    <td>Gordillo Ramos, Santiago Alonso</td>
+    <td> 
+        <ul>
+          <li>SEO Tags and Meta Tags</li>
+          <li> Searching Systems</li>
+          <li>Navigation Systems.</li>
+          <li>Landing Page UI Design.</li>
+          <li>Landing Page Wireframe.</li>
+          <li>Landing Page Mock-up.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.20</td>
+    <td align="center">2025-09-18</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Web Applications UX/UI Design.</li>
+          <li> Web Applications Wireframes.</li>
+          <li>Web Applications Wireflow Diagrams.</li>
+          <li>Web Applications Mock-ups.</li>
+          <li> Web Applications User Flow Diagrams.</li>
+          <li>Web Applications Prototyping.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.21</td>
+    <td align="center">2025-09-19</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td> 
+        <ul>
+          <li> Domain-Driven Software Architecture.</li>
+          <li>Design-Level EventStorming.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.22</td>
+    <td align="center">2025-09-19</td>
+    <td>Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+        <ul>
+          <li>Software Architecture Context Diagram.</li>
+          <li>Software Architecture Container Diagrams.</li>
+          <li>Software Architecture Components Diagrams.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.23</td>
+    <td align="center">2025-09-20</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td> 
+        <ul>
+          <li>Software Object-Oriented Design.</li>
+          <li>Class Diagrams.</li>
+          <li>Database Design.</li>
+          <li> Database Diagrams.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.24</td>
+    <td align="center">2025-09-20</td>
+    <td>...</td>
+    <td> 
+        <ul>
+          <li>...</li>
+          <li>...</li>
+          <li>...</li>
+          <li>...</li>
+        </ul></td>
+</tr>
+
+<tr>
+<td align="center">2.0</td>
+    <td align="center">2025-09-20</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td> 
+        <ul>
+          <li>Se actualizarn las conclusiones en Student Outcome</li>
+          <li>Se modifico la tabla de Registro de versión del Informe</li>
+        </ul></td>
+</tr>
 </table>
 
 ## Project Report Collaboration Insights
@@ -214,7 +466,7 @@ ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamen
 
 | Criterio                                                                                        | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta.                                | **Jesús Castillo:**<br>**TB1:** Organizó al equipo, convocó reuniones, lideró sesiones de "event storming" y definió historias de usuario. Realizó wireframes y dio dirección al producto.<br><br>**Christofer Costa:**<br>**TB1:** Aportó en "event storming", lideró el diseño de mockups y wireflows, generó imágenes y contribuyó en la landing page.<br><br>**Santiago Gordillo:**<br>**TB1:** Gestionó el desarrollo de la landing page, organizó las tareas con gitflow y conventional commits, participó en entrevistas y elaboró el canvas.<br><br>**Yaku Guzmán:**<br>**TB1:** Brindó retroalimentación constante, orientó la documentación, apoyó en gitflow, artefactos, entrevistas y la landing page.<br><br>**Ingrid Medina:**<br>**TB1:** Coordinó entrevistas, editó videos, aportó conocimientos del sector, realizó diagramas y wireframes, participando activamente en reuniones. | **Jesús Castillo:**<br>**TB1:** Lideró con firmeza, mantuvo la organización y motivó al equipo a cumplir los objetivos.<br><br>**Christofer Costa:**<br>**TB1:** Consolidó el área visual y de diseño, logrando una propuesta clara y atractiva.<br><br>**Santiago Gordillo:**<br>**TB1:** Fortaleció la estructura técnica y de organización, asegurando orden en el desarrollo.<br><br>**Yaku Guzmán:**<br>**TB1:** Su retroalimentación y soporte metodológico mejoraron la calidad de la documentación y entregables.<br><br>**Ingrid Medina:**<br>**TB1:** Enriqueció el proyecto con visión práctica, aportando valor en la validación de necesidades y materiales visuales. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Jesús Castillo:**<br>**TB1:** Definió metas claras, repartió responsabilidades y dio seguimiento a avances, asegurando cumplimiento.<br><br>**Christofer Costa:**<br>**TB1:** Propuso mejoras en los diseños, facilitó colaboración creativa y apoyó la ejecución de la landing page.<br><br>**Santiago Gordillo:**<br>**TB1:** Dividió el trabajo, gestionó entregas técnicas y garantizó orden en el flujo de trabajo.<br><br>**Yaku Guzmán:**<br>**TB1:** Promovió disciplina en la documentación y la integración del equipo, reforzando estándares de trabajo.<br><br>**Ingrid Medina:**<br>**TB1:** Apoyó en la planificación con entrevistas, diagramas y videos, reforzando la comunicación en el equipo.                                                                                                                                                                                   | **Jesús Castillo:**<br>**TB1:** Su rol organizativo fue clave para mantener alineado al equipo y cumplir los objetivos.<br><br>**Christofer Costa:**<br>**TB1:** Favoreció un entorno inclusivo mediante propuestas de diseño que facilitaron consenso y creatividad.<br><br>**Santiago Gordillo:**<br>**TB1:** Aseguró que las metas técnicas se cumplieran en tiempo, reforzando la colaboración.<br><br>**Yaku Guzmán:**<br>**TB1:** Contribuyó a un entorno disciplinado, logrando mayor calidad y consistencia.<br><br>**Ingrid Medina:**<br>**TB1:** Su aporte colaborativo fortaleció la validación de necesidades y cohesionó al equipo.                                   |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta.                                | **Jesús Castillo:**<br>**TB1:** Organizó al equipo, convocó reuniones, lideró sesiones de "event storming" y definió historias de usuario. Realizó wireframes y dio dirección al producto.<br><br>**Christofer Costa:**<br>**TB1:** Aportó en "event storming", lideró el diseño de mockups y wireflows, generó imágenes y contribuyó en la landing page.<br><br>**Santiago Gordillo:**<br>**TB1:** Gestionó el desarrollo de la landing page, organizó las tareas con gitflow y conventional commits, participó en entrevistas y elaboró el canvas.<br><br>**Yaku Guzmán:**<br>**TB1:** Brindó retroalimentación constante, orientó la documentación, apoyó en gitflow, artefactos, entrevistas y la landing page.<br><br>**Ingrid Medina:**<br>**TB1:** Coordinó entrevistas, editó videos, aportó conocimientos del sector, realizó diagramas y wireframes, participando activamente en reuniones. |**TB1:** <br>El equipo demostró un sólido trabajo colaborativo, combinando liderazgo compartido y compromiso en cada etapa del proyecto. A través de una comunicación constante, una adecuada organización y el compromiso colectivo, se logró mantener la cohesión del grupo, equilibrando los aportes técnicos, visuales y metodológicos. Este trabajo en conjunto permitió desarrollar una propuesta sólida, bien estructurada y con un enfoque práctico, evidenciando una gestión eficiente y un liderazgo distribuido que potenció el desempeño grupal.|
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Jesús Castillo:**<br>**TB1:** Definió metas claras, repartió responsabilidades y dio seguimiento a avances, asegurando cumplimiento.<br><br>**Christofer Costa:**<br>**TB1:** Propuso mejoras en los diseños, facilitó colaboración creativa y apoyó la ejecución de la landing page.<br><br>**Santiago Gordillo:**<br>**TB1:** Dividió el trabajo, gestionó entregas técnicas y garantizó orden en el flujo de trabajo.<br><br>**Yaku Guzmán:**<br>**TB1:** Promovió disciplina en la documentación y la integración del equipo, reforzando estándares de trabajo.<br><br>**Ingrid Medina:**<br>**TB1:** Apoyó en la planificación con entrevistas, diagramas y videos, reforzando la comunicación en el equipo.                                                                                                                                                                                   | **TB1:**<br>El equipo logró crear un entorno colaborativo e inclusivo donde cada integrante aportó desde su área de especialidad para alcanzar metas comunes. Desde la planificación inicial, se establecieron metas claras y tareas bien definidas, lo que permitió mantener el orden y la eficiencia en el desarrollo del proyecto. Este enfoque favoreció la creatividad, el compromiso y la cooperación, asegurando el cumplimiento de los objetivos y fortaleciendo la cohesión grupal a lo largo del proceso. |
 
 </div>
