@@ -59,21 +59,291 @@ Ingeniería de software - 2025-02
     <th>Autor</th>
     <th>Descripción de modificación </th>
   </tr>
+   <tr>
+    <td align="center">1.0</td>
+    <td align="center">2025-09-10</td>
+    <td> Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+      Se creo la ramificación del repositorio y adicionó los documentos en su versión inicial previa a la investigacón</td>
+  </tr>
   <tr>
-    <td>TB1</td>
-    <td>2025-09-4</td>
-    <td> <ul> <li>Castillo Vidal, Jesus Ivan</li> <li>Costa Morales, Christofer William</li> <li> Gordillo Ramos, Santiago Alonso </li><li>Guzmán Cabrejos, Yaku Mateo</li><li>Medina Merma, Ingrid Melani</li></ul></td>
-    <td> Se han incluído los siguientes capítulos:
+    <td align="center">1.1</td>
+    <td align="center">2025-09-10</td>
+    <td> Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
         <ul>
-          <li>Capítulo I: Introducción</li>
-          <li>Capítulo II: Requirements Elicitation & Analysis</li>
-          <li>Capítulo III: Requirements Specification</li>
-          <li>Capítulo IV: Product Design</li>
-          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
-          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+          <li>Startup Profile</li>
+          <li>Descripción de la Startup</li>
+          <li>Perfiles de integrantes del equipo</li>
         </ul></td>
   </tr>
-  
+  <tr>
+  <td align="center">1.2</td>
+    <td align="center">2025-09-10</td>
+    <td> Medina Merma, Ingrid Melani</td>
+    <td>
+        <ul>
+          <li>Solution Profile</li>
+          <li>Antecedentes y problemática</li>
+          <li>Bibliografía</li>
+        </ul></td>
+  </tr>
+    <tr>
+    <td align="center">1.3</td>
+    <td align="center">2025-09-10</td>
+    <td>Gordillo Ramos, Santiago Alonso</td>
+    <td>
+        <ul>
+          <li> Lean UX Process.</li>
+          <li> Lean UX Problem Statements.</li>
+          <li> Lean UX Assumptions.</li>
+        </ul></td>
+  </tr>
+      <tr>
+      <td align="center">1.4</td>
+    <td align="center">2025-09-10</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td>
+        <ul>
+          <li> Lean UX Hypothesis Statements.</li>
+        </ul></td>
+  </tr>
+      <tr>
+      <td align="center">1.5</td>
+    <td align="center">2025-09-10</td>
+    <td>Costa Morales, Christofer William</td>
+    <td>
+        <ul>
+          <li>  Lean UX Canvas.</li>
+        </ul></td>
+  </tr>
+        <tr>
+      <td align="center">1.6</td>
+    <td align="center">2025-09-10</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td>
+        <ul>
+          <li>Segmentos objetivo.</li>
+        </ul></td>
+  </tr>
+<tr>
+<td align="center">1.7</td>
+    <td align="center">2025-09-11</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Competidores.</li>
+          <li>Análisis competitivo.</li>
+          <li>Estrategias y tácticas frente a competidores.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.8</td>
+    <td align="center">2025-09-11</td>
+    <td>Costa Morales, Christofer William</td>
+    <td> 
+        <ul>
+          <li>Se agrego el Diseño de entrevistas hecho en grupo</li>
+          <li>Registro de entrevistas (foto, descripción).</li>
+          <li> Análisis de entrevistas</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.9</td>
+    <td align="center">2025-09-12</td>
+    <td>Costa Morales, Christofer William</td>
+    <td> 
+        <ul>
+          <li>User Personas</li>
+          <li>User Task Matrix</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.10</td>
+    <td align="center">2025-09-12</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td> 
+        <ul>
+          <li>User Journey Mapping</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.11</td>
+    <td align="center">2025-09-12</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td> 
+        <ul>
+          <li>User Journey Mapping</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.12</td>
+    <td align="center">2025-09-12</td>
+    <td>Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+        <ul>
+          <li>Empathy Mapping.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.13</td>
+    <td align="center">2025-09-15</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td> 
+        <ul>
+          <li>Big Picture EventStorming</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.14</td>
+    <td align="center">2025-09-15</td>
+     <td>Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+        <ul>
+          <li>Ubiquitous Language</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.15</td>
+    <td align="center">2025-09-15</td>
+    <td>Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+        <ul>
+          <li>User Stories (epics)</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.15</td>
+    <td align="center">2025-09-16</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Impact Mapping</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.17</td>
+    <td align="center">2025-09-16</td>
+    <td>Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+        <ul>
+          <li>Product Backlog.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.18</td>
+    <td align="center">2025-09-18</td>
+    <td>Costa Morales, Christofer William</td>
+    <td> 
+        <ul>
+          <li>Style Guidelines.</li>
+          <li>General Style Guidelines.</li>
+          <li>Web Style Guidelines.</li>
+          <li>Organization Systems.</li>
+          <li>Labeling Systems.</li>
+        </ul></td>
+</tr>
+<td align="center">1.19</td>
+    <td align="center">2025-09-18</td>
+    <td>Gordillo Ramos, Santiago Alonso</td>
+    <td> 
+        <ul>
+          <li>SEO Tags and Meta Tags</li>
+          <li> Searching Systems</li>
+          <li>Navigation Systems.</li>
+          <li>Landing Page UI Design.</li>
+          <li>Landing Page Wireframe.</li>
+          <li>Landing Page Mock-up.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.20</td>
+    <td align="center">2025-09-18</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Web Applications UX/UI Design.</li>
+          <li> Web Applications Wireframes.</li>
+          <li>Web Applications Wireflow Diagrams.</li>
+          <li>Web Applications Mock-ups.</li>
+          <li> Web Applications User Flow Diagrams.</li>
+          <li>Web Applications Prototyping.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.21</td>
+    <td align="center">2025-09-19</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td> 
+        <ul>
+          <li> Domain-Driven Software Architecture.</li>
+          <li>Design-Level EventStorming.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.22</td>
+    <td align="center">2025-09-19</td>
+    <td>Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+        <ul>
+          <li>Software Architecture Context Diagram.</li>
+          <li>Software Architecture Container Diagrams.</li>
+          <li>Software Architecture Components Diagrams.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.23</td>
+    <td align="center">2025-09-20</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td> 
+        <ul>
+          <li>Software Object-Oriented Design.</li>
+          <li>Class Diagrams.</li>
+          <li>Database Design.</li>
+          <li> Database Diagrams.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.24</td>
+    <td align="center">2025-09-20</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Software Configuration Management.</li>
+          <li>Software Development Environment Configuration.</li>
+          <li>Source Code Management.</li>
+          <li>Source Code Style Guide & Conventions.</li>
+          <li>Software Deployment Configuration.</li>
+          <li> Landing Page, Services & Applications Implementation.</li>
+          <li>Sprint Planning 1.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">1.25</td>
+    <td align="center">2025-09-20</td>
+    <td>Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+        <ul>
+          <li>Aspect Leaders and Collaborators.</li>
+          <li>Sprint Backlog 1.</li>
+          <li>Development Evidence for Sprint Review.</li>
+          <li>Execution Evidence for Sprint Review.</li>
+          <li>Services Documentation Evidence for Sprint Review.</li>
+          <li>Software Deployment Evidence for Sprint Review.</li>
+          <li>Team Collaboration Insights during Sprint.</li>
+          <li>Anexos.</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">2.0</td>
+    <td align="center">2025-09-20</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td> 
+        <ul>
+          <li>Se actualizarn las conclusiones en Student Outcome</li>
+          <li>Se modifico la tabla de Registro de versión del Informe</li>
+        </ul></td>
+</tr>
 </table>
 
 ## Project Report Collaboration Insights
