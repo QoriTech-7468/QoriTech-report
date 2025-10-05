@@ -319,7 +319,7 @@ Ingeniería de software - 2025-02
         </ul></td>
 </tr>
 <tr>
-<td align="center">1.24</td>
+<td align="center">1.25</td>
     <td align="center">2025-09-20</td>
     <td>Guzmán Cabrejos, Yaku Mateo</td>
     <td> 
