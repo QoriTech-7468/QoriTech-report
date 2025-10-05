@@ -233,7 +233,7 @@ Ingeniería de software - 2025-02
 <tr>
 <td align="center">1.18</td>
     <td align="center">2025-09-18</td>
-    <td>Costa Morales, Christofer William<</td>
+    <td>Costa Morales, Christofer William</td>
     <td> 
         <ul>
           <li>Style Guidelines.</li>
@@ -306,16 +306,34 @@ Ingeniería de software - 2025-02
 <tr>
 <td align="center">1.24</td>
     <td align="center">2025-09-20</td>
-    <td>...</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
     <td> 
         <ul>
-          <li>...</li>
-          <li>...</li>
-          <li>...</li>
-          <li>...</li>
+          <li>Software Configuration Management.</li>
+          <li>Software Development Environment Configuration.</li>
+          <li>Source Code Management.</li>
+          <li>Source Code Style Guide & Conventions.</li>
+          <li>Software Deployment Configuration.</li>
+          <li> Landing Page, Services & Applications Implementation.</li>
+          <li>Sprint Planning 1.</li>
         </ul></td>
 </tr>
-
+<tr>
+<td align="center">1.24</td>
+    <td align="center">2025-09-20</td>
+    <td>Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+        <ul>
+          <li>Aspect Leaders and Collaborators.</li>
+          <li>Sprint Backlog 1.</li>
+          <li>Development Evidence for Sprint Review.</li>
+          <li>Execution Evidence for Sprint Review.</li>
+          <li>Services Documentation Evidence for Sprint Review.</li>
+          <li>Software Deployment Evidence for Sprint Review.</li>
+          <li>Team Collaboration Insights during Sprint.</li>
+          <li>Anexos.</li>
+        </ul></td>
+</tr>
 <tr>
 <td align="center">2.0</td>
     <td align="center">2025-09-20</td>
