@@ -1,22 +1,22 @@
 ![alt text](Resources/Banner-UPC.png)
 
 <div align= "center">
-
+  
 ### Universidad Peruana de Ciencias Aplicadas
 
-Ingeniería de software - 2025-02
+**Ingeniería de software - 2025-02**<br><br>
 
-**Curso:** 1ASI0730 Aplicaciones Web
+**Curso:** 1ASI0730 Aplicaciones Web<br><br>
 
-**NRC:** 7468
+**NRC:** 7468<br><br>
 
-**Profesor:** Velásquez Núñez, Ángel Augusto
+**Profesor:** Velásquez Núñez, Ángel Augusto<br><br>
 
-# Informe Trabajo Final
+**StartUp:** QoriTech<br><br>
 
-**StartUp:** QoriTech
+**Producto:** Rutana<br><br>
 
-**Producto:**
+**Informe Trabajo Final**<br><br>
 
 <table align="center"> 
 <tr>
@@ -43,14 +43,14 @@ Ingeniería de software - 2025-02
 <td>Medina Merma, Ingrid Melani </td>
 <td>U202213185</td>
 </tr>
-
 </table>
 
 <div> Septiembre 2025 </div>
 </div>
+
 <!--* informacion sobre el proyecto -->
 
-## Registro de versiones del Informe
+## **Registro de versiones del Informe**
 
 <table>
   <tr>
