@@ -216,44 +216,27 @@ Frente a esta situación, nuestra aplicación se presenta como una alternativa i
 5. **Reportes automáticos de entregas y tiempos de ruta** mejoran la toma de decisiones estratégicas.
      
 ### 1.2.2.3. Lean UX Hypothesis Statements.
-
+Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX: [Creemos que], [Esto logrará] y [Sabremos que]
 - #### 1. Optimización de tiempos
 
   - **Hipótesis:**  
-    Creemos que al implementar un módulo de optimización de rutas con geolocalización en tiempo real para transportistas y administradores, reduciremos el tiempo promedio de entrega en 1 hora por reparto, mejorando la eficiencia operativa y la satisfacción del cliente.
-  - **Indicadores de éxito:**
-    - Comentarios de transportistas como: _“ahora llego más rápido a todos los puntos”_.
-    - Registros de GPS que muestran una **reducción del 15–20 %** en los tiempos de recorrido promedio.
+    **Creemos que** si implementamos un módulo de optimización de rutas con geolocalización en tiempo real para transportistas y administradores,<br><br>**Entonces esto logrará** reducir el tiempo promedio de entrega en 1 hora por reparto, mejorar la eficiencia operativa y aumentar la satisfacción del cliente.<br><br>**Sabremos que** estamos en lo cierto<br><br>**Cuando** los registros de GPS muestren una reducción del 15–20 % en los tiempos promedio de entrega y los transportistas comenten: “Ahora llego más rápido a todos los puntos”.
 
 - #### 2. Prevención de pérdidas y robos
 
   - **Hipótesis:**  
-   Creemos que al integrar alertas de desvíos no autorizados y paradas inusuales para administradores, reduciremos en un 30% las incidencias de robo o pérdida de mercadería, aumentando la confiabilidad del servicio.
-  - **Indicadores de éxito:**
-    - Comentarios de administradores como: _“ahora detecto al instante cuando un conductor se sale de la ruta”_.
-    - Incidencias de siniestros reportadas bajan más del **30 %** en el primer año.
-
+   **Creemos que** si integramos alertas de desvíos no autorizados y paradas inusuales en la plataforma para administradores,<br><br>**Entonces esto logrará** reducir en un 30 % las incidencias de robo o pérdida de mercadería, aumentando la confiabilidad del servicio.<br><br>**Sabremos que** estamos en lo cierto<br><br> **Cuando** los administradores comenten: “Ahora detecto al instante cuando un conductor se sale de la ruta” y las incidencias reportadas disminuyan más del 30 % en el primer año.
 - #### 3. Control en tiempo real de transportistas
 
   - **Hipótesis:**  
-  Creemos que al ofrecer un panel de control en tiempo real para monitorear la ubicación y actividad de cada conductor, los administradores podrán **aumentar la puntualidad de las entregas en un 25%**, mejorando la toma de decisiones y la eficiencia del negocio.
-  - **Indicadores de éxito:**
-    - Comentarios de administradores como: _“puedo ver en dónde está cada camión sin llamar por teléfono”_.
-    - Los indicadores de entregas puntuales crecen más del **25 %** respecto a la línea base.
+  **Creemos que** si ofrecemos un panel de control en tiempo real para monitorear la ubicación y actividad de cada conductor,<br><br>**Entonces esto logrará** aumentar la puntualidad de las entregas en un 25 % y mejorar la toma de decisiones de los administradores.<br><br>**Sabremos que** estamos en lo cierto<br><br>**Cuando** los administradores comenten: “Puedo ver en dónde está cada camión sin llamar por teléfono” y los indicadores de entregas puntuales aumenten un 25 % respecto a la línea base.
 
 - #### 4. Listado digital de productos por camión
   - **Hipótesis:**  
-   Creemos que al permitir registrar y consultar un listado digital de productos por camión para transportistas y administradores, **reduciremos los errores de carga y entrega en un 30 %** y mejoraremos la trazabilidad, aumentando la confiabilidad del proceso y la satisfacción de los clientes finales.
-  - **Indicadores de éxito:**
-    - Comentarios de conductores como: _“ahora sé exactamente qué productos llevo en mi camión”_.
-    - Comentarios de administradores como: _“puedo verificar en segundos la carga de cada vehículo”_.
-    - Los registros muestran una **disminución del 30 %** en reclamos o incidencias por productos mal cargados o entregados.
+  **Creemos que** si permitimos registrar y consultar un listado digital de productos por camión para transportistas y administradores,<br><br>**Entonces esto logrará** reducir los errores de carga y entrega en un 30 % y mejorar la trazabilidad, aumentando la confiabilidad y satisfacción de los clientes finales<br><br>**Sabremos que** estamos en lo cierto<br><br>**Cuando** los conductores comenten: “Ahora sé exactamente qué productos llevo en mi camión”, los administradores digan: “Puedo verificar en segundos la carga de cada vehículo”, y los registros muestren una disminución del 30 % en reclamos o incidencias por productos mal cargados o entregados.
  - #### 5. Adopción y uso de la plataforma por transportistas
   - **Hipótesis:**  
-   Creemos que al ofrecer onboarding guiado y capacitación en campo para transportistas, **aumentaremos la adopción de la plataforma en un 50 %**, reduciendo la resistencia tecnológica y mejorando el uso del sistema.
-  - **Indicadores de éxito:**
-    - Encuestas de adopción: ≥50 % de usuarios completan onboarding.
-    - Uso activo diario muestra incremento en DAU de 25–50 %.
+   **Creemos que** si ofrecemos un proceso de incorporación guiada y capacitación en campo para transportistas,<br><br>**Entonces esto logrará** aumentar la adopción de la plataforma en un 50 %, reduciendo la resistencia tecnológica y mejorando el uso consistente del sistema.<br><br>**Sabremos que** estamos en lo cierto<br><br>**Cuando** las encuestas de adopción muestren que ≥50 % de usuarios completan el onboarding y el uso activo diario (DAU) de la plataforma aumente entre 25–50 %.
 ### 1.2.2.4. Lean UX Canvas.
 
 <table align='center'>
