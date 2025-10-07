@@ -235,7 +235,7 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
   - **Hipótesis:**  
   **Creemos que** si permitimos registrar y consultar un listado digital de productos por camión para transportistas y administradores,<br><br>**Entonces esto logrará** reducir los errores de carga y entrega en un 30 % y mejorar la trazabilidad, aumentando la confiabilidad y satisfacción de los clientes finales<br><br>**Sabremos que** estamos en lo cierto<br><br>**Cuando** los conductores comenten: “Ahora sé exactamente qué productos llevo en mi camión”, los administradores digan: “Puedo verificar en segundos la carga de cada vehículo”, y los registros muestren una disminución del 30 % en reclamos o incidencias por productos mal cargados o entregados.
  - #### 5. Adopción y uso de la plataforma por transportistas
-  - **Hipótesis:**  
+    - **Hipótesis:**  
    **Creemos que** si ofrecemos un proceso de incorporación guiada y capacitación en campo para transportistas,<br><br>**Entonces esto logrará** aumentar la adopción de la plataforma en un 50 %, reduciendo la resistencia tecnológica y mejorando el uso consistente del sistema.<br><br>**Sabremos que** estamos en lo cierto<br><br>**Cuando** las encuestas de adopción muestren que ≥50 % de usuarios completan el onboarding y el uso activo diario (DAU) de la plataforma aumente entre 25–50 %.
 ### 1.2.2.4. Lean UX Canvas.
 
