@@ -336,12 +336,21 @@
 </tr>
 <tr>
 <td align="center">2.0</td>
-    <td align="center">2025-09-20</td>
+    <td align="center">2025-10-04</td>
     <td>Medina Merma, Ingrid Melani</td>
     <td> 
         <ul>
           <li>Se actualizarn las conclusiones en Student Outcome</li>
           <li>Se modifico la tabla de Registro de versión del Informe</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">2.0</td>
+    <td align="center">2025-10-07</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td> 
+        <ul>
+          <li>Se corrigio el Lean UX Hypothesis Statements.</li>
         </ul></td>
 </tr>
 </table>
