@@ -705,29 +705,9 @@ Entonces la entrega cambia a estado “Rejected” y el progreso se actualiza au
 </td>
 <td>EP07</td>
 </tr>
-<!-- User Story 29 -->
-<tr>
-<td>US29</td>
-<td>Visualización de progreso</td>
-<td>
-<b>Como administrador</b>, quiero ver un indicador visual de progreso de mis entregas completadas o rechazadas,<br>
-<p>para conocer el avance de mi ruta.</p>
-</td>
-<td>
-<b>Escenario 1: Cálculo automático del progreso</b><br>
-Dado que tengo entregas con distintos estados,<br>
-Cuando completo o rechazo una entrega,<br>
-Entonces el sistema recalcula el progreso considerando entregas completadas + rechazadas.<br><br>
-<b>Escenario 2:Visualización del progreso</b><br>
-Dado que tengo una ruta activa,<br>
-Cuando accedo al encabezado de la vista,<br>
-Entonces veo una barra con el progreso total y el conteo (por ejemplo, “2/8 completadas – 25%”).
-</td>
-<td>EP07</td>
-</tr>
 <!-- User Story 30 -->
 <tr>
-<td>US30</td>
+<td>US29</td>
 <td>Asignación de flota a la ruta</td>
 <td>
 <b>Como administrador</b>, quiero asignar vehículos y transportistas disponibles a una ruta planificada,<br>
@@ -747,7 +727,7 @@ Entonces el sistema asigna automáticamente esa flota a la ruta seleccionada, mo
 </tr>
 <!-- User Story 31 -->
 <tr>
-<td>US31</td>
+<td>US30</td>
 <td>Adjuntar evidencia</td>
 <td>
 <b>Como transportista</b>, quiero adjuntar fotos al registrar una incidencia,<br>
@@ -763,7 +743,7 @@ Entonces la evidencia queda registrada junto a la incidencia.
 </tr>
 <!-- User Story 32 -->
 <tr>
-<td>US32</td>
+<td>US31</td>
 <td>Etiquetado de incidencias por prioridad</td>
 <td>
 <b>Como administrador</b>, quiero que las incidencias reportadas por los transportistas se etiqueten según su nivel de prioridad,<br>
@@ -785,7 +765,7 @@ Y se adjunta en el apartado de incidencias para coordinar la reposición o repro
 </tr>
 <!-- User Story 33 -->
 <tr>
-<td>US33</td>
+<td>US32</td>
 <td>Generación de reportes operativos</td>
 <td>
 <b>Como administrador</b>, quiero generar reportes de entregas completadas, fallidas y pendientes,<br>
@@ -805,7 +785,7 @@ Entonces se descarga el archivo en formato Excel.
 </tr>
 <!-- User Story 34 -->
   <tr>
-    <td>US34</td>
+    <td>US33</td>
     <td>Diseño responsivo y navegación</td>
     <td>
       <b>Como visitante</b>, quiero que la landing page se adapte a cualquier dispositivo y tenga navegación clara,
@@ -825,7 +805,7 @@ Entonces se descarga el archivo en formato Excel.
   </tr>
   <!-- User Story 35 -->
   <tr>
-    <td>US35</td>
+    <td>US34</td>
     <td>Secciones segmentadas</td>
     <td>
       <b>Como visitante del segmento empresa de transporte</b>, quiero ver una sección dedicada con beneficios y planes,
@@ -845,7 +825,7 @@ Entonces se descarga el archivo en formato Excel.
   </tr>
   <!-- User Story 30 -->
   <tr>
-    <td>US36</td>
+    <td>US35</td>
     <td>Internacionalización (i18n)</td>
     <td>
       <b>Como visitante internacional</b>, quiero poder seleccionar el idioma de la landing page (ej. español o inglés),
@@ -886,7 +866,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
   <!-- US28 -->
   <tr>
     <td>1</td>
-    <td>US34</td>
+    <td>US33</td>
     <td>Diseño responsivo y navegación</td>
     <td><b>Como visitante</b>, quiero que la landing se adapte y sea clara,<br><p>para explorar en móvil/tablet/desktop.</p>
         <b>Escenario 1:</b> Vista móvil usable. <br>
@@ -896,7 +876,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
   <!-- US29 -->
   <tr>
     <td>2</td>
-    <td>US35</td>
+    <td>US34</td>
     <td>Secciones segmentadas</td>
     <td><b>Como empresa de transporte</b>, quiero una sección dedicada con beneficios y planes,<br><p>para evaluar si se ajusta a mi negocio.</p>
         <b>Escenario 1:</b> Visualización de planes. <br>
@@ -906,7 +886,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
   <!-- US30 -->
   <tr>
     <td>3</td>
-    <td>US36</td>
+    <td>US35</td>
     <td>Internacionalización (i18n)</td>
     <td><b>Como visitante internacional</b>, quiero seleccionar idioma (ES/EN),<br><p>para entender la propuesta sin barreras.</p>
         <b>Escenario 1:</b> Selector de idioma. <br>
@@ -1214,23 +1194,10 @@ zación del progreso total</b><br>
 </td>
 <td>8</td>
 </tr>
-<!-- User Story 29 -->
-<tr>
- <td>32</td>
-<td>US29</td>
-<td>Visualización de progreso</td>
-<td>
-<b>Como administrador</b>, quiero ver un indicador visual de progreso de mis entregas completadas o rechazadas,<br>
-<p>para conocer el avance de mi ruta.</p>
-<b>Escenario 1: Cálculo automático del progreso</b><br>
-<b>Escenario 2:Visualización del progreso</b><br>
-</td>
-<td>8</td>
-</tr>
 <!-- User Story 30 -->
 <tr>
  <td>33</td>
-<td>US30</td>
+<td>US29</td>
 <td>Asignación de flota a la ruta</td>
 <td>
 <b>Como administrador</b>, quiero asignar vehículos y transportistas disponibles a una ruta planificada,<br>
@@ -1243,7 +1210,7 @@ zación del progreso total</b><br>
   <!-- US28 -->
   <tr>
     <td>34</td>
-    <td>US31</td>
+    <td>US30</td>
     <td>Adjuntar evidencia</td>
     <td><b>Como transportista</b>, quiero adjuntar fotos en incidencias,<br><p>para brindar pruebas claras.</p>
         <b>Escenario 1:</b> Foto como evidencia.</td>
@@ -1251,7 +1218,7 @@ zación del progreso total</b><br>
   </tr>
   <!-- US29 -->
   <tr>
-    <td>35</td>
+    <td>31</td>
     <td>US32</td>
     <td>Etiquetado de incidencias por prioridad</td>
     <td><b>Como administrador</b>, quiero etiquetar incidencias por prioridad,<br><p>para gestionar lo urgente primero.</p>
@@ -1262,7 +1229,7 @@ zación del progreso total</b><br>
   <!-- US30 -->
   <tr>
     <td>30</td>
-    <td>US33</td>
+    <td>US32</td>
     <td>Generación de reportes operativos</td>
     <td><b>Como administrador</b>, quiero reportes de entregas y exportación a Excel,<br><p>para evaluar desempeño.</p>
         <b>Escenario 1:</b> Reporte diario. <br>
