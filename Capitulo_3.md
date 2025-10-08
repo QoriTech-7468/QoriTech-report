@@ -608,7 +608,7 @@ Y se muestra una lista lateral con los puntos seleccionados.
 <b>Escenario 1: Estado actualizado</b><br>
 Dado que un pedido está en tránsito,<br>
 Cuando el transportista avanza en la ruta,<br>
-Entonces el administrador puede ver los avances en el panel de monitoreo mediante líneas de .<br><br>
+Entonces el administrador puede ver los avances en el panel de monitoreo mediante líneas de progreso.<br><br>
 <b>Escenario 2: Notificación automática</b><br>
 Dado que el pedido cambia de estado,<br>
 Cuando pasa a "Rechazo",<br>
@@ -619,6 +619,135 @@ Entonces el administrador recibe una alerta en el sistema de gestión para regis
 <!-- User Story 25 -->
 <tr>
 <td>US25</td>
+<td>Visualizar rutas asignadas</td>
+<td>
+<b>Como transportista</b>, quiero quiero ver las rutas que me han sido asignadas para el día,<br>
+<p>para conocer mis entregas pendientes y planificar mi recorrido.</p>
+</td>
+<td>
+<b>Escenario 1: Ver ruta del día</b><br>
+Dado que he iniciado sesión en la aplicación,<br>
+Cuando ingreso a la sección “Mis rutas”,<br>
+Entonces veo una lista con las rutas asignadas del día y su estado (en progreso, completadas o rechazadas).
+<br><br>
+<b>Escenario 2: Detalle de ruta seleccionada</b><br>
+Dado que selecciono una ruta,<br>
+Cuando entro al detalle,<br>
+Entonces se muestra el mapa con los puntos de entrega, el progreso (X/Y completadas) y el listado de clientes con dirección.
+</td>
+<td>EP07</td>
+</tr>
+<!-- User Story 26 -->
+<tr>
+<td>US26</td>
+<td>Filtrar entregas por estado</td>
+<td>
+<b>Como transportista</b>, quiero filtrar mis entregas según su estado (in progress, completed, rejected),<br>
+<p>para organizar mejor mi jornada.</p>
+</td>
+<td>
+<b>Escenario 1: Filtro aplicado</b><br>
+Dado que estoy en la vista de mis entregas,<br>
+Cuando selecciono un filtro de estado,<br>
+Entonces se muestran únicamente las entregas correspondientes a ese estado.<br><br>
+<b>Escenario 2: Filtro limpio</b><br>
+Dado que tengo un filtro activo,<br>
+Cuando presiono “Todos”,<br>
+Entonces vuelvo a ver la lista completa de entregas.
+</td>
+<td>EP07</td>
+</tr>
+<!-- User Story 27 -->
+<tr>
+<td>US27</td>
+<td>Marcar entrega como completada</td>
+<td>
+<b>Como transportista</b>, quiero marcar una entrega como completada,<br>
+<p>para registrar su cumplimiento y actualizar el progreso total de la ruta.
+</p>
+</td>
+<td>
+<b>Escenario 1:  Entrega completada exitosamente</b><br>
+Dado que tengo una entrega en estado “in progress”,<br>
+Cuando presiono el botón “Complete”,<br>
+Entonces la entrega cambia a estado “Completed” y se actualiza la barra de progreso.<br><br>
+<b>Escenario 2: Actualización del progreso total</b><br>
+Dado que completo una entrega,<br>
+Cuando el sistema recalcula el total,<br>
+Entonces el progreso se muestra actualizado (por ejemplo, “3/8 completadas – 37%”).
+</td>
+<td>EP07</td>
+</tr>
+<!-- User Story 28 -->
+<tr>
+<td>US28</td>
+<td>Rechazar entrega y registrar motivo</td>
+<td>
+<b>Como transportista</b>, quiero poder rechazar una entrega e indicar el motivo del rechazo,<br>
+<p>para que el administrador conozca la causa.
+</p>
+</td>
+<td>
+<b>Escenario 1: Selección de motivo predefinido</b><br>
+Dado que selecciono “Reject”,<br>
+Cuando se abre el modal de rechazo,<br>
+Entonces puedo elegir entre los motivos predefinidos (cliente ausente, dirección incorrecta, cliente rechazó entrega, otro motivo).
+<br><br>
+<b>Escenario 2: Ingreso de detalle adicional</b><br>
+Dado que selecciono “Otro motivo”,<br>
+Cuando escribo una descripción,<br>
+Entonces el sistema guarda el texto junto al registro del rechazo.
+<br><br>
+<b>Escenario 3: Estado actualizado</b><br>
+Dado que confirmo el rechazo,<br>
+Cuando cierro el modal,<br>
+Entonces la entrega cambia a estado “Rejected” y el progreso se actualiza automáticamente.
+</td>
+<td>EP07</td>
+</tr>
+<!-- User Story 29 -->
+<tr>
+<td>US29</td>
+<td>Visualización de progreso</td>
+<td>
+<b>Como administrador</b>, quiero ver un indicador visual de progreso de mis entregas completadas o rechazadas,<br>
+<p>para conocer el avance de mi ruta.</p>
+</td>
+<td>
+<b>Escenario 1: Cálculo automático del progreso</b><br>
+Dado que tengo entregas con distintos estados,<br>
+Cuando completo o rechazo una entrega,<br>
+Entonces el sistema recalcula el progreso considerando entregas completadas + rechazadas.<br><br>
+<b>Escenario 2:Visualización del progreso</b><br>
+Dado que tengo una ruta activa,<br>
+Cuando accedo al encabezado de la vista,<br>
+Entonces veo una barra con el progreso total y el conteo (por ejemplo, “2/8 completadas – 25%”).
+</td>
+<td>EP07</td>
+</tr>
+<!-- User Story 30 -->
+<tr>
+<td>US30</td>
+<td>Asignación de flota a la ruta</td>
+<td>
+<b>Como administrador</b>, quiero asignar vehículos y transportistas disponibles a una ruta planificada,<br>
+<p>para asegurar que cada vehiculo tenga un equipo asignado y las entregas puedan ejecutarse sin retrasos.</p>
+</td>
+<td>
+<b>Escenario 1: Selección de ruta para asignar flota</b><br>
+Dado que el administrador se encuentra en la vista Routes List,<br>
+Cuando selecciona una ruta con estado “Pending assignment” y presiona el botón “Assign”,<br>
+Entonces el sistema abre el módulo Locations mostrando los puntos de entrega asociados a esa ruta.<br><br>
+<b>Escenario 2: Asignación de equipo de transporte</b><br>
+Dado que el administrador ha visualizado las ubicaciones y detalles de la ruta,<br>
+Cuando accede a la sección Teams y selecciona un transportista y vehículo disponibles,<br>
+Entonces el sistema asigna automáticamente esa flota a la ruta seleccionada, mostrando su estado como “Assigned”.
+</td>
+<td>EP07</td>
+</tr>
+<!-- User Story 31 -->
+<tr>
+<td>US31</td>
 <td>Adjuntar evidencia</td>
 <td>
 <b>Como transportista</b>, quiero adjuntar fotos al registrar una incidencia,<br>
@@ -632,9 +761,9 @@ Entonces la evidencia queda registrada junto a la incidencia.
 </td>
 <td>EP08</td>
 </tr>
-<!-- User Story 26 -->
+<!-- User Story 32 -->
 <tr>
-<td>US26</td>
+<td>US32</td>
 <td>Etiquetado de incidencias por prioridad</td>
 <td>
 <b>Como administrador</b>, quiero que las incidencias reportadas por los transportistas se etiqueten según su nivel de prioridad,<br>
@@ -654,9 +783,9 @@ Y se adjunta en el apartado de incidencias para coordinar la reposición o repro
 </td>
 <td>EP08</td>
 </tr>
-<!-- User Story 27 -->
+<!-- User Story 33 -->
 <tr>
-<td>US27</td>
+<td>US33</td>
 <td>Generación de reportes operativos</td>
 <td>
 <b>Como administrador</b>, quiero generar reportes de entregas completadas, fallidas y pendientes,<br>
@@ -674,9 +803,9 @@ Entonces se descarga el archivo en formato Excel.
 </td>
 <td>EP09</td>
 </tr>
-<!-- User Story 28 -->
+<!-- User Story 34 -->
   <tr>
-    <td>US28</td>
+    <td>US34</td>
     <td>Diseño responsivo y navegación</td>
     <td>
       <b>Como visitante</b>, quiero que la landing page se adapte a cualquier dispositivo y tenga navegación clara,
@@ -694,9 +823,9 @@ Entonces se descarga el archivo en formato Excel.
     </td>
     <td>EP10</td>
   </tr>
-  <!-- User Story 29 -->
+  <!-- User Story 35 -->
   <tr>
-    <td>US29</td>
+    <td>US35</td>
     <td>Secciones segmentadas</td>
     <td>
       <b>Como visitante del segmento empresa de transporte</b>, quiero ver una sección dedicada con beneficios y planes,
@@ -716,7 +845,7 @@ Entonces se descarga el archivo en formato Excel.
   </tr>
   <!-- User Story 30 -->
   <tr>
-    <td>US30</td>
+    <td>US36</td>
     <td>Internacionalización (i18n)</td>
     <td>
       <b>Como visitante internacional</b>, quiero poder seleccionar el idioma de la landing page (ej. español o inglés),
@@ -757,7 +886,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
   <!-- US28 -->
   <tr>
     <td>1</td>
-    <td>US28</td>
+    <td>US34</td>
     <td>Diseño responsivo y navegación</td>
     <td><b>Como visitante</b>, quiero que la landing se adapte y sea clara,<br><p>para explorar en móvil/tablet/desktop.</p>
         <b>Escenario 1:</b> Vista móvil usable. <br>
@@ -767,7 +896,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
   <!-- US29 -->
   <tr>
     <td>2</td>
-    <td>US29</td>
+    <td>US35</td>
     <td>Secciones segmentadas</td>
     <td><b>Como empresa de transporte</b>, quiero una sección dedicada con beneficios y planes,<br><p>para evaluar si se ajusta a mi negocio.</p>
         <b>Escenario 1:</b> Visualización de planes. <br>
@@ -777,7 +906,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
   <!-- US30 -->
   <tr>
     <td>3</td>
-    <td>US30</td>
+    <td>US36</td>
     <td>Internacionalización (i18n)</td>
     <td><b>Como visitante internacional</b>, quiero seleccionar idioma (ES/EN),<br><p>para entender la propuesta sin barreras.</p>
         <b>Escenario 1:</b> Selector de idioma. <br>
@@ -1030,10 +1159,91 @@ a los actores involucrados y los impactos esperados en su comportamiento.
         <b>Escenario 2:</b> Notificación automática.</td>
     <td>8</td>
   </tr>
+  <!-- User Story 25 -->
+<tr>
+ <td>28</td>
+<td>US25</td>
+<td>Visualizar rutas asignadas</td>
+<td>
+<b>Como transportista</b>, quiero quiero ver las rutas que me han sido asignadas para el día,<br>
+<p>para conocer mis entregas pendientes y planificar mi recorrido.</p>
+<b>Escenario 1: Ver ruta del día</b><br>
+<b>Escenario 2: Detalle de ruta seleccionada</b><br>
+</td>
+<td>5</td>
+</tr>
+<!-- User Story 26 -->
+<tr>
+ <td>29</td>
+<td>US26</td>
+<td>Filtrar entregas por estado</td>
+<td>
+<b>Como transportista</b>, quiero filtrar mis entregas según su estado (in progress, completed, rejected),<br>
+<p>para organizar mejor mi jornada.</p>
+<b>Escenario 1: Filtro aplicado</b><br>
+<b>Escenario 2: Filtro limpio</b><br>
+</td>
+<td>8</td>
+</tr>
+<!-- User Story 27 -->
+<tr>
+ <td>30</td>
+<td>US27</td>
+<td>Marcar entrega como completada</td>
+<td>
+<b>Como transportista</b>, quiero marcar una entrega como completada,<br>
+<p>para registrar su cumplimiento y actualizar el progreso total de la ruta.
+</p>
+<b>Escenario 1:  Entrega completada exitosamente</b><br>
+zación del progreso total</b><br>
+</td>
+<td>8</td>
+</tr>
+<!-- User Story 28 -->
+<tr>
+ <td>31</td>
+<td>US28</td>
+<td>Rechazar entrega y registrar motivo</td>
+<td>
+<b>Como transportista</b>, quiero poder rechazar una entrega e indicar el motivo del rechazo,<br>
+<p>para que el administrador conozca la causa.
+</p>
+<b>Escenario 1: Selección de motivo predefinido</b><br>
+<b>Escenario 2: Ingreso de detalle adicional</b><br>
+<b>Escenario 3: Estado actualizado</b><br>
+</td>
+<td>8</td>
+</tr>
+<!-- User Story 29 -->
+<tr>
+ <td>32</td>
+<td>US29</td>
+<td>Visualización de progreso</td>
+<td>
+<b>Como administrador</b>, quiero ver un indicador visual de progreso de mis entregas completadas o rechazadas,<br>
+<p>para conocer el avance de mi ruta.</p>
+<b>Escenario 1: Cálculo automático del progreso</b><br>
+<b>Escenario 2:Visualización del progreso</b><br>
+</td>
+<td>8</td>
+</tr>
+<!-- User Story 30 -->
+<tr>
+ <td>33</td>
+<td>US30</td>
+<td>Asignación de flota a la ruta</td>
+<td>
+<b>Como administrador</b>, quiero asignar vehículos y transportistas disponibles a una ruta planificada,<br>
+<p>para asegurar que cada vehiculo tenga un equipo asignado y las entregas puedan ejecutarse sin retrasos.</p>
+<b>Escenario 1: Selección de ruta para asignar flota</b><br>
+<b>Escenario 2: Asignación de equipo de transporte</b><br>
+</td>
+<td>8</td>
+</tr>
   <!-- US28 -->
   <tr>
-    <td>28</td>
-    <td>US25</td>
+    <td>34</td>
+    <td>US31</td>
     <td>Adjuntar evidencia</td>
     <td><b>Como transportista</b>, quiero adjuntar fotos en incidencias,<br><p>para brindar pruebas claras.</p>
         <b>Escenario 1:</b> Foto como evidencia.</td>
@@ -1041,8 +1251,8 @@ a los actores involucrados y los impactos esperados en su comportamiento.
   </tr>
   <!-- US29 -->
   <tr>
-    <td>29</td>
-    <td>US26</td>
+    <td>35</td>
+    <td>US32</td>
     <td>Etiquetado de incidencias por prioridad</td>
     <td><b>Como administrador</b>, quiero etiquetar incidencias por prioridad,<br><p>para gestionar lo urgente primero.</p>
         <b>Escenario 1:</b> Incidencia urgente destacada. <br>
@@ -1052,7 +1262,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
   <!-- US30 -->
   <tr>
     <td>30</td>
-    <td>US27</td>
+    <td>US33</td>
     <td>Generación de reportes operativos</td>
     <td><b>Como administrador</b>, quiero reportes de entregas y exportación a Excel,<br><p>para evaluar desempeño.</p>
         <b>Escenario 1:</b> Reporte diario. <br>
