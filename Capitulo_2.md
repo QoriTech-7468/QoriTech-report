@@ -588,23 +588,20 @@ Ambos perfiles coinciden en la importancia de **gestionar incidencias** y **mant
 
 ### 2.4. Big Picture EventStorming.
 
-1. Subscriptions and Payment Management
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Suscripciones y Pagos.jpg" alt="SuscripcionesyPagos">
+1. Delivery Execution
+<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Delivery Execution.jpg" alt="SuscripcionesyPagos">
 
-2. Identity and Access Management
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Gestión de identidad y acceso.jpg" alt="IdentidadyAcceso">
+2. Route Management
+<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Route Management.jpg" alt="IdentidadyAcceso">
 
-3. Resource and Asset Management
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Gestión de Recursos y Activos.jpg" alt="Recursos">
+3. Operations Monitoring
+<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Operations Monitoring.jpg" alt="Recursos">
 
-4. Service Execution and Monitoring
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Ejecución y Monitoreo del Servicio.jpg" alt="Ejecucion">
+4. Document Management
+<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Document Management.jpg" alt="Ejecucion">
 
-5. Incidents
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Incidencias.jpg" alt="Incidencias">
-
-6. Transportation Route Management
-<img src="resources/Big-Picture-EventStorming/Storming AppsWeb - Gestión de rutas.jpg" alt="rutas">
+5. Incident Management
+<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Incident Management.jpg" alt="Incidencias">
 
 
 ### 2.5. Ubiquitous Language.
