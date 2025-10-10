@@ -342,12 +342,74 @@
         </ul></td>
 </tr>
 <tr>
-<td align="center">2.0</td>
+<td align="center">2.1</td>
     <td align="center">2025-10-07</td>
     <td>Medina Merma, Ingrid Melani</td>
     <td> 
         <ul>
           <li>Se corrigio el Lean UX Hypothesis Statements.</li>
+          <li>Product Baclog</li>
+          <li>Entrevistas</li>
+        </ul></td>
+</tr>
+<tr>
+<td align="center">2.2</td>
+    <td align="center">2025-10-08</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Sprint 2</li>
+          <li>Sprint Planning 2.</li>
+          <li>Aspect Leaders and Collaborators.</li>
+          <li>Sprint Backlog 2</li>
+          <li>Development Evidence for Sprint Review.</li>
+          <li>Execution Evidence for Sprint Review.</li>
+          <li>Software Deployment Evidence for Sprint Review.</li>
+          <li>Team Collaboration Insights during Sprint.</li>
+        </ul></td>
+</tr>
+<td align="center">2.3</td>
+    <td align="center">2025-10-10</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Student Outcome</li>
+        </ul></td>
+</tr>
+</tr>
+<td align="center">2.4</td>
+    <td align="center">2025-10-10</td>
+    <td>Guzmán Cabrejos, Yaku Mateo</td>
+    <td> 
+        <ul>
+          <li>Student Outcome</li>
+        </ul></td>
+</tr>
+</tr>
+<td align="center">2.5</td>
+    <td align="center">2025-10-1</td>
+    <td>Gordillo Ramos, Santiago Alonso</td>
+    <td> 
+        <ul>
+          <li>Student Outcome</li>
+        </ul></td>
+</tr>
+</tr>
+<td align="center">2.6</td>
+    <td align="center">2025-10-10</td>
+    <td>Costa Morales, Christofer Williamn</td>
+    <td> 
+        <ul>
+          <li>Student Outcome</li>
+        </ul></td>
+</tr>
+</tr>
+<td align="center">2.7</td>
+    <td align="center">2025-10-10</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td> 
+        <ul>
+          <li>Student Outcome</li>
         </ul></td>
 </tr>
 </table>
