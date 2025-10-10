@@ -733,24 +733,56 @@ En esta sección se presentan los diagramas de clases que detallan la implementa
 <img src="Resources/Capitulo_4/Identity.png" alt="IdentidadyAcceso">
 </div>
 
-3. Resource and Asset Management
+3. Fleet and Resource Management
 <div style="text-align: center;">
 <img src="Resources/Capitulo_4/Resource.png" alt="Recursos">
 </div>
 
-4. Service Execution and Monitoring
+4. Customer & Location Management
 <div style="text-align: center;">
 <img src="Resources/Capitulo_4/Service.png" alt="Ejecucion">
 </div>
 
-5. Incidents
+5. Incident & Reporting Management
 <div style="text-align: center;">
 <img src="Resources/Capitulo_4/Incidents.png" alt="Incidencias">
 </div>
 
-6. Transportation Route Management
+6. Route Planning & Execution
 <div style="text-align: center;">
 <img src="Resources/Capitulo_4/Transportation.png" alt="rutas">
+</div>
+
+#### Frontend Class Diagrams
+
+1. Main Application
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Frontend_App.jpg" alt="Frontend Main Application">
+</div>
+
+2. Fleet and Resource Management
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Frontend_fleet_and_resource_management.jpg" alt="Frontend Fleet and Resource Management">
+</div>
+
+3. Identity and Access Management
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Frontend_identity_and_access_management.jpg" alt="Frontend Identity and Access Management">
+</div>
+
+4. Route Planning and Execution
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Frontend_route_planning_and_execution.jpg" alt="Frontend Route Planning and Execution">
+</div>
+
+5. Shared Components
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Frontend_shared.jpg" alt="Frontend Shared Components">
+</div>
+
+6. Subscription and Payment
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Frontend_suscription_and_payment.jpg" alt="Frontend Subscription and Payment">
 </div>
 
 ### 4.8. Database Design.
