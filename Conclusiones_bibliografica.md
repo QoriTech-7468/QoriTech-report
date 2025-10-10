@@ -87,5 +87,9 @@ Link del diagrama: https://shorturl.at/J0nyP
 ### Anexo F. Deployment de aplicación frontend
 Link de aplicación frontend: https://shorturl.at/g93lZ
 
+### Anexo G. Trello Sprint 2
+Link del trello: https://shorturl.at/yIF72
+![evidencia de trello](./Resources/Capitulo_5/Trello_sprint2.jpg)
+
 ### Anexo G. Video de Exposición TP1
-Link del video: 
+Link del video: https://shorturl.at/zGhAA
