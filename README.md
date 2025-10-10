@@ -488,15 +488,14 @@ Durante esta fase, el equipo desarrolló la aplicación frontend completa utiliz
   - [2.3.2 User Task Matrix](Capitulo_2.md#232-user-task-matrix)
   - [2.3.3 User Journey Mapping](Capitulo_2.md#233-user-journey-mapping)
   - [2.3.4 Empathy Mapping](Capitulo_2.md#234-empathy-mapping)
-  - [2.3.5 As-is Scenario Mapping](Capitulo_2.md#235-as-is-scenario-mapping)
-- [2.4 Ubiquitous Language](Capitulo_2.md#24-ubiquitous-language)
+- [2.4 Big Picture EventStorming](Capitulo_2.md#24-big-picture-eventstorming)
+- [2.5 Ubiquitous Language](Capitulo_2.md#25-ubiquitous-language)
 
 ## [Capítulo III: Requirements Specification](Capitulo_3.md)
 
-- [3.1 To-Be Scenario Mapping](Capitulo_3.md#31-to-be-scenario-mapping)
-- [3.2 User Stories](Capitulo_3.md#32-user-stories)
-- [3.3 Impact Mapping](Capitulo_3.md#33-impact-mapping)
-- [3.4 Product Backlog](Capitulo_3.md#34-product-backlog)
+- [3.1 User Stories](Capitulo_3.md#31-user-stories)
+- [3.2 Impact Mapping](Capitulo_3.md#32-impact-mapping)
+- [3.3 Product Backlog](Capitulo_3.md#33-product-backlog)
 
 ## [Capítulo IV: Product Design](Capitulo_4.md)
 
@@ -519,14 +518,15 @@ Durante esta fase, el equipo desarrolló la aplicación frontend completa utiliz
   - [4.4.4 Web Applications User Flow Diagrams](Capitulo_4.md#444-web-applications-user-flow-diagrams)
 - [4.5 Web Applications Prototyping](Capitulo_4.md#45-web-applications-prototyping)
 - [4.6 Domain-Driven Software Architecture](Capitulo_4.md#46-domain-driven-software-architecture)
-  - [4.6.1 Software Architecture Context Diagram](Capitulo_4.md#461-software-architecture-context-diagram)
-  - [4.6.2 Software Architecture Container Diagrams](Capitulo_4.md#462-software-architecture-container-diagrams)
-  - [4.6.3 Software Architecture Components Diagrams](Capitulo_4.md#463-software-architecture-components-diagrams)
+  - [4.6.1 Design-Level EventStorming](Capitulo_4.md#461-design-level-eventstorming)
+  - [4.6.2 Software Architecture Context Diagram](Capitulo_4.md#462-software-architecture-context-diagram)
+  - [4.6.3 Software Architecture Container Diagrams](Capitulo_4.md#463-software-architecture-container-diagrams)
+  - [4.6.4 Software Architecture Components Diagrams](Capitulo_4.md#464-software-architecture-components-diagrams)
 - [4.7 Software Object-Oriented Design](Capitulo_4.md#47-software-object-oriented-design)
   - [4.7.1 Class Diagrams](Capitulo_4.md#471-class-diagrams)
   - [4.7.2 Class Dictionary](Capitulo_4.md#472-class-dictionary)
 - [4.8 Database Design](Capitulo_4.md#48-database-design)
-  - [4.8.1 Database Diagram](Capitulo_4.md#481-database-diagram)
+  - [4.8.1 Database Diagrams](Capitulo_4.md#481-database-diagrams)
 - [4.9 DDD Estratégico](Capitulo_4.md#49-ddd-estratégico)
 
 ## [Capítulo V: Product Implementation, Validation & Deployment](Capitulo_5.md)
@@ -557,15 +557,15 @@ Durante esta fase, el equipo desarrolló la aplicación frontend completa utiliz
     - [5.2.2.8 Team Collaboration Insights during Sprint](Capitulo_5.md#5228-team-collaboration-insights-during-sprint)
 
 
-## [Conclusiones](Conclusiones_bibliografica.md#conclusiones.md)
+## [Conclusiones](Conclusiones_bibliografica.md#conclusiones)
 
-- [Conclusiones y recomendaciones](Conclusiones_bibliografica.md#conclusiones-y-recomendaciones.md)
-- [Video About-the-Team](Conclusiones_bibliografica.md#video-about-the-team.md)
+- [Conclusiones y recomendaciones](Conclusiones_bibliografica.md#conclusiones-y-recomendaciones)
+- [Video About-the-Team](Conclusiones_bibliografica.md#video-about-the-team)
 
 
-## [Bibliografía](Conclusiones_bibliografica.md#bibliografía.md)
+## [Bibliografía](Conclusiones_bibliografica.md#bibliografía)
 
-## [Anexos](Conclusiones_bibliografica.md#anexos.md)
+## [Anexos](Conclusiones_bibliografica.md#anexos)
 
 
 ## Student Outcome

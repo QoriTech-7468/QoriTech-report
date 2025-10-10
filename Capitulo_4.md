@@ -480,7 +480,7 @@ US18: Inhabilitar vehículo
 US16: Agregar/Quitar puntos en una ruta
 
 
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 
 Inicio de Sesión:
 
@@ -525,7 +525,7 @@ Lista de equipos para la ruta:
 
 ![alt text](Resources/mockups/WebAplication/Equipos.png)
 
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 
 User Flow 1:
 
