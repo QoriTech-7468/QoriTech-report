@@ -44,11 +44,8 @@
 <td>U202213185</td>
 </tr>
 </table>
-
 <div> Septiembre 2025 </div>
 </div>
-
-<!--* informacion sobre el proyecto -->
 
 ## **Registro de versiones del Informe**
 
@@ -465,15 +462,24 @@ Durante esta fase, el equipo elaboró el informe base del proyecto, abarcando la
   - [5.1.3 Source Code Style Guide & Conventions](Capitulo_5.md#513-source-code-style-guide--conventions)
   - [5.1.4 Software Deployment Configuration](Capitulo_5.md#514-software-deployment-configuration)
 - [5.2 Landing Page, Services & Applications Implementation](Capitulo_5.md#52-landing-page-services--applications-implementation)
-  - [5.2.X Sprint n](Capitulo_5.md#521-sprint-n)
-    - [5.2.X.1 Sprint Planning n](Capitulo_5.md#5211-sprint-planning-n)
-    - [5.2.X.2 Aspect Leaders and Collaborators](Capitulo_5.md#5212-aspect-leaders-and-collaborators)
-    - [5.2.X.3 Sprint Backlog n](Capitulo_5.md#5213-sprint-backlog-n)
-    - [5.2.X.4 Development Evidence for Sprint Review](Capitulo_5.md#5214-development-evidence-for-sprint-review)
-    - [5.2.X.5 Execution Evidence for Sprint Review](Capitulo_5.md#5215-execution-evidence-for-sprint-review)
-    - [5.2.X.6 Services Documentation Evidence for Sprint Review](Capitulo_5.md#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.X.7 Software Deployment Evidence for Sprint Review](Capitulo_5.md#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.X.8 Team Collaboration Insights during Sprint](Capitulo_5.md#5218-team-collaboration-insights-during-sprint)
+  - [5.2.1 Sprint 1](Capitulo_5.md#521-sprint-1)
+    - [5.2.1.1 Sprint Planning 1](Capitulo_5.md#5211-sprint-planning-1)
+    - [5.2.1.2 Aspect Leaders and Collaborators](Capitulo_5.md#5212-aspect-leaders-and-collaborators)
+    - [5.2.1.3 Sprint Backlog 1](Capitulo_5.md#5213-sprint-backlog-1)
+    - [5.2.1.4 Development Evidence for Sprint Review](Capitulo_5.md#5214-development-evidence-for-sprint-review)
+    - [5.2.1.5 Execution Evidence for Sprint Review](Capitulo_5.md#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6 Services Documentation Evidence for Sprint Review](Capitulo_5.md#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7 Software Deployment Evidence for Sprint Review](Capitulo_5.md#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8 Team Collaboration Insights during Sprint](Capitulo_5.md#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2 Sprint 2](Capitulo_5.md#522-sprint-2)
+    - [5.2.2.1 Sprint Planning 2](Capitulo_5.md#5221-sprint-planning-2)
+    - [5.2.2.2 Aspect Leaders and Collaborators](Capitulo_5.md#5222-aspect-leaders-and-collaborators)
+    - [5.2.2.3 Sprint Backlog 2](Capitulo_5.md#5223-sprint-backlog-2)
+    - [5.2.2.4 Development Evidence for Sprint Review](Capitulo_5.md#5224-development-evidence-for-sprint-review)
+    - [5.2.2.5 Execution Evidence for Sprint Review](Capitulo_5.md#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6 Services Documentation Evidence for Sprint Review](Capitulo_5.md#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7 Software Deployment Evidence for Sprint Review](Capitulo_5.md#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8 Team Collaboration Insights during Sprint](Capitulo_5.md#5228-team-collaboration-insights-during-sprint)
 
 
 ## [Conclusiones](Conclusiones_bibliografica.md#conclusiones.md)

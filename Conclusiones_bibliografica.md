@@ -42,6 +42,7 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
 ### Video About-the-Team.
 
 ## Bibliografía
+
 - Atlassian. (2025). *Gitflow Workflow*. Atlassian Git Tutorials. Recuperado el 10 de setiembre de 2025 de [Atlassian Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - Chatuev, A. (2025). *Big Picture Event Storming*. Medium. Recuperado el 10 de setiembre de 2025 de [Medium Event Storming](https://medium.com/@chatuev/big-picture-event-storming-7a1fe18ffabb)
 - Cucumber Team. (2025). *Gherkin Reference*. Cucumber Documentation. Recuperado el 10 de setiembre de 2025 de [Cucumber Gherkin](https://cucumber.io/docs/gherkin/)

@@ -5,13 +5,9 @@
 ### 2.1.1. Análisis competitivo.
 
 <table style="width:100%; border-collapse:collapse; table-layout:fixed;" border="1" align="center">
-
-<!-- Título -->
 <tr>
 <th colspan="6" align="center">Competitive Analysis Landscape</th>
 </tr>
-
-<!-- Objetivo -->
 <tr>
 <td rowspan="2" colspan="1" align="center"><b>¿Por qué llevar a cabo este análisis?</b></td>
 <td colspan="6" align="center">Identificar fortalezas, debilidades y estrategias de los principales competidores en logística de última milla (SimpliRoute, Beetrack, FarEye) para posicionar nuestra aplicación web.</td>
@@ -21,8 +17,6 @@
        <b>Objetivo:</b> Determinar cómo diferenciar nuestro producto frente a competidores consolidados en LATAM y globales. <br> 
     </td>
   </tr>
-
-<!-- Cabeceras -->
 <tr>
 <th colspan="2" style="width:12%">(En la cabecera colocar por cada competidor nombre y logo)</th>
 <th style="width:22%">
@@ -39,8 +33,6 @@
 <img src="./Resources/Capitulo_2/Logo_fareye.png" alt="FarEye" width="100" height="100">
 </th>
 </tr>
-
-<!-- PERFIL -->
 <tr>
 <td rowspan="2" colspan="1" align="center" ><b>Perfil</b></td>
 <td style="word-wrap:break-word; white-space:normal;"><b>Overview</b></td>
@@ -56,8 +48,6 @@
    <td> Experiencia de usuario robusta y alta penetración en empresas medianas/grandes de LATAM. </td>
    <td> Escalabilidad global y capacidad de integración con grandes retailers y 3PL. </td>
 </tr>
-
-<!-- PERFIL DE MARKETING -->
 <tr>
 <td rowspan="2" colspan="1" align="center"><b>Perfil de Marketing</b></td>
 <td><b>Mercado objetivo</b></td>
@@ -73,8 +63,6 @@
    <td> Branding fuerte en trazabilidad y seguridad de entregas; foco en confiabilidad. </td>
    <td> Posicionamiento como solución integral global; alianzas con grandes corporativos. </td>
 </tr>
-
-<!-- PERFIL DE PRODUCTO -->
 <tr>
 <td rowspan="3" colspan="1" align="center"><b>Perfil de Producto</b></td>
 <td><b>Productos & Servicios</b></td>
@@ -97,8 +85,6 @@
    <td> Web, app móvil y APIs de integración. </td>
    <td> Plataforma web, apps móviles, integraciones con ERP/CRM. </td>
 </tr>
-
-<!-- ANÁLISIS SWOT -->
 <tr>
    <td rowspan="4" colspan="1" align="center"><b>Análisis SWOT</b></td>
    <td><b>Fortalezas</b></td>
@@ -193,15 +179,11 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
 <img src="Resources/Entrevista_Transportista_1.png" alt="Primera entrevista del primer segmento">
 </a>
 </td>
-
-<!--Colocar Screenshot y el enlace para el video -->
 <td align='center'>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EXnpE4mhsDFMmHRdgpIgWdkBw5qgJK4qoQR-ptPTdy-Lbg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=23t4N5" target= 'blank'>
 <img src="Resources/Entrevista_Transportista_2.png" alt="Segunda entrevista del primer segmento">
 </a>
 </td>
-
-<!--Colocar Screenshot y el enlace para el video -->
 <td align='center'>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EeUGT35ds8JEgUb9SddYv_MB7fjld1Jtl7ajbjpe9i-S3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ny0ro0" target= 'blank'>
 <img src="Resources/Entrevista_Transportista_3.png" alt="Tercera entrevista del primer segmento" width="200" height="200">
@@ -253,28 +235,22 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
 <th>Entrevistado 2</th>
 <th>Entrevistado 3</th>
 </tr>
-
 <tr>
 <td align='center'>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EVTQKC-v_1lEhE1mJT9JnmsB9xNmx4hF5Exa5TUm8AYjtg?e=tQDRf8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target= 'blank'>
 <img src="Resources/Entrevista_Administrador_1.png" alt="Primera entrevista del segundo segmento">
 </a>
 </td>
-
-<!--Colocar Screenshot y el enlace para el video -->
 <td align='center'>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EZLL3X652L5KoLk1RWZn0zoBWGmWOQ80ZYl12yLueoednQ?e=vXoTwInav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target= 'blank'>
 <img src="Resources/Entrevista_Administrador_2.png" alt="Segunda entrevista del segundo segmento">
 </a>
 </td>
-
-<!--Colocar Screenshot y el enlace para el video -->
 <td align='center'>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EcOPh-bhFsNCjQaceAJEYO8BwE3BUIW-e4wFdvoBHN-O2w?e=NPvjhC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target= 'blank'>
 <img src="Resources/Entrevista_Administrador_3.png" alt="Tercera entrevista del segundo segmento">
 </a>
 </td>
-
    <tr>
    <td>
     <b>Entrevistador:</b> Santiago Alonso Gordillo Ramos <br>
@@ -285,7 +261,6 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
     <b> Resumen:</b> es un radiotransportista en la empresa de MR emprendimientos, esta encargado del monitoreo y coordinación de los pedidos. Luego, nos menciona que su empresa utiliza la aplicación <b>BeeTrack</b> que le permite mantener un monitoreo constante del estado de los pedidos. Sin embargo, este aplicación posee <em>inconvenientes con la geolocalización</em>, no identifica la ubicación exacta del cliente y eso confunde y frustra a los transportistas encargados. Siguiendo con la entrevista, nos menciona que la manera que registran los productos que ingresan a los camiones es con dos personas que van a la localidad y se encarga de verificar si esta todo en orden. Además, la manera en la que subsanan alguna perdida de producto, es por medio de los transportistas que se hacen responsables. En el caso de la planificación de las rutas, nos da su opinión de cómo los planificadores que trabajan en Lima, desconocen lo complicado que puede ser las rutas en Cusco y por ello, extienden las horas laborales de los transportistas. Finalmente, nos comenta cómo arreglan los problemas de retraso o incumplimiento de entregas y esto lo realizan llamando al encargado del camión, luego lo redirigen al área de ventas y este comunica al cliente mismo. <br>  <b>Perfil del entrevistado:</b> El entrevistado demuestra una actitud analítica y orientada al trabajo en equipo. Aunque confía en las herramientas digitales, reconoce las limitaciones del software actual y la falta de adaptación a contextos locales. Su visión combina la experiencia operativa con una comprensión clara de los procesos logísticos, lo que lo convierte en un perfil que valora la precisión, la comunicación y la eficiencia, pero que también exige soluciones tecnológicas más contextualizadas y realistas.
  <br>
     <p>
-
    </td>
    <td>
     <b>Entrevistador: </b> Jesus Ivan Castillo Vidal <br>
@@ -297,7 +272,6 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
     <b> Resumen:</b> Eliana Paullo es una administradora de la empresa MR emprendimientos, esta encargada de la planificación de los camiones, el monitoreo de personal y transportes, evaluar y ayudar al personal. Después, nos menciona que todo el personal de la empresa, por camión, usa la aplicación <b>"Beetrack"</b>, el cual le ayuda a monitorear el porcentaje de avance que posee cada camión y los clientes y productos asignados a cada camión. Además, utilizan <b>GPS</b> para mantener un control de las rutas de los camiones y del uso de sensores, ya que los productos deben mantenerse refrigerados y este le alerta si esta o no activado el refrigerante. Los principales incidentes que sufrieron son: Confunción en el cargamento del camión, a causa de la forma en cómo estan divididos los camiones, y el daño de los productos y la compensación económica por los mismos. Luego, nos comenta cómo realizan la planificación de las rutas y cómo lidian con problemas que pueden ocurrir el mismo dia de entrega. Esto lo realizan de manera manual, <b>con llamadas y mensajes a los clientes para informarle de los retrasos</b>. Adicionalmente, nos comenta que se utiliza bastante <b>Whatsapp</b> para la coordinación de pedidos para los diferentes conductores. Finalmente, nos comento su sugerencia para mejorar las herramientas que usan, este seria la Opción para identificar a clientes complicados y deribarlos a un plan de pago adelantado para evitar problemas al momento de realizar las entregas. <br>  <b>Perfil del entrevistado:</b>La entrevistada refleja un perfil estratégico, organizado y con una clara comprensión del funcionamiento integral de la empresa. Valora la tecnología como herramienta de control y prevención, aunque reconoce la necesidad de optimizar la comunicación y automatizar procesos repetitivos. Su enfoque busca equilibrar la supervisión operativa con la eficiencia administrativa, mostrando apertura hacia soluciones que mejoren la trazabilidad, la gestión de incidencias y la relación con los clientes.
  <br>
    <p>
-
    </p>
    </td>
       <td>

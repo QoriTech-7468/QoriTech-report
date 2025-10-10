@@ -219,32 +219,115 @@ A continuación, se expone la planificación de nuestro Sprint 1, orientado prin
 
 ### 5.2.1.1. Sprint Planning 1.
 
-| Sprint #                            | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Date**                            | 2025-09-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **Time**                            | 18:50 PM (GMT-5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Location**                        | Modalidad remota mediante la plataforma Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Prepared By**                     | Jesús Castillo Vidal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Attendees (to planning meeting)** | Castillo Vidal, Jesús Iván / Costa Morales, Christofer William / Gordillo Ramos, Santiago Alonso / Guzmán Cabrejos, Yaku Mateo / Medina Merma, Ingrid Melani                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Sprint 0 Review Summary**         | Dado que este es el sprint inicial, no se presenta un resumen del sprint anterior.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **Sprint 0 Retrospective Summary**  | Dado que este es el sprint inicial, no se presenta una retroalimentación del sprint anterior.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Sprint 1 Goal**                   | **Nuestro propósito es** diseñar y entregar una primera versión de la landing page para nuestra plataforma de gestión de rutas, basada en entrevistas con administradores y transportistas de una empresa distribuidora. **Creemos que esto aportará** claridad y valor inicial a los usuarios potenciales, comunicando el propósito del producto y la visión del equipo. **Esto se confirmará cuando** los visitantes puedan comprender fácilmente los beneficios de la plataforma y muestren interés en conocer más o contactarnos a través de la landing page. |
-| **Sprint 1 Velocity**               | 15 puntos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Sum of Story Points**             | 15 puntos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+<table>
+<tr>
+<th>Sprint #</th>
+<th>Sprint 1</th>
+</tr>
+<tr>
+<td><strong>Sprint Planning Background</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Date</strong></td>
+<td>2025-09-20</td>
+</tr>
+<tr>
+<td><strong>Time</strong></td>
+<td>18:50 PM (GMT-5)</td>
+</tr>
+<tr>
+<td><strong>Location</strong></td>
+<td>Modalidad remota mediante la plataforma Discord</td>
+</tr>
+<tr>
+<td><strong>Prepared By</strong></td>
+<td>Jesús Castillo Vidal</td>
+</tr>
+<tr>
+<td><strong>Attendees (to planning meeting)</strong></td>
+<td>Castillo Vidal, Jesús Iván / Costa Morales, Christofer William / Gordillo Ramos, Santiago Alonso / Guzmán Cabrejos, Yaku Mateo / Medina Merma, Ingrid Melani</td>
+</tr>
+<tr>
+<td><strong>Sprint 0 Review Summary</strong></td>
+<td>Dado que este es el sprint inicial, no se presenta un resumen del sprint anterior.</td>
+</tr>
+<tr>
+<td><strong>Sprint 0 Retrospective Summary</strong></td>
+<td>Dado que este es el sprint inicial, no se presenta una retroalimentación del sprint anterior.</td>
+</tr>
+<tr>
+<td><strong>Sprint Goal & User Stories</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Sprint 1 Goal</strong></td>
+<td><strong>Nuestro propósito es</strong> diseñar y entregar una primera versión de la landing page para nuestra plataforma de gestión de rutas, basada en entrevistas con administradores y transportistas de una empresa distribuidora. <strong>Creemos que esto aportará</strong> claridad y valor inicial a los usuarios potenciales, comunicando el propósito del producto y la visión del equipo. <strong>Esto se confirmará cuando</strong> los visitantes puedan comprender fácilmente los beneficios de la plataforma y muestren interés en conocer más o contactarnos a través de la landing page.</td>
+</tr>
+<tr>
+<td><strong>Sprint 1 Velocity</strong></td>
+<td>15 puntos</td>
+</tr>
+<tr>
+<td><strong>Sum of Story Points</strong></td>
+<td>15 puntos</td>
+</tr>
+</table>
 
 ### 5.2.1.2. Aspect Leaders and Collaborators
 
 En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** correspondiente al Sprint 1. Cada aspecto se relaciona con tareas clave del sprint, asignando un **líder (L)** responsable principal y **colaboradores (C)** que apoyan en su ejecución.
 
-| Team Member (Last Name, First Name) | GitHub Username | Mockup (L/C) | Entrevistas (L/C) | Wireframes (L/C) | Landing Page (L/C) |
-| ----------------------------------- | --------------- | ------------ | ----------------- | ---------------- | ------------------ |
-| Castillo Vidal, Jesús Iván          | Jcdev04         | L            | C                 | C                | C                  |
-| Costa Morales, Christofer William   | miniChorri      | C            | L                 | C                | C                  |
-| Gordillo Ramos, Santiago Alonso     | SantiIHC        | C            | C                 | L                | C                  |
-| Guzmán Cabrejos, Yaku Mateo         | yak-cod         | C            | C                 | C                | L                  |
-| Medina Merma, Ingrid Melani         | Grini913        | C            | C                 | C                | C                  |
+<table>
+<tr>
+<th>Team Member (Last Name, First Name)</th>
+<th>GitHub Username</th>
+<th>Mockup (L/C)</th>
+<th>Entrevistas (L/C)</th>
+<th>Wireframes (L/C)</th>
+<th>Landing Page (L/C)</th>
+</tr>
+<tr>
+<td>Castillo Vidal, Jesús Iván</td>
+<td>Jcdev04</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Costa Morales, Christofer William</td>
+<td>miniChorri</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Gordillo Ramos, Santiago Alonso</td>
+<td>SantiIHC</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Guzmán Cabrejos, Yaku Mateo</td>
+<td>yak-cod</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+</tr>
+<tr>
+<td>Medina Merma, Ingrid Melani</td>
+<td>Grini913</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+</table>
 
 **Notas:**
 
@@ -262,20 +345,151 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 1**, en el cual se incluyen las User Stories seleccionadas y su descomposición en tasks. Cada ítem contiene su respectiva descripción, estimación en horas, asignación y estado actual.
 
-| Sprint # | User Story Id | User Story Title               | Work-Item / Task Id | Task Title         | Description                                                                             | Estimation (Hours) | Assigned To | Status (To-Do / In-Process / To-Review / Done) |
-| -------- | ------------- | ------------------------------ | ------------------- | ------------------ | --------------------------------------------------------------------------------------- | ------------------ | ----------- | ---------------------------------------------- |
-| 1        | US28          | Diseño responsivo y navegación | T28-1               | Hero Section       | Implementar sección hero con diseño responsivo y navegación clara.                      | 1                  | Jesús       | To-Do                                          |
-|          |               |                                | T28-2               | Our Value          | Desarrollar sección de valores con estilo adaptable a móviles, tablets y desktop.       | 1                  | Santiago    | Done                                           |
-|          |               |                                | T28-3               | About Us           | Crear sección “Sobre nosotros” con diseño adaptable a diferentes dispositivos.          | 1                  | Ingrid      | Done                                           |
-|          |               |                                | T28-4               | Our Team           | Diseñar sección de equipo con estructura clara y responsiva.                            | 1                  | Yaku        | Done                                           |
-|          |               |                                | T28-5               | Testimonials & FAQ | Implementar testimonios, preguntas frecuentes y footer con diseño responsivo.           | 1                  | Christopher | Done                                           |
-| 1        | US29          | Secciones segmentadas          | T29-1               | Hero Section       | Adaptar sección hero enfocada en beneficios y planes para empresas de transporte.       | 1                  | Jesús       | Done                                           |
-|          |               |                                | T29-2               | Our Value          | Diseñar sección de valores segmentada con enfoque en transporte.                        | 1                  | Santiago    | Done                                           |
-|          |               |                                | T29-3               | About Us           | Implementar sección “Sobre nosotros” con contenido dirigido a empresas de transporte.   | 1                  | Ingrid      | Done                                           |
-|          |               |                                | T29-4               | Our Team           | Diseñar sección de equipo adaptada a la segmentación de transporte.                     | 1                  | Yaku        | Done                                           |
-|          |               |                                | T29-5               | Testimonials & FAQ | Incluir testimonios, preguntas frecuentes y footer orientados a empresas de transporte. | 1                  | Christopher | Done                                           |
-| 1        | US30          | Internacionalización (i18n)    | T30-1               | English            | Implementar opción de idioma inglés en la landing page.                                 | 1                  | Jesús       | Done                                           |
-|          |               |                                | T30-2               | Spanish            | Implementar opción de idioma español en la landing page (idioma por defecto).           | 1                  | Yaku        | Done                                           |
+<table>
+<tr>
+<th>Sprint #</th>
+<th>User Story Id</th>
+<th>User Story Title</th>
+<th>Work-Item / Task Id</th>
+<th>Task Title</th>
+<th>Description</th>
+<th>Estimation (Hours)</th>
+<th>Assigned To</th>
+<th>Status (To-Do / In-Process / To-Review / Done)</th>
+</tr>
+<tr>
+<td>1</td>
+<td>US33</td>
+<td>Diseño responsivo y navegación</td>
+<td>US33-T001</td>
+<td>Hero Section</td>
+<td>Implementar sección hero con diseño responsivo y navegación clara.</td>
+<td>1</td>
+<td>Jesús</td>
+<td>Done</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>US33-T002</td>
+<td>Our Value</td>
+<td>Desarrollar sección de valores con estilo adaptable a móviles, tablets y desktop.</td>
+<td>1</td>
+<td>Santiago</td>
+<td>Done</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>US33-T003</td>
+<td>About Us</td>
+<td>Crear sección "Sobre nosotros" con diseño adaptable a diferentes dispositivos.</td>
+<td>1</td>
+<td>Ingrid</td>
+<td>Done</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>US33-T004</td>
+<td>Our Team</td>
+<td>Diseñar sección de equipo con estructura clara y responsiva.</td>
+<td>1</td>
+<td>Yaku</td>
+<td>Done</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>US33-T005</td>
+<td>Testimonials & FAQ</td>
+<td>Implementar testimonios, preguntas frecuentes y footer con diseño responsivo.</td>
+<td>1</td>
+<td>Christopher</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>1</td>
+<td>US34</td>
+<td>Secciones segmentadas</td>
+<td>US34-T001</td>
+<td>Hero Section</td>
+<td>Adaptar sección hero enfocada en beneficios y planes para empresas de transporte.</td>
+<td>1</td>
+<td>Jesús</td>
+<td>Done</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>US34-T002</td>
+<td>Our Value</td>
+<td>Diseñar sección de valores segmentada con enfoque en transporte.</td>
+<td>1</td>
+<td>Santiago</td>
+<td>Done</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>US34-T003</td>
+<td>About Us</td>
+<td>Implementar sección "Sobre nosotros" con contenido dirigido a empresas de transporte.</td>
+<td>1</td>
+<td>Ingrid</td>
+<td>Done</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>US34-T004</td>
+<td>Our Team</td>
+<td>Diseñar sección de equipo adaptada a la segmentación de transporte.</td>
+<td>1</td>
+<td>Yaku</td>
+<td>Done</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>US34-T005</td>
+<td>Testimonials & FAQ</td>
+<td>Incluir testimonios, preguntas frecuentes y footer orientados a empresas de transporte.</td>
+<td>1</td>
+<td>Christopher</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>1</td>
+<td>US35</td>
+<td>Internacionalización (i18n)</td>
+<td>US35-T001</td>
+<td>English</td>
+<td>Implementar opción de idioma inglés en la landing page.</td>
+<td>1</td>
+<td>Jesús</td>
+<td>Done</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>US35-T002</td>
+<td>Spanish</td>
+<td>Implementar opción de idioma español en la landing page (idioma por defecto).</td>
+<td>1</td>
+<td>Yaku</td>
+<td>Done</td>
+</tr>
+</table>
 
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
@@ -389,3 +603,413 @@ Gracias a esta organización, se logró cumplir de manera efectiva el objetivo d
 ##### Evidencia de Colaboración en GitHub
 
 ![Captura Insights](./Resources/Capitulo_5/team-collaboration-insights-during-sprint-1.png)
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2.
+
+<table>
+<tr>
+<th>Sprint #</th>
+<th>Sprint 2</th>
+</tr>
+<tr>
+<td><strong>Sprint Planning Background</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Date</strong></td>
+<td>2025-10-09</td>
+</tr>
+<tr>
+<td><strong>Time</strong></td>
+<td>19:00 PM (GMT-5)</td>
+</tr>
+<tr>
+<td><strong>Location</strong></td>
+<td>Modalidad remota mediante la plataforma Discord</td>
+</tr>
+<tr>
+<td><strong>Prepared By</strong></td>
+<td>Jesús Castillo Vidal</td>
+</tr>
+<tr>
+<td><strong>Attendees (to planning meeting)</strong></td>
+<td>Castillo Vidal, Jesús Iván / Costa Morales, Christofer William / Gordillo Ramos, Santiago Alonso / Guzmán Cabrejos, Yaku Mateo / Medina Merma, Ingrid Melani</td>
+</tr>
+<tr>
+<td><strong>Sprint 1 Review Summary</strong></td>
+<td>El Sprint 1 logró completar exitosamente la landing page de Rutana con un diseño atractivo y funcional. Se implementaron todas las secciones planificadas incluyendo hero, features, testimonials, FAQ y footer. Además de sentar las bases con respecto al diseño de la aplicación frontend de este sprint. La página fue desplegada en GitHub Pages y validada con usuarios potenciales. Sin embargo, se identificaron oportunidades de mejora en la organización del equipo y seguimiento del statement de trabajo.</td>
+</tr>
+<tr>
+<td><strong>Sprint 1 Retrospective Summary</strong></td>
+<td>El trabajo en equipo no fue tan eficaz como se esperaba debido a que, al ser un equipo nuevo, el líder no conocía completamente las fortalezas y debilidades de cada miembro. Esto resultó en asignaciones de tareas que no aprovecharon al máximo las capacidades individuales. Además, no se siguió estrictamente el statement de trabajo, especialmente en la fase de ejecución, donde se desviaron algunos aspectos del plan original. Sin embargo, también se identificaron aspectos positivos: el equipo logró comprender profundamente el problema del usuario y sus necesidades reales, lo cual fue crucial para proponer funcionalidades apropiadas y desarrollar un entendimiento sólido del lenguaje ubicuo del dominio. Para Sprint 2, se implementará una mejor comunicación, evaluación de habilidades del equipo y seguimiento más estricto del plan de trabajo.</td>
+</tr>
+<tr>
+<td><strong>Sprint Goal & User Stories</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Sprint 2 Goal</strong></td>
+<td><strong>Nuestro propósito es</strong> implementar el frontend parcial de la aplicación Rutana utilizando Vue.js y PrimeVue, desarrollando los bounded contexts core (Fleet and Resource Management, Customer & Location Management, Route Planning & Execution, e Identity and Access Management) con una Fake API para simular funcionalidades backend. <strong>Creemos que esto aportará</strong> una aplicación web funcional que valide la experiencia de usuario y demuestre las capacidades del sistema. <strong>Esto se confirmará cuando</strong> los usuarios puedan interactuar con una aplicación operativa que simule el comportamiento real del sistema de gestión de rutas.</td>
+</tr>
+<tr>
+<td><strong>Sprint 2 Velocity</strong></td>
+<td>25 puntos</td>
+</tr>
+<tr>
+<td><strong>Sum of Story Points</strong></td>
+<td>25 puntos</td>
+</tr>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** correspondiente al Sprint 2. Cada aspecto se relaciona con los bounded contexts y responsabilidades clave del sprint, asignando un **líder (L)** responsable principal y **colaboradores (C)** que apoyan en su ejecución.
+
+<table>
+<tr>
+<th>Team Member (Last Name, First Name)</th>
+<th>GitHub Username</th>
+<th>Identity & Access Management (L/C)</th>
+<th>Fleet & Resource Management (L/C)</th>
+<th>Shared Setup Inicial (L/C)</th>
+<th>Route Planning & Execution (L/C)</th>
+<th>Documentación Trello & i18n (L/C)</th>
+<th>Design Level Event Storming (L/C)</th>
+<th>Update Documentos & UI/UX (L/C)</th>
+</tr>
+<tr>
+<td>Castillo Vidal, Jesús Iván</td>
+<td>Jcdev04</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>L</td>
+</tr>
+<tr>
+<td>Costa Morales, Christofer William</td>
+<td>miniChorri</td>
+<td>C</td>
+<td>L</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Gordillo Ramos, Santiago Alonso</td>
+<td>SantiIHC</td>
+<td>L</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Guzmán Cabrejos, Yaku Mateo</td>
+<td>yak-cod</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Medina Merma, Ingrid Melani</td>
+<td>Grini913</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+</table>
+
+**Notas:**
+
+- Cada integrante asumió liderazgo en aspectos específicos relacionados con los bounded contexts core del sistema.
+- Santiago lideró tanto Identity & Access Management como Fleet & Resource Management debido a su experiencia técnica.
+- Christofer se encargó del setup inicial compartido y Fleet & Resource Management para asegurar consistencia en la configuración base.
+- Yaku lideró Route Planning & Execution, enfocándose en la lógica de negocio más compleja del sistema.
+- Ingrid gestionó la documentación en Trello y la implementación de internacionalización (i18n).
+- Jesús coordinó el Design Level Event Storming y las mejoras generales de UI/UX del producto.
+
+
+#### 5.2.2.3. Sprint Backlog 2.
+
+<img src="./Resources/Capitulo_5/Trello_sprint2.jpg" alt="Trello Sprint 2">
+<br>
+<a href="https://trello.com/b/wku0a52u/sprint-backlog-2" target="_blank">
+  <span>Tablero Sprint 2 en Trello</span>
+</a>
+
+A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 2**, en el cual se incluyen las User Stories seleccionadas y su descomposición en tasks. Cada ítem contiene su respectiva descripción, estimación en horas, asignación y estado actual.
+
+| Sprint # | User Story Id | User Story Title                              | Work-Item / Task Id | Task Title                                      | Description                                                                                     | Estimation (Hours) | Assigned To              | Status |
+|-----------|----------------|-----------------------------------------------|---------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------|---------------------------|---------|
+| 2 | US01 | Pantalla inicial de login y register | US01T001 | Pantalla inicial de login y register | Diseñar e implementar la interfaz de login y registro. | 1 | Santiago | To-Review |
+| 2 | US02 | Pantalla inicial de login y register | US02T001 | Pantalla inicial de login y register | Configurar la autenticación básica para login y registro. | 1 | Santiago | To-Review |
+| 2 | US03 | Gestión de usuarios | US03T001 | Pantalla inicial de users | Implementar vista principal de gestión de usuarios. | 1 | Santiago y Jesús | Done |
+| 2 |  |  | US03T002 | Agregar users | Crear funcionalidad para registrar nuevos usuarios. | 1 | Santiago y Jesús | Done |
+| 2 |  |  | US03T003 | Modificar entidad USER | Actualizar estructura de la entidad USER en el backend y frontend. | 1 | Santiago y Jesús | Done |
+| 2 |  |  | US03T004 | Roles de los usuarios | Asignar roles y permisos según tipo de usuario. | 1 | Santiago y Jesús | Done |
+| 2 | US04 | Roles y permisos | US04T001 | Gestionar permisos de usuario | Implementar la asignación y edición de permisos a usuarios. | 1 | Santiago | Done |
+| 2 | US05 | Eliminación de usuarios | US05T001 | Eliminar users | Implementar funcionalidad para eliminar usuarios registrados. | 1 | Santiago | Done |
+| 2 | US08 | Asignación de personal al vehículo | US08T001 | Pantalla inicial de users | Crear vista para asignación de personal a vehículos. | 1 | Santiago y Jesús | Done |
+| 2 |  |  | US08T002 | Asignar users a vehículos | Desarrollar funcionalidad para asignar usuarios a vehículos específicos. | 1 | Santiago y Jesús | Done |
+| 2 |  |  | US08T003 | Eliminar users de vehículos | Implementar función para quitar usuarios asignados a vehículos. | 1 | Santiago y Jesús | Done |
+| 2 |  |  | US08T004 | Asignar id de vehículos a users en db.json | Actualizar base de datos local con IDs de vehículos asignados. | 1 | Santiago | To-Review |
+| 2 | US09 | Registro de clientes | US09T001 | Pantalla inicial de clients | Crear vista principal para el registro de clientes. | 1 | Christofer e Ingrid | Done |
+| 2 |  |  | US09T002 | Crear clientes en base al nombre | Desarrollar formulario para registrar clientes con nombre y datos básicos. | 1 | Christofer e Ingrid | Done |
+| 2 | US10 | Gestión de clientes | US10T001 | Listar y filtrar clientes | Implementar funcionalidad para visualizar y filtrar clientes existentes. | 1 | Christofer e Ingrid | Done |
+| 2 |  |  | US10T002 | Editar información del cliente | Permitir modificar datos de contacto y estado del cliente. | 1 | Christofer e Ingrid | Done |
+| 2 | US12 | Crear ubicación y asignarla a un cliente | US12T001 | Funcionalidad “agregar locación” | Desarrollar funcionalidad para registrar nuevas ubicaciones. | 1 | Christofer | Done |
+| 2 |  |  | US12T002 | Agregar location a client | Permitir asignar la nueva ubicación a un cliente existente. | 1 | Christofer | Done |
+| 2 | US17 | Registrar vehículo | US17T001 | Pantalla inicial de vehicles | Crear vista principal de gestión de vehículos. | 1 | Christofer e Ingrid | Done |
+| 2 |  |  | US17T002 | Botón de registrar vehículos | Implementar botón y lógica de registro de nuevos vehículos. | 1 | Christofer | Done |
+| 2 | US19 | Publicar ruta bloquea edición | US19T001 | Cambiar estado de la ruta a Published | Desarrollar acción para cambiar estado de ruta a “Publicado”. | 1 | Christofer | Done |
+| 2 |  |  | US19T002 | Modo solo lectura de datos relacionados a route | Habilitar modo de solo lectura al publicar una ruta. | 1 | Christofer | Done |
+| 2 | US20 | Crear una ruta en borrador | US20T001 | Creación de ruta inicial y en borrador | Implementar opción para guardar rutas como “borrador” antes de publicarlas. | 1 | Christofer | Done |
+| 2 | US30 | Asignación de flota a la ruta | US30T001 | Diseñar interfaz para selección de vehículo por ruta | Crear interfaz visual para elegir vehículos por ruta. | 1 | Yaku | Done |
+| 2 |  |  | US30T002 | Eliminar vehículos | Implementar opción para remover vehículos asignados a rutas. | 1 | Yaku | Done |
+| 2 |  |  | US30T003 | Seleccionar una flota para asignarla a la ruta | Implementar lógica para asociar flotas específicas a rutas. | 1 | Christofer | Done |
+
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|-----------|--------|-----------|----------------|---------------------|--------------------|
+| FrontEnd-WebApplication | main | ffb29e2 | fix(Users.vue): case sensitive was done | 10/10/2025 |  |
+| FrontEnd-WebApplication | main | 9a713e0 | fix(yml): Added npm ci to github actions' workflow | 10/10/2025 |  |
+| FrontEnd-WebApplication | main | bd1cc6c | feat(firebase): Firebase Hosting now connected to main branch to autodeploy | 10/10/2025 |  |
+| FrontEnd-WebApplication | main | 8884819 | fix: changin rutana_api_url for production | 10/10/2025 |  |
+| FrontEnd-WebApplication | main | 7f099fc | fix: updated the clients-sidebar.vue | 10/10/2025 |  |
+| FrontEnd-WebApplication | main | ec987fd | feat: added the clients and location js and views | 10/10/2025 |  |
+| FrontEnd-WebApplication | main | 8e88c10 | feat: added add-team-member.vue | 10/10/2025 |  |
+| FrontEnd-WebApplication | main | 17db4a0 | feat: update users.vue and entity | 10/10/2025 |  |
+| FrontEnd-WebApplication | main | 14263c5 | feat: update db.json and vehicles | 10/10/2025 |  |
+| FrontEnd-WebApplication | main | 59257d6 | feat(i18n): add internationalization support to Users and Vehicles modules | 10/10/2025 |  |
+| FrontEnd-WebApplication | main | 6925ec9 | feat(route-planning-execution): add i18n files | 09/10/2025 |  |
+| FrontEnd-WebApplication | main | 2648b6e | feat(route-planning-execution): improve style and implement i18n | 09/10/2025 |  |
+| FrontEnd-WebApplication | main | dafe774 | feat(i18n): add internationalization support to Clients and Users modules | 09/10/2025 |  |
+| FrontEnd-WebApplication | main | 21bfac8 | feat(route-planning-execution): fix vehicle response handling and add team member mapping | 09/10/2025 |  |
+| FrontEnd-WebApplication | main | 3eeb1ea | feat(route-planning-execution): fix vehicle response handling and add team member mapping | 09/10/2025 |  |
+| FrontEnd-WebApplication | main | 26546d7 | feat(route-planning-execution): fix vehicle response handling and add team member mapping | 09/10/2025 |  |
+| FrontEnd-WebApplication | main | 899a7ec | feat(route-planning-execution): add assembler classes for deliveries, locations, and routes | 09/10/2025 |  |
+| FrontEnd-WebApplication | main | bd532cd | feat(env): add routes and locations endpoints to development and production environments | 09/10/2025 |  |
+| FrontEnd-WebApplication | main | a599dad | feat: updated db.json and Users | 09/10/2025 |  |
+| FrontEnd-WebApplication | main | 65a5868 | feat: added the user js and added the functions | 09/10/2025 |  |
+| FrontEnd-WebApplication | main | 05459aa | feat(db.json): Adding Fake JSON data | 09/10/2025 |  |
+| FrontEnd-WebApplication | main | bf9d5dd | feat: added the vehicles js to post and the db json | 09/10/2025 |  |
+| FrontEnd-WebApplication | main | f86ea68 | fix(interactive-map): Implementation for interactive map and using 100% height | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | 3791794 | feat(teams-card, location-details): Added the property isReadOnly | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | 93af1c5 | fix(teams-card, teams-tab): Styling improved and layout | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | 1646340 | feat: Interactive Editing routes for locations | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | 069697e | fix(location-details): better layout organization and styling improvement | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | c1b6691 | fix(selected-locations-list): Styling and replacing for a mockup | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | 5a104a6 | fix(draf-layout): Improvement for layout to organice better the content | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | 710f4e7 | fix(routes): Styling improvement for cards, fonts, etc. | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | 399626d | fix(clients,users,vehicles): Styling improvement for header and buttons normalization | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | b48c27a | fix: routes into management and adding a layout container | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | 464f981 | feat(route-planning-execution): implement toast notifications and enhance route actions | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | f04a9f6 | feat(route-planning-execution): add route monitoring view and enhance route navigation | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | 9f65ca4 | feat(route-planning-execution): implement interactive map and location and team details components | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | 70e7705 | feat(route-planning-execution): implement interactive map and location and team details components | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | d3ebfd1 | feat(route-planning-execution): add routes management with lazy-loaded components | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | c67efed | feat(route-planning-execution): integrate i18n support and add Toast and Confirmation services | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | ee5ed3d | feat(roue-planning-execution): add internationalization support with English and Spanish locales | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | cd75e3a | feat: added the routing js to navigate the views | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | 1d511fd | feat: added router js and locales en and es json | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | b5a2ab7 | feat: updated the clients.vue to add the nav bar | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | b2fb465 | feat: added the vehicle main view in presentation | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | 80d0eef | feat: added the sidebar for the vehicles view | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | b8c82f2 | feat: added the vehicle details panel | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | 5527180 | feat: added the dialog add-vehicle.vue | 08/10/2025 |  |
+| FrontEnd-WebApplication | main | 4c3bfe2 | feat: added the directories and db and routes json | 07/10/2025 |  |
+| FrontEnd-WebApplication | main | 1bc44b8 | feat: added the clients sidebar and main view | 07/10/2025 |  |
+| FrontEnd-WebApplication | main | 377f776 | feat: added the add-location and location panel views | 07/10/2025 |  |
+| FrontEnd-WebApplication | main | 049bf10 | feat: added the addclient dialog and update main.js | 07/10/2025 |  |
+| FrontEnd-WebApplication | main | 86d2c8c | feat: added Subscription.vue and App.vue | 04/10/2025 |  |
+| FrontEnd-WebApplication | main | e60ed25 | feat: added Subscription.vue and App.vue | 04/10/2025 |  |
+| FrontEnd-WebApplication | main | 1c5c1a9 | feat: added Rutana Logo | 04/10/2025 |  |
+| FrontEnd-WebApplication | main | 69b1f1a | feat: added Users.vue and Navbar.vue | 04/10/2025 |  |
+| FrontEnd-WebApplication | main | e49f2ed | feat: added code Infrastructure and LoginRegister.vue | 04/10/2025 |  |
+| FrontEnd-WebApplication | main | fa956a2 | feat: added initial configurations for primevue theme | 04/10/2025 |  |
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+Durante el Sprint 2 se ejecutaron exitosamente las funcionalidades principales de los bounded contexts implementados, validando la operatividad del sistema en un entorno de producción.
+
+**Evidencias de Ejecución:**
+
+1. **Aplicación Funcional**: Frontend completamente operativo con todas las funcionalidades core implementadas
+2. **Testing en Producción**: Pruebas realizadas en entorno Firebase similar a producción
+3. **Validación de UX**: Experiencia de usuario validada con componentes PrimeVue
+4. **Performance**: Evaluación de rendimiento en entorno de producción
+5. **Cross-browser Testing**: Compatibilidad verificada en diferentes navegadores
+
+**Evidencias Visuales de Ejecución:**
+
+<div style="text-align: left;">
+<img src="Resources/Capitulo_5/sprint2/execution/Users.png" alt="Gestión de Usuarios">
+<p><em>Módulo de gestión de usuarios - Identity & Access Management</em></p>
+</div>
+
+<div style="text-align: left;">
+<img src="Resources/Capitulo_5/sprint2/execution/AddUsers.png" alt="Agregar Usuarios">
+<p><em>Funcionalidad de creación de nuevos usuarios</em></p>
+</div>
+
+<div style="text-align: left;">
+<img src="Resources/Capitulo_5/sprint2/execution/Vehicles.png" alt="Gestión de Vehículos">
+<p><em>Módulo de gestión de vehículos - Fleet & Resource Management</em></p>
+</div>
+
+<div style="text-align: left;">
+<img src="Resources/Capitulo_5/sprint2/execution/AddVehicles.png" alt="Agregar Vehículos">
+<p><em>Funcionalidad de registro de nuevos vehículos</em></p>
+</div>
+
+<div style="text-align: left;">
+<img src="Resources/Capitulo_5/sprint2/execution/Clients.png" alt="Gestión de Clientes">
+<p><em>Módulo de gestión de clientes - Customer & Location Management</em></p>
+</div>
+
+<div style="text-align: left;">
+<img src="Resources/Capitulo_5/sprint2/execution/AddClients.png" alt="Agregar Clientes">
+<p><em>Funcionalidad de creación de nuevos clientes</em></p>
+</div>
+
+<div style="text-align: left;">
+<img src="Resources/Capitulo_5/sprint2/execution/Routes.png" alt="Gestión de Rutas">
+<p><em>Módulo de gestión de rutas - Route Planning & Execution</em></p>
+</div>
+
+<div style="text-align: left;">
+<img src="Resources/Capitulo_5/sprint2/execution/NewRoute.png" alt="Nueva Ruta">
+<p><em>Funcionalidad de creación de nuevas rutas</em></p>
+</div>
+
+<div style="text-align: left;">
+<img src="Resources/Capitulo_5/sprint2/execution/RoutesPlaneDate.png" alt="Planificación de Rutas">
+<p><em>Funcionalidad de planificación de rutas con fechas</em></p>
+</div>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Durante este sprint se completó la implementación del frontend de la aplicación Rutana utilizando Vue.js y PrimeVue, con despliegue exitoso en Firebase Hosting. Aunque no se completaron todas las funcionalidades planificadas, se logró implementar los bounded contexts core y desplegar una aplicación funcional.
+
+**Descripción del Logro:**
+
+- Implementación del frontend con Vue.js y PrimeVue components
+- Desarrollo de los bounded contexts principales (IAM, Fleet & Resource Management, Customer & Location Management, Route Planning & Execution)
+- Implementación de Fake API con JSON Server
+- Configuración de internacionalización con Vue i18n
+- Deployment exitoso en Firebase Hosting
+
+### Recursos del Sprint
+
+<table>
+<tr>
+<th>Recurso</th>
+<th>Acción implementada</th>
+<th>Método HTTP</th>
+<th>URL / Endpoint</th>
+<th>Link de repositorio</th>
+</tr>
+<tr>
+<td>Frontend Application</td>
+<td>Aplicación web completa</td>
+<td>GET</td>
+<td>https://rutana-app-frontend.web.app/management/routes/list</td>
+<td>https://github.com/QoriTech-7468/FrontEnd-WebApplication/</td>
+</tr>
+<tr>
+</table>
+
+**Documentación de Servicios:**
+
+1. **API Documentation**: Documentación de la Fake API implementada con JSON Server
+2. **Component Documentation**: Documentación de componentes Vue.js desarrollados con PrimeVue
+3. **Deployment Guide**: Guía de despliegue en Firebase Hosting con configuración de producción
+4. **Architecture Updates**: Documentación de mejoras arquitectónicas aplicadas con Domain Driven Design
+5. **Repository Documentation**: Documentación completa del código fuente en GitHub con 73 commits
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Durante el Sprint 2 se logró el despliegue exitoso de la aplicación frontend de Rutana en Firebase Hosting, implementando los bounded contexts principales y validando la funcionalidad en un entorno de producción.
+
+**Evidencias de Despliegue:**
+
+1. **Firebase Hosting**: Aplicación desplegada exitosamente en Firebase con configuración de producción
+2. **SSL Certificate**: Certificado SSL automático de Firebase habilitado para conexiones seguras
+3. **CDN**: Distribución global mediante CDN de Firebase para optimización de rendimiento
+4. **Environment Configuration**: Configuración de variables de entorno para producción y desarrollo
+5. **Build Process**: Proceso de build automatizado con Vite y Vue.js optimizado para producción
+
+**URLs de Despliegue:**
+- **Producción Principal**: https://rutana-app-frontend.web.app
+- **Repositorio GitHub**: https://github.com/QoriTech-7468/FrontEnd-WebApplication/
+
+**Evidencias Visuales del Despliegue:**
+
+<div style="text-align:start;">
+<img src="Resources/Capitulo_5/sprint2/1.firebaseinit.jpg" alt="Firebase Deployment Configuration">
+<p><em>Configuración de despliegue en Firebase Hosting con firebase CLI</em></p>
+</div>
+
+<div style="text-align:start;">
+<img src="Resources/Capitulo_5/sprint2/2.githubgrantedaccess.jpg" alt="Aplicación en Producción">
+<p><em>Dar acceso para que firebase accede a la organización</em></p>
+</div>
+
+<div style="text-align:start;">
+<img src="Resources/Capitulo_5/sprint2/3.firebaseconfig.jpg" alt="Gestión de Rutas">
+<p><em>Configurar firebase config y revisar que apunte correctamente al archivo index.html</em></p>
+</div>
+
+<div style="text-align:start;">
+<img src="Resources/Capitulo_5/sprint2/4.githubactions.jpg" alt="Proceso de Build">
+<p><em>Proceso de build automatizado con github actions</em></p>
+</div>
+
+<div style="text-align:start;">
+<img src="Resources/Capitulo_5/sprint2/5.cicd.jpg" alt="Proceso de Build">
+<p><em>Verificación del workflow del githubactions</em></p>
+</div>
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+**Insights de Colaboración del Equipo:**
+
+Durante el Sprint 2, el equipo demostró una colaboración efectiva enfocada en la implementación práctica de los conceptos definidos en el sprint anterior. La división clara de responsabilidades por bounded contexts permitió un desarrollo paralelo eficiente, mientras que las revisiones cruzadas aseguraron la consistencia en la implementación.
+
+**Logros Destacados:**
+- Implementación exitosa de los cuatro bounded contexts principales
+- Desarrollo ágil con PrimeVue components
+- Validación temprana mediante Fake API
+- Despliegue exitoso en Firebase Hosting
+- Mejora continua de la arquitectura con principios DDD
+
+**Lecciones Aprendidas:**
+- La Fake API facilitó la iteración rápida y validación de UX
+- PrimeVue proporcionó componentes robustos y consistentes
+- Firebase Hosting simplificó significativamente el proceso de despliegue
+- La internacionalización mejoró la accesibilidad del sistema
+
+
+##### Evidencia de Colaboración en GitHub
+![Sprint 2 Insights](./Resources/Capitulo_5/sprint-2-insights.png)
