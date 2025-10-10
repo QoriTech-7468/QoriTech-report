@@ -318,8 +318,5 @@ En la actualidad, las empresas de transporte y distribución enfrentan dificulta
 
 #### **Segmento Objetivo 2: Transportistas**
 
-
-### 1.3. Segmentos objetivo.
-
 > Los transportistas encargados de la **distribución de productos en Lima y regiones cercanas**, con edades entre **20 y 50 años**, que necesitan herramientas digitales simples para **consultar la carga de sus camiones, seguir rutas optimizadas y comunicarse con la administración sin depender de llamadas o procesos manuales**. Enfrentan desafíos como **poca claridad sobre la carga, retrasos por rutas ineficientes y vulnerabilidad a incidencias en carretera**, por lo que valoran soluciones que hagan su trabajo más **seguro y eficiente**. Según la **Superintendencia de Transporte Terrestre de Personas, Carga y Mercancías (SUTRAN)**, el transporte de carga en Perú movilizó más de **500 millones de toneladas en 2023**, lo que refleja la magnitud del sector y la necesidad de herramientas que mejoren la productividad de los conductores.
 
