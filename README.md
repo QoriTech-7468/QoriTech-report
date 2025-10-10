@@ -445,6 +445,19 @@ Durante esta fase, el equipo elaboró el informe base del proyecto, abarcando la
   - Santiago Gordillo: 27 commits, 283 adiciones, 28 eliminaciones
 - **Total de commits en TB1:** 59
 
+## TP1 - Aplicación Frontend (22 de setiembre - 10 de octubre de 2025)
+
+Durante esta fase, el equipo desarrolló la aplicación frontend completa utilizando Vue.js y PrimeVue, implementando los bounded contexts principales y desplegando la aplicación en Firebase Hosting.
+
+![Evidencia de commits del repositorio Frontend](./Resources/Frontend_contributors.png)
+
+- **miniChorri (Christofer Costa):** 17 commits, 5,587 adiciones, 458 eliminaciones
+- **Jcdev04 (Jesús Castillo):** 15 commits, 1,237 adiciones, 749 eliminaciones
+- **yak-cod (Yaku Guzmán):** 14 commits, 2,810 adiciones, 684 eliminaciones
+- **SantiIHC (Santiago Gordillo):** 9 commits, 4,677 adiciones, 1,811 eliminaciones
+- **Grini913 (Ingrid Medina):** 2 commits, 402 adiciones, 110 eliminaciones
+- **Total de commits en TP1:** 57
+
 # Tabla de contenidos
 
 ## [Capítulo I: Introducción](Capitulo_1.md)
