@@ -553,7 +553,7 @@ En esta etapa el usuario crea una ruta y es redirigido a las pestañas de Locali
 
 ![alt text](Resources/UserFlow3.png)
 
-### 4.5. Web Applications Prototyping.
+
 ### 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level EventStorming.
 
