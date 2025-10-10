@@ -69,25 +69,23 @@ Link del figma: https://shorturl.at/cmiuH
 
 ![evidencia de figma](./Resources/anexos/figma-evidencia-anexo.png)
 
-### Anexo B. Trello
+### Anexo B. Trello Sprint 1
 
 Link del trello: https://shorturl.at/yq54o
 
 ![evidencia de trello](./Resources/Capitulo_5/Trello_sprint1.png)
 
-
 ### Anexo C. Video de Exposición TB1
 Link del video: https://shorturl.at/Qgka1
 
-### Anexo D. Video de Exposición TP1
-
-
+### Anexo D. Deployment de landing page
+Link de landing page: https://shorturl.at/ekn7c
 
 ### Anexo E. Diagrama de Clases Frontend
 Link del diagrama: https://shorturl.at/J0nyP
 
+### Anexo F. Deployment de aplicación frontend
+Link de aplicación frontend: https://shorturl.at/g93lZ
 
-### Anexo F. Deployment de landing page
-Link de landing page: https://shorturl.at/ekn7c
-
-### Anexo 
+### Anexo G. Video de Exposición TP1
+Link del video: 
