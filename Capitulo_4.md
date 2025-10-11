@@ -480,7 +480,7 @@ US18: Inhabilitar vehículo
 US16: Agregar/Quitar puntos en una ruta
 
 
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 
 Inicio de Sesión:
 
@@ -525,7 +525,7 @@ Lista de equipos para la ruta:
 
 ![alt text](Resources/mockups/WebAplication/Equipos.png)
 
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 
 User Flow 1:
 
@@ -553,41 +553,144 @@ En esta etapa el usuario crea una ruta y es redirigido a las pestañas de Locali
 
 ![alt text](Resources/UserFlow3.png)
 
-### 4.5. Web Applications Prototyping.
+
 ### 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level EventStorming.
 
 <img src="Resources/Level-ES/Storming AppsWeb - Marco 1.jpg" alt="Paleta de colores">
 
 1. Unstructured Exploration
+
 <img src="Resources/Level-ES/Storming AppsWeb - Step 1_ Unstructured Exploration.jpg" alt="Unstructured Exploration">
+
+En esta fase inicial, se identifican los eventos de dominio sin preocuparse por el orden cronológico o la estructura. Los eventos se organizan en cuatro dominios principales:
+
+- **Gestión de Usuarios y Suscripciones**: Maneja la autenticación de usuarios, registro, períodos de prueba, pagos, creación de organizaciones y asignación de roles.
+- **Gestión de Vehículos**: Cubre el registro de vehículos, actualizaciones y asignación de miembros del equipo.
+- **Gestión de Clientes y Ubicaciones**: Administra perfiles de clientes y operaciones de ubicación, incluyendo creación, activación y filtrado.
+- **Gestión de Rutas y Entregas**: Abarca el ciclo de vida de las rutas (borrador, publicada, iniciada, completada), operaciones de entrega y asignación de flotas.
+
+Este enfoque exploratorio permite al equipo capturar todos los eventos significativos que ocurren dentro del sistema de gestión de transporte de QoriTech.
 
 2. Timelines
 <img src="Resources/Level-ES/Storming AppsWeb - Step 2_ Timelines.jpg" alt="Times Lines">
 
+En este paso, los eventos se organizan en secuencias cronológicas para comprender el flujo natural de los procesos de negocio. Las líneas de tiempo clave incluyen:
+
+- **Flujo de Incorporación de Usuarios**: Creación de enlace de invitación → Usuario se une a la organización → Asignación de rol → Gestión de miembros
+- **Ciclo de Vida de Gestión de Rutas**: Creación de borrador de ruta → Agregar entregas → Asignación de flota → Publicación de ruta → Monitoreo de ejecución
+- **Operaciones de Vehículos**: Registro → Actualizaciones de configuración → Cambios de estado (habilitado/deshabilitado) → Asignaciones de miembros del equipo
+- **Configuración de Clientes y Ubicaciones**: Registro de cliente → Actualizaciones de perfil → Gestión de estado → Creación y filtrado de ubicaciones
+- **Ejecución de Rutas**: Inicio de ruta → Aplicación de filtros → Seguimiento de finalización de entregas → Manejo de finalización o rechazo de ruta
+
+Estas líneas de tiempo revelan las dependencias temporales y la naturaleza secuencial de las operaciones dentro del sistema.
+
 3. Pain Points
 <img src="Resources/Level-ES/Storming AppsWeb - Step 3_ Pain Points.jpg" alt="Pain Points">
+
+En esta etapa, se identifican los puntos de fricción, cuellos de botella y problemas que surgen durante los procesos. Los pain points detectados incluyen:
+
+- Validaciones fallidas en el registro de usuarios, vehículos y clientes
+- Bloqueos en entregas duplicadas que impiden la ejecución fluida de rutas
+- Fallos en asignaciones de equipos y miembros a vehículos
+- Errores en la publicación de rutas que retrasan las operaciones
+- Dificultades en la gestión de pagos y activación de suscripciones
+
+Identificar estos puntos críticos permite priorizar mejoras y optimizar la experiencia del usuario en el sistema.
 
 4. Pivotal Points
 <img src="Resources/level-ES/Storming AppsWeb - Step 4_ Pivotal Points.jpg" alt="Pivotal Points">
 
+Los puntos pivotales son eventos cruciales que marcan cambios significativos en el flujo del sistema. Estos incluyen:
+
+- **Publicación de Ruta**: Transición de planificación a ejecución operativa
+- **Inicio de Ruta**: Activación del proceso de entregas y monitoreo en tiempo real
+- **Activación de Suscripción**: Habilita el acceso completo a las funcionalidades del sistema
+- **Asignación de Roles**: Define permisos y responsabilidades dentro de la organización
+- **Completación de Entrega**: Marca el progreso y actualiza el estado de la ruta
+
+Estos eventos pivotales son determinantes para la continuidad y éxito de las operaciones de transporte.
+
 5. Commands
 <img src="Resources/Level-ES/Storming AppsWeb - Step 5_ Commands.jpg" alt="Commands">
+
+Los comandos representan las acciones o intenciones de los usuarios que desencadenan eventos en el sistema. Los principales comandos identificados son:
+
+- **Gestión de Usuarios**: Registrar usuario, crear organización, asignar rol, revocar acceso
+- **Gestión de Vehículos**: Registrar vehículo, actualizar detalles, habilitar/deshabilitar, asignar equipo
+- **Gestión de Clientes y Ubicaciones**: Registrar cliente, actualizar información, crear ubicación, aplicar filtros
+- **Gestión de Rutas**: Crear borrador, agregar entregas, asignar flota, publicar ruta, iniciar ruta
+- **Gestión de Suscripciones**: Iniciar prueba, procesar pago, activar suscripción, cancelar servicio
+
+Estos comandos representan las intenciones explícitas que impulsan la lógica de negocio del sistema.
 
 6. Policies
 <img src="Resources/Level-ES/Storming AppsWeb - Step 6_ Policies.jpg" alt="Policies">
 
+Las políticas son reglas de negocio automatizadas que reaccionan a eventos específicos y desencadenan otros comandos o eventos. Las políticas clave incluyen:
+
+- **Cuando un usuario se une a la organización** → Asignar rol por defecto
+- **Cuando el pago es exitoso** → Activar suscripción automáticamente
+- **Cuando se publica una ruta** → Notificar a la flota asignada
+- **Cuando se completan todas las entregas** → Marcar ruta como completada
+- **Cuando falla un registro** → Enviar notificación de error al usuario
+- **Cuando se desactiva un cliente** → Deshabilitar sus ubicaciones asociadas
+
+Estas políticas automatizan la lógica de negocio y aseguran la coherencia del sistema sin intervención manual.
+
 7. Read Models
 <img src="Resources/Level-ES/Storming AppsWeb - Step 7_ Read Models.jpg" alt="Read Models">
+
+Los modelos de lectura representan las vistas de datos que los usuarios necesitan consultar para tomar decisiones. Los principales read models identificados son:
+
+- **Vista de Rutas Activas**: Lista de rutas en ejecución con su estado de progreso
+- **Panel de Entregas**: Estado actual de cada entrega (pendiente, en curso, completada, rechazada)
+- **Registro de Vehículos**: Información completa de la flota con disponibilidad y asignaciones
+- **Directorio de Clientes**: Listado de clientes activos con sus ubicaciones
+- **Estado de Suscripciones**: Información de planes activos, pagos y fechas de renovación
+- **Historial de Rutas**: Registro de rutas completadas con métricas de desempeño
+
+Estos modelos proporcionan la información necesaria para la operación y monitoreo del sistema de transporte.
 
 8. External Systems
 <img src="Resources/Level-ES/Storming AppsWeb - Step 8_ External Systems.jpg" alt="External Systems">
 
+Los sistemas externos son servicios de terceros con los que el sistema se integra para extender sus funcionalidades. Las integraciones identificadas incluyen:
+
+- **Proveedor de Mapas**: Geolocalización y cálculo de rutas óptimas
+- **Servicio de Almacenamiento**: Gestión de imagenes
+
+Estas integraciones amplían las capacidades del sistema aprovechando servicios especializados externos.
+
 9. Aggregates
 <img src="Resources/Level-ES/Storming AppsWeb - Step 9_ Aggregates.jpg" alt="Aggregates">
 
+Los agregados son conjuntos cohesivos de entidades y eventos que se gestionan como una unidad transaccional. Los agregados identificados son:
+
+- **User**: Gestiona autenticación, roles, suscripciones y pertenencia a organizaciones
+- **Organization**: Maneja la creación de organizaciones, invitaciones y membresías
+- **Vehicle**: Controla el registro de vehículos, actualizaciones de detalles, cambios de estado y asignaciones de despachadores
+- **Client**: Administra el registro de clientes, actualizaciones de información y cambios de estado (habilitado/deshabilitado)
+- **Location**: Gestiona ubicaciones asociadas a clientes, incluyendo creación, filtrado y estados de activación
+- **Route**: Coordina el ciclo de vida completo de rutas (borrador, publicación, inicio, finalización) y asignación de flotas
+- **Delivery**: Controla las entregas individuales dentro de rutas, incluyendo su adición, remoción, completación y rechazo
+
+Cada agregado garantiza la consistencia de sus datos y encapsula su propia lógica de negocio.
+
 10. Bounded Contexts
 <img src="Resources/Level-ES/Storming AppsWeb - Step 10_ Bounded Contexts.jpg" alt="Bounded Contexts">
+
+Los contextos delimitados organizan los agregados en dominios de negocio independientes con su propio lenguaje y modelos. Los bounded contexts identificados son:
+
+- **Identity and Access Management**: Gestiona usuarios, organizaciones, autenticación, roles y suscripciones. Agregados: User, Organization.
+
+- **Fleet & Resource Management**: Administra la flota de vehículos, sus configuraciones, estados y asignaciones de despachadores. Agregado: Vehicle.
+
+- **Customer & Location Management**: Maneja clientes y sus ubicaciones asociadas, incluyendo registro, perfiles y operaciones geográficas. Agregados: Client, Location.
+
+- **Route Planning & Execution**: Coordina la planificación y ejecución de rutas de entrega, incluyendo asignación de recursos y seguimiento en tiempo real. Agregados: Route, Delivery.
+
+Esta separación en contextos delimitados permite que cada dominio evolucione de manera independiente, manteniendo límites claros de responsabilidad y facilitando la escalabilidad del sistema.
 
 ### 4.6.2. Software Architecture Context Diagram.
 Este diagrama muestra una vista general del sistema dentro de su entorno,
@@ -630,24 +733,56 @@ En esta sección se presentan los diagramas de clases que detallan la implementa
 <img src="Resources/Capitulo_4/Identity.png" alt="IdentidadyAcceso">
 </div>
 
-3. Resource and Asset Management
+3. Fleet and Resource Management
 <div style="text-align: center;">
 <img src="Resources/Capitulo_4/Resource.png" alt="Recursos">
 </div>
 
-4. Service Execution and Monitoring
+4. Customer & Location Management
 <div style="text-align: center;">
 <img src="Resources/Capitulo_4/Service.png" alt="Ejecucion">
 </div>
 
-5. Incidents
+5. Incident & Reporting Management
 <div style="text-align: center;">
 <img src="Resources/Capitulo_4/Incidents.png" alt="Incidencias">
 </div>
 
-6. Transportation Route Management
+6. Route Planning & Execution
 <div style="text-align: center;">
 <img src="Resources/Capitulo_4/Transportation.png" alt="rutas">
+</div>
+
+#### Frontend Class Diagrams
+
+1. Main Application
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Frontend_App.jpg" alt="Frontend Main Application">
+</div>
+
+2. Fleet and Resource Management
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Frontend_fleet_and_resource_management.jpg" alt="Frontend Fleet and Resource Management">
+</div>
+
+3. Identity and Access Management
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Frontend_identity_and_access_management.jpg" alt="Frontend Identity and Access Management">
+</div>
+
+4. Route Planning and Execution
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Frontend_route_planning_and_execution.jpg" alt="Frontend Route Planning and Execution">
+</div>
+
+5. Shared Components
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Frontend_shared.jpg" alt="Frontend Shared Components">
+</div>
+
+6. Subscription and Payment
+<div style="text-align: center;">
+<img src="Resources/Capitulo_4/Frontend_suscription_and_payment.jpg" alt="Frontend Subscription and Payment">
 </div>
 
 ### 4.8. Database Design.

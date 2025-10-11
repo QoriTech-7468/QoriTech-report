@@ -5,13 +5,9 @@
 ### 2.1.1. Análisis competitivo.
 
 <table style="width:100%; border-collapse:collapse; table-layout:fixed;" border="1" align="center">
-
-<!-- Título -->
 <tr>
 <th colspan="6" align="center">Competitive Analysis Landscape</th>
 </tr>
-
-<!-- Objetivo -->
 <tr>
 <td rowspan="2" colspan="1" align="center"><b>¿Por qué llevar a cabo este análisis?</b></td>
 <td colspan="6" align="center">Identificar fortalezas, debilidades y estrategias de los principales competidores en logística de última milla (SimpliRoute, Beetrack, FarEye) para posicionar nuestra aplicación web.</td>
@@ -21,8 +17,6 @@
        <b>Objetivo:</b> Determinar cómo diferenciar nuestro producto frente a competidores consolidados en LATAM y globales. <br> 
     </td>
   </tr>
-
-<!-- Cabeceras -->
 <tr>
 <th colspan="2" style="width:12%">(En la cabecera colocar por cada competidor nombre y logo)</th>
 <th style="width:22%">
@@ -39,8 +33,6 @@
 <img src="./Resources/Capitulo_2/Logo_fareye.png" alt="FarEye" width="100" height="100">
 </th>
 </tr>
-
-<!-- PERFIL -->
 <tr>
 <td rowspan="2" colspan="1" align="center" ><b>Perfil</b></td>
 <td style="word-wrap:break-word; white-space:normal;"><b>Overview</b></td>
@@ -56,8 +48,6 @@
    <td> Experiencia de usuario robusta y alta penetración en empresas medianas/grandes de LATAM. </td>
    <td> Escalabilidad global y capacidad de integración con grandes retailers y 3PL. </td>
 </tr>
-
-<!-- PERFIL DE MARKETING -->
 <tr>
 <td rowspan="2" colspan="1" align="center"><b>Perfil de Marketing</b></td>
 <td><b>Mercado objetivo</b></td>
@@ -73,8 +63,6 @@
    <td> Branding fuerte en trazabilidad y seguridad de entregas; foco en confiabilidad. </td>
    <td> Posicionamiento como solución integral global; alianzas con grandes corporativos. </td>
 </tr>
-
-<!-- PERFIL DE PRODUCTO -->
 <tr>
 <td rowspan="3" colspan="1" align="center"><b>Perfil de Producto</b></td>
 <td><b>Productos & Servicios</b></td>
@@ -97,8 +85,6 @@
    <td> Web, app móvil y APIs de integración. </td>
    <td> Plataforma web, apps móviles, integraciones con ERP/CRM. </td>
 </tr>
-
-<!-- ANÁLISIS SWOT -->
 <tr>
    <td rowspan="4" colspan="1" align="center"><b>Análisis SWOT</b></td>
    <td><b>Fortalezas</b></td>
@@ -193,21 +179,16 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
 <img src="Resources/Entrevista_Transportista_1.png" alt="Primera entrevista del primer segmento">
 </a>
 </td>
-
-<!--Colocar Screenshot y el enlace para el video -->
 <td align='center'>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EXnpE4mhsDFMmHRdgpIgWdkBw5qgJK4qoQR-ptPTdy-Lbg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=23t4N5" target= 'blank'>
 <img src="Resources/Entrevista_Transportista_2.png" alt="Segunda entrevista del primer segmento">
 </a>
 </td>
-
-<!--Colocar Screenshot y el enlace para el video -->
 <td align='center'>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EeUGT35ds8JEgUb9SddYv_MB7fjld1Jtl7ajbjpe9i-S3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ny0ro0" target= 'blank'>
 <img src="Resources/Entrevista_Transportista_3.png" alt="Tercera entrevista del primer segmento" width="200" height="200">
 </a>
 </td>
-
    <tr>
    <td>
     <b>Entrevistador:</b> Christofer William Costa Morales <br>
@@ -215,7 +196,7 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
     <b>Edad:</b> 34 años <br>
     <b>Distrito:</b> San Sebastian - Cusco <br>
     <b>Inicio de la entrevista:</b>  0:20 <br>
-    <b> Resumen: </b>John Willy es un chofer y encargado de una empresa de transporte, que esta encargado de hacer las rutas y la liquidación de los pedidos de transporte. Este utiliza la dirección en las boletas que emite para calcular su ruta, además, con la información que el cliente le proporcione sobre la ruta (accidentes, desfiles, etc). Sin embargo, todos estos procesos pueden conllevan a muchos inconvenientes, cómo la confirmación de la ruta y de la dirección final, la recepción por parte del cliente, la zona en donde se despacha el pedido, la actitud de los clientes y el tiempo de espera. Adicionalmente, nos comento no usar su aplicación laboral, ya que, gracias a su experiencia puede manejar mejor algún problema y lo considera algo innecesario y tedioso de utilizar al poseer características muy intrusivas para su flujo laboral.<br>
+    <b> Resumen: </b>John Willy es un chofer y encargado de una empresa de transporte, que esta encargado de hacer las rutas y la liquidación de los pedidos de transporte. Este utiliza la <b>dirección en las boletas</b> que emite para calcular su ruta, además, con la información que el cliente le proporcione sobre la ruta (accidentes, desfiles, etc). Sin embargo, todos estos procesos pueden conllevan a muchos inconvenientes, cómo la confirmación de la ruta y de la dirección final, la recepción por parte del cliente, la zona en donde se despacha el pedido, la actitud de los clientes y el tiempo de espera. Adicionalmente, nos comento no usar su aplicación laboral, ya que, gracias a su experiencia puede manejar mejor algún problema y lo considera algo innecesario y tedioso de utilizar al poseer características muy intrusivas para su flujo laboral.<br><b>Perfil del entrevistado:</b> El entrevistado demuestra una actitud práctica y autosuficiente, confiando en su experiencia más que en las herramientas tecnológicas. Prefiere mantener el control directo de su trabajo y se muestra escéptico ante sistemas digitales que percibe como poco adaptados a la realidad del campo. Su enfoque pragmático y su resistencia al cambio tecnológico reflejan la brecha existente entre las soluciones digitales actuales y las necesidades reales del personal operativo.<br>
     <p>
     </p>
    </td>
@@ -225,7 +206,8 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
     <b>Edad:</b> 30 años <br>
     <b>Distrito:</b> Santiago - Cusco <br>
     <b>Inicio de la entrevista:</b> 0:33 <br>
-    <b> Resumen:</b> Carlos Maque es un conductor y encargado, su rol es de transportista de producto de la marca Gloria. Este utiliza una aplicación llamada el "Beetrack", la cual le otorga la geolocalización del cliente en un mapa, previamente proporcionado por la empresa. Además, la aplicación le proporciona un número de contacto de los clientes, en caso se pierda o la dirección sea incorrecta, y le otorga opciones para confirmar, rechazar o justificar la entrega o devolución de los pedidos. Por otro lado, se guia con las boletas para obtener la información necesaria del pedido. Adicionalmente, los retrasos en los pedidos más importantes, según el entrevistado, son: las tiendas cerradas, clientes sin dinero y mala geoposición. Por lo anterior, el reporta los inconvenientes por el WhatsApp y el Beetrack. Sin embargo, este ultimo no funciona correctamente en las zonas con poca señal, por ello, se puede retrasar las confirmaciones de la entrega del pedidos y necesitan dirigirse a una zona con mejor señal para que cargue las confirmaciones.<br>
+    <b> Resumen:</b> Carlos Maque es un conductor y encargado, su rol es de transportista de producto de la marca Gloria. Este utiliza una aplicación llamada <b>BeeTrack</b>, la cual le otorga la geolocalización del cliente en un mapa, previamente proporcionado por la empresa. Además, la aplicación le proporciona un número de contacto de los clientes, en caso se pierda o la dirección sea incorrecta, y le otorga opciones para confirmar, rechazar o justificar la entrega o devolución de los pedidos. Por otro lado, <b>se guia con las boletas para obtener la información necesaria del pedido</b>. Adicionalmente, los retrasos en los pedidos más importantes, según el entrevistado, son: las tiendas cerradas, clientes sin dinero y mala geoposición. Por lo anterior, el reporta los inconvenientes por <b>WhatsApp</b> y <b>BeeTrack</b>. Sin embargo, este ultimo no funciona correctamente en las zonas con poca señal, por ello, se puede retrasar las confirmaciones de la entrega del pedidos y necesitan dirigirse a una zona con mejor señal para que cargue las confirmaciones.<br>
+    <b>Perfil del entrevistado:</b> El entrevistado muestra una actitud responsable y abierta al uso de herramientas tecnológicas, aunque reconoce las limitaciones prácticas que enfrenta en campo. Es consciente de la importancia de la trazabilidad digital, pero se frustra ante la falta de conectividad y la dependencia del sistema para completar sus tareas. Refleja el perfil de un trabajador que valora la eficiencia tecnológica, siempre que esta se adapte a las condiciones reales del entorno operativo.<br>
   <p> </p>
    </td>
       <td>
@@ -234,8 +216,8 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
     <b>Edad:</b> 24 años <br>
     <b>Distrito:</b> San Jeronimo - Cusco <br>
     <b>Inicio de la entrevista:</b> 0:25<br>
-     <b>Resumen:</b> Danny Riverra, encargado y chofer en una empresa de transporte, utiliza el teléfono móvil y la aplicación "Beetrack" para gestionar entregas, junto con documentos de oficina. Usa Beetrack para localizar direcciones y referencias de clientes, necesitando solo la dirección exacta y calles cercanas. Registra las entregas con la firma del cliente y valida en Beetrack, aunque las fallas de internet complican el proceso. Los retrasos principales son por tráfico, demoras en alistar mercadería y clientes sin pedidos, lo que requiere contactar al vendedor y reportar en WhatsApp. Los incidentes más comunes son locales cerrados o clientes sin dinero, también notificados por WhatsApp. El entrevistado muestra una actitud práctica y confianza en herramientas digitales, pero se frustra por factores externos como el tráfico, la falta de preparación de clientes y la dependencia de internet.
- <br>
+     <b>Resumen:</b> Danny Riverra, encargado y chofer en una empresa de transporte, utiliza el teléfono móvil y la aplicación <b>BeeTrack</b> para gestionar entregas, junto con documentos de oficina. Usa <b>BeeTrack</b> para localizar direcciones y referencias de clientes, necesitando solo la dirección exacta y calles cercanas. Registra las entregas con la firma del cliente y valida en <b>BeeTrack</b>, aunque las fallas de internet complican el proceso. Los retrasos principales son por tráfico, demoras en alistar mercadería y clientes sin pedidos, lo que requiere contactar al vendedor y reportar en <b>WhatsApp</b>. Los incidentes más comunes son locales cerrados o clientes sin dinero.<br>
+    <b>Perfil del entrevistado:</b> El entrevistado muestra una actitud práctica y confianza en herramientas digitales, pero se frustra por factores externos como el tráfico, la falta de preparación de clientes y la dependencia de internet.<br>
       <p> 
      </p>
    </td>
@@ -251,39 +233,32 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
 <th>Entrevistado 2</th>
 <th>Entrevistado 3</th>
 </tr>
-
 <tr>
 <td align='center'>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EVTQKC-v_1lEhE1mJT9JnmsB9xNmx4hF5Exa5TUm8AYjtg?e=tQDRf8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target= 'blank'>
 <img src="Resources/Entrevista_Administrador_1.png" alt="Primera entrevista del segundo segmento">
 </a>
 </td>
-
-<!--Colocar Screenshot y el enlace para el video -->
 <td align='center'>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EZLL3X652L5KoLk1RWZn0zoBWGmWOQ80ZYl12yLueoednQ?e=vXoTwInav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target= 'blank'>
 <img src="Resources/Entrevista_Administrador_2.png" alt="Segunda entrevista del segundo segmento">
 </a>
 </td>
-
-<!--Colocar Screenshot y el enlace para el video -->
 <td align='center'>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EcOPh-bhFsNCjQaceAJEYO8BwE3BUIW-e4wFdvoBHN-O2w?e=NPvjhC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target= 'blank'>
 <img src="Resources/Entrevista_Administrador_3.png" alt="Tercera entrevista del segundo segmento">
 </a>
 </td>
-
    <tr>
    <td>
-     feature/Entrevistas
     <b>Entrevistador:</b> Santiago Alonso Gordillo Ramos <br>
     <b>Entrevistado:</b> Miguel Alcelmo Fernandez <br>
     <b>Edad:</b> 27 años <br>
     <b>Distrito:</b> Cusco <br>
     <b>Inicio de la entrevista:</b>  0:55 <br>
-    <b> Resumen:</b> es un radiotransportista en la empresa de RM emprendimientos, esta encargado del monitoreo y coordinación de los pedidos. Luego, nos menciona que su empresa utiliza la aplicación "Beetrack" que le permite mantener un monitoreo constante del estado de los pedidos. Sin embargo, este aplicación posee inconvenientes con la geolocalización, no identifica la ubicación exacta del cliente y eso confunde y frustra a los transportistas encargados. Siguiendo con la entrevista, nos menciona que la manera que registran los productos que ingresan a los camiones es con dos personas que van a la localidad y se encarga de verificar si esta todo en orden. Además, la manera en la que subsanan alguna perdida de producto, es por medio de los transportistas que se hacen responsables. En el caso de la planificación de las rutas, nos da su opinión de cómo los planificadores que trabajan en Lima, desconocen lo complicado que puede ser las rutas en Cusco y por ello, extienden las horas laborales de los transportistas. Finalmente, nos comenta cómo arreglan los problemas de retraso o incumplimiento de entregas y esto lo realizan llamando al encargado del camión, luego lo redirigen al área de ventas y este comunica al cliente mismo. <br>
+    <b> Resumen:</b> es un radiotransportista en la empresa de MR emprendimientos, esta encargado del monitoreo y coordinación de los pedidos. Luego, nos menciona que su empresa utiliza la aplicación <b>BeeTrack</b> que le permite mantener un monitoreo constante del estado de los pedidos. Sin embargo, este aplicación posee <em>inconvenientes con la geolocalización</em>, no identifica la ubicación exacta del cliente y eso confunde y frustra a los transportistas encargados. Siguiendo con la entrevista, nos menciona que la manera que registran los productos que ingresan a los camiones es con dos personas que van a la localidad y se encarga de verificar si esta todo en orden. Además, la manera en la que subsanan alguna perdida de producto, es por medio de los transportistas que se hacen responsables. En el caso de la planificación de las rutas, nos da su opinión de cómo los planificadores que trabajan en Lima, desconocen lo complicado que puede ser las rutas en Cusco y por ello, extienden las horas laborales de los transportistas. Finalmente, nos comenta cómo arreglan los problemas de retraso o incumplimiento de entregas y esto lo realizan llamando al encargado del camión, luego lo redirigen al área de ventas y este comunica al cliente mismo. <br>  <b>Perfil del entrevistado:</b> El entrevistado demuestra una actitud analítica y orientada al trabajo en equipo. Aunque confía en las herramientas digitales, reconoce las limitaciones del software actual y la falta de adaptación a contextos locales. Su visión combina la experiencia operativa con una comprensión clara de los procesos logísticos, lo que lo convierte en un perfil que valora la precisión, la comunicación y la eficiencia, pero que también exige soluciones tecnológicas más contextualizadas y realistas.
+ <br>
     <p>
-
    </td>
    <td>
     <b>Entrevistador: </b> Jesus Ivan Castillo Vidal <br>
@@ -292,9 +267,9 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
     <b>Edad:</b> 49 años <br>
     <b>Distrito:</b> Cusco <br>
     <b>Inicio de la entrevista:</b>  0:17 <br>
-    <b> Resumen:</b> Eliana Paullo es una administradora de la empresa MR emprendimientos, esta encargada de la planificación de los camiones, el monitoreo de personal y transportes, evaluar y ayudar al personal. Después, nos menciona que todo el personal de la empresa, por camión, usa el la aplicación "Beetrack", el cual le ayuda a monitorear el porcentaje de avance que posee cada camión y los clientes y productos asignados a cada camión. Además, utilizan GPS para mantener un control de las rutas de los camiones y del uso de sensores, ya que los productos deben mantenerse refrigerados y este le alerta si esta o no activado el refrigerante. Los principales incidentes que sufrieron son: Confunción en el cargamento del camión, a causa de la forma en cómo estan divididos los camiones, y el daño de los productos y la compensación económica por los mismos. Luego, nos comenta cómo realizan la planificación de las rutas y cómo lidian con problemas que pueden ocurrir el mismo dia de entrega. Esto lo realizan de manera manual, con llamadas y mensajes a los clientes para informarle de los retrasos. Adicionalmente, nos comenta que se utiliza bastante Whatsapp para la coordinación de pedidos para los diferentes conductores. Finalmente, nos comento su sugerencia para mejorar las herramientas que usan, este seria la Opción para identificar a clientes complicados y deribarlos a un plan de pago adelantado para evitar problemas al momento de realizar las entregas. <br>
+    <b> Resumen:</b> Eliana Paullo es una administradora de la empresa MR emprendimientos, esta encargada de la planificación de los camiones, el monitoreo de personal y transportes, evaluar y ayudar al personal. Después, nos menciona que todo el personal de la empresa, por camión, usa la aplicación <b>"Beetrack"</b>, el cual le ayuda a monitorear el porcentaje de avance que posee cada camión y los clientes y productos asignados a cada camión. Además, utilizan <b>GPS</b> para mantener un control de las rutas de los camiones y del uso de sensores, ya que los productos deben mantenerse refrigerados y este le alerta si esta o no activado el refrigerante. Los principales incidentes que sufrieron son: Confunción en el cargamento del camión, a causa de la forma en cómo estan divididos los camiones, y el daño de los productos y la compensación económica por los mismos. Luego, nos comenta cómo realizan la planificación de las rutas y cómo lidian con problemas que pueden ocurrir el mismo dia de entrega. Esto lo realizan de manera manual, <b>con llamadas y mensajes a los clientes para informarle de los retrasos</b>. Adicionalmente, nos comenta que se utiliza bastante <b>Whatsapp</b> para la coordinación de pedidos para los diferentes conductores. Finalmente, nos comento su sugerencia para mejorar las herramientas que usan, este seria la Opción para identificar a clientes complicados y deribarlos a un plan de pago adelantado para evitar problemas al momento de realizar las entregas. <br>  <b>Perfil del entrevistado:</b>La entrevistada refleja un perfil estratégico, organizado y con una clara comprensión del funcionamiento integral de la empresa. Valora la tecnología como herramienta de control y prevención, aunque reconoce la necesidad de optimizar la comunicación y automatizar procesos repetitivos. Su enfoque busca equilibrar la supervisión operativa con la eficiencia administrativa, mostrando apertura hacia soluciones que mejoren la trazabilidad, la gestión de incidencias y la relación con los clientes.
+ <br>
    <p>
-
    </p>
    </td>
       <td>
@@ -304,7 +279,8 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
     <b>Edad:</b> 50 años <br>
     <b>Distrito:</b> Lima <br>
     <b>Inicio de la entrevista:</b>  0:08 <br>
-    <b> Resumen:</b> Adriana Merma es una gerente de una empresa de transporte que se encarga de la gestión de las diferentes áreas y del personal. El entrevistado dice que poseen varios aplicaciones empresariales con diferentes usos. Por ejemplo, uno de ellos le da actualizaciones del avance del trabajo en las diferente áreas, otro le ayuda a mantener su inventario ordenado, qué se debe transportar en cada pedido y de informar de algún error o daños en los productos, y otro más para poder registrar la finalización del trabajo y poder registrarlo. Además, comenta que no hay muchos errores en las planificación de rutas, en caso los haya, se utilizarían los aplicaciones anteriormente mencionado y documentos de registros o control. Al final, el entrevistado nos comenta que todo lo que realizan, siempre usan varios aplicaciones durante todo el proceso. <br>
+    <b> Resumen:</b> Adriana Merma es una gerente de una empresa de transporte que se encarga de la gestión de las diferentes áreas y del personal. El entrevistado dice que poseen varios aplicaciones empresariales con diferentes usos. Por ejemplo, uno de ellos le da actualizaciones del avance del trabajo en las diferente áreas, otro mantenimiento de sus vehiculos, qué se debe transportar en cada pedido y de informar de algún error o daños en los productos, y otro más para poder registrar la finalización del trabajo y poder registrarlo. Además, comenta que no hay muchos errores en las planificación de rutas, en caso los haya, se utilizarían las aplicaciones como <b>BeeTrack</b> y documentos de registros o control mediante tablas de <b>excel</b>. Al final, el entrevistado nos comenta que todo lo que realizan, siempre usan varios aplicaciones durante todo el proceso. <br> <b>Perfil del entrevistado:</b> La entrevistada presenta una mentalidad gerencial orientada a la digitalización y la eficiencia. Su confianza en los sistemas tecnológicos refleja un alto nivel de adaptación a la transformación digital empresarial. Sin embargo, también deja entrever una dependencia de múltiples plataformas que podrían beneficiarse de una integración más fluida. Representa un perfil directivo que prioriza la automatización, la trazabilidad y el control centralizado, con interés en soluciones que unifiquen y optimicen las herramientas actuales.
+ <br>
      <p>
      </p>
    </td>
@@ -338,31 +314,22 @@ Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en 
 <td>66.7%</td>
 <td><b>Entrevistado 2:</b> Utiliza "Beetrack" para geolocalización, contacto de clientes y confirmar/rechazar pedidos. <br>
 <b>Entrevistado 3:</b> Usa "Beetrack" para localizar direcciones y validar entregas con la firma del cliente.</td>
-
 </tr>
-
 <tr>
-
 <td>Dependencia de documentos físicos (boletas) </td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1:</b> Utiliza la dirección en las boletas para calcular su ruta.<br>
 <b>Entrevistado 2:</b> Se guía con las boletas para obtener la información del pedido.</td>
-
 </tr>
-
 <tr>
-
 <td>Problemas de conectividad (Señal/Internet)</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 2:</b> La app no funciona en zonas con poca señal, retrasando confirmaciones. <br>
 <b>Entrevistado 3: </b>Las fallas de internet complican el proceso de validación.</td>
-
 </tr>
-
 <tr>
-
 <td>Problemas con clientes (Local cerrado/Sin dinero)</td>
 <td>3/3</td>
 <td>100%</td>
@@ -370,49 +337,35 @@ Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en 
 <b>Entrevistado 2: </b>"Tiendas cerradas, clientes sin dinero".<br>
 <b>Entrevistado 3:</b> "Locales cerrados o clientes sin dinero".
 </td>
-
 </tr>
-
 <tr>
-
 <td>Problemas de logística externa (Tráfico/Mala geolocalización)</td>
 <td>3/3</td>
 <td>100%</td>
 <td><b>Entrevistado 1:</b> Considera información sobre "accidentes, desfiles" para su ruta. <br>
 <b>Entrevistado 2:</b> "Mala geoposición" como causa de retraso. <br>
 <b>Entrevistado 3:</b> "Tráfico" como retraso principal. </td>
-
 </tr>
-
 <tr>
-
 <td>Uso de canales informales de comunicación (WhatsApp)</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 2:</b> Reporta inconvenientes por WhatsApp.<br>
 <b>Entrevistado 3:</b> Notifica incidentes y contacta al vendedor por WhatsApp</td>
-
 </tr>
-
 <tr>
-
 <td>Rol multifuncional (Conductor y encargado)</td>
 <td>3/3</td>
 <td>100%</td>
 <td><b>Todos los entrevistados </b>son descritos como "chofer y encargado", lo que implica responsabilidades beyond solo manejar, como la liquidación de pedidos (Entrevistado 1) y la gestión de incidencias.</td>
-
 </tr>
-
 <tr>
-
 <td>Frustración con factores externos incontrolables</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td>Entrevistado 3: Muestra "frustración por factores externos como el tráfico y la falta de preparación de clientes". <br>
 Entrevistado 2: Los retrasos e incidencias son causados por factores que escapan a su control.</td>
-
 </tr>
-
 </table>
 
 ##### Insights
@@ -430,77 +383,55 @@ Se realizo el analisis de 3 entrevistas a los administradores con experiencia en
 ##### Caracteristicas
 
 <table>
-
 <tr>
-
 <th>Características</th>
 <th>Mención</th>
 <th>Porcentaje</th>
 <th>Evidencia</th>
-
 </tr>
-
 <tr>
-
 <td>Uso de multiples aplicaciones empresariales</td>
 <td>3/3</td>
 <td>100%</td>
 <td><b>Entrevistado 1: </b>Utilizan "Beetrack" para monitoreo y GPS. <br>
 <b>Entrevistado 2: </b> Usan "Beetrack", GPS y sensores de refrigeración.  <br>
 <b>Entrevistado 3: </b>Poseen "varios aplicativos empresariales con diferentes usos" (avance, inventario, registro).</td>
-
 </tr>
-
 <tr>
-
 <td>Problemas de coordinación y comunicación</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1: </b> Planificadores en Lima desconocen las rutas de Cusco. Problemas se resuelven con llamadas al camión y luego a ventas.<br>
 <b>Entrevistado 2: </b> La planificación de rutas y solución de problemas del día se hace de manera manual con llamadas y mensajes.</td>
-
 </tr>
-
 <tr>
-
 <td>Dependencia de canales informales (WhatsApp/Llamadas)</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1: </b>Arreglan problemas llamando al encargado del camión. <br>
 <b>Entrevistado 2: </b> "Se utiliza bastante Whatsapp para la coordinación".</td>
-
 </tr>
-
 <tr>
-
 <td>Problemas con la integridad de la carga (daños, pérdidas, confusión)</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1: </b>Verificación manual de la carga. Los transportistas se hacen responsables de las pérdidas.<br>
 <b>Entrevistado 2: </b>Incidentes por "confusión en el cargamento" y "daño de los productos" que generan compensaciones económicas.</td>
-
 </tr>
-
 <tr>
-
 <td>Monitoreo en tiempo real del estado de la flota</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1:</b> Monitoreo constante con Beetrack.
 <b>Entrevistado 2: </b>Monitorean porcentaje de avance, usan GPS para control de rutas y sensores para estado de refrigeración.</td>
-
 </tr>
-
 <tr>
-
 <td>Procesos manuales de verificación y registro</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1:</b> Verificación física de la carga por dos personas. <br>
 <b>Entrevistado 3:</b> Uso de "documentos de registros o control" además de los aplicativos.</td>
-
 </tr>
-
 </table>
 
 ##### Insights
@@ -521,11 +452,11 @@ En esta sección se presentan dos User Personas que representan los segmentos de
 
 El User Persona Jorge Caceres representa a los administradores de distribución. Jorge Caceres trabaja coordinando diariamente las rutas de camiones y supervisando la correcta entrega de cientos de pedidos. A pesar de su experiencia en el sector, suele enfrentarse a problemas de visibilidad: no siempre sabe en qué punto exacto se encuentran los transportistas ni si los pedidos han sido entregados en orden y a tiempo. Ha intentado usar otras plataformas de gestión, pero se queja de que son demasiado complejas o poco adaptables a la realidad de su empresa. Su motivación principal es tener un control en tiempo real y sin errores, que le permita optimizar rutas, reducir costos y asegurar la satisfacción de los clientes. Jorge busca una herramienta práctica, intuitiva y confiable que le dé autonomía y reduzca su dependencia de reportes manuales.
 
-<img src="Resources/Jorge Caceres.png" alt="Jorge Caceres">
+<img src="Resources/Jorge Caceress.png" alt="Jorge Caceres">
 
 El User Persona Luis Gutiérrez representa a los transportistas que realizan las entregas en ruta. Luis tiene tiempo trabajando en transporte de mercancías y conoce de primera mano las dificultades de su labor diaria: rutas mal planificadas, entregas duplicadas o mal registradas y la falta de comunicación clara con los administradores. Actualmente utiliza aplicaciones que le resultan confusas y que generan frustración porque no consolidan pedidos de un mismo cliente, obligándolo a hacer viajes innecesarios y perder tiempo valioso. Su principal motivación es contar con una app sencilla y ágil en su teléfono que le muestre claramente su ruta, los pedidos cargados y entregados. Luis quiere reducir la carga administrativa de su trabajo y enfocarse en lo que mejor sabe hacer: transportar y entregar productos de manera segura y puntual.
 
-<img src="Resources/Luis Gutierrez.png" alt="Luis Gutierrez">
+<img src="Resources/Luis Gutierrezz.png" alt="Luis Gutierrez">
 
 ### 2.3.2. User Task Matrix.
 
@@ -583,17 +514,22 @@ Ambos perfiles coinciden en la importancia de **gestionar incidencias** y **mant
 ![empathy map luis gutiérrez](Resources/Luis%20Gutiérrez%20empathy%20mapping.png)
 
 ### 2.4. Big Picture EventStorming.
-1. Gestión de identidad y acceso
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Gestión de identidad y acceso.jpg" alt="Gestion de identidad y gstion">
 
-2. Entregas
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Entregas.jpg" alt="Entregas">
+1. Delivery Execution
+<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Delivery Execution.jpg" alt="SuscripcionesyPagos">
 
-3. Incidencias
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Incidencias.jpg" alt="Incidencias">
+2. Route Management
+<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Route Management.jpg" alt="IdentidadyAcceso">
 
-4. Gestión de rutas
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Gestión de rutas.jpg" alt="Gestion de Rutas">
+3. Operations Monitoring
+<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Operations Monitoring.jpg" alt="Recursos">
+
+4. Document Management
+<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Document Management.jpg" alt="Ejecucion">
+
+5. Incident Management
+<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Incident Management.jpg" alt="Incidencias">
+
 
 ### 2.5. Ubiquitous Language.
 
