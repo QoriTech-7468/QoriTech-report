@@ -358,6 +358,7 @@
     <td>Castillo Vidal, Jesus Ivan</td>
     <td> 
         <ul>
+          <li>Domain-Driven Software Architecture</li>
           <li>Sprint 2</li>
           <li>Sprint Planning 2.</li>
           <li>Aspect Leaders and Collaborators.</li>
@@ -366,6 +367,9 @@
           <li>Execution Evidence for Sprint Review.</li>
           <li>Software Deployment Evidence for Sprint Review.</li>
           <li>Team Collaboration Insights during Sprint.</li>
+          <li>Conclusiones</li>
+          <li>Bibliografia</li>
+          <li>Anexos</li>
         </ul></td>
 </tr>
 <td align="center">2.3</td>
@@ -1101,7 +1105,6 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
 <img src="Resources/Entrevista_Transportista_3.png" alt="Tercera entrevista del primer segmento" width="200" height="200">
 </a>
 </td>
-
    <tr>
    <td>
     <b>Entrevistador:</b> Christofer William Costa Morales <br>
@@ -1130,8 +1133,7 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
     <b>Distrito:</b> San Jeronimo - Cusco <br>
     <b>Inicio de la entrevista:</b> 0:25<br>
      <b>Resumen:</b> Danny Riverra, encargado y chofer en una empresa de transporte, utiliza el teléfono móvil y la aplicación <b>BeeTrack</b> para gestionar entregas, junto con documentos de oficina. Usa <b>BeeTrack</b> para localizar direcciones y referencias de clientes, necesitando solo la dirección exacta y calles cercanas. Registra las entregas con la firma del cliente y valida en <b>BeeTrack</b>, aunque las fallas de internet complican el proceso. Los retrasos principales son por tráfico, demoras en alistar mercadería y clientes sin pedidos, lo que requiere contactar al vendedor y reportar en <b>WhatsApp</b>. Los incidentes más comunes son locales cerrados o clientes sin dinero.<br>
-    <b>Perfil del entrevistado:</b> El entrevistado muestra una actitud práctica y confianza en herramientas digitales, pero se frustra por factores externos como el tráfico, la falta de preparación de clientes y la dependencia de internet.
- <br>
+    <b>Perfil del entrevistado:</b> El entrevistado muestra una actitud práctica y confianza en herramientas digitales, pero se frustra por factores externos como el tráfico, la falta de preparación de clientes y la dependencia de internet.<br>
       <p> 
      </p>
    </td>
@@ -1228,31 +1230,22 @@ Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en 
 <td>66.7%</td>
 <td><b>Entrevistado 2:</b> Utiliza "Beetrack" para geolocalización, contacto de clientes y confirmar/rechazar pedidos. <br>
 <b>Entrevistado 3:</b> Usa "Beetrack" para localizar direcciones y validar entregas con la firma del cliente.</td>
-
 </tr>
-
 <tr>
-
 <td>Dependencia de documentos físicos (boletas) </td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1:</b> Utiliza la dirección en las boletas para calcular su ruta.<br>
 <b>Entrevistado 2:</b> Se guía con las boletas para obtener la información del pedido.</td>
-
 </tr>
-
 <tr>
-
 <td>Problemas de conectividad (Señal/Internet)</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 2:</b> La app no funciona en zonas con poca señal, retrasando confirmaciones. <br>
 <b>Entrevistado 3: </b>Las fallas de internet complican el proceso de validación.</td>
-
 </tr>
-
 <tr>
-
 <td>Problemas con clientes (Local cerrado/Sin dinero)</td>
 <td>3/3</td>
 <td>100%</td>
@@ -1260,49 +1253,35 @@ Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en 
 <b>Entrevistado 2: </b>"Tiendas cerradas, clientes sin dinero".<br>
 <b>Entrevistado 3:</b> "Locales cerrados o clientes sin dinero".
 </td>
-
 </tr>
-
 <tr>
-
 <td>Problemas de logística externa (Tráfico/Mala geolocalización)</td>
 <td>3/3</td>
 <td>100%</td>
 <td><b>Entrevistado 1:</b> Considera información sobre "accidentes, desfiles" para su ruta. <br>
 <b>Entrevistado 2:</b> "Mala geoposición" como causa de retraso. <br>
 <b>Entrevistado 3:</b> "Tráfico" como retraso principal. </td>
-
 </tr>
-
 <tr>
-
 <td>Uso de canales informales de comunicación (WhatsApp)</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 2:</b> Reporta inconvenientes por WhatsApp.<br>
 <b>Entrevistado 3:</b> Notifica incidentes y contacta al vendedor por WhatsApp</td>
-
 </tr>
-
 <tr>
-
 <td>Rol multifuncional (Conductor y encargado)</td>
 <td>3/3</td>
 <td>100%</td>
 <td><b>Todos los entrevistados </b>son descritos como "chofer y encargado", lo que implica responsabilidades beyond solo manejar, como la liquidación de pedidos (Entrevistado 1) y la gestión de incidencias.</td>
-
 </tr>
-
 <tr>
-
 <td>Frustración con factores externos incontrolables</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td>Entrevistado 3: Muestra "frustración por factores externos como el tráfico y la falta de preparación de clientes". <br>
 Entrevistado 2: Los retrasos e incidencias son causados por factores que escapan a su control.</td>
-
 </tr>
-
 </table>
 
 ##### Insights
@@ -1320,77 +1299,55 @@ Se realizo el analisis de 3 entrevistas a los administradores con experiencia en
 ##### Caracteristicas
 
 <table>
-
 <tr>
-
 <th>Características</th>
 <th>Mención</th>
 <th>Porcentaje</th>
 <th>Evidencia</th>
-
 </tr>
-
 <tr>
-
 <td>Uso de multiples aplicaciones empresariales</td>
 <td>3/3</td>
 <td>100%</td>
 <td><b>Entrevistado 1: </b>Utilizan "Beetrack" para monitoreo y GPS. <br>
 <b>Entrevistado 2: </b> Usan "Beetrack", GPS y sensores de refrigeración.  <br>
 <b>Entrevistado 3: </b>Poseen "varios aplicativos empresariales con diferentes usos" (avance, inventario, registro).</td>
-
 </tr>
-
 <tr>
-
 <td>Problemas de coordinación y comunicación</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1: </b> Planificadores en Lima desconocen las rutas de Cusco. Problemas se resuelven con llamadas al camión y luego a ventas.<br>
 <b>Entrevistado 2: </b> La planificación de rutas y solución de problemas del día se hace de manera manual con llamadas y mensajes.</td>
-
 </tr>
-
 <tr>
-
 <td>Dependencia de canales informales (WhatsApp/Llamadas)</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1: </b>Arreglan problemas llamando al encargado del camión. <br>
 <b>Entrevistado 2: </b> "Se utiliza bastante Whatsapp para la coordinación".</td>
-
 </tr>
-
 <tr>
-
 <td>Problemas con la integridad de la carga (daños, pérdidas, confusión)</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1: </b>Verificación manual de la carga. Los transportistas se hacen responsables de las pérdidas.<br>
 <b>Entrevistado 2: </b>Incidentes por "confusión en el cargamento" y "daño de los productos" que generan compensaciones económicas.</td>
-
 </tr>
-
 <tr>
-
 <td>Monitoreo en tiempo real del estado de la flota</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1:</b> Monitoreo constante con Beetrack.
 <b>Entrevistado 2: </b>Monitorean porcentaje de avance, usan GPS para control de rutas y sensores para estado de refrigeración.</td>
-
 </tr>
-
 <tr>
-
 <td>Procesos manuales de verificación y registro</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1:</b> Verificación física de la carga por dos personas. <br>
 <b>Entrevistado 3:</b> Uso de "documentos de registros o control" además de los aplicativos.</td>
-
 </tr>
-
 </table>
 
 ##### Insights
@@ -1698,7 +1655,6 @@ Entonces el sistema muestra un mensaje informando que no es posible otorgar ese 
 </td>
 <td>EP02</td>
 </tr>
-
 <tr>
 <td>US05</td>
 <td>Gestión de roles del equipo de transporte</td>
@@ -1722,7 +1678,6 @@ Entonces el sistema cambia su estado a inactivo y lo bloquea para nuevas asignac
 </td>
 <td>EP02</td>
 </tr>
-
 <tr>
 <td>US06</td>
 <td>Suscripción a planes</td>
@@ -1742,7 +1697,6 @@ Entonces el sistema muestra un mensaje de error indicando la falta de datos.
 </td>
 <td>EP03</td>
 </tr>
-
 <tr>
 <td>US07</td>
 <td>Gestión de perfil de la empresa</td>
@@ -1766,7 +1720,6 @@ Entonces el sistema muestra un mensaje indicando qué información falta.
 </td>
 <td>EP03</td>
 </tr>
-
 <tr>
 <td>US08</td>
 <td>Asignación del personal</td>
@@ -1786,7 +1739,6 @@ Entonces el sistema muestra un mensaje de error indicando que el personal no exi
 </td>
 <td>EP03</td>
 </tr>
-
 <tr>
 <td>US09</td>
 <td>Registro de clientes</td>
@@ -2497,7 +2449,6 @@ a los actores involucrados y los impactos esperados en su comportamiento.
         <b>Escenario 2:</b> Limpiar filtro.</td>
     <td>3</td>
   </tr>
-
   <tr>
     <td>19</td>
     <td>US16</td>
@@ -2508,7 +2459,6 @@ a los actores involucrados y los impactos esperados en su comportamiento.
         <b>Escenario 3:</b> Quitar punto.</td>
     <td>5</td>
   </tr>
-
   <tr>
     <td>20</td>
     <td>US17</td>
@@ -2518,7 +2468,6 @@ a los actores involucrados y los impactos esperados en su comportamiento.
         <b>Escenario 2:</b> Placa duplicada.</td>
     <td>2</td>
   </tr>
-
   <tr>
     <td>21</td>
     <td>US18</td>
@@ -2527,7 +2476,6 @@ a los actores involucrados y los impactos esperados en su comportamiento.
         <b>Escenario 1:</b> Bloquea nuevas asignaciones/publicación.</td>
     <td>3</td>
   </tr>
-
   <tr>
     <td>22</td>
     <td>US19</td>

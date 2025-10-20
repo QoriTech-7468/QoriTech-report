@@ -358,6 +358,7 @@
     <td>Castillo Vidal, Jesus Ivan</td>
     <td> 
         <ul>
+          <li>Domain-Driven Software Architecture</li>
           <li>Sprint 2</li>
           <li>Sprint Planning 2.</li>
           <li>Aspect Leaders and Collaborators.</li>
@@ -366,6 +367,9 @@
           <li>Execution Evidence for Sprint Review.</li>
           <li>Software Deployment Evidence for Sprint Review.</li>
           <li>Team Collaboration Insights during Sprint.</li>
+          <li>Conclusiones</li>
+          <li>Bibliografia</li>
+          <li>Anexos</li>
         </ul></td>
 </tr>
 <td align="center">2.3</td>

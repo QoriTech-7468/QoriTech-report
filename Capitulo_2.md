@@ -4,27 +4,118 @@
 
 ### 2.1.1. Análisis competitivo.
 
-## Competitive Analysis Landscape
+<table style="width:100%; border-collapse:collapse; table-layout:fixed;" border="1" align="center">
+<tr>
+<th colspan="6" align="center">Competitive Analysis Landscape</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1" align="center"><b>¿Por qué llevar a cabo este análisis?</b></td>
+<td colspan="6" align="center">Identificar fortalezas, debilidades y estrategias de los principales competidores en logística de última milla (SimpliRoute, Beetrack, FarEye) para posicionar nuestra aplicación web.</td>
+</tr>
+ <tr>
+    <td colspan="6">
+       <b>Objetivo:</b> Determinar cómo diferenciar nuestro producto frente a competidores consolidados en LATAM y globales. <br> 
+    </td>
+  </tr>
+<tr>
+<th colspan="2" style="width:12%">(En la cabecera colocar por cada competidor nombre y logo)</th>
+<th style="width:22%">
+<img src="./Resources/Capitulo_2/Logo_rutana.png" alt="Rutana"width="100" height="100">
+</th>
+<th style="width:22%">
+<img src="./Resources/Capitulo_2/Logo_simpliroute.png" alt="SimpliRoute" width="100" height="100">
+</th>
+<th style="width:22%">
+<img src="./Resources/Capitulo_2/Logo_beetrack.png" alt="Beetrack" width="100" height="100">
+</th>
+   
+<th style="width:22%">
+<img src="./Resources/Capitulo_2/Logo_fareye.png" alt="FarEye" width="100" height="100">
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1" align="center" ><b>Perfil</b></td>
+<td style="word-wrap:break-word; white-space:normal;"><b>Overview</b></td>
+   <td> Plataforma logística para el mercado peruano que integra IoT y GPS para monitoreo en tiempo real, optimización de rutas y control de productos en tránsito, adaptada a problemas locales como tráfico, bloqueos y cambios climáticos. </td>
+   <td> Plataforma chilena con fuerte presencia en LATAM; optimización de rutas y seguimiento en tiempo real. </td>
+   <td> Fundada en Chile, adquirida por DispatchTrack; fuerte en trazabilidad de última milla. </td>
+   <td> Empresa global india; ofrece orquestación de entregas, visibilidad y devoluciones. </td>
+</tr>
+<tr>
+<td><b>Ventaja competitiva:<br>¿Qué valor ofrece a los clientes?</b></td>
+   <td> Ofrece en una sola solución: seguimiento en vivo, validación automatizada de pedidos y alertas inteligentes. Está pensada para pymes peruanas, ayudándolas a reducir errores de entrega, evitar pérdidas y mejorar la puntualidad. </td>
+   <td> Reducción de costos logísticos hasta 30% con algoritmos de optimización. </td>
+   <td> Experiencia de usuario robusta y alta penetración en empresas medianas/grandes de LATAM. </td>
+   <td> Escalabilidad global y capacidad de integración con grandes retailers y 3PL. </td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1" align="center"><b>Perfil de Marketing</b></td>
+<td><b>Mercado objetivo</b></td>
+   <td> Pequeñas y medianas empresas de transporte y distribución en Perú, con foco inicial en Lima y ciudades con alta informalidad logística como las empresas de provincia también.</td>
+   <td> Pymes y grandes empresas de distribución en LATAM. </td>
+   <td> Retail, consumo masivo y distribución en varios países de LATAM. </td>
+   <td> Retailers, e-commerce y logística global (Asia, Europa, LATAM). </td>
+</tr>
+<tr>
+<td><b>Estrategias de marketing</b></td>
+   <td> Evidenciar beneficios cuantitativos (menos errores, más puntualidad) mediante pilotos locales, campañas digitales y casos de éxito adaptados a la realidad peruana.</td>
+   <td> Casos de éxito locales, métricas de reducción de costos y demos personalizadas. </td>
+   <td> Branding fuerte en trazabilidad y seguridad de entregas; foco en confiabilidad. </td>
+   <td> Posicionamiento como solución integral global; alianzas con grandes corporativos. </td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1" align="center"><b>Perfil de Producto</b></td>
+<td><b>Productos & Servicios</b></td>
+   <td> Incluye monitoreo IoT en tiempo real, registro automático de pedidos, panel de control para administradores y alertas de desvíos o incidencias.</td>
+   <td> Optimización de rutas, seguimiento en vivo, gestión de flota y analítica. </td>
+   <td> PlannerPro (rutas), LastMile (seguimiento), notificaciones y prueba de entrega. </td>
+   <td> Gestión integral de entregas, devoluciones, visibilidad en tiempo real. </td>
+</tr>
+<tr>
+<td><b>Precios & Costos</b></td>
+   <td> Suscripción mensual escalonada: plan básico para pymes, plan estándar para medianas flotas y plan corporativo para grandes empresas. Adaptado al mercado peruano, permite empezar con bajo costo y escalar según crecimiento.</td>
+   <td> Modelo SaaS flexible según volumen de entregas. </td>
+   <td> Suscripción mensual adaptada al tamaño de la operación. </td>
+   <td> Tarifas empresariales escalables para operaciones globales. </td>
+</tr>
+<tr>
+<td><b>Canales de distribución<br>(Web y/o Móvil)</b></td>
+   <td> El sistema será accesible a través de plataforma web para administradores y conductores, garantizando sincronización en tiempo real entre ambos segmentos. </td>
+   <td> Web y app móvil para conductores y administradores. </td>
+   <td> Web, app móvil y APIs de integración. </td>
+   <td> Plataforma web, apps móviles, integraciones con ERP/CRM. </td>
+</tr>
+<tr>
+   <td rowspan="4" colspan="1" align="center"><b>Análisis SWOT</b></td>
+   <td><b>Fortalezas</b></td>
+   <td> Integración de IoT y validaciones automatizadas que ofrecen una trazabilidad superior a competidores regionales. </td>
+   <td> Alta adopción en LATAM; soporte local. </td>
+   <td> Reconocimiento de marca y respaldo de DispatchTrack. </td>
+   <td> Cobertura global, escalabilidad y capacidad de integración. </td>
+</tr>
+<tr>
+<td><b>Debilidades</b></td>
+   <td> Al ser una solución nueva, carece todavía de base de clientes consolidados y casos de éxito reales. </td>
+   <td> Menos reconocimiento fuera de LATAM. </td>
+   <td> Dependencia de adaptación tras adquisición. </td>
+   <td> Puede resultar costosa y compleja para pymes locales. </td>
+</tr>
+<tr>
+<td><b>Oportunidades</b></td>
+   <td> Aprovechar el crecimiento acelerado del e-commerce y la digitalización logística en LATAM para posicionarse como alternativa innovadora. </td>
+   <td> Crecimiento del e-commerce en LATAM. </td>
+   <td> Sinergias con la expansión global de DispatchTrack. </td>
+   <td> Expansión en mercados emergentes con alto crecimiento digital. </td>
+</tr>
+<tr>
+<td><b>Amenazas</b></td>
+   <td> Competidores consolidados como Beetrack y SimpliRoute ya cuentan con reconocimiento de marca y clientes en el mercado. </td>
+   <td> Aparición de nuevos SaaS locales más económicos. </td>
+   <td> Competencia fuerte de soluciones globales más completas. </td>
+   <td> Regulaciones locales y adaptación cultural en LATAM. </td>
+</tr>
 
-**¿Por qué llevar a cabo este análisis?**
-Identificar fortalezas, debilidades y estrategias de los principales competidores en logística de última milla (SimpliRoute, Beetrack, FarEye) para posicionar nuestra aplicación web.
-
-**Objetivo:** Determinar cómo diferenciar nuestro producto frente a competidores consolidados en LATAM y globales.
-
-| Categoría | Rutana | SimpliRoute | Beetrack | FarEye |
-| --- | --- | --- | --- | --- |
-| **Logo** | <img src="./Resources/Capitulo_2/Logo_rutana.png" alt="Rutana" width="80" height="80"> | <img src="./Resources/Capitulo_2/Logo_simpliroute.png" alt="SimpliRoute" width="80" height="80"> | <img src="./Resources/Capitulo_2/Logo_beetrack.png" alt="Beetrack" width="80" height="80"> | <img src="./Resources/Capitulo_2/Logo_fareye.png" alt="FarEye" width="80" height="80"> |
-| **Overview** | Plataforma logística para el mercado peruano que integra IoT y GPS para monitoreo en tiempo real, optimización de rutas y control de productos en tránsito, adaptada a problemas locales como tráfico, bloqueos y cambios climáticos. | Plataforma chilena con fuerte presencia en LATAM; optimización de rutas y seguimiento en tiempo real. | Fundada en Chile, adquirida por DispatchTrack; fuerte en trazabilidad de última milla. | Empresa global india; ofrece orquestación de entregas, visibilidad y devoluciones. |
-| **Ventaja competitiva** | Ofrece en una sola solución: seguimiento en vivo, validación automatizada de pedidos y alertas inteligentes. Está pensada para pymes peruanas, ayudándolas a reducir errores de entrega, evitar pérdidas y mejorar la puntualidad. | Reducción de costos logísticos hasta 30% con algoritmos de optimización. | Experiencia de usuario robusta y alta penetración en empresas medianas/grandes de LATAM. | Escalabilidad global y capacidad de integración con grandes retailers y 3PL. |
-| **Mercado objetivo** | Pequeñas y medianas empresas de transporte y distribución en Perú, con foco inicial en Lima y ciudades con alta informalidad logística como las empresas de provincia también. | Pymes y grandes empresas de distribución en LATAM. | Retail, consumo masivo y distribución en varios países de LATAM. | Retailers, e-commerce y logística global (Asia, Europa, LATAM). |
-| **Estrategias de marketing** | Evidenciar beneficios cuantitativos (menos errores, más puntualidad) mediante pilotos locales, campañas digitales y casos de éxito adaptados a la realidad peruana. | Casos de éxito locales, métricas de reducción de costos y demos personalizadas. | Branding fuerte en trazabilidad y seguridad de entregas; foco en confiabilidad. | Posicionamiento como solución integral global; alianzas con grandes corporativos. |
-| **Productos & Servicios** | Incluye monitoreo IoT en tiempo real, registro automático de pedidos, panel de control para administradores y alertas de desvíos o incidencias. | Optimización de rutas, seguimiento en vivo, gestión de flota y analítica. | PlannerPro (rutas), LastMile (seguimiento), notificaciones y prueba de entrega. | Gestión integral de entregas, devoluciones, visibilidad en tiempo real. |
-| **Precios & Costos** | Suscripción mensual escalonada: plan básico para pymes, plan estándar para medianas flotas y plan corporativo para grandes empresas. Adaptado al mercado peruano, permite empezar con bajo costo y escalar según crecimiento. | Modelo SaaS flexible según volumen de entregas. | Suscripción mensual adaptada al tamaño de la operación. | Tarifas empresariales escalables para operaciones globales. |
-| **Canales de distribución** | El sistema será accesible a través de plataforma web para administradores y conductores, garantizando sincronización en tiempo real entre ambos segmentos. | Web y app móvil para conductores y administradores. | Web, app móvil y APIs de integración. | Plataforma web, apps móviles, integraciones con ERP/CRM. |
-| **Fortalezas** | Integración de IoT y validaciones automatizadas que ofrecen una trazabilidad superior a competidores regionales. | Alta adopción en LATAM; soporte local. | Reconocimiento de marca y respaldo de DispatchTrack. | Cobertura global, escalabilidad y capacidad de integración. |
-| **Debilidades** | Al ser una solución nueva, carece todavía de base de clientes consolidados y casos de éxito reales. | Menos reconocimiento fuera de LATAM. | Dependencia de adaptación tras adquisición. | Puede resultar costosa y compleja para pymes locales. |
-| **Oportunidades** | Aprovechar el crecimiento acelerado del e-commerce y la digitalización logística en LATAM para posicionarse como alternativa innovadora. | Crecimiento del e-commerce en LATAM. | Sinergias con la expansión global de DispatchTrack. | Expansión en mercados emergentes con alto crecimiento digital. |
-| **Amenazas** | Competidores consolidados como Beetrack y SimpliRoute ya cuentan con reconocimiento de marca y clientes en el mercado. | Aparición de nuevos SaaS locales más económicos. | Competencia fuerte de soluciones globales más completas. | Regulaciones locales y adaptación cultural en LATAM. |
+</table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -75,19 +166,127 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
 
 **1️⃣ Primer Segmento Objetivo: Transportistas**
 
-| Entrevistado | Información | Resumen |
-| --- | --- | --- |
-| **Entrevistado 1** | <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/ET1TzP6JedZArvWvap237PcBMwKH12NdqIgFlqqtIGRJIA?e=r2iFfE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank"><img src="Resources/Entrevista_Transportista_1.png" alt="Primera entrevista del primer segmento" width="150"></a> | **Entrevistador:** Christofer William Costa Morales<br>**Entrevistado:** Jhon Willy Huaman Huaman<br>**Edad:** 34 años<br>**Distrito:** San Sebastian - Cusco<br>**Inicio:** 0:20<br><br>**Resumen:** Chofer y encargado de una empresa de transporte. Utiliza la dirección en las boletas para calcular su ruta y la información del cliente sobre accidentes, desfiles, etc. Menciona inconvenientes como confirmación de rutas, recepción del cliente, zona de despacho, actitud de clientes y tiempo de espera. No usa aplicaciones laborales por considerarlas innecesarias y tediosas.<br><br>**Perfil:** Actitud práctica y autosuficiente, confía en su experiencia más que en herramientas tecnológicas. Escéptico ante sistemas digitales poco adaptados a la realidad del campo. |
-| **Entrevistado 2** | <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EXnpE4mhsDFMmHRdgpIgWdkBw5qgJK4qoQR-ptPTdy-Lbg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=23t4N5" target="_blank"><img src="Resources/Entrevista_Transportista_2.png" alt="Segunda entrevista del primer segmento" width="150"></a> | **Entrevistador:** Jesus Ivan Castillo Vidal<br>**Entrevistado:** Carlos Maque Huachaca<br>**Edad:** 30 años<br>**Distrito:** Santiago - Cusco<br>**Inicio:** 0:33<br><br>**Resumen:** Conductor y encargado, transportista de productos Gloria. Utiliza BeeTrack para geolocalización, contacto de clientes y confirmar/rechazar pedidos. Se guía con boletas para obtener información del pedido. Retrasos principales: tiendas cerradas, clientes sin dinero y mala geoposición. Reporta inconvenientes por WhatsApp y BeeTrack. La app no funciona en zonas con poca señal.<br><br>**Perfil:** Actitud responsable y abierta al uso de herramientas tecnológicas, pero reconoce limitaciones prácticas. Consciente de la importancia de la trazabilidad digital, pero se frustra por falta de conectividad. |
-| **Entrevistado 3** | <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EeUGT35ds8JEgUb9SddYv_MB7fjld1Jtl7ajbjpe9i-S3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ny0ro0" target="_blank"><img src="Resources/Entrevista_Transportista_3.png" alt="Tercera entrevista del primer segmento" width="150"></a> | **Entrevistador:** Ingrid Melani Medina Merma<br>**Entrevistado:** Danny Riverra Ticona<br>**Edad:** 24 años<br>**Distrito:** San Jeronimo - Cusco<br>**Inicio:** 0:25<br><br>**Resumen:** Encargado y chofer en empresa de transporte. Utiliza BeeTrack para localizar direcciones y referencias de clientes. Registra entregas con firma del cliente y valida en BeeTrack. Retrasos principales: tráfico, demoras en alistar mercadería y clientes sin pedidos. Contacta al vendedor y reporta en WhatsApp. Incidentes comunes: locales cerrados o clientes sin dinero.<br><br>**Perfil:** Actitud práctica y confianza en herramientas digitales, pero se frustra por factores externos como tráfico, falta de preparación de clientes y dependencia de internet. |
+<table style="width: 100%" align='center'>
+<tr>
+<th>Entrevistado 1</th>
+<th>Entrevistado 2</th>
+<th>Entrevistado 3</th>
+</tr>
+
+<tr>
+<td align='center'>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/ET1TzP6JedZArvWvap237PcBMwKH12NdqIgFlqqtIGRJIA?e=r2iFfE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target= 'blank'>
+<img src="Resources/Entrevista_Transportista_1.png" alt="Primera entrevista del primer segmento">
+</a>
+</td>
+<td align='center'>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EXnpE4mhsDFMmHRdgpIgWdkBw5qgJK4qoQR-ptPTdy-Lbg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=23t4N5" target= 'blank'>
+<img src="Resources/Entrevista_Transportista_2.png" alt="Segunda entrevista del primer segmento">
+</a>
+</td>
+<td align='center'>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EeUGT35ds8JEgUb9SddYv_MB7fjld1Jtl7ajbjpe9i-S3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ny0ro0" target= 'blank'>
+<img src="Resources/Entrevista_Transportista_3.png" alt="Tercera entrevista del primer segmento" width="200" height="200">
+</a>
+</td>
+   <tr>
+   <td>
+    <b>Entrevistador:</b> Christofer William Costa Morales <br>
+    <b>Entrevistado:</b> Jhon Willy Huaman Huaman <br>
+    <b>Edad:</b> 34 años <br>
+    <b>Distrito:</b> San Sebastian - Cusco <br>
+    <b>Inicio de la entrevista:</b>  0:20 <br>
+    <b> Resumen: </b>John Willy es un chofer y encargado de una empresa de transporte, que esta encargado de hacer las rutas y la liquidación de los pedidos de transporte. Este utiliza la <b>dirección en las boletas</b> que emite para calcular su ruta, además, con la información que el cliente le proporcione sobre la ruta (accidentes, desfiles, etc). Sin embargo, todos estos procesos pueden conllevan a muchos inconvenientes, cómo la confirmación de la ruta y de la dirección final, la recepción por parte del cliente, la zona en donde se despacha el pedido, la actitud de los clientes y el tiempo de espera. Adicionalmente, nos comento no usar su aplicación laboral, ya que, gracias a su experiencia puede manejar mejor algún problema y lo considera algo innecesario y tedioso de utilizar al poseer características muy intrusivas para su flujo laboral.<br><b>Perfil del entrevistado:</b> El entrevistado demuestra una actitud práctica y autosuficiente, confiando en su experiencia más que en las herramientas tecnológicas. Prefiere mantener el control directo de su trabajo y se muestra escéptico ante sistemas digitales que percibe como poco adaptados a la realidad del campo. Su enfoque pragmático y su resistencia al cambio tecnológico reflejan la brecha existente entre las soluciones digitales actuales y las necesidades reales del personal operativo.<br>
+    <p>
+    </p>
+   </td>
+   <td>
+    <b>Entrevistador:</b> Jesus Ivan Castillo Vidal <br>
+    <b>Entrevistado:</b> Carlos Maque Huachaca <br>
+    <b>Edad:</b> 30 años <br>
+    <b>Distrito:</b> Santiago - Cusco <br>
+    <b>Inicio de la entrevista:</b> 0:33 <br>
+    <b> Resumen:</b> Carlos Maque es un conductor y encargado, su rol es de transportista de producto de la marca Gloria. Este utiliza una aplicación llamada <b>BeeTrack</b>, la cual le otorga la geolocalización del cliente en un mapa, previamente proporcionado por la empresa. Además, la aplicación le proporciona un número de contacto de los clientes, en caso se pierda o la dirección sea incorrecta, y le otorga opciones para confirmar, rechazar o justificar la entrega o devolución de los pedidos. Por otro lado, <b>se guia con las boletas para obtener la información necesaria del pedido</b>. Adicionalmente, los retrasos en los pedidos más importantes, según el entrevistado, son: las tiendas cerradas, clientes sin dinero y mala geoposición. Por lo anterior, el reporta los inconvenientes por <b>WhatsApp</b> y <b>BeeTrack</b>. Sin embargo, este ultimo no funciona correctamente en las zonas con poca señal, por ello, se puede retrasar las confirmaciones de la entrega del pedidos y necesitan dirigirse a una zona con mejor señal para que cargue las confirmaciones.<br>
+    <b>Perfil del entrevistado:</b> El entrevistado muestra una actitud responsable y abierta al uso de herramientas tecnológicas, aunque reconoce las limitaciones prácticas que enfrenta en campo. Es consciente de la importancia de la trazabilidad digital, pero se frustra ante la falta de conectividad y la dependencia del sistema para completar sus tareas. Refleja el perfil de un trabajador que valora la eficiencia tecnológica, siempre que esta se adapte a las condiciones reales del entorno operativo.<br>
+  <p> </p>
+   </td>
+      <td>
+    <b>Entrevistador:</b> Ingrid Melani Medina Merma <br>
+    <b>Entrevistado:</b> Danny Riverra Ticona<br>
+    <b>Edad:</b> 24 años <br>
+    <b>Distrito:</b> San Jeronimo - Cusco <br>
+    <b>Inicio de la entrevista:</b> 0:25<br>
+     <b>Resumen:</b> Danny Riverra, encargado y chofer en una empresa de transporte, utiliza el teléfono móvil y la aplicación <b>BeeTrack</b> para gestionar entregas, junto con documentos de oficina. Usa <b>BeeTrack</b> para localizar direcciones y referencias de clientes, necesitando solo la dirección exacta y calles cercanas. Registra las entregas con la firma del cliente y valida en <b>BeeTrack</b>, aunque las fallas de internet complican el proceso. Los retrasos principales son por tráfico, demoras en alistar mercadería y clientes sin pedidos, lo que requiere contactar al vendedor y reportar en <b>WhatsApp</b>. Los incidentes más comunes son locales cerrados o clientes sin dinero.<br>
+    <b>Perfil del entrevistado:</b> El entrevistado muestra una actitud práctica y confianza en herramientas digitales, pero se frustra por factores externos como el tráfico, la falta de preparación de clientes y la dependencia de internet.<br>
+      <p> 
+     </p>
+   </td>
+   </tr>
+
+</table>
 
 **2️⃣ Segundo Segmento Objetivo: Administradores**
 
-| Entrevistado | Información | Resumen |
-| --- | --- | --- |
-| **Entrevistado 1** | <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EVTQKC-v_1lEhE1mJT9JnmsB9xNmx4hF5Exa5TUm8AYjtg?e=tQDRf8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank"><img src="Resources/Entrevista_Administrador_1.png" alt="Primera entrevista del segundo segmento" width="150"></a> | **Entrevistador:** Santiago Alonso Gordillo Ramos<br>**Entrevistado:** Miguel Alcelmo Fernandez<br>**Edad:** 27 años<br>**Distrito:** Cusco<br>**Inicio:** 0:55<br><br>**Resumen:** Radiotransportista en MR emprendimientos, encargado del monitoreo y coordinación de pedidos. Utiliza BeeTrack para monitoreo constante del estado de pedidos, pero tiene inconvenientes con geolocalización que confunde a transportistas. Registro de productos con verificación física de dos personas. Pérdidas se subsanan responsabilizando transportistas. Planificadores en Lima desconocen rutas complejas de Cusco, extendiendo horas laborales.<br><br>**Perfil:** Actitud analítica y orientada al trabajo en equipo. Confía en herramientas digitales pero reconoce limitaciones del software actual y falta de adaptación a contextos locales. Valora precisión, comunicación y eficiencia, exigiendo soluciones tecnológicas más contextualizadas. |
-| **Entrevistado 2** | <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EZLL3X652L5KoLk1RWZn0zoBWGmWOQ80ZYl12yLueoednQ?e=vXoTwInav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank"><img src="Resources/Entrevista_Administrador_2.png" alt="Segunda entrevista del segundo segmento" width="150"></a> | **Entrevistador:** Jesus Ivan Castillo Vidal<br>**Entrevistado:** Eliana Paullo Palma<br>**Edad:** 49 años<br>**Distrito:** Cusco<br>**Inicio:** 0:17<br><br>**Resumen:** Administradora de MR emprendimientos, encargada de planificación de camiones, monitoreo de personal y transportes. Todo el personal usa Beetrack para monitorear porcentaje de avance y productos asignados. Utilizan GPS y sensores de refrigeración. Incidentes: confusión en cargamento y daños de productos. Planificación manual con llamadas y mensajes a clientes. Usan WhatsApp para coordinación.<br><br>**Perfil:** Perfil estratégico, organizado con comprensión integral del funcionamiento empresarial. Valora tecnología como herramienta de control y prevención. Busca equilibrar supervisión operativa con eficiencia administrativa, mostrando apertura hacia soluciones que mejoren trazabilidad y gestión de incidencias. |
-| **Entrevistado 3** | <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EcOPh-bhFsNCjQaceAJEYO8BwE3BUIW-e4wFdvoBHN-O2w?e=NPvjhC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank"><img src="Resources/Entrevista_Administrador_3.png" alt="Tercera entrevista del segundo segmento" width="150"></a> | **Entrevistador:** Yaku Mateo Guzmán Cabrejos<br>**Entrevistado:** Adriana Merma Noblega<br>**Edad:** 50 años<br>**Distrito:** Lima<br>**Inicio:** 0:08<br><br>**Resumen:** Gerente de empresa de transporte, gestión de diferentes áreas y personal. Poseen múltiples aplicaciones empresariales: avance del trabajo, mantenimiento de vehículos, gestión de pedidos, registro de errores y finalización de trabajo. Pocos errores en planificación de rutas. Usan BeeTrack y tablas de Excel para control. Siempre usan múltiples aplicaciones durante todo el proceso.<br><br>**Perfil:** Mentalidad gerencial orientada a digitalización y eficiencia. Confianza en sistemas tecnológicos con alto nivel de adaptación a transformación digital empresarial. Dependencia de múltiples plataformas que podrían beneficiarse de integración más fluida. Prioriza automatización, trazabilidad y control centralizado. |
+<table style="width: 100%" align='center'>
+<tr>
+<th>Entrevistado 1</th>
+<th>Entrevistado 2</th>
+<th>Entrevistado 3</th>
+</tr>
+<tr>
+<td align='center'>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EVTQKC-v_1lEhE1mJT9JnmsB9xNmx4hF5Exa5TUm8AYjtg?e=tQDRf8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target= 'blank'>
+<img src="Resources/Entrevista_Administrador_1.png" alt="Primera entrevista del segundo segmento">
+</a>
+</td>
+<td align='center'>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EZLL3X652L5KoLk1RWZn0zoBWGmWOQ80ZYl12yLueoednQ?e=vXoTwInav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target= 'blank'>
+<img src="Resources/Entrevista_Administrador_2.png" alt="Segunda entrevista del segundo segmento">
+</a>
+</td>
+<td align='center'>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/EcOPh-bhFsNCjQaceAJEYO8BwE3BUIW-e4wFdvoBHN-O2w?e=NPvjhC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target= 'blank'>
+<img src="Resources/Entrevista_Administrador_3.png" alt="Tercera entrevista del segundo segmento">
+</a>
+</td>
+   <tr>
+   <td>
+    <b>Entrevistador:</b> Santiago Alonso Gordillo Ramos <br>
+    <b>Entrevistado:</b> Miguel Alcelmo Fernandez <br>
+    <b>Edad:</b> 27 años <br>
+    <b>Distrito:</b> Cusco <br>
+    <b>Inicio de la entrevista:</b>  0:55 <br>
+    <b> Resumen:</b> es un radiotransportista en la empresa de MR emprendimientos, esta encargado del monitoreo y coordinación de los pedidos. Luego, nos menciona que su empresa utiliza la aplicación <b>BeeTrack</b> que le permite mantener un monitoreo constante del estado de los pedidos. Sin embargo, este aplicación posee <em>inconvenientes con la geolocalización</em>, no identifica la ubicación exacta del cliente y eso confunde y frustra a los transportistas encargados. Siguiendo con la entrevista, nos menciona que la manera que registran los productos que ingresan a los camiones es con dos personas que van a la localidad y se encarga de verificar si esta todo en orden. Además, la manera en la que subsanan alguna perdida de producto, es por medio de los transportistas que se hacen responsables. En el caso de la planificación de las rutas, nos da su opinión de cómo los planificadores que trabajan en Lima, desconocen lo complicado que puede ser las rutas en Cusco y por ello, extienden las horas laborales de los transportistas. Finalmente, nos comenta cómo arreglan los problemas de retraso o incumplimiento de entregas y esto lo realizan llamando al encargado del camión, luego lo redirigen al área de ventas y este comunica al cliente mismo. <br>  <b>Perfil del entrevistado:</b> El entrevistado demuestra una actitud analítica y orientada al trabajo en equipo. Aunque confía en las herramientas digitales, reconoce las limitaciones del software actual y la falta de adaptación a contextos locales. Su visión combina la experiencia operativa con una comprensión clara de los procesos logísticos, lo que lo convierte en un perfil que valora la precisión, la comunicación y la eficiencia, pero que también exige soluciones tecnológicas más contextualizadas y realistas.
+ <br>
+    <p>
+   </td>
+   <td>
+    <b>Entrevistador: </b> Jesus Ivan Castillo Vidal <br>
+    <b>Entrevistado:</b>Eliana Paullo Palma<br>
+    <b>Inicio de la entrevista:</b> 
+    <b>Edad:</b> 49 años <br>
+    <b>Distrito:</b> Cusco <br>
+    <b>Inicio de la entrevista:</b>  0:17 <br>
+    <b> Resumen:</b> Eliana Paullo es una administradora de la empresa MR emprendimientos, esta encargada de la planificación de los camiones, el monitoreo de personal y transportes, evaluar y ayudar al personal. Después, nos menciona que todo el personal de la empresa, por camión, usa la aplicación <b>"Beetrack"</b>, el cual le ayuda a monitorear el porcentaje de avance que posee cada camión y los clientes y productos asignados a cada camión. Además, utilizan <b>GPS</b> para mantener un control de las rutas de los camiones y del uso de sensores, ya que los productos deben mantenerse refrigerados y este le alerta si esta o no activado el refrigerante. Los principales incidentes que sufrieron son: Confunción en el cargamento del camión, a causa de la forma en cómo estan divididos los camiones, y el daño de los productos y la compensación económica por los mismos. Luego, nos comenta cómo realizan la planificación de las rutas y cómo lidian con problemas que pueden ocurrir el mismo dia de entrega. Esto lo realizan de manera manual, <b>con llamadas y mensajes a los clientes para informarle de los retrasos</b>. Adicionalmente, nos comenta que se utiliza bastante <b>Whatsapp</b> para la coordinación de pedidos para los diferentes conductores. Finalmente, nos comento su sugerencia para mejorar las herramientas que usan, este seria la Opción para identificar a clientes complicados y deribarlos a un plan de pago adelantado para evitar problemas al momento de realizar las entregas. <br>  <b>Perfil del entrevistado:</b>La entrevistada refleja un perfil estratégico, organizado y con una clara comprensión del funcionamiento integral de la empresa. Valora la tecnología como herramienta de control y prevención, aunque reconoce la necesidad de optimizar la comunicación y automatizar procesos repetitivos. Su enfoque busca equilibrar la supervisión operativa con la eficiencia administrativa, mostrando apertura hacia soluciones que mejoren la trazabilidad, la gestión de incidencias y la relación con los clientes.
+ <br>
+   <p>
+   </p>
+   </td>
+      <td>
+    <b>Entrevistador:</b> Yaku Mateo Guzmán Cabrejos  <br>
+    <b>Entrevistado: </b>Adriana Merma Noblega<br>
+    <b>Inicio de la entrevista:</b> 
+    <b>Edad:</b> 50 años <br>
+    <b>Distrito:</b> Lima <br>
+    <b>Inicio de la entrevista:</b>  0:08 <br>
+    <b> Resumen:</b> Adriana Merma es una gerente de una empresa de transporte que se encarga de la gestión de las diferentes áreas y del personal. El entrevistado dice que poseen varios aplicaciones empresariales con diferentes usos. Por ejemplo, uno de ellos le da actualizaciones del avance del trabajo en las diferente áreas, otro mantenimiento de sus vehiculos, qué se debe transportar en cada pedido y de informar de algún error o daños en los productos, y otro más para poder registrar la finalización del trabajo y poder registrarlo. Además, comenta que no hay muchos errores en las planificación de rutas, en caso los haya, se utilizarían las aplicaciones como <b>BeeTrack</b> y documentos de registros o control mediante tablas de <b>excel</b>. Al final, el entrevistado nos comenta que todo lo que realizan, siempre usan varios aplicaciones durante todo el proceso. <br> <b>Perfil del entrevistado:</b> La entrevistada presenta una mentalidad gerencial orientada a la digitalización y la eficiencia. Su confianza en los sistemas tecnológicos refleja un alto nivel de adaptación a la transformación digital empresarial. Sin embargo, también deja entrever una dependencia de múltiples plataformas que podrían beneficiarse de una integración más fluida. Representa un perfil directivo que prioriza la automatización, la trazabilidad y el control centralizado, con interés en soluciones que unifiquen y optimicen las herramientas actuales.
+ <br>
+     <p>
+     </p>
+   </td>
+   </tr>
+
+</table>
 
 ### 2.2.3. Análisis de entrevistas.
 
@@ -115,31 +314,22 @@ Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en 
 <td>66.7%</td>
 <td><b>Entrevistado 2:</b> Utiliza "Beetrack" para geolocalización, contacto de clientes y confirmar/rechazar pedidos. <br>
 <b>Entrevistado 3:</b> Usa "Beetrack" para localizar direcciones y validar entregas con la firma del cliente.</td>
-
 </tr>
-
 <tr>
-
 <td>Dependencia de documentos físicos (boletas) </td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1:</b> Utiliza la dirección en las boletas para calcular su ruta.<br>
 <b>Entrevistado 2:</b> Se guía con las boletas para obtener la información del pedido.</td>
-
 </tr>
-
 <tr>
-
 <td>Problemas de conectividad (Señal/Internet)</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 2:</b> La app no funciona en zonas con poca señal, retrasando confirmaciones. <br>
 <b>Entrevistado 3: </b>Las fallas de internet complican el proceso de validación.</td>
-
 </tr>
-
 <tr>
-
 <td>Problemas con clientes (Local cerrado/Sin dinero)</td>
 <td>3/3</td>
 <td>100%</td>
@@ -147,49 +337,35 @@ Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en 
 <b>Entrevistado 2: </b>"Tiendas cerradas, clientes sin dinero".<br>
 <b>Entrevistado 3:</b> "Locales cerrados o clientes sin dinero".
 </td>
-
 </tr>
-
 <tr>
-
 <td>Problemas de logística externa (Tráfico/Mala geolocalización)</td>
 <td>3/3</td>
 <td>100%</td>
 <td><b>Entrevistado 1:</b> Considera información sobre "accidentes, desfiles" para su ruta. <br>
 <b>Entrevistado 2:</b> "Mala geoposición" como causa de retraso. <br>
 <b>Entrevistado 3:</b> "Tráfico" como retraso principal. </td>
-
 </tr>
-
 <tr>
-
 <td>Uso de canales informales de comunicación (WhatsApp)</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 2:</b> Reporta inconvenientes por WhatsApp.<br>
 <b>Entrevistado 3:</b> Notifica incidentes y contacta al vendedor por WhatsApp</td>
-
 </tr>
-
 <tr>
-
 <td>Rol multifuncional (Conductor y encargado)</td>
 <td>3/3</td>
 <td>100%</td>
 <td><b>Todos los entrevistados </b>son descritos como "chofer y encargado", lo que implica responsabilidades beyond solo manejar, como la liquidación de pedidos (Entrevistado 1) y la gestión de incidencias.</td>
-
 </tr>
-
 <tr>
-
 <td>Frustración con factores externos incontrolables</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td>Entrevistado 3: Muestra "frustración por factores externos como el tráfico y la falta de preparación de clientes". <br>
 Entrevistado 2: Los retrasos e incidencias son causados por factores que escapan a su control.</td>
-
 </tr>
-
 </table>
 
 ##### Insights
@@ -207,77 +383,55 @@ Se realizo el analisis de 3 entrevistas a los administradores con experiencia en
 ##### Caracteristicas
 
 <table>
-
 <tr>
-
 <th>Características</th>
 <th>Mención</th>
 <th>Porcentaje</th>
 <th>Evidencia</th>
-
 </tr>
-
 <tr>
-
 <td>Uso de multiples aplicaciones empresariales</td>
 <td>3/3</td>
 <td>100%</td>
 <td><b>Entrevistado 1: </b>Utilizan "Beetrack" para monitoreo y GPS. <br>
 <b>Entrevistado 2: </b> Usan "Beetrack", GPS y sensores de refrigeración.  <br>
 <b>Entrevistado 3: </b>Poseen "varios aplicativos empresariales con diferentes usos" (avance, inventario, registro).</td>
-
 </tr>
-
 <tr>
-
 <td>Problemas de coordinación y comunicación</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1: </b> Planificadores en Lima desconocen las rutas de Cusco. Problemas se resuelven con llamadas al camión y luego a ventas.<br>
 <b>Entrevistado 2: </b> La planificación de rutas y solución de problemas del día se hace de manera manual con llamadas y mensajes.</td>
-
 </tr>
-
 <tr>
-
 <td>Dependencia de canales informales (WhatsApp/Llamadas)</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1: </b>Arreglan problemas llamando al encargado del camión. <br>
 <b>Entrevistado 2: </b> "Se utiliza bastante Whatsapp para la coordinación".</td>
-
 </tr>
-
 <tr>
-
 <td>Problemas con la integridad de la carga (daños, pérdidas, confusión)</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1: </b>Verificación manual de la carga. Los transportistas se hacen responsables de las pérdidas.<br>
 <b>Entrevistado 2: </b>Incidentes por "confusión en el cargamento" y "daño de los productos" que generan compensaciones económicas.</td>
-
 </tr>
-
 <tr>
-
 <td>Monitoreo en tiempo real del estado de la flota</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1:</b> Monitoreo constante con Beetrack.
 <b>Entrevistado 2: </b>Monitorean porcentaje de avance, usan GPS para control de rutas y sensores para estado de refrigeración.</td>
-
 </tr>
-
 <tr>
-
 <td>Procesos manuales de verificación y registro</td>
 <td>2/3</td>
 <td>66.7%</td>
 <td><b>Entrevistado 1:</b> Verificación física de la carga por dos personas. <br>
 <b>Entrevistado 3:</b> Uso de "documentos de registros o control" además de los aplicativos.</td>
-
 </tr>
-
 </table>
 
 ##### Insights

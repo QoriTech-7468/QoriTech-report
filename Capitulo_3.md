@@ -189,7 +189,6 @@ Entonces el sistema muestra un mensaje informando que no es posible otorgar ese 
 </td>
 <td>EP02</td>
 </tr>
-
 <tr>
 <td>US05</td>
 <td>Gestión de roles del equipo de transporte</td>
@@ -213,7 +212,6 @@ Entonces el sistema cambia su estado a inactivo y lo bloquea para nuevas asignac
 </td>
 <td>EP02</td>
 </tr>
-
 <tr>
 <td>US06</td>
 <td>Suscripción a planes</td>
@@ -233,7 +231,6 @@ Entonces el sistema muestra un mensaje de error indicando la falta de datos.
 </td>
 <td>EP03</td>
 </tr>
-
 <tr>
 <td>US07</td>
 <td>Gestión de perfil de la empresa</td>
@@ -257,7 +254,6 @@ Entonces el sistema muestra un mensaje indicando qué información falta.
 </td>
 <td>EP03</td>
 </tr>
-
 <tr>
 <td>US08</td>
 <td>Asignación del personal</td>
@@ -277,7 +273,6 @@ Entonces el sistema muestra un mensaje de error indicando que el personal no exi
 </td>
 <td>EP03</td>
 </tr>
-
 <tr>
 <td>US09</td>
 <td>Registro de clientes</td>
@@ -988,7 +983,6 @@ a los actores involucrados y los impactos esperados en su comportamiento.
         <b>Escenario 2:</b> Limpiar filtro.</td>
     <td>3</td>
   </tr>
-
   <tr>
     <td>19</td>
     <td>US16</td>
@@ -999,7 +993,6 @@ a los actores involucrados y los impactos esperados en su comportamiento.
         <b>Escenario 3:</b> Quitar punto.</td>
     <td>5</td>
   </tr>
-
   <tr>
     <td>20</td>
     <td>US17</td>
@@ -1009,7 +1002,6 @@ a los actores involucrados y los impactos esperados en su comportamiento.
         <b>Escenario 2:</b> Placa duplicada.</td>
     <td>2</td>
   </tr>
-
   <tr>
     <td>21</td>
     <td>US18</td>
@@ -1018,7 +1010,6 @@ a los actores involucrados y los impactos esperados en su comportamiento.
         <b>Escenario 1:</b> Bloquea nuevas asignaciones/publicación.</td>
     <td>3</td>
   </tr>
-
   <tr>
     <td>22</td>
     <td>US19</td>
