@@ -172,7 +172,6 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
 <th>Entrevistado 2</th>
 <th>Entrevistado 3</th>
 </tr>
-
 <tr>
 <td align='center'>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/ET1TzP6JedZArvWvap237PcBMwKH12NdqIgFlqqtIGRJIA?e=r2iFfE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target= 'blank'>
@@ -222,7 +221,6 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
      </p>
    </td>
    </tr>
-
 </table>
 
 **2️⃣ Segundo Segmento Objetivo: Administradores**
