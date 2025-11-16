@@ -745,7 +745,6 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 - Ingrid gestionó la documentación en Trello y la implementación de internacionalización (i18n).
 - Jesús coordinó el Design Level Event Storming y las mejoras generales de UI/UX del producto.
 
-
 #### 5.2.2.3. Sprint Backlog 2.
 
 <img src="./Resources/Capitulo_5/Trello_sprint2.jpg" alt="Trello Sprint 2">
@@ -756,98 +755,95 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 2**, en el cual se incluyen las User Stories seleccionadas y su descomposición en tasks. Cada ítem contiene su respectiva descripción, estimación en horas, asignación y estado actual.
 
-| Sprint # | User Story Id | User Story Title                              | Work-Item / Task Id | Task Title                                      | Description                                                                                     | Estimation (Hours) | Assigned To              | Status |
-|-----------|----------------|-----------------------------------------------|---------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------|---------------------------|---------|
-| 2 | US01 | Pantalla inicial de login y register | US01T001 | Pantalla inicial de login y register | Diseñar e implementar la interfaz de login y registro. | 1 | Santiago | To-Review |
-| 2 | US02 | Pantalla inicial de login y register | US02T001 | Pantalla inicial de login y register | Configurar la autenticación básica para login y registro. | 1 | Santiago | To-Review |
-| 2 | US03 | Gestión de usuarios | US03T001 | Pantalla inicial de users | Implementar vista principal de gestión de usuarios. | 1 | Santiago y Jesús | Done |
-| 2 |  |  | US03T002 | Agregar users | Crear funcionalidad para registrar nuevos usuarios. | 1 | Santiago y Jesús | Done |
-| 2 |  |  | US03T003 | Modificar entidad USER | Actualizar estructura de la entidad USER en el backend y frontend. | 1 | Santiago y Jesús | Done |
-| 2 |  |  | US03T004 | Roles de los usuarios | Asignar roles y permisos según tipo de usuario. | 1 | Santiago y Jesús | Done |
-| 2 | US04 | Roles y permisos | US04T001 | Gestionar permisos de usuario | Implementar la asignación y edición de permisos a usuarios. | 1 | Santiago | Done |
-| 2 | US05 | Eliminación de usuarios | US05T001 | Eliminar users | Implementar funcionalidad para eliminar usuarios registrados. | 1 | Santiago | Done |
-| 2 | US08 | Asignación de personal al vehículo | US08T001 | Pantalla inicial de users | Crear vista para asignación de personal a vehículos. | 1 | Santiago y Jesús | Done |
-| 2 |  |  | US08T002 | Asignar users a vehículos | Desarrollar funcionalidad para asignar usuarios a vehículos específicos. | 1 | Santiago y Jesús | Done |
-| 2 |  |  | US08T003 | Eliminar users de vehículos | Implementar función para quitar usuarios asignados a vehículos. | 1 | Santiago y Jesús | Done |
-| 2 |  |  | US08T004 | Asignar id de vehículos a users en db.json | Actualizar base de datos local con IDs de vehículos asignados. | 1 | Santiago | To-Review |
-| 2 | US09 | Registro de clientes | US09T001 | Pantalla inicial de clients | Crear vista principal para el registro de clientes. | 1 | Christofer e Ingrid | Done |
-| 2 |  |  | US09T002 | Crear clientes en base al nombre | Desarrollar formulario para registrar clientes con nombre y datos básicos. | 1 | Christofer e Ingrid | Done |
-| 2 | US10 | Gestión de clientes | US10T001 | Listar y filtrar clientes | Implementar funcionalidad para visualizar y filtrar clientes existentes. | 1 | Christofer e Ingrid | Done |
-| 2 |  |  | US10T002 | Editar información del cliente | Permitir modificar datos de contacto y estado del cliente. | 1 | Christofer e Ingrid | Done |
-| 2 | US12 | Crear ubicación y asignarla a un cliente | US12T001 | Funcionalidad “agregar locación” | Desarrollar funcionalidad para registrar nuevas ubicaciones. | 1 | Christofer | Done |
-| 2 |  |  | US12T002 | Agregar location a client | Permitir asignar la nueva ubicación a un cliente existente. | 1 | Christofer | Done |
-| 2 | US17 | Registrar vehículo | US17T001 | Pantalla inicial de vehicles | Crear vista principal de gestión de vehículos. | 1 | Christofer e Ingrid | Done |
-| 2 |  |  | US17T002 | Botón de registrar vehículos | Implementar botón y lógica de registro de nuevos vehículos. | 1 | Christofer | Done |
-| 2 | US19 | Publicar ruta bloquea edición | US19T001 | Cambiar estado de la ruta a Published | Desarrollar acción para cambiar estado de ruta a “Publicado”. | 1 | Christofer | Done |
-| 2 |  |  | US19T002 | Modo solo lectura de datos relacionados a route | Habilitar modo de solo lectura al publicar una ruta. | 1 | Christofer | Done |
-| 2 | US20 | Crear una ruta en borrador | US20T001 | Creación de ruta inicial y en borrador | Implementar opción para guardar rutas como “borrador” antes de publicarlas. | 1 | Christofer | Done |
-| 2 | US30 | Asignación de flota a la ruta | US30T001 | Diseñar interfaz para selección de vehículo por ruta | Crear interfaz visual para elegir vehículos por ruta. | 1 | Yaku | Done |
-| 2 |  |  | US30T002 | Eliminar vehículos | Implementar opción para remover vehículos asignados a rutas. | 1 | Yaku | Done |
-| 2 |  |  | US30T003 | Seleccionar una flota para asignarla a la ruta | Implementar lógica para asociar flotas específicas a rutas. | 1 | Christofer | Done |
-
-
+| Sprint # | User Story Id | User Story Title                         | Work-Item / Task Id | Task Title                                           | Description                                                                 | Estimation (Hours) | Assigned To         | Status    |
+| -------- | ------------- | ---------------------------------------- | ------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------- | ------------------ | ------------------- | --------- |
+| 2        | US01          | Pantalla inicial de login y register     | US01T001            | Pantalla inicial de login y register                 | Diseñar e implementar la interfaz de login y registro.                      | 1                  | Santiago            | To-Review |
+| 2        | US02          | Pantalla inicial de login y register     | US02T001            | Pantalla inicial de login y register                 | Configurar la autenticación básica para login y registro.                   | 1                  | Santiago            | To-Review |
+| 2        | US03          | Gestión de usuarios                      | US03T001            | Pantalla inicial de users                            | Implementar vista principal de gestión de usuarios.                         | 1                  | Santiago y Jesús    | Done      |
+| 2        |               |                                          | US03T002            | Agregar users                                        | Crear funcionalidad para registrar nuevos usuarios.                         | 1                  | Santiago y Jesús    | Done      |
+| 2        |               |                                          | US03T003            | Modificar entidad USER                               | Actualizar estructura de la entidad USER en el backend y frontend.          | 1                  | Santiago y Jesús    | Done      |
+| 2        |               |                                          | US03T004            | Roles de los usuarios                                | Asignar roles y permisos según tipo de usuario.                             | 1                  | Santiago y Jesús    | Done      |
+| 2        | US04          | Roles y permisos                         | US04T001            | Gestionar permisos de usuario                        | Implementar la asignación y edición de permisos a usuarios.                 | 1                  | Santiago            | Done      |
+| 2        | US05          | Eliminación de usuarios                  | US05T001            | Eliminar users                                       | Implementar funcionalidad para eliminar usuarios registrados.               | 1                  | Santiago            | Done      |
+| 2        | US08          | Asignación de personal al vehículo       | US08T001            | Pantalla inicial de users                            | Crear vista para asignación de personal a vehículos.                        | 1                  | Santiago y Jesús    | Done      |
+| 2        |               |                                          | US08T002            | Asignar users a vehículos                            | Desarrollar funcionalidad para asignar usuarios a vehículos específicos.    | 1                  | Santiago y Jesús    | Done      |
+| 2        |               |                                          | US08T003            | Eliminar users de vehículos                          | Implementar función para quitar usuarios asignados a vehículos.             | 1                  | Santiago y Jesús    | Done      |
+| 2        |               |                                          | US08T004            | Asignar id de vehículos a users en db.json           | Actualizar base de datos local con IDs de vehículos asignados.              | 1                  | Santiago            | To-Review |
+| 2        | US09          | Registro de clientes                     | US09T001            | Pantalla inicial de clients                          | Crear vista principal para el registro de clientes.                         | 1                  | Christofer e Ingrid | Done      |
+| 2        |               |                                          | US09T002            | Crear clientes en base al nombre                     | Desarrollar formulario para registrar clientes con nombre y datos básicos.  | 1                  | Christofer e Ingrid | Done      |
+| 2        | US10          | Gestión de clientes                      | US10T001            | Listar y filtrar clientes                            | Implementar funcionalidad para visualizar y filtrar clientes existentes.    | 1                  | Christofer e Ingrid | Done      |
+| 2        |               |                                          | US10T002            | Editar información del cliente                       | Permitir modificar datos de contacto y estado del cliente.                  | 1                  | Christofer e Ingrid | Done      |
+| 2        | US12          | Crear ubicación y asignarla a un cliente | US12T001            | Funcionalidad “agregar locación”                     | Desarrollar funcionalidad para registrar nuevas ubicaciones.                | 1                  | Christofer          | Done      |
+| 2        |               |                                          | US12T002            | Agregar location a client                            | Permitir asignar la nueva ubicación a un cliente existente.                 | 1                  | Christofer          | Done      |
+| 2        | US17          | Registrar vehículo                       | US17T001            | Pantalla inicial de vehicles                         | Crear vista principal de gestión de vehículos.                              | 1                  | Christofer e Ingrid | Done      |
+| 2        |               |                                          | US17T002            | Botón de registrar vehículos                         | Implementar botón y lógica de registro de nuevos vehículos.                 | 1                  | Christofer          | Done      |
+| 2        | US19          | Publicar ruta bloquea edición            | US19T001            | Cambiar estado de la ruta a Published                | Desarrollar acción para cambiar estado de ruta a “Publicado”.               | 1                  | Christofer          | Done      |
+| 2        |               |                                          | US19T002            | Modo solo lectura de datos relacionados a route      | Habilitar modo de solo lectura al publicar una ruta.                        | 1                  | Christofer          | Done      |
+| 2        | US20          | Crear una ruta en borrador               | US20T001            | Creación de ruta inicial y en borrador               | Implementar opción para guardar rutas como “borrador” antes de publicarlas. | 1                  | Christofer          | Done      |
+| 2        | US30          | Asignación de flota a la ruta            | US30T001            | Diseñar interfaz para selección de vehículo por ruta | Crear interfaz visual para elegir vehículos por ruta.                       | 1                  | Yaku                | Done      |
+| 2        |               |                                          | US30T002            | Eliminar vehículos                                   | Implementar opción para remover vehículos asignados a rutas.                | 1                  | Yaku                | Done      |
+| 2        |               |                                          | US30T003            | Seleccionar una flota para asignarla a la ruta       | Implementar lógica para asociar flotas específicas a rutas.                 | 1                  | Christofer          | Done      |
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|-----------|--------|-----------|----------------|---------------------|--------------------|
-| FrontEnd-WebApplication | main | ffb29e2 | fix(Users.vue): case sensitive was done | 10/10/2025 |  |
-| FrontEnd-WebApplication | main | 9a713e0 | fix(yml): Added npm ci to github actions' workflow | 10/10/2025 |  |
-| FrontEnd-WebApplication | main | bd1cc6c | feat(firebase): Firebase Hosting now connected to main branch to autodeploy | 10/10/2025 |  |
-| FrontEnd-WebApplication | main | 8884819 | fix: changin rutana_api_url for production | 10/10/2025 |  |
-| FrontEnd-WebApplication | main | 7f099fc | fix: updated the clients-sidebar.vue | 10/10/2025 |  |
-| FrontEnd-WebApplication | main | ec987fd | feat: added the clients and location js and views | 10/10/2025 |  |
-| FrontEnd-WebApplication | main | 8e88c10 | feat: added add-team-member.vue | 10/10/2025 |  |
-| FrontEnd-WebApplication | main | 17db4a0 | feat: update users.vue and entity | 10/10/2025 |  |
-| FrontEnd-WebApplication | main | 14263c5 | feat: update db.json and vehicles | 10/10/2025 |  |
-| FrontEnd-WebApplication | main | 59257d6 | feat(i18n): add internationalization support to Users and Vehicles modules | 10/10/2025 |  |
-| FrontEnd-WebApplication | main | 6925ec9 | feat(route-planning-execution): add i18n files | 09/10/2025 |  |
-| FrontEnd-WebApplication | main | 2648b6e | feat(route-planning-execution): improve style and implement i18n | 09/10/2025 |  |
-| FrontEnd-WebApplication | main | dafe774 | feat(i18n): add internationalization support to Clients and Users modules | 09/10/2025 |  |
-| FrontEnd-WebApplication | main | 21bfac8 | feat(route-planning-execution): fix vehicle response handling and add team member mapping | 09/10/2025 |  |
-| FrontEnd-WebApplication | main | 3eeb1ea | feat(route-planning-execution): fix vehicle response handling and add team member mapping | 09/10/2025 |  |
-| FrontEnd-WebApplication | main | 26546d7 | feat(route-planning-execution): fix vehicle response handling and add team member mapping | 09/10/2025 |  |
-| FrontEnd-WebApplication | main | 899a7ec | feat(route-planning-execution): add assembler classes for deliveries, locations, and routes | 09/10/2025 |  |
-| FrontEnd-WebApplication | main | bd532cd | feat(env): add routes and locations endpoints to development and production environments | 09/10/2025 |  |
-| FrontEnd-WebApplication | main | a599dad | feat: updated db.json and Users | 09/10/2025 |  |
-| FrontEnd-WebApplication | main | 65a5868 | feat: added the user js and added the functions | 09/10/2025 |  |
-| FrontEnd-WebApplication | main | 05459aa | feat(db.json): Adding Fake JSON data | 09/10/2025 |  |
-| FrontEnd-WebApplication | main | bf9d5dd | feat: added the vehicles js to post and the db json | 09/10/2025 |  |
-| FrontEnd-WebApplication | main | f86ea68 | fix(interactive-map): Implementation for interactive map and using 100% height | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | 3791794 | feat(teams-card, location-details): Added the property isReadOnly | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | 93af1c5 | fix(teams-card, teams-tab): Styling improved and layout | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | 1646340 | feat: Interactive Editing routes for locations | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | 069697e | fix(location-details): better layout organization and styling improvement | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | c1b6691 | fix(selected-locations-list): Styling and replacing for a mockup | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | 5a104a6 | fix(draf-layout): Improvement for layout to organice better the content | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | 710f4e7 | fix(routes): Styling improvement for cards, fonts, etc. | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | 399626d | fix(clients,users,vehicles): Styling improvement for header and buttons normalization | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | b48c27a | fix: routes into management and adding a layout container | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | 464f981 | feat(route-planning-execution): implement toast notifications and enhance route actions | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | f04a9f6 | feat(route-planning-execution): add route monitoring view and enhance route navigation | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | 9f65ca4 | feat(route-planning-execution): implement interactive map and location and team details components | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | 70e7705 | feat(route-planning-execution): implement interactive map and location and team details components | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | d3ebfd1 | feat(route-planning-execution): add routes management with lazy-loaded components | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | c67efed | feat(route-planning-execution): integrate i18n support and add Toast and Confirmation services | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | ee5ed3d | feat(roue-planning-execution): add internationalization support with English and Spanish locales | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | cd75e3a | feat: added the routing js to navigate the views | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | 1d511fd | feat: added router js and locales en and es json | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | b5a2ab7 | feat: updated the clients.vue to add the nav bar | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | b2fb465 | feat: added the vehicle main view in presentation | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | 80d0eef | feat: added the sidebar for the vehicles view | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | b8c82f2 | feat: added the vehicle details panel | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | 5527180 | feat: added the dialog add-vehicle.vue | 08/10/2025 |  |
-| FrontEnd-WebApplication | main | 4c3bfe2 | feat: added the directories and db and routes json | 07/10/2025 |  |
-| FrontEnd-WebApplication | main | 1bc44b8 | feat: added the clients sidebar and main view | 07/10/2025 |  |
-| FrontEnd-WebApplication | main | 377f776 | feat: added the add-location and location panel views | 07/10/2025 |  |
-| FrontEnd-WebApplication | main | 049bf10 | feat: added the addclient dialog and update main.js | 07/10/2025 |  |
-| FrontEnd-WebApplication | main | 86d2c8c | feat: added Subscription.vue and App.vue | 04/10/2025 |  |
-| FrontEnd-WebApplication | main | e60ed25 | feat: added Subscription.vue and App.vue | 04/10/2025 |  |
-| FrontEnd-WebApplication | main | 1c5c1a9 | feat: added Rutana Logo | 04/10/2025 |  |
-| FrontEnd-WebApplication | main | 69b1f1a | feat: added Users.vue and Navbar.vue | 04/10/2025 |  |
-| FrontEnd-WebApplication | main | e49f2ed | feat: added code Infrastructure and LoginRegister.vue | 04/10/2025 |  |
-| FrontEnd-WebApplication | main | fa956a2 | feat: added initial configurations for primevue theme | 04/10/2025 |  |
-
+| Repository              | Branch | Commit Id | Commit Message                                                                                     | Commit Message Body | Commited on (Date) |
+| ----------------------- | ------ | --------- | -------------------------------------------------------------------------------------------------- | ------------------- | ------------------ |
+| FrontEnd-WebApplication | main   | ffb29e2   | fix(Users.vue): case sensitive was done                                                            | 10/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 9a713e0   | fix(yml): Added npm ci to github actions' workflow                                                 | 10/10/2025          |                    |
+| FrontEnd-WebApplication | main   | bd1cc6c   | feat(firebase): Firebase Hosting now connected to main branch to autodeploy                        | 10/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 8884819   | fix: changin rutana_api_url for production                                                         | 10/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 7f099fc   | fix: updated the clients-sidebar.vue                                                               | 10/10/2025          |                    |
+| FrontEnd-WebApplication | main   | ec987fd   | feat: added the clients and location js and views                                                  | 10/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 8e88c10   | feat: added add-team-member.vue                                                                    | 10/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 17db4a0   | feat: update users.vue and entity                                                                  | 10/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 14263c5   | feat: update db.json and vehicles                                                                  | 10/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 59257d6   | feat(i18n): add internationalization support to Users and Vehicles modules                         | 10/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 6925ec9   | feat(route-planning-execution): add i18n files                                                     | 09/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 2648b6e   | feat(route-planning-execution): improve style and implement i18n                                   | 09/10/2025          |                    |
+| FrontEnd-WebApplication | main   | dafe774   | feat(i18n): add internationalization support to Clients and Users modules                          | 09/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 21bfac8   | feat(route-planning-execution): fix vehicle response handling and add team member mapping          | 09/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 3eeb1ea   | feat(route-planning-execution): fix vehicle response handling and add team member mapping          | 09/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 26546d7   | feat(route-planning-execution): fix vehicle response handling and add team member mapping          | 09/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 899a7ec   | feat(route-planning-execution): add assembler classes for deliveries, locations, and routes        | 09/10/2025          |                    |
+| FrontEnd-WebApplication | main   | bd532cd   | feat(env): add routes and locations endpoints to development and production environments           | 09/10/2025          |                    |
+| FrontEnd-WebApplication | main   | a599dad   | feat: updated db.json and Users                                                                    | 09/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 65a5868   | feat: added the user js and added the functions                                                    | 09/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 05459aa   | feat(db.json): Adding Fake JSON data                                                               | 09/10/2025          |                    |
+| FrontEnd-WebApplication | main   | bf9d5dd   | feat: added the vehicles js to post and the db json                                                | 09/10/2025          |                    |
+| FrontEnd-WebApplication | main   | f86ea68   | fix(interactive-map): Implementation for interactive map and using 100% height                     | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 3791794   | feat(teams-card, location-details): Added the property isReadOnly                                  | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 93af1c5   | fix(teams-card, teams-tab): Styling improved and layout                                            | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 1646340   | feat: Interactive Editing routes for locations                                                     | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 069697e   | fix(location-details): better layout organization and styling improvement                          | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | c1b6691   | fix(selected-locations-list): Styling and replacing for a mockup                                   | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 5a104a6   | fix(draf-layout): Improvement for layout to organice better the content                            | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 710f4e7   | fix(routes): Styling improvement for cards, fonts, etc.                                            | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 399626d   | fix(clients,users,vehicles): Styling improvement for header and buttons normalization              | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | b48c27a   | fix: routes into management and adding a layout container                                          | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 464f981   | feat(route-planning-execution): implement toast notifications and enhance route actions            | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | f04a9f6   | feat(route-planning-execution): add route monitoring view and enhance route navigation             | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 9f65ca4   | feat(route-planning-execution): implement interactive map and location and team details components | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 70e7705   | feat(route-planning-execution): implement interactive map and location and team details components | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | d3ebfd1   | feat(route-planning-execution): add routes management with lazy-loaded components                  | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | c67efed   | feat(route-planning-execution): integrate i18n support and add Toast and Confirmation services     | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | ee5ed3d   | feat(roue-planning-execution): add internationalization support with English and Spanish locales   | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | cd75e3a   | feat: added the routing js to navigate the views                                                   | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 1d511fd   | feat: added router js and locales en and es json                                                   | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | b5a2ab7   | feat: updated the clients.vue to add the nav bar                                                   | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | b2fb465   | feat: added the vehicle main view in presentation                                                  | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 80d0eef   | feat: added the sidebar for the vehicles view                                                      | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | b8c82f2   | feat: added the vehicle details panel                                                              | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 5527180   | feat: added the dialog add-vehicle.vue                                                             | 08/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 4c3bfe2   | feat: added the directories and db and routes json                                                 | 07/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 1bc44b8   | feat: added the clients sidebar and main view                                                      | 07/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 377f776   | feat: added the add-location and location panel views                                              | 07/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 049bf10   | feat: added the addclient dialog and update main.js                                                | 07/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 86d2c8c   | feat: added Subscription.vue and App.vue                                                           | 04/10/2025          |                    |
+| FrontEnd-WebApplication | main   | e60ed25   | feat: added Subscription.vue and App.vue                                                           | 04/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 1c5c1a9   | feat: added Rutana Logo                                                                            | 04/10/2025          |                    |
+| FrontEnd-WebApplication | main   | 69b1f1a   | feat: added Users.vue and Navbar.vue                                                               | 04/10/2025          |                    |
+| FrontEnd-WebApplication | main   | e49f2ed   | feat: added code Infrastructure and LoginRegister.vue                                              | 04/10/2025          |                    |
+| FrontEnd-WebApplication | main   | fa956a2   | feat: added initial configurations for primevue theme                                              | 04/10/2025          |                    |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
@@ -920,7 +916,7 @@ Durante este sprint se completó la implementación del frontend de la aplicaci�
 - Configuración de internacionalización con Vue i18n
 - Deployment exitoso en Firebase Hosting
 
-### Recursos del Sprint
+Recursos del Sprint
 
 <table>
 <tr>
@@ -961,6 +957,7 @@ Durante el Sprint 2 se logró el despliegue exitoso de la aplicación frontend d
 5. **Build Process**: Proceso de build automatizado con Vite y Vue.js optimizado para producción
 
 **URLs de Despliegue:**
+
 - **Producción Principal**: https://rutana-app-frontend.web.app
 - **Repositorio GitHub**: https://github.com/QoriTech-7468/FrontEnd-WebApplication/
 
@@ -998,6 +995,7 @@ Durante el Sprint 2 se logró el despliegue exitoso de la aplicación frontend d
 Durante el Sprint 2, el equipo demostró una colaboración efectiva enfocada en la implementación práctica de los conceptos definidos en el sprint anterior. La división clara de responsabilidades por bounded contexts permitió un desarrollo paralelo eficiente, mientras que las revisiones cruzadas aseguraron la consistencia en la implementación.
 
 **Logros Destacados:**
+
 - Implementación exitosa de los cuatro bounded contexts principales
 - Desarrollo ágil con PrimeVue components
 - Validación temprana mediante Fake API
@@ -1005,11 +1003,85 @@ Durante el Sprint 2, el equipo demostró una colaboración efectiva enfocada en 
 - Mejora continua de la arquitectura con principios DDD
 
 **Lecciones Aprendidas:**
+
 - La Fake API facilitó la iteración rápida y validación de UX
 - PrimeVue proporcionó componentes robustos y consistentes
 - Firebase Hosting simplificó significativamente el proceso de despliegue
 - La internacionalización mejoró la accesibilidad del sistema
 
-
 ##### Evidencia de Colaboración en GitHub
+
 ![Sprint 2 Insights](./Resources/Capitulo_5/sprint-2-insights.png)
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3.
+
+<table>
+<tr>
+<th>Sprint #</th>
+<th>Sprint 3</th>
+</tr>
+<tr>
+<td><strong>Sprint Planning Background</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Date</strong></td>
+<td>2025-10-20</td>
+</tr>
+<tr>
+<td><strong>Time</strong></td>
+<td>12:18 PM (GMT-5)</td>
+</tr>
+<tr>
+<td><strong>Location</strong></td>
+<td>Modalidad remota mediante la plataforma Discord</td>
+</tr>
+<tr>
+<td><strong>Prepared By</strong></td>
+<td>Jesús Castillo Vidal</td>
+</tr>
+<tr>
+<td><strong>Attendees (to planning meeting)</strong></td>
+<td>Castillo Vidal, Jesús Iván / Costa Morales, Christofer William / Gordillo Ramos, Santiago Alonso / Guzmán Cabrejos, Yaku Mateo / Medina Merma, Ingrid Melani</td>
+</tr>
+<tr>
+<td><strong>Sprint 2 Review Summary</strong></td>
+<td>Durante el Sprint 2 se logró implementar parcialmente el frontend de la aplicación Rutana utilizando Vue.js y PrimeVue, desarrollando los bounded contexts principales: Fleet and Resource Management, Customer & Location Management, Route Planning & Execution e Identity and Access Management. Se integró una Fake API para simular el comportamiento del backend, permitiendo validar la experiencia de usuario y la usabilidad general del sistema. Sin embargo, la implementación no se completó totalmente debido a dificultades técnicas en la configuración y despliegue del archivo <code>db.json</code> en Beeceptor, así como la complejidad de simular relaciones tipo join entre entidades. A nivel de UX/UI se respetó el diseño planteado en el producto, logrando una interfaz coherente y funcional. Este sprint permitió consolidar la base del sistema y fortalecer el entendimiento del equipo sobre la arquitectura frontend aplicada.</td>
+</tr>
+<tr>
+<td><strong>Sprint 2 Retrospective Summary</strong></td>
+<td>El equipo enfrentó varios retos durante el Sprint 2, especialmente relacionados con la integración del código y el trabajo colaborativo. Se presentaron conflictos de merge al unificar los avances individuales, lo que afectó el ritmo de desarrollo. Además, persistió parte de la deuda técnica del sprint anterior, especialmente en la comprensión de la arquitectura y simulación del backend. A pesar de ello, el equipo mostró una mejora significativa en comunicación, coordinación y dominio de las herramientas. Se destaca el cumplimiento del diseño de producto y la capacidad de resolver problemas técnicos de manera colaborativa. Para el siguiente sprint se priorizará la reducción de deuda técnica y la implementación completa de las funcionalidades restantes.</td>
+</tr>
+<tr>
+<td><strong>Sprint Goal & User Stories</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Sprint 3 Goal</strong></td>
+<td><strong>Nuestro propósito está</strong> en ofrecer una aplicación utilizable de punta a punta para administradores y transportistas: habilitar autenticación (registro/inicio/cierre de sesión), visualización de rutas en mapa (Google Maps integrado a la FAKE API), y completar las operaciones de edición y eliminación pendientes en datos maestros (p. ej., Flotas y Gestión de usuarios). Además, dejaremos operativo y documentado el 60% de los endpoints críticos (auth, rutas, flotas, usuarios) para integración temprana con frontend. <strong>Creemos que esto aportará</strong> a administradores mayor control operativo (datos maestros actualizados sin soporte y trazabilidad de rutas), a transportistas una experiencia fluida para ver y actualizar el estado de sus rutas, y al negocio una reducción de retrabajos y tiempo de puesta en marcha al contar con contratos de API estables. <strong>Esto se confirmará cuando: </strong>Cualquier usuario pueda registrarse, iniciar y cerrar sesión con manejo de errores y persistencia de sesión en la UI. El administrador pueda listar, editar y eliminar registros de Flotas y Usuarios (con roles) con validaciones y confirmaciones visibles. El transportista vea sus rutas en el mapa (datos mock de la FAKE API) y pueda actualizar su estado (pendiente → en curso → completada) reflejado de inmediato en la UI. Esté operativo y documentado (Swagger) al menos el 60% de los endpoints de auth, rutas, flotas y usuarios</td>
+</tr>
+<tr>
+<td><strong>Sprint 3 Velocity</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Sum of Story Points</strong></td>
+<td></td>
+</tr>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+
+#### 5.2.3.3. Sprint Backlog 3.
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
