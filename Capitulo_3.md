@@ -1153,4 +1153,150 @@ zación del progreso total</b><br>
         <b>Escenario 2:</b> Exportación a Excel.</td>
     <td>5</td>
   </tr>
+  <tr>
+    <td>35</td>
+    <td>TS-IAM-001</td>
+    <td>Register User</td>
+    <td><b>Como usuario</b>, quiero registrarme en la plataforma,<br><p>para poder acceder a las funcionalidades de mi organización.</p>
+        <b>Escenario 1:</b> Successful create - POST /api/v1/users valida email, password y crea usuario con 201 Created.<br>
+        <b>Escenario 2:</b> Email already registered - responde 409 Conflict.<br>
+        <b>Escenario 3:</b> Validation error - responde 400 Bad Request.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td>TS-IAM-002</td>
+    <td>Sign In User</td>
+    <td><b>Como usuario</b>, quiero iniciar sesión,<br><p>para obtener un token de acceso.</p>
+        <b>Escenario 1:</b> Successful sign in - POST /api/v1/auth/sign-in responde 200 OK con tokens.<br>
+        <b>Escenario 2:</b> Invalid credentials - responde 401 Unauthorized.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td>TS-IAM-003</td>
+    <td>Invite & Accept Organization Member</td>
+    <td><b>Como owner</b>, quiero invitar usuarios a mi organización,<br><p>para que ellos puedan aceptar la invitación.</p>
+        <b>Escenario 1:</b> Create invitation - POST crea invitation Pending con 201 Created.<br>
+        <b>Escenario 2:</b> Accept invitation - POST acepta y crea membresía con 200 OK.<br>
+        <b>Escenario 3:</b> Cancel invitation - POST cancela invitation con 200 OK.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td>TS-SUB-001</td>
+    <td>Create Organization</td>
+    <td><b>Como owner</b>, quiero registrar la organización,<br><p>para poder gestionar flota, clientes y rutas.</p>
+        <b>Escenario 1:</b> Successful create - POST /api/v1/organizations crea organización con 201 Created.<br>
+        <b>Escenario 2:</b> Duplicate RUC - responde 409 Conflict.<br>
+        <b>Escenario 3:</b> Validation error - responde 400 Bad Request.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td>TS-SUB-002</td>
+    <td>Get Organization By Id</td>
+    <td><b>Como usuario</b>, quiero obtener los datos de mi organización,<br><p>para mostrarlos en el panel de configuración.</p>
+        <b>Escenario 1:</b> Organization found - GET responde 200 OK con OrganizationResource.<br>
+        <b>Escenario 2:</b> Organization not found - responde 404 Not Found o 403 Forbidden.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>TS-FLE-001</td>
+    <td>Register Vehicle</td>
+    <td><b>Como owner/dispatcher</b>, quiero registrar vehículos,<br><p>para asociarlos a mi organización.</p>
+        <b>Escenario 1:</b> Successful vehicle registration - POST crea Vehicle Disabled con 201 Created.<br>
+        <b>Escenario 2:</b> Duplicate license plate - responde 409 Conflict.<br>
+        <b>Escenario 3:</b> Validation error - responde 400 Bad Request.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td>TS-FLE-002</td>
+    <td>Update Vehicle Profile & Enable/Disable</td>
+    <td><b>Como dispatcher</b>, quiero editar datos del vehículo,<br><p>para habilitarlo o deshabilitarlo.</p>
+        <b>Escenario 1:</b> Update vehicle profile - PUT actualiza con 200 OK.<br>
+        <b>Escenario 2:</b> Enable vehicle - POST /enable cambia estado a Enabled.<br>
+        <b>Escenario 3:</b> Disable vehicle - POST /disable cambia estado a Disabled.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td>TS-FLE-003</td>
+    <td>Get Vehicles By Organization</td>
+    <td><b>Como dispatcher</b>, quiero listar los vehículos de mi organización,<br><p>para filtrar por estado.</p>
+        <b>Escenario 1:</b> Get all vehicles - GET responde 200 OK con collection.<br>
+        <b>Escenario 2:</b> Get only enabled vehicles - GET con ?state=enabled filtra vehículos.<br>
+        <b>Escenario 3:</b> Get vehicle by id - GET responde 200 OK o 404 Not Found.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>43</td>
+    <td>TS-CRM-001</td>
+    <td>Register & Toggle Client</td>
+    <td><b>Como dispatcher</b>, quiero registrar clientes (tiendas),<br><p>para poder habilitarlos o deshabilitarlos.</p>
+        <b>Escenario 1:</b> Register client - POST crea Client isEnabled=true con 201 Created.<br>
+        <b>Escenario 2:</b> Disable client - POST /disable cambia isEnabled a false.<br>
+        <b>Escenario 3:</b> Enable client - POST /enable cambia isEnabled a true.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td>TS-CRM-002</td>
+    <td>Register & Toggle Location</td>
+    <td><b>Como dispatcher</b>, quiero registrar puntos de entrega (locations),<br><p>para asociarlos a un cliente y poder habilitarlos o deshabilitarlos.</p>
+        <b>Escenario 1:</b> Register location - POST crea Location isEnabled=true con 201 Created.<br>
+        <b>Escenario 2:</b> Disable location - POST /disable cambia isEnabled a false.<br>
+        <b>Escenario 3:</b> Enable location - POST /enable cambia isEnabled a true.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td>TS-CRM-003</td>
+    <td>Query Clients and Locations</td>
+    <td><b>Como dispatcher</b>, quiero ver todos los clientes de mi organización,<br><p>para consultar sus locations.</p>
+        <b>Escenario 1:</b> Get clients by organization - GET responde 200 OK con ClientResource collection.<br>
+        <b>Escenario 2:</b> Get locations by client - GET responde 200 OK con LocationResource[].<br>
+        <b>Escenario 3:</b> Get single location - GET responde 200 OK o 404 Not Found.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>46</td>
+    <td>TS-PLA-001</td>
+    <td>Create Route Draft</td>
+    <td><b>Como planner</b>, quiero crear un borrador de ruta para una fecha,<br><p>para utilizar un color de identificación.</p>
+        <b>Escenario 1:</b> Successful draft creation - POST crea RouteDraft con 201 Created.<br>
+        <b>Escenario 2:</b> Validation error - responde 400 Bad Request.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>47</td>
+    <td>TS-PLA-002</td>
+    <td>Edit Route Draft (Locations, Vehicle, Team)</td>
+    <td><b>Como planner</b>, quiero armar el borrador de ruta,<br><p>para añadir locations, vehículo y equipo.</p>
+        <b>Escenario 1:</b> Add location - POST crea Delivery Pending con 200 OK.<br>
+        <b>Escenario 2:</b> Assign vehicle - POST almacena vehicleId con 200 OK.<br>
+        <b>Escenario 3:</b> Assign members - POST almacena team members con 200 OK.<br>
+        <b>Escenario 4:</b> Save changes - persiste y GET refleja nuevo estado.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>48</td>
+    <td>TS-PLA-003</td>
+    <td>Publish Route</td>
+    <td><b>Como planner</b>, quiero publicar un borrador de ruta,<br><p>para que pase a ejecución generando una snapshot estable.</p>
+        <b>Escenario 1:</b> Successful publish - POST crea Route con snapshot y responde 201 Created.<br>
+        <b>Escenario 2:</b> Publish with missing data - responde 400 Bad Request con validation errors.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>49</td>
+    <td>TS-PLA-004</td>
+    <td>Query Routes</td>
+    <td><b>Como dispatcher/planner</b>, quiero consultar las rutas publicadas,<br><p>para ver su información completa.</p>
+        <b>Escenario 1:</b> Get route by id - GET responde 200 OK con RouteResource completo.<br>
+        <b>Escenario 2:</b> Get routes by organization and date - GET responde 200 OK con collection filtrada.</td>
+    <td>2</td>
+  </tr>
 </table>
