@@ -561,7 +561,7 @@ En esta etapa el usuario crea una ruta y es redirigido a las pestañas de Locali
 
 1. Unstructured Exploration
 
-<img src="Resources/Level-ES/Storming AppsWeb - Step 1_ Unstructured Exploration.jpg" alt="Unstructured Exploration">
+<img src="Resources/Level-ES/Step 1_V2.jpg" alt="Unstructured Exploration">
 
 En esta fase inicial, se identifican los eventos de dominio sin preocuparse por el orden cronológico o la estructura. Los eventos se organizan en cuatro dominios principales:
 
@@ -653,7 +653,7 @@ Los modelos de lectura representan las vistas de datos que los usuarios necesita
 Estos modelos proporcionan la información necesaria para la operación y monitoreo del sistema de transporte.
 
 8. External Systems
-<img src="Resources/Level-ES/Storming AppsWeb - Step 8_ External Systems.jpg" alt="External Systems">
+<img src="Resources/Level-ES/Step 8_V2.jpg" alt="External Systems">
 
 Los sistemas externos son servicios de terceros con los que el sistema se integra para extender sus funcionalidades. Las integraciones identificadas incluyen:
 
@@ -663,7 +663,7 @@ Los sistemas externos son servicios de terceros con los que el sistema se integr
 Estas integraciones amplían las capacidades del sistema aprovechando servicios especializados externos.
 
 9. Aggregates
-<img src="Resources/Level-ES/Storming AppsWeb - Step 9_ Aggregates.jpg" alt="Aggregates">
+<img src="Resources/Level-ES/Step 9_V2.jpg" alt="Aggregates">
 
 Los agregados son conjuntos cohesivos de entidades y eventos que se gestionan como una unidad transaccional. Los agregados identificados son:
 
@@ -678,7 +678,7 @@ Los agregados son conjuntos cohesivos de entidades y eventos que se gestionan co
 Cada agregado garantiza la consistencia de sus datos y encapsula su propia lógica de negocio.
 
 10. Bounded Contexts
-<img src="Resources/Level-ES/Storming AppsWeb - Step 10_ Bounded Contexts.jpg" alt="Bounded Contexts">
+<img src="Resources/Level-ES/Step 10_V2.jpg" alt="Bounded Contexts">
 
 Los contextos delimitados organizan los agregados en dominios de negocio independientes con su propio lenguaje y modelos. Los bounded contexts identificados son:
 
@@ -720,37 +720,28 @@ En esta sección se presentan los diagramas de clases que detallan la implementa
 
 ### 4.7.1. Class Diagrams.
 <div style="text-align: center;">
-<img src="Resources/Capitulo_4/ClassDiagram.png">
+<img src="Resources/BC/Suscription.png">
 </div>
 
-1. Subscriptions and Payment Management
+1. Subscriptions
 <div style="text-align: center;">
-<img src="Resources/Capitulo_4/Subscriptions.png" alt="SuscripcionesyPagos">
+
+<img src="Resources/BC/Suscription2.png">
 </div>
 
-2. Identity and Access Management
+2. Fleet and Resource Management (Fleet)
 <div style="text-align: center;">
-<img src="Resources/Capitulo_4/Identity.png" alt="IdentidadyAcceso">
+<img src="Resources/BC/Fleet.png" alt="Recursos">
 </div>
 
-3. Fleet and Resource Management
+3. Customer & Location Management (CRM)
 <div style="text-align: center;">
-<img src="Resources/Capitulo_4/Resource.png" alt="Recursos">
+<img src="Resources/BC/CRM.png" alt="Ejecucion">
 </div>
 
-4. Customer & Location Management
+4. Route Planning & Execution (Plannig)
 <div style="text-align: center;">
-<img src="Resources/Capitulo_4/Service.png" alt="Ejecucion">
-</div>
-
-5. Incident & Reporting Management
-<div style="text-align: center;">
-<img src="Resources/Capitulo_4/Incidents.png" alt="Incidencias">
-</div>
-
-6. Route Planning & Execution
-<div style="text-align: center;">
-<img src="Resources/Capitulo_4/Transportation.png" alt="rutas">
+<img src="Resources/BC/Planning.png" alt="rutas">
 </div>
 
 #### Frontend Class Diagrams
