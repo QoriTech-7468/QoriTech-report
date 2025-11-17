@@ -1175,6 +1175,7 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, en el cual se incluyen las User Stories seleccionadas y su descomposición en tasks. Cada ítem contiene su respectiva descripción, estimación en horas, asignación y estado actual.
 
+<<<<<<< HEAD
 | Sprint # | User Story Id | User Story Title                         | Work-Item / Task Id | Task Title                                           | Description                                                                 | Estimation (Hours) | Assigned To         | Status    |
 | -------- | ------------- | ---------------------------------------- | ------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------- | ------------------ | ------------------- | --------- |
 | 3        | US33          | Diseño responsivo y navegación           | US33T001            | Modificar diseño responsivo en seccion about         | Actualizar el diseño responsivo de la sección "About" para mejorar la experiencia en diferentes dispositivos. | 2                  | Ingrid              | Done      |
@@ -1222,6 +1223,29 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 | 3        |               |                                            | TS-CRM-003-T002     | Implementar ClientResource y endpoints GET para clientes | Implementar el ClientResource y los endpoints GET para obtener clientes. | 2                  | Jesús               | Done      |
 | 3        |               |                                            | TS-CRM-003-T003     | Crear queries para Location (ById, ByClient) y sus handlers | Crear las queries GetLocationByIdQuery y GetLocationsByClientQuery con sus respectivos handlers. | 2                  | Jesús               | Done      |
 | 3        |               |                                            | TS-CRM-003-T004     | Implementar LocationResource y endpoints GET para locations | Implementar el LocationResource y los endpoints GET para obtener ubicaciones. | 2                  | Jesús               | Done      |
+=======
+| Sprint # | User Story Id | User Story Title                              | Work-Item / Task Id | Task Title                                      | Description                                                                                     | Estimation (Hours) | Assigned To              | Status |
+|-----------|----------------|-----------------------------------------------|---------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------|---------------------------|---------|
+3 | US10| Gestión de clientes| US10T001|Mejorar el apartado visual|... |2|...|To Review|
+3| US10| Gestión de clientes|US10T002|Agregar el mapa con Google Api|...|2|...| Done|
+3| US10| Gestión de clientes| US10T003|Refactorizar el codigo para agregar su propio bounded context para clientes|...|2|...|Done|
+3|US12|Crear ubicación y asignarla a un cliente|US12T001|Refactorizar el codigo para implementarlo en su propio bounded context|...|2|...|Done|
+3|US13|Reubicar una ubicación existente|US13T001|Utilizar el Google Api para editar la ubicación|...|2|...|Done|
+3|US14|Desactivar ubicación|US14T001|Implementar el boton de edit para deshabilitar una ubicación|...|2|...|Done|
+3|US15|Filtrar puntos por cliente en el mapa|US15T001|Utilizar el Google Maps Api para mostrar las locaciones guardadas|...|2|...|Done|
+3|US16|Agregar/Quitar puntos en una ruta|US16T001|Se utiliza google maps para poder escoger o quitar puntos en las rutas|...|2|...|Done|
+3|US17|Registrar vehículo|US17T001|Actualizar la lista de rutas para que muestre el ID del vehiculo y la placa asignada.|...|2|...|Done|
+3|US18|Inhabilitar vehículo|US18T001|Se agrega un dialog para poder editar el estado del vehiculo|...|2|...|Done|
+3|TS-SUB-001|Create Organization|TS-SUB-001-T001| Crear entidad Organization y repositorio OrganizationRepository |...|3|...|Done|
+3| | | TS-SUB-001-T002| Implementar comando CreateOrganizationCommand y su handler|...|3|...|Done|
+3| | |TS-SUB-001-T003| Implementar endpoint POST /api/v1/organization con validaciones|...|3|...|Done|
+3|TS-SUB-002| Get Organization By Id|TS-SUB-002-T001| Crear query GetOrganizationByIdQuery y su handler|...|3|Done|
+3| | |TS-SUB-002-T002| Implementar OrganizationResource y endpoint GET /api/v1/organization/{organizationId}|...|3|...|Done|
+3|TS-FLE-001|Register Vehicle|TS-FLE-001-T001| Crear entidad Vehicle y repositorio VehicleRepository en bounded context Fleet|...|3|...|Done|
+3| | | TS-FLE-001-T002|Implementar comando RegisterVehicleCommand y su handler|...|3|...|Done|
+3| | |TS-FLE-001-T003| Implementar endpoint POST /api/v1/vehicles con validaciones|...|3|...|Done|
+
+>>>>>>> 7109c1638caa5b27ddd2ddc1c776f9ed54ccf39b
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
