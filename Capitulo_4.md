@@ -723,33 +723,23 @@ En esta sección se presentan los diagramas de clases que detallan la implementa
 <img src="Resources/BC/Suscription.png">
 </div>
 
-1. Subscriptions and Payment Management
+1. Subscriptions
 <div style="text-align: center;">
 
 <img src="Resources/BC/Suscription2.png">
 </div>
 
-2. Identity and Access Management
-<div style="text-align: center;">
-<img src="Resources/Capitulo_4/Identity.png" alt="IdentidadyAcceso">
-</div>
-
-3. Fleet and Resource Management
+2. Fleet and Resource Management (Fleet)
 <div style="text-align: center;">
 <img src="Resources/BC/Fleet.png" alt="Recursos">
 </div>
 
-4. Customer & Location Management
+3. Customer & Location Management (CRM)
 <div style="text-align: center;">
 <img src="Resources/BC/CRM.png" alt="Ejecucion">
 </div>
 
-5. Incident & Reporting Management
-<div style="text-align: center;">
-<img src="Resources/Capitulo_4/Incidents.png" alt="Incidencias">
-</div>
-
-6. Route Planning & Execution
+4. Route Planning & Execution (Plannig)
 <div style="text-align: center;">
 <img src="Resources/BC/Planning.png" alt="rutas">
 </div>
