@@ -720,12 +720,13 @@ En esta sección se presentan los diagramas de clases que detallan la implementa
 
 ### 4.7.1. Class Diagrams.
 <div style="text-align: center;">
-<img src="Resources/Capitulo_4/ClassDiagram.png">
+<img src="Resources/BC/Suscription.png">
 </div>
 
 1. Subscriptions and Payment Management
 <div style="text-align: center;">
-<img src="Resources/Capitulo_4/Subscriptions.png" alt="SuscripcionesyPagos">
+
+<img src="Resources/BC/Suscription2.png">
 </div>
 
 2. Identity and Access Management
@@ -735,12 +736,12 @@ En esta sección se presentan los diagramas de clases que detallan la implementa
 
 3. Fleet and Resource Management
 <div style="text-align: center;">
-<img src="Resources/Capitulo_4/Resource.png" alt="Recursos">
+<img src="Resources/BC/Fleet.png" alt="Recursos">
 </div>
 
 4. Customer & Location Management
 <div style="text-align: center;">
-<img src="Resources/Capitulo_4/Service.png" alt="Ejecucion">
+<img src="Resources/BC/CRM.png" alt="Ejecucion">
 </div>
 
 5. Incident & Reporting Management
@@ -750,7 +751,7 @@ En esta sección se presentan los diagramas de clases que detallan la implementa
 
 6. Route Planning & Execution
 <div style="text-align: center;">
-<img src="Resources/Capitulo_4/Transportation.png" alt="rutas">
+<img src="Resources/BC/Planning.png" alt="rutas">
 </div>
 
 #### Frontend Class Diagrams
