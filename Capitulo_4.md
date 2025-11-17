@@ -561,7 +561,7 @@ En esta etapa el usuario crea una ruta y es redirigido a las pestañas de Locali
 
 1. Unstructured Exploration
 
-<img src="Resources/Level-ES/Storming AppsWeb - Step 1_ Unstructured Exploration.jpg" alt="Unstructured Exploration">
+<img src="Resources/Level-ES/Step 1_V2.jpg" alt="Unstructured Exploration">
 
 En esta fase inicial, se identifican los eventos de dominio sin preocuparse por el orden cronológico o la estructura. Los eventos se organizan en cuatro dominios principales:
 
@@ -653,7 +653,7 @@ Los modelos de lectura representan las vistas de datos que los usuarios necesita
 Estos modelos proporcionan la información necesaria para la operación y monitoreo del sistema de transporte.
 
 8. External Systems
-<img src="Resources/Level-ES/Storming AppsWeb - Step 8_ External Systems.jpg" alt="External Systems">
+<img src="Resources/Level-ES/Step 8_V2.jpg" alt="External Systems">
 
 Los sistemas externos son servicios de terceros con los que el sistema se integra para extender sus funcionalidades. Las integraciones identificadas incluyen:
 
@@ -663,7 +663,7 @@ Los sistemas externos son servicios de terceros con los que el sistema se integr
 Estas integraciones amplían las capacidades del sistema aprovechando servicios especializados externos.
 
 9. Aggregates
-<img src="Resources/Level-ES/Storming AppsWeb - Step 9_ Aggregates.jpg" alt="Aggregates">
+<img src="Resources/Level-ES/Step 9_V2.jpg" alt="Aggregates">
 
 Los agregados son conjuntos cohesivos de entidades y eventos que se gestionan como una unidad transaccional. Los agregados identificados son:
 
@@ -678,7 +678,7 @@ Los agregados son conjuntos cohesivos de entidades y eventos que se gestionan co
 Cada agregado garantiza la consistencia de sus datos y encapsula su propia lógica de negocio.
 
 10. Bounded Contexts
-<img src="Resources/Level-ES/Storming AppsWeb - Step 10_ Bounded Contexts.jpg" alt="Bounded Contexts">
+<img src="Resources/Level-ES/Step 10_V2.jpg" alt="Bounded Contexts">
 
 Los contextos delimitados organizan los agregados en dominios de negocio independientes con su propio lenguaje y modelos. Los bounded contexts identificados son:
 
