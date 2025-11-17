@@ -1074,7 +1074,24 @@ Durante el Sprint 2, el equipo demostró una colaboración efectiva enfocada en 
 </table>
 
 ### 5.2.3.2. Aspect Leaders and Collaborators.
+
 ### 5.2.3.3. Sprint Backlog 3
+<img src="./Resources" alt="Trello Sprint 2">
+<br>
+<a href="https://trello.com/b/1n7Mp1Xp/sprint-backlog-3" target="_blank">
+  <span>Tablero Sprint 2 en Trello</span>
+</a>
+
+A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, en el cual se incluyen las User Stories seleccionadas y su descomposición en tasks. Cada ítem contiene su respectiva descripción, estimación en horas, asignación y estado actual.
+
+| Sprint # | User Story Id | User Story Title                              | Work-Item / Task Id | Task Title                                      | Description                                                                                     | Estimation (Hours) | Assigned To              | Status |
+|-----------|----------------|-----------------------------------------------|---------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------|---------------------------|---------|
+3 | US10| Gestión de clientes| US10T001|Mejorar el apartado visual|... |2|...|To Review|
+3| US10| Gestión de clientes|US10T002|Agregar el mapa con Google Api|...|2|...| Done|
+3| US10| Gestión de clientes| US10T003|Refactorizar el codigo para agregar su propio bounded context para clientes|...|2|...|Done|
+3|US12|Crear ubicación y asignarla a un cliente|US12T001|Refactorizar el codigo para implementarlo en su propio bounded context|...|2|...|Done|
+3|US13|Reubicar una ubicación existente|US13T001|Utilizar el Google Api para editar la ubicación|...|2|...|Done|
+3|US14|Desactivar ubicación|US14T001|Implementar el boton de edit para deshabilitar una ubicación|...|2|...|Done
 ### 5.2.3.4. Development Evidence for Sprint Review. 
 ### 5.2.3.5. Execution Evidence for Sprint Review. 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
