@@ -1074,14 +1074,176 @@ Durante el Sprint 2, el equipo demostró una colaboración efectiva enfocada en 
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** correspondiente al Sprint 3. Cada aspecto se relaciona con los bounded contexts, funcionalidades frontend/backend y responsabilidades clave del sprint, asignando un **líder (L)** responsable principal y **colaboradores (C)** que apoyan en su ejecución.
+
+<table>
+<tr>
+<th>Team Member (Last Name, First Name)</th>
+<th>GitHub Username</th>
+<th>Subscriptions (BC Backend) (L/C)</th>
+<th>Fleet, Planning & CRM (BC Backend) (L/C)</th>
+<th>Auth & Subscriptions (Frontend) (L/C)</th>
+<th>Dispatchers Views (Frontend) (L/C)</th>
+<th>Frontend Corrections & Google API (L/C)</th>
+<th>Backend Architecture & Technical Stories (L/C)</th>
+<th>Backend Deployment (L/C)</th>
+<th>Landing Page Updates (L/C)</th>
+<th>Media & Documentation (L/C)</th>
+</tr>
+<tr>
+<td>Castillo Vidal, Jesús Iván</td>
+<td>Jcdev04</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Costa Morales, Christofer William</td>
+<td>miniChorri</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Gordillo Ramos, Santiago Alonso</td>
+<td>SantiIHC</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Guzmán Cabrejos, Yaku Mateo</td>
+<td>yak-cod</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Medina Merma, Ingrid Melani</td>
+<td>Grini913</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>L</td>
+<td>L</td>
+</tr>
+</table>
+
+**Notas:**
+
+- Cada integrante asumió liderazgo en aspectos específicos relacionados con los bounded contexts y funcionalidades del Sprint 3.
+- Jesús lideró el bounded context de Subscriptions (backend), la definición de technical stories, los diagramas de arquitectura del backend y el deployment, además de guiar al equipo de frontend en mejoras.
+- Yaku lideró el bounded context de Fleet, Planning y CRM (backend) y el desarrollo del frontend para las vistas de Dispatchers.
+- Ingrid lideró el frontend de Auth y Subscriptions, la actualización de la landing page, y coordinó la creación de videotutoriales, media y documentación.
+- Santiago y Christofer lideraron conjuntamente las correcciones de vistas de frontend, la resolución de bugs, la implementación de Google API, y la corrección de bugs de backend y relaciones incorrectas.
+
 #### 5.2.3.3. Sprint Backlog 3.
+
+<img src="./Resources/Capitulo_5/Trello_sprint3.jpg" alt="Trello Sprint 3">
+<br>
+<a href="https://trello.com/b/1n7Mp1Xp/sprint-backlog-3" target="_blank">
+  <span>Tablero Sprint 3 en Trello</span>
+</a>
+
+A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, en el cual se incluyen las User Stories seleccionadas y su descomposición en tasks. Cada ítem contiene su respectiva descripción, estimación en horas, asignación y estado actual.
+
+| Sprint # | User Story Id | User Story Title                         | Work-Item / Task Id | Task Title                                           | Description                                                                 | Estimation (Hours) | Assigned To         | Status    |
+| -------- | ------------- | ---------------------------------------- | ------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------- | ------------------ | ------------------- | --------- |
+| 3        | US33          | Diseño responsivo y navegación           | US33T001            | Modificar diseño responsivo en seccion about         | Actualizar el diseño responsivo de la sección "About" para mejorar la experiencia en diferentes dispositivos. | 2                  | Ingrid              | Done      |
+| 3        |               |                                          | US33T002            | Modificar diseño responsivo en seccion faq           | Actualizar el diseño responsivo de la sección FAQ para adaptarse a diferentes tamaños de pantalla. | 2                  | Ingrid              | Done      |
+| 3        |               |                                          | US33T003            | Modificar diseño responsivo en seccion header        | Mejorar el diseño responsivo del header para una mejor navegación en móviles y tablets. | 2                  | Ingrid              | Done      |
+| 3        |               |                                          | US33T004            | Modificar diseño responsivo en seccion services      | Actualizar el diseño responsivo de la sección de servicios para diferentes dispositivos. | 2                  | Ingrid              | Done      |
+| 3        |               |                                          | US33T005            | Modificar diseño responsivo en seccion footer        | Mejorar el diseño responsivo del footer para una mejor visualización en todos los dispositivos. | 2                  | Ingrid              | Done      |
+| 3        | US34          | Secciones segmentadas                    | US34T001            | Agregar seccion de enganche final                    | Implementar sección de enganche final en la landing page para mejorar la conversión. | 2                  | Ingrid              | Done      |
+| 3        |               |                                          | US34T002            | Se agrego seccion de Terminos y Condiciones          | Implementar sección de Términos y Condiciones en la landing page con contenido actualizado. | 2                  | Ingrid              | Done      |
+| 3        |               |                                          | US34T003            | Se agrego seccion de Politica de Privacidad          | Implementar sección de Política de Privacidad en la landing page con contenido actualizado. | 2                  | Ingrid              | Done      |
+| 3        | US10          | Gestión de clientes                      | US10T002            | Agregar el mapa con Google Api                       | Integrar Google Maps API en la gestión de clientes para visualizar ubicaciones en el mapa. | 3                  | Santiago y Christofer | Done      |
+| 3        |               |                                          | US10T003            | Refactorizar el codigo para agregar su propio bounded context para clientes | Refactorizar el código de clientes para implementarlo en su propio bounded context. | 2                  | Santiago y Christofer | Done      |
+| 3        | US12          | Crear ubicación y asignarla a un cliente | US12T001            | Refactorizar el codigo para implementarlo en su propio bounded context | Refactorizar el código de ubicaciones para implementarlo en su propio bounded context. | 2                  | Santiago y Christofer | Done      |
+| 3        | US15          | Filtrar puntos por cliente en el mapa   | US15T001            | Utilizar el Google Maps Api para mostrar las locaciones guardadas | Implementar funcionalidad para mostrar las ubicaciones guardadas usando Google Maps API. | 3                  | Santiago y Christofer | Done      |
+| 3        | US13          | Reubicar una ubicación existente         | US13T001            | Utilizar el Google Api para editar la ubicación       | Implementar funcionalidad para editar y reubicar ubicaciones existentes usando Google Maps API. | 3                  | Santiago y Christofer | Done      |
+| 3        | US14          | Desactivar ubicación                     | US14T001            | Implementar el boton de edit para deshabilitar una ubicación | Agregar funcionalidad para desactivar ubicaciones mediante un botón de edición. | 2                  | Santiago y Christofer | Done      |
+| 3        | US16          | Agregar/Quitar puntos en una ruta        | US16T001            | Se utiliza google maps para poder escoger o quitar puntos en las rutas | Implementar funcionalidad para agregar o quitar puntos en rutas usando Google Maps. | 3                  | Yaku                | Done      |
+| 3        | US17          | Registrar vehículo                       | US17T001            | Actualizar la lista de rutas para que muestre el ID del vehiculo y la placa asignada | Actualizar la visualización de rutas para mostrar el ID del vehículo y la placa asignada. | 2                  | Yaku                | Done      |
+| 3        | US18          | Inhabilitar vehículo                    | US18T001            | Se agrega un dialog para poder editar el estado del vehiculo | Implementar diálogo para editar el estado del vehículo (habilitar/inhabilitar). | 2                  | Yaku                | Done      |
+| 3        | US29          | Gestión de roles del equipo de transporte | US29T001            | Actualizar los teams con los usuarios y asignados a cada vehiculo | Actualizar la gestión de equipos para mostrar usuarios asignados a cada vehículo. | 2                  | Yaku                | Done      |
+| 3        | US05          | Gestión de roles del equipo de transporte | US05T001            | Gestionar roles y permisos del equipo de transporte | Implementar funcionalidad para gestionar roles y permisos de los miembros del equipo de transporte. | 2                  | Yaku                | Done      |
+| 3        | US32          | Generación de reportes operativos         | US32T001            | Implementar generación de reportes operativos       | Desarrollar funcionalidad para generar reportes operativos del sistema. | 3                  | Jesús               | Done      |
+| 3        | TS-SUB-001    | Create Organization                        | TS-SUB-001-T001     | Crear entidad Organization y repositorio OrganizationRepository | Crear la entidad Organization y su repositorio correspondiente en el bounded context de Subscriptions. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-SUB-001-T002     | Implementar comando CreateOrganizationCommand y su handler | Implementar el comando CreateOrganizationCommand y su handler para crear organizaciones. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-SUB-001-T003     | Implementar endpoint POST /api/v1/organization con validaciones | Implementar el endpoint POST para crear organizaciones con las validaciones correspondientes. | 2                  | Jesús               | Done      |
+| 3        | TS-SUB-002    | Get Organization By Id                     | TS-SUB-002-T001     | Crear query GetOrganizationByIdQuery y su handler | Crear la query GetOrganizationByIdQuery y su handler para obtener organizaciones por ID. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-SUB-002-T002     | Implementar OrganizationResource y endpoint GET /api/v1/organization/{organizationId} | Implementar el OrganizationResource y el endpoint GET para obtener una organización por ID. | 2                  | Jesús               | Done      |
+| 3        | TS-FLE-001    | Register Vehicle                           | TS-FLE-001-T001     | Crear entidad Vehicle y repositorio VehicleRepository en bounded context Fleet | Crear la entidad Vehicle y su repositorio correspondiente en el bounded context de Fleet. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-FLE-001-T002     | Implementar comando RegisterVehicleCommand y su handler | Implementar el comando RegisterVehicleCommand y su handler para registrar vehículos. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-FLE-001-T003     | Implementar endpoint POST /api/v1/vehicles con validaciones | Implementar el endpoint POST para registrar vehículos con las validaciones correspondientes. | 2                  | Jesús               | Done      |
+| 3        | TS-FLE-002    | Update Vehicle Profile & Enable/Disable   | TS-FLE-002-T001     | Implementar comando UpdateVehicleCommand y endpoint PUT /api/v1/vehicles/{vehicleId} | Implementar el comando UpdateVehicleCommand y el endpoint PUT para actualizar vehículos. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-FLE-002-T002     | Crear comandos EnableVehicleCommand y DisableVehicleCommand con sus handlers | Crear los comandos EnableVehicleCommand y DisableVehicleCommand con sus respectivos handlers. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-FLE-002-T003     | Implementar endpoints PATCH /enable y /disable para vehículos | Implementar los endpoints PATCH para habilitar y deshabilitar vehículos. | 2                  | Jesús               | Done      |
+| 3        | TS-FLE-003    | Get Vehicles By Organization               | TS-FLE-003-T001     | Crear queries GetVehicleByIdQuery y GetVehiclesByOrganizationQuery con sus handlers | Crear las queries GetVehicleByIdQuery y GetVehiclesByOrganizationQuery con sus respectivos handlers. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-FLE-003-T002     | Implementar VehicleResource para respuestas | Implementar el VehicleResource para estructurar las respuestas de los endpoints de vehículos. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-FLE-003-T003     | Implementar endpoints GET para vehículo individual y por organización | Implementar los endpoints GET para obtener un vehículo individual y vehículos por organización. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-FLE-003-T004     | Agregar filtro por estado enabled y su endpoint | Agregar funcionalidad de filtrado por estado enabled y su endpoint correspondiente. | 2                  | Jesús               | Done      |
+| 3        | TS-CRM-001    | Register & Toggle Client                   | TS-CRM-001-T001     | Crear entidad Client y repositorio ClientRepository en bounded context CRM | Crear la entidad Client y su repositorio correspondiente en el bounded context de CRM. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-CRM-001-T002     | Implementar comando RegisterClientCommand y endpoint POST /api/v1/clients | Implementar el comando RegisterClientCommand y el endpoint POST para registrar clientes. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-CRM-001-T003     | Crear comandos Enable/DisableClientCommand y sus endpoints PATCH | Crear los comandos EnableClientCommand y DisableClientCommand con sus respectivos endpoints PATCH. | 2                  | Jesús               | Done      |
+| 3        | TS-CRM-002    | Register & Toggle Location                 | TS-CRM-002-T001     | Crear entidad Location y repositorio LocationRepository en bounded context CRM | Crear la entidad Location y su repositorio correspondiente en el bounded context de CRM. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-CRM-002-T002     | Implementar comando RegisterLocationCommand y endpoint POST /api/v1/locations | Implementar el comando RegisterLocationCommand y el endpoint POST para registrar ubicaciones. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-CRM-002-T003     | Crear comandos Enable/DisableLocationCommand y sus endpoints PATCH | Crear los comandos EnableLocationCommand y DisableLocationCommand con sus respectivos endpoints PATCH. | 2                  | Jesús               | Done      |
+| 3        | TS-CRM-003    | Query Clients and Locations                | TS-CRM-003-T001     | Crear queries para Client (ById, ByOrganization, WithLocations) y sus handlers | Crear las queries GetClientByIdQuery, GetClientsByOrganizationQuery y GetClientsWithLocationsQuery con sus handlers. | 3                  | Jesús               | Done      |
+| 3        |               |                                            | TS-CRM-003-T002     | Implementar ClientResource y endpoints GET para clientes | Implementar el ClientResource y los endpoints GET para obtener clientes. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-CRM-003-T003     | Crear queries para Location (ById, ByClient) y sus handlers | Crear las queries GetLocationByIdQuery y GetLocationsByClientQuery con sus respectivos handlers. | 2                  | Jesús               | Done      |
+| 3        |               |                                            | TS-CRM-003-T004     | Implementar LocationResource y endpoints GET para locations | Implementar el LocationResource y los endpoints GET para obtener ubicaciones. | 2                  | Jesús               | Done      |
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
+
+
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+
+<img src="./Resources/Capitulo_5/endpoints-1.jpg" alt="Trello Sprint 3">
+<br>
+
+
+<img src="./Resources/Capitulo_5/endpoints-2.jpg" alt="Trello Sprint 3">
+<br>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
+
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+<img src="./Resources/Capitulo_5/database-deploynment.png" alt="Trello Sprint 3">
+<br>
+<img src="./Resources/Capitulo_5/deploynment-backend.png" alt="Trello Sprint 3">
+<br>

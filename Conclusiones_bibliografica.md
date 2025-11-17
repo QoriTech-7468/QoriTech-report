@@ -91,5 +91,14 @@ Link de aplicación frontend: https://shorturl.at/g93lZ
 Link del trello: https://shorturl.at/yIF72
 ![evidencia de trello](./Resources/Capitulo_5/Trello_sprint2.jpg)
 
-### Anexo G. Video de Exposición TP1
+### Anexo H. Video de Exposición TP1
 Link del video: https://shorturl.at/zGhAA
+
+### Anexo I. Video de Exposición TB2
+Link del video: https://shorturl.at/asdasd
+
+### Anexo J. Deploynment backend
+Link del video: https://frock-back-end.onrender.com
+
+### Anexo J. Trello Sprint 3
+Link del video: https://trello.com/b/1n7Mp1Xp/sprint-backlog-3
