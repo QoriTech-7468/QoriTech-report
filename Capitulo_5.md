@@ -1076,10 +1076,10 @@ Durante el Sprint 2, el equipo demostró una colaboración efectiva enfocada en 
 ### 5.2.3.2. Aspect Leaders and Collaborators.
 
 ### 5.2.3.3. Sprint Backlog 3
-<img src="./Resources" alt="Trello Sprint 2">
+<img src="./Resources/Capitulo_5/Sprint3/SprintBacklog.png" alt="Trello Sprint 3">
 <br>
 <a href="https://trello.com/b/1n7Mp1Xp/sprint-backlog-3" target="_blank">
-  <span>Tablero Sprint 2 en Trello</span>
+  <span>Tablero Sprint 3 en Trello</span>
 </a>
 
 A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, en el cual se incluyen las User Stories seleccionadas y su descomposición en tasks. Cada ítem contiene su respectiva descripción, estimación en horas, asignación y estado actual.
@@ -1092,6 +1092,9 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 3|US12|Crear ubicación y asignarla a un cliente|US12T001|Refactorizar el codigo para implementarlo en su propio bounded context|...|2|...|Done|
 3|US13|Reubicar una ubicación existente|US13T001|Utilizar el Google Api para editar la ubicación|...|2|...|Done|
 3|US14|Desactivar ubicación|US14T001|Implementar el boton de edit para deshabilitar una ubicación|...|2|...|Done|
+3|US15|Filtrar puntos por cliente en el mapa|US15T001|Utilizar el Google Maps Api para mostrar las locaciones guardadas|...|2|...|Done|
+3|US16|Agregar/Quitar puntos en una ruta|US16T001|Se utiliza google maps para poder escoger o quitar puntos en las rutas|...|2|...|Done|
+3|US17|Registrar vehículo|US17T001|Actualizar la lista de rutas para que muestre el ID del vehiculo y la placa asignada.|...|2|...|Done
 
 ### 5.2.3.4. Development Evidence for Sprint Review. 
 ### 5.2.3.5. Execution Evidence for Sprint Review. 
