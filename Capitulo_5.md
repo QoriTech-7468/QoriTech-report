@@ -1091,7 +1091,8 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 3| US10| Gestión de clientes| US10T003|Refactorizar el codigo para agregar su propio bounded context para clientes|...|2|...|Done|
 3|US12|Crear ubicación y asignarla a un cliente|US12T001|Refactorizar el codigo para implementarlo en su propio bounded context|...|2|...|Done|
 3|US13|Reubicar una ubicación existente|US13T001|Utilizar el Google Api para editar la ubicación|...|2|...|Done|
-3|US14|Desactivar ubicación|US14T001|Implementar el boton de edit para deshabilitar una ubicación|...|2|...|Done
+3|US14|Desactivar ubicación|US14T001|Implementar el boton de edit para deshabilitar una ubicación|...|2|...|Done|
+
 ### 5.2.3.4. Development Evidence for Sprint Review. 
 ### 5.2.3.5. Execution Evidence for Sprint Review. 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
@@ -1102,3 +1103,14 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 ### 5.3.2. Registro de Entrevistas. 
 ### 5.3.3. Evaluaciones según heurísticas. 
 ### 5.4. Video About-the-Product. 
+<img src="./Resources/AboutTheProductv1/Youtube.png">
+<br>
+<a href="https://youtu.be/2dZIAQPCCvM" target="_blank">
+  <span>Youtube: upc-pre-202520-1asi0730-7468-QoriTech-aboutthe-product-sprint-3</span>
+</a>
+<br><br>
+<img src="./Resources/AboutTheProductv1/OneDrive.png">
+<br>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/IQAi_g0Cnl31R5XFV1ZcWSA7AYvi_miAIvrGG73hHsW-7mU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pW3nhj" target="_blank">
+  <span>OneDrive: upc-pre-202520-1asi0730-7468-QoriTech-aboutthe-product-sprint-3</span>
+</a>
