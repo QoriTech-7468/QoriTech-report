@@ -1094,7 +1094,17 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 3|US14|Desactivar ubicación|US14T001|Implementar el boton de edit para deshabilitar una ubicación|...|2|...|Done|
 3|US15|Filtrar puntos por cliente en el mapa|US15T001|Utilizar el Google Maps Api para mostrar las locaciones guardadas|...|2|...|Done|
 3|US16|Agregar/Quitar puntos en una ruta|US16T001|Se utiliza google maps para poder escoger o quitar puntos en las rutas|...|2|...|Done|
-3|US17|Registrar vehículo|US17T001|Actualizar la lista de rutas para que muestre el ID del vehiculo y la placa asignada.|...|2|...|Done
+3|US17|Registrar vehículo|US17T001|Actualizar la lista de rutas para que muestre el ID del vehiculo y la placa asignada.|...|2|...|Done|
+3|US18|Inhabilitar vehículo|US18T001|Se agrega un dialog para poder editar el estado del vehiculo|...|2|...|Done|
+3|TS-SUB-001|Create Organization|TS-SUB-001-T001| Crear entidad Organization y repositorio OrganizationRepository |...|3|...|Done|
+3| | | TS-SUB-001-T002| Implementar comando CreateOrganizationCommand y su handler|...|3|...|Done|
+3| | |TS-SUB-001-T003| Implementar endpoint POST /api/v1/organization con validaciones|...|3|...|Done|
+3|TS-SUB-002| Get Organization By Id|TS-SUB-002-T001| Crear query GetOrganizationByIdQuery y su handler|...|3|Done|
+3| | |TS-SUB-002-T002| Implementar OrganizationResource y endpoint GET /api/v1/organization/{organizationId}|...|3|...|Done|
+3|TS-FLE-001|Register Vehicle|TS-FLE-001-T001| Crear entidad Vehicle y repositorio VehicleRepository en bounded context Fleet|...|3|...|Done|
+3| | | TS-FLE-001-T002|Implementar comando RegisterVehicleCommand y su handler|...|3|...|Done|
+3| | |TS-FLE-001-T003| Implementar endpoint POST /api/v1/vehicles con validaciones|...|3|...|Done|
+
 
 ### 5.2.3.4. Development Evidence for Sprint Review. 
 ### 5.2.3.5. Execution Evidence for Sprint Review. 
