@@ -2,22 +2,27 @@
 
 <div align= "center">
 
+<h1 style="text-align: center;">Universidad Peruana de Ciencias Aplicada</h1><br>
 
-### Universidad Peruana de Ciencias Aplicadas
+<h3 style="text-align: center; font-weight: normal; font-size: 22px; margin-top: 0;">
+  Ingeniería de Software – 2025-20
+</h3><br>
 
-**Ingeniería de software - 202520**<br><br>
+<p align="center"><strong>Curso:</strong> 1ASI0730 – Aplicaciones Web</p>
 
-**Curso:** 1ASI0730 Aplicaciones Web<br><br>
+ <p align="center"><strong>NRC:</strong> 7468</p>
 
-**NRC:** 7468<br><br>
+ <p align="center"><strong>Profesor:</strong> Velásquez Núñez, Ángel Augusto</p>
 
-**Profesor:** Velásquez Núñez, Ángel Augusto<br><br>
+  <p align="center"><strong>StartUp:</strong> QoriTech</p>
 
-**StartUp:** QoriTech<br><br>
 
-**Producto:** Rutana<br><br>
+  <p align="center"><strong>Producto:</strong> Rutana</p><br><br>
 
-**Informe Trabajo Final**<br><br>
+<h2 style="text-align: center; font-size: 24px; margin-top: 30px;">
+  <strong>Informe de Trabajo Final</strong>
+</h2>
+
 
 <table align="center"> 
 <tr>
@@ -45,11 +50,12 @@
 <td>U202213185</td>
 </tr>
 </table>
-<div> Septiembre 2025 </div>
+<br><br>
+<div align="center"> Septiembre 2025 </div>
 </div>
 
 
-<hr style="page-break-after: always;">
+<div style="page-break-after: always;"></div>
 
 
 ## **Registro de versiones del Informe**
@@ -377,6 +383,7 @@
           <li>Anexos</li>
         </ul></td>
 </tr>
+<tr>
 <td align="center">2.3</td>
     <td align="center">2025-10-10</td>
     <td>Castillo Vidal, Jesus Ivan</td>
@@ -385,16 +392,17 @@
           <li>Student Outcome</li>
         </ul></td>
 </tr>
-</tr>
+<tr>
 <td align="center">2.4</td>
     <td align="center">2025-10-10</td>
     <td>Guzmán Cabrejos, Yaku Mateo</td>
     <td> 
         <ul>
           <li>Student Outcome</li>
-        </ul></td>
+        </ul>
+        </td>
 </tr>
-</tr>
+<tr>
 <td align="center">2.5</td>
     <td align="center">2025-10-1</td>
     <td>Gordillo Ramos, Santiago Alonso</td>
@@ -403,7 +411,7 @@
           <li>Student Outcome</li>
         </ul></td>
 </tr>
-</tr>
+<tr>
 <td align="center">2.6</td>
     <td align="center">2025-10-10</td>
     <td>Costa Morales, Christofer Williamn</td>
@@ -412,7 +420,7 @@
           <li>Student Outcome</li>
         </ul></td>
 </tr>
-</tr>
+<tr>
 <td align="center">2.7</td>
     <td align="center">2025-10-10</td>
     <td>Medina Merma, Ingrid Melani</td>
@@ -421,6 +429,7 @@
           <li>Student Outcome</li>
         </ul></td>
 </tr>
+<tr>
 <td align="center">3.1</td>
     <td align="center">2025-11-16</td>
     <td>Castillo Vidal, Jesus Ivan</td>
@@ -429,6 +438,7 @@
           <li>Spring Planning 3</li>
         </ul></td>
 </tr>
+<tr>
 <td align="center">3.2</td>
     <td align="center">2025-11-16</td>
     <td>Castillo Vidal, Jesus Ivan</td>
@@ -437,6 +447,7 @@
           <li> Aspect Leaders and Collaborators</li>
         </ul></td>
 </tr>
+<tr>
 <td align="center">3.3</td>
     <td align="center">2025-11-16</td>
     <td>Castillo Vidal, Jesus Ivan</td>
@@ -445,6 +456,7 @@
           <li>Sprint Backlog 3</li>
         </ul></td>
 </tr>
+<tr>
 <td align="center">3.4</td>
     <td align="center">2025-11-16</td>
     <td>Castillo Vidal, Jesus Ivan</td>
@@ -453,6 +465,7 @@
           <li>Development Evidence for Sprint Review</li>
         </ul></td>
 </tr>
+<tr>
 <td align="center">3.5</td>
     <td align="center">2025-11-16</td>
     <td>Castillo Vidal, Jesus Ivan</td>
@@ -461,6 +474,7 @@
           <li>Execution Evidence for Sprint Review</li>
         </ul></td>
 </tr>
+<tr>
 <td align="center">3.6</td>
     <td align="center">2025-11-16</td>
     <td>Castillo Vidal, Jesus Ivan</td>
@@ -469,6 +483,7 @@
           <li>Services Documentation Evidence for Sprint Review</li>
         </ul></td>
 </tr>
+<tr>
 <td align="center">3.7</td>
     <td align="center">2025-11-16</td>
     <td>Castillo Vidal, Jesus Ivan</td>
@@ -477,6 +492,7 @@
           <li>Software Deployment Evidence for Sprint Review</li>
         </ul></td>
 </tr>
+<tr>
 <td align="center">3.8</td>
     <td align="center">2025-11-16</td>
     <td>Castillo Vidal, Jesus Ivan</td>
@@ -485,6 +501,7 @@
           <li>Team Collaboration Insights during Sprint</li>
         </ul></td>
 </tr>
+<tr>
 <td align="center">3.9</td>
     <td align="center">2025-11-16</td>
     <td>Castillo Vidal, Jesus Ivan</td>
@@ -493,6 +510,7 @@
           <li>Abouth the product</li>
         </ul></td>
 </tr>
+<tr>
 <td align="center">3.10</td>
     <td align="center">2025-11-16</td>
     <td>Castillo Vidal, Jesus Ivan</td>
@@ -501,7 +519,7 @@
           <li>Student Outcome</li>
         </ul></td>
 </tr>
-</tr>
+<tr>
 <td align="center">3.11</td>
     <td align="center">2025-11-16</td>
     <td>Guzmán Cabrejos, Yaku Mateo</td>
@@ -510,7 +528,7 @@
           <li>Student Outcome</li>
         </ul></td>
 </tr>
-</tr>
+<tr>
 <td align="center">3.12</td>
     <td align="center">2025-11-16</td>
     <td>Gordillo Ramos, Santiago Alonso</td>
@@ -519,7 +537,7 @@
           <li>Student Outcome</li>
         </ul></td>
 </tr>
-</tr>
+<tr>
 <td align="center">3.13</td>
     <td align="center">2025-11-16</td>
     <td>Costa Morales, Christofer Williamn</td>
@@ -528,7 +546,7 @@
           <li>Student Outcome</li>
         </ul></td>
 </tr>
-</tr>
+<tr>
 <td align="center">3.14</td>
     <td align="center">2025-11-16</td>
     <td>Medina Merma, Ingrid Melani</td>
@@ -538,6 +556,8 @@
         </ul></td>
 </tr>
 </table>
+
+<div style="page-break-after: always;"></div>
 
 ## Project Report Collaboration Insights
 
@@ -582,6 +602,8 @@ Durante esta fase, el equipo desarrolló la aplicación frontend completa utiliz
 - **SantiIHC (Santiago Gordillo):** 9 commits, 4,677 adiciones, 1,811 eliminaciones
 - **Grini913 (Ingrid Medina):** 2 commits, 402 adiciones, 110 eliminaciones
 - **Total de commits en TP1:** 57
+
+<div style="page-break-after: always;"></div>
 
 # Tabla de contenidos
 
@@ -694,6 +716,8 @@ Durante esta fase, el equipo desarrolló la aplicación frontend completa utiliz
     - [5.2.3.2 Aspect Leaders and Collaborators](Capitulo_5.md#5232-aspect-leaders-and-collaborators)
     - [5.2.3.3 Sprint Backlog 3](Capitulo_5.md#5233-sprint-backlog-3)
 
+<div style="page-break-after: always;"></div>
+
 ## [Conclusiones](Conclusiones_bibliografica.md#conclusiones)
 
 - [Conclusiones y recomendaciones](Conclusiones_bibliografica.md#conclusiones-y-recomendaciones)
@@ -702,6 +726,8 @@ Durante esta fase, el equipo desarrolló la aplicación frontend completa utiliz
 ## [Bibliografía](Conclusiones_bibliografica.md#bibliografía)
 
 ## [Anexos](Conclusiones_bibliografica.md#anexos)
+
+<div style="page-break-after: always;"></div>
 
 ## Student Outcome
 
