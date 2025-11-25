@@ -4,7 +4,7 @@
   
 ### Universidad Peruana de Ciencias Aplicadas
 
-**Ingeniería de software - 2025-02**<br><br>
+**Ingeniería de software - 202520**<br><br>
 
 **Curso:** 1ASI0730 Aplicaciones Web<br><br>
 
@@ -17,6 +17,7 @@
 **Producto:** Rutana<br><br>
 
 **Informe Trabajo Final**<br><br>
+</div>
 
 <table align="center"> 
 <tr>
@@ -46,6 +47,8 @@
 </table>
 <div> Septiembre 2025 </div>
 </div>
+
+
 
 ## **Registro de versiones del Informe**
 
@@ -417,6 +420,7 @@
         </ul></td>
 </tr>
 </table>
+
 
 ## Project Report Collaboration Insights
 
