@@ -1,10 +1,11 @@
 ![alt text](Resources/Banner-UPC.png)
 
 <div align= "center">
-  
+
+
 ### Universidad Peruana de Ciencias Aplicadas
 
-**Ingeniería de software - 2025-02**<br><br>
+**Ingeniería de software - 202520**<br><br>
 
 **Curso:** 1ASI0730 Aplicaciones Web<br><br>
 
@@ -46,6 +47,10 @@
 </table>
 <div> Septiembre 2025 </div>
 </div>
+
+
+<hr style="page-break-after: always;">
+
 
 ## **Registro de versiones del Informe**
 
@@ -406,8 +411,8 @@
         <ul>
           <li>Student Outcome</li>
         </ul></td>
-  </tr>
-<tr>
+</tr>
+</tr>
 <td align="center">2.7</td>
     <td align="center">2025-10-10</td>
     <td>Medina Merma, Ingrid Melani</td>
@@ -415,43 +420,123 @@
         <ul>
           <li>Student Outcome</li>
         </ul></td>
-  </tr>
-<tr>
-<td align="center">3.0</td>
-    <td align="center">2025-10-21</td>
+</tr>
+<td align="center">3.1</td>
+    <td align="center">2025-11-16</td>
     <td>Castillo Vidal, Jesus Ivan</td>
     <td> 
         <ul>
-          <li>Redacción del sprint goal</li>
+          <li>Spring Planning 3</li>
         </ul></td>
-  </tr>
-<tr>
-<td align="center">3.1</td>
-    <td align="center">2025-10-22</td>
+</tr>
+<td align="center">3.2</td>
+    <td align="center">2025-11-16</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li> Aspect Leaders and Collaborators</li>
+        </ul></td>
+</tr>
+<td align="center">3.3</td>
+    <td align="center">2025-11-16</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Sprint Backlog 3</li>
+        </ul></td>
+</tr>
+<td align="center">3.4</td>
+    <td align="center">2025-11-16</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Development Evidence for Sprint Review</li>
+        </ul></td>
+</tr>
+<td align="center">3.5</td>
+    <td align="center">2025-11-16</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Execution Evidence for Sprint Review</li>
+        </ul></td>
+</tr>
+<td align="center">3.6</td>
+    <td align="center">2025-11-16</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Services Documentation Evidence for Sprint Review</li>
+        </ul></td>
+</tr>
+<td align="center">3.7</td>
+    <td align="center">2025-11-16</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Software Deployment Evidence for Sprint Review</li>
+        </ul></td>
+</tr>
+<td align="center">3.8</td>
+    <td align="center">2025-11-16</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Team Collaboration Insights during Sprint</li>
+        </ul></td>
+</tr>
+<td align="center">3.9</td>
+    <td align="center">2025-11-16</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Abouth the product</li>
+        </ul></td>
+</tr>
+<td align="center">3.10</td>
+    <td align="center">2025-11-16</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td> 
+        <ul>
+          <li>Student Outcome</li>
+        </ul></td>
+</tr>
+</tr>
+<td align="center">3.11</td>
+    <td align="center">2025-11-16</td>
     <td>Guzmán Cabrejos, Yaku Mateo</td>
     <td> 
         <ul>
-          <li>Redacción de technical stories en el product backlog</li>
+          <li>Student Outcome</li>
         </ul></td>
-  </tr>
-<tr>
-<td align="center">3.2</td>
-    <td align="center">2025-10-16</td>
+</tr>
+</tr>
+<td align="center">3.12</td>
+    <td align="center">2025-11-16</td>
+    <td>Gordillo Ramos, Santiago Alonso</td>
+    <td> 
+        <ul>
+          <li>Student Outcome</li>
+        </ul></td>
+</tr>
+</tr>
+<td align="center">3.13</td>
+    <td align="center">2025-11-16</td>
+    <td>Costa Morales, Christofer Williamn</td>
+    <td> 
+        <ul>
+          <li>Student Outcome</li>
+        </ul></td>
+</tr>
+</tr>
+<td align="center">3.14</td>
+    <td align="center">2025-11-16</td>
     <td>Medina Merma, Ingrid Melani</td>
     <td> 
         <ul>
-          <li>Actualización de los diagramas de arquitectura para el backend y subir el sprint backlog</li>
+          <li>Student Outcome</li>
         </ul></td>
-  </tr>
-<tr>
-<td align="center">3.3</td>
-    <td align="center">2025-10-16</td>
-    <td>Castillo Vidal, Jesus Ivan</td>
-    <td> 
-        <ul>
-          <li>Documentación del sprint 3 y actualización de anexos</li>
-        </ul></td>
-  </tr>
+</tr>
 </table>
 
 ## Project Report Collaboration Insights
@@ -624,7 +709,7 @@ ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamen
 
 | Criterio                                                                                        | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta.                                | **Jesús Castillo:**<br>**TB1:** Organizó al equipo, convocó reuniones, lideró sesiones de "event storming" y definió historias de usuario. Realizó wireframes y dio dirección al producto.<br>**TP1:** Lideró la corrección del Design Level Event Storming, mejoró diagramas C4, documentó el Capítulo 5 del Sprint 2, definió la estructura del sprint, corrigió diseños en Figma y mejoró la UI/UX del frontend.<br>**TB2:** Realizó correcciones del sprint anterior con respecto a limitaciones del producto, definió las technical stories y con ello la programación de los bounded context Subscriptions y corrigió los bugs, definió los diagramas de la arquitectura para el backend, y guió al equipo de frontend para que hagan mejoras.<br><br>**Christofer Costa:**<br>**TB1:** Aportó en "event storming", lideró el diseño de mockups y wireflows, generó imágenes y contribuyó en la landing page.<br>**TP1:** Lideró el bounded context de Fleet & Resource Management, gestionó el módulo de clientes (Customer & Location Management) y configuró la infraestructura inicial del proyecto frontend con Vue.js y PrimeVue.<br>**TB2:** Corrigió las vistas de frontend, resolvió bugs, implementó Google API, y por otro lado implementó y corrigió bugs de backend y relaciones que estaban mal.<br><br>**Santiago Gordillo:**<br>**TB1:** Gestionó el desarrollo de la landing page, organizó las tareas con gitflow y conventional commits, participó en entrevistas y elaboró el canvas.<br>**TP1:** Lideró el bounded context de Identity & Access Management (IAM) y Fleet Management, implementando autenticación, gestión de usuarios, roles y permisos del sistema.<br>**TB2:** Corrigió las vistas de frontend, resolvió bugs, implementó Google API, y por otro lado implementó y corrigió bugs de backend y relaciones que estaban mal.<br><br>**Yaku Guzmán:**<br>**TB1:** Brindó retroalimentación constante, orientó la documentación, apoyó en gitflow, artefactos, entrevistas y la landing page.<br>**TP1:** Lideró el bounded context de Route Planning & Execution, desarrollando diagramas C4 específicos y gestionando toda la funcionalidad relacionada con rutas y entregas.<br>**TB2:** Programó el frontend para la vista de los Dispatchers y con ello también la programación de los BC de Fleet, Planning y CRM.<br><br>**Ingrid Medina:**<br>**TB1:** Coordinó entrevistas, editó videos, aportó conocimientos del sector, realizó diagramas y wireframes, participando activamente en reuniones.<br>**TP1:** Lideró la implementación de internacionalización (i18n), gestionó el Big Picture Event Storming, documentó tareas en Trello, mantuvo control del proyecto y coordinó la comunicación del equipo.<br>**TB2:** Programó el frontend para el auth y subscription, coordinó toda la parte de creación de videotutoriales, la parte de media y documentación. | **TB1:** <br>El equipo demostró un sólido trabajo colaborativo, combinando liderazgo compartido y compromiso en cada etapa del proyecto. A través de una comunicación constante, una adecuada organización y el compromiso colectivo, se logró mantener la cohesión del grupo, equilibrando los aportes técnicos, visuales y metodológicos. Este trabajo en conjunto permitió desarrollar una propuesta sólida, bien estructurada y con un enfoque práctico, evidenciando una gestión eficiente y un liderazgo distribuido que potenció el desempeño grupal.<br><br>**TP1:**<br>El equipo consolidó su liderazgo distribuido, donde cada miembro asumió responsabilidades específicas en bounded contexts particulares, demostrando especialización técnica y capacidad de comunicación efectiva. La distribución clara de roles permitió un desarrollo paralelo eficiente, mientras que la coordinación constante aseguró la integración exitosa de todos los módulos. Este enfoque especializado, combinado con liderazgo técnico y comunicación fluida, resultó en una aplicación frontend completamente funcional y desplegada en producción.<br><br>**TB2:**<br>El equipo demostró una evolución significativa en su capacidad de liderazgo técnico y colaboración. Se consolidó un enfoque de mejora continua, donde se identificaron y corrigieron limitaciones del sprint anterior, se definieron technical stories claras y se implementaron bounded contexts adicionales. El liderazgo distribuido se mantuvo con especialización en frontend y backend, mientras que la coordinación de documentación y medios aseguró una comunicación efectiva del proyecto. Esta fase evidenció la madurez del equipo en la gestión de complejidad técnica y la integración de múltiples componentes del sistema. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Jesús Castillo:**<br>**TB1:** Definió metas claras, repartió responsabilidades y dio seguimiento a avances, asegurando cumplimiento.<br>**TP1:** Estableció objetivos técnicos claros para el frontend, coordinó la integración de bounded contexts y aseguró la calidad del diseño y documentación.<br>**TB2:** Estableció metas claras para la corrección de limitaciones del sprint anterior, planificó las technical stories y la implementación del bounded context Subscriptions, definió objetivos para la arquitectura del backend, y coordinó mejoras en el frontend.<br><br>**Christofer Costa:**<br>**TB1:** Propuso mejoras en los diseños, facilitó colaboración creativa y apoyó la ejecución de la landing page.<br>**TP1:** Creó un entorno colaborativo para el desarrollo frontend, estableció estándares técnicos y facilitó la integración entre módulos de Fleet y Customer Management.<br>**TB2:** Estableció metas para la corrección de vistas de frontend y resolución de bugs, planificó la implementación de Google API, y coordinó la corrección de bugs de backend y relaciones incorrectas.<br><br>**Santiago Gordillo:**<br>**TB1:** Dividió el trabajo, gestionó entregas técnicas y garantizó orden en el flujo de trabajo.<br>**TP1:** Planificó y ejecutó las tareas de IAM y Fleet Management, estableciendo metas técnicas específicas y asegurando la integración con otros bounded contexts.<br>**TB2:** Estableció metas para la corrección de vistas de frontend y resolución de bugs, planificó la implementación de Google API, y coordinó la corrección de bugs de backend y relaciones incorrectas.<br><br>**Yaku Guzmán:**<br>**TB1:** Promovió disciplina en la documentación y la integración del equipo, reforzando estándares de trabajo.<br>**TP1:** Estableció metas claras para Route Planning & Execution, desarrolló diagramas C4 y coordinó la integración de funcionalidades de rutas con el sistema general.<br>**TB2:** Estableció metas claras para la programación del frontend de Dispatchers, planificó la implementación de los BC de Fleet, Planning y CRM, y coordinó la integración de estas funcionalidades.<br><br>**Ingrid Medina:**<br>**TB1:** Apoyó en la planificación con entrevistas, diagramas y videos, reforzando la comunicación en el equipo.<br>**TP1:** Creó un entorno inclusivo mediante la gestión de i18n, coordinó la documentación en Trello, estableció metas de comunicación y aseguró el cumplimiento de objetivos del proyecto.<br>**TB2:** Estableció metas claras para la documentación y medios, coordinó la creación de videotutoriales, planificó tareas de frontend para auth y subscription, y aseguró el cumplimiento de objetivos de documentación y comunicación del proyecto. | **TB1:**<br>El equipo logró crear un entorno colaborativo e inclusivo donde cada integrante aportó desde su área de especialidad para alcanzar metas comunes. Desde la planificación inicial, se establecieron metas claras y tareas bien definidas, lo que permitió mantener el orden y la eficiencia en el desarrollo del proyecto. Este enfoque favoreció la creatividad, el compromiso y la cooperación, asegurando el cumplimiento de los objetivos y fortaleciendo la cohesión grupal a lo largo del proceso.<br><br>**TP1:**<br>El equipo evolucionó hacia un modelo de especialización técnica con comunicación efectiva, donde cada miembro lideró bounded contexts específicos mientras mantenía coordinación constante. Se establecieron metas técnicas claras por módulo, se planificaron tareas especializadas y se cumplieron objetivos de integración, resultando en una aplicación frontend completamente funcional. Este enfoque especializado, combinado con comunicación fluida y liderazgo distribuido, demostró la capacidad del equipo para adaptarse a desafíos técnicos complejos manteniendo la cohesión grupal.<br><br>**TB2:**<br>El equipo fortaleció su capacidad de colaboración mediante un enfoque sistemático de mejora continua y corrección de errores. Se establecieron metas claras para la corrección de limitaciones previas, la implementación de nuevas funcionalidades y la integración de servicios externos como Google API. La planificación colaborativa permitió una distribución efectiva de tareas entre frontend y backend, mientras que la coordinación de documentación y medios aseguró una comunicación clara del proyecto. Esta fase demostró la capacidad del equipo para trabajar de manera coordinada en múltiples frentes, manteniendo la calidad y cumpliendo objetivos técnicos y de documentación.         |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta.                                | **Jesús Castillo:**<br>**TB1:** Organizó al equipo, convocó reuniones, lideró sesiones de "event storming" y definió historias de usuario. Realizó wireframes y dio dirección al producto.<br>**TP1:** Lideró la corrección del Design Level Event Storming, mejoró diagramas C4, documentó el Capítulo 5 del Sprint 2, definió la estructura del sprint, corrigió diseños en Figma y mejoró la UI/UX del frontend.<br><br>**Christofer Costa:**<br>**TB1:** Aportó en "event storming", lideró el diseño de mockups y wireflows, generó imágenes y contribuyó en la landing page.<br>**TP1:** Lideró el bounded context de Fleet & Resource Management, gestionó el módulo de clientes (Customer & Location Management) y configuró la infraestructura inicial del proyecto frontend con Vue.js y PrimeVue.<br><br>**Santiago Gordillo:**<br>**TB1:** Gestionó el desarrollo de la landing page, organizó las tareas con gitflow y conventional commits, participó en entrevistas y elaboró el canvas.<br>**TP1:** Lideró el bounded context de Identity & Access Management (IAM) y Fleet Management, implementando autenticación, gestión de usuarios, roles y permisos del sistema.<br><br>**Yaku Guzmán:**<br>**TB1:** Brindó retroalimentación constante, orientó la documentación, apoyó en gitflow, artefactos, entrevistas y la landing page.<br>**TP1:** Lideró el bounded context de Route Planning & Execution, desarrollando diagramas C4 específicos y gestionando toda la funcionalidad relacionada con rutas y entregas.<br><br>**Ingrid Medina:**<br>**TB1:** Coordinó entrevistas, editó videos, aportó conocimientos del sector, realizó diagramas y wireframes, participando activamente en reuniones.<br>**TP1:** Lideró la implementación de internacionalización (i18n), gestionó el Big Picture Event Storming, documentó tareas en Trello, mantuvo control del proyecto y coordinó la comunicación del equipo. | **TB1:** <br>El equipo demostró un sólido trabajo colaborativo, combinando liderazgo compartido y compromiso en cada etapa del proyecto. A través de una comunicación constante, una adecuada organización y el compromiso colectivo, se logró mantener la cohesión del grupo, equilibrando los aportes técnicos, visuales y metodológicos. Este trabajo en conjunto permitió desarrollar una propuesta sólida, bien estructurada y con un enfoque práctico, evidenciando una gestión eficiente y un liderazgo distribuido que potenció el desempeño grupal.<br><br>**TP1:**<br>El equipo consolidó su liderazgo distribuido, donde cada miembro asumió responsabilidades específicas en bounded contexts particulares, demostrando especialización técnica y capacidad de comunicación efectiva. La distribución clara de roles permitió un desarrollo paralelo eficiente, mientras que la coordinación constante aseguró la integración exitosa de todos los módulos. Este enfoque especializado, combinado con liderazgo técnico y comunicación fluida, resultó en una aplicación frontend completamente funcional y desplegada en producción. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Jesús Castillo:**<br>**TB1:** Definió metas claras, repartió responsabilidades y dio seguimiento a avances, asegurando cumplimiento.<br>**TP1:** Estableció objetivos técnicos claros para el frontend, coordinó la integración de bounded contexts y aseguró la calidad del diseño y documentación.<br><br>**Christofer Costa:**<br>**TB1:** Propuso mejoras en los diseños, facilitó colaboración creativa y apoyó la ejecución de la landing page.<br>**TP1:** Creó un entorno colaborativo para el desarrollo frontend, estableció estándares técnicos y facilitó la integración entre módulos de Fleet y Customer Management.<br><br>**Santiago Gordillo:**<br>**TB1:** Dividió el trabajo, gestionó entregas técnicas y garantizó orden en el flujo de trabajo.<br>**TP1:** Planificó y ejecutó las tareas de IAM y Fleet Management, estableciendo metas técnicas específicas y asegurando la integración con otros bounded contexts.<br><br>**Yaku Guzmán:**<br>**TB1:** Promovió disciplina en la documentación y la integración del equipo, reforzando estándares de trabajo.<br>**TP1:** Estableció metas claras para Route Planning & Execution, desarrolló diagramas C4 y coordinó la integración de funcionalidades de rutas con el sistema general.<br><br>**Ingrid Medina:**<br>**TB1:** Apoyó en la planificación con entrevistas, diagramas y videos, reforzando la comunicación en el equipo.<br>**TP1:** Creó un entorno inclusivo mediante la gestión de i18n, coordinó la documentación en Trello, estableció metas de comunicación y aseguró el cumplimiento de objetivos del proyecto.                                                                                                                                                                                                                                                                                                                        | **TB1:**<br>El equipo logró crear un entorno colaborativo e inclusivo donde cada integrante aportó desde su área de especialidad para alcanzar metas comunes. Desde la planificación inicial, se establecieron metas claras y tareas bien definidas, lo que permitió mantener el orden y la eficiencia en el desarrollo del proyecto. Este enfoque favoreció la creatividad, el compromiso y la cooperación, asegurando el cumplimiento de los objetivos y fortaleciendo la cohesión grupal a lo largo del proceso.<br><br>**TP1:**<br>El equipo evolucionó hacia un modelo de especialización técnica con comunicación efectiva, donde cada miembro lideró bounded contexts específicos mientras mantenía coordinación constante. Se establecieron metas técnicas claras por módulo, se planificaron tareas especializadas y se cumplieron objetivos de integración, resultando en una aplicación frontend completamente funcional. Este enfoque especializado, combinado con comunicación fluida y liderazgo distribuido, demostró la capacidad del equipo para adaptarse a desafíos técnicos complejos manteniendo la cohesión grupal.         |
 
 </div>
