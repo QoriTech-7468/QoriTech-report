@@ -231,6 +231,8 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
    </tr>
 </table>
 
+Link de entrevistas: <a href="https://upcedupe-my.sharepoint.com/:f:/g/personal/u202213185_upc_edu_pe/IgC6XCkO02bIQbPZ--BEnpuOAYHAyiiltHW66CPLzoLIgZY?e=4vU42E">Segmento 01- Transportistas</a>
+
 **Segundo Segmento Objetivo: Administradores**
 
 <table style="width: 100%" align='center'>
@@ -294,8 +296,11 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
      </p>
    </td>
    </tr>
-
 </table>
+
+Link de entrevistas: <a href="https://upcedupe-my.sharepoint.com/:f:/g/personal/u202213185_upc_edu_pe/IgDQ5USk4fogRYJWS-bn6-0fAX_TZI9ks0st_QS8AJ9Vip4?e=I2UVXk">Segmento 02- Administración</a>
+
+Más informacion en Anexo A.
 
 ### 2.2.3. Análisis de entrevistas.
 
@@ -371,6 +376,8 @@ Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en 
 Entrevistado 2: Los retrasos e incidencias son causados por factores que escapan a su control.</td>
 </tr>
 </table>
+
+
 
 ##### Insights
 
