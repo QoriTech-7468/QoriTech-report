@@ -39,8 +39,6 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
 * **Preparar pruebas técnicas de integración** entre frontend y backend, anticipando la conexión con servicios externos (Google Maps, Stripe, Cloudinary) en el siguiente sprint.
 * **Iniciar un plan de calidad de software** con convenciones de código, pruebas automatizadas y lineamientos de documentación, garantizando consistencia en la implementación futura.
 
-### Video About-the-Team.
-
 ## Bibliografía
 
 - Atlassian. (2025). *Gitflow Workflow*. Atlassian Git Tutorials. Recuperado el 10 de setiembre de 2025 de [Atlassian Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
@@ -61,44 +59,273 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
 
 ## Anexos
 
----
+### Anexo A. Videos
 
-### Anexo A. Figma
+<table>
+<thead>
+    <tr>
+        <th>Sección</th>
+        <th>Características del video</th>
+        <th>Sobre el contenido</th>
+        <th>Integración y entrega</th>
+    </tr>
+</thead>
+<tbody>
+<!--========================================= FILA 1 ======================================-->
+<tr>
+  <td>Needfinding Interviews</td>
+  <td>
+    Cantidad de videos: 6<br>
+    Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-needfinding-sprint-1<br>
+    Formato: .mp4
+  </td>
+  <td> Consolida todas las entrevistas realizadas </td>
+  <td> 
+    <strong>Link:</strong><br>
+    <a href="https://upcedupe-my.sharepoint.com/:f:/g/personal/u202213185_upc_edu_pe/IgCpT7Bs2y9FSJP00Tz9OKb0AcRnyXvD15_gMVkwm5BT1HY?e=4OLDxh" target="_blank">
+      Ver carpeta de videos
+    </a>
+</td>
+</tr>
+<!--========================================= FILA 2 ======================================-->
+<tr>
+  <td rowspan="4"><strong>Exposición</strong></td>
+  <td>
+    Cantidad de videos: 1 <br>
+    Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-expo-tb1 <br>
+    Formato: .mp4
+  </td>
+  <td>Consolida la exposición de la TB1</td>
+  <td>
+    <strong>Link:</strong><br>
+    <a href="https://shorturl.at/Qgka1" target="_blank">
+      Ver video
+    </a>
+  </td>
+</tr>
+<tr>
+  <td>
+    Cantidad de videos: 1 <br>
+    Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-expo-tp1 <br>
+    Formato: .mp4
+  </td>
+  <td>Consolida la exposición de la Tp1</td>
+  <td>
+    <strong>Link:</strong><br>
+    <a href="https://shorturl.at/zGhAA" target="_blank">
+      Ver video
+    </a>
+  </td>
+</tr>
+<tr>
+  <td>
+    Cantidad de videos: 1 <br>
+    Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-expo-Tb2 <br>
+    Formato: .mp4
+  </td>
+  <td>Consolida la exposición de la TB2</td>
+  <td>
+    <strong>Link:</strong><br>
+    <a href="https://shorturl.at/asdasd" target="_blank">
+      Ver video
+    </a>
+  </td>
+</tr>
+<tr>
+  <td>
+    Cantidad de videos: 1 <br>
+    Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-expo-tf1 <br>
+    Formato: .mp4
+  </td>
+  <td>Consolida la exposición de la TF1</td>
+  <td>
+    <strong>Link:</strong><br>
+    <a href=" " target="_blank">
+      Ver video
+    </a>
+  </td>
+</tr>
+<!--========================================= FILA 3 ======================================-->
+<tr>
+  <td>
+    Prototypes Navigation / Product Navigation
+  </td>
+  <td>
+    Cantidad de videos: 1
+    Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-prototype-navigation-sprint-1
+    Formato: .mp4
+  </td>
+  <td>
+    Consolida demostración del flujo de navegación de las aplicaciones, priorizando los user flows relacionados con el core business.	
+  </td>
+  <td>
+     <strong>Link:</strong><br>
+    <a href=" " target="_blank">
+      Ver video
+    </a>
+  </td>
+</tr>
+<!--========================================= FILA 4 ======================================-->
+<tr>
+  <td>
+    Validation Interviews
+  </td>
+  <td>
+    Contenido 
+  </td>
+  <td>
+    Contenido 
+  </td>
+  <td>
+    Contenido 
+  </td>
+</tr>
+<!--========================================= FILA 5 ======================================-->
+<tr>
+  <td>
+    About the Product
+  </td>
+  <td>
+    Cantidad de videos: 1
+    Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-aboutthe-product-sprint-3
+    Formato: .mp4 
+  </td>
+  <td>
+    Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto, incluyendo algunas escenas de interacción con el producto y al menos una opinión por cada segmento objetivo.
+  </td>
+  <td>
+   <strong>Link:</strong><br>
+    <a href="https://youtu.be/2dZIAQPCCvM" target="_blank">
+      https://youtu.be/2dZIAQPCCvM
+    </a>
+  </td>
+</tr>
+<!--========================================= FILA 6 ======================================-->
+<tr>
+  <td>
+    About the Team
+  </td>
+  <td>
+    Cantidad de videos: 1
+    Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-aboutthe-team-sprint-3
+    Formato: .mp4  
+  </td>
+  <td>
+    En el contexto de la orientación promocional, el trabajo en equipo juega un papel crucial para garantizar que todos los elementos clave del modelo de negocio sean claramente comunicados. El equipo debe colaborar para resumir eficientemente las características y beneficios del producto, presentando ejemplos visuales de interacción con el producto para hacer más tangible su valor. Cada miembro del equipo, con su expertise, puede aportar a crear mensajes dirigidos a diferentes segmentos del público objetivo, asegurando que cada uno reciba una opinión relevante y adaptada a sus necesidades y expectativas.
+  </td>
+  <td>
+   <strong>Link:</strong><br>
+    <a href="https://youtu.be/yTjJL1V40TA" target="_blank">
+      https://youtu.be/yTjJL1V40TA
+    </a>
+  </td>
+</tr>
+</tbody>
+</table>
 
-Link del figma: https://shorturl.at/cmiuH
+### Anexo B. Trello
+<table>
+<thead>
+    <tr>
+        <th>Sección</th>
+        <th>Características</th>
+        <th>Sobre el contenido</th>
+        <th>Link del Trello</th>
+    </tr>
+</thead>
+<tr>
+  <td>
+    Product Backlog
+  </td>
+  <td>
+    Cantidad de Sprints: 3
+  </td>
+  <td>
+    Es un tablero de Trello que muestra la organización del proyecto mediante un Product Backlog y varios Sprints, donde se distribuyen las historias de usuario y tareas (como creación de cuentas, gestión de roles, clientes y rutas) para planificar y controlar el desarrollo de la aplicación de forma ágil.
+  </td>
+  <td>
+    <strong>Link:</strong><br>
+    <a href="https://trello.com/invite/b/68e69b6b3feba0c17ec850ce/ATTI7879b7e4c56309ac25e88a1982d383352294D12A/product-backlog" target="_blank">
+      Product Backlog
+    </a>
+  </td>
+</tr>
+<tr>
+  <td>
+    Sprint Backlog #1
+  </td>
+  <td>
+    Cantidad de tareas: 13
+  </td>
+  <td>
+    Es un tablero de Trello enfocado en un Sprint, donde se define la meta del sprint y se distribuyen las tareas en diferentes estados para organizar el trabajo del equipo y dar seguimiento al progreso durante el desarrollo del proyecto.
+  </td>
+  <td>
+    <strong>Link:</strong><br>
+    <a href="https://trello.com/invite/b/68ae46f19af5526803981b41/ATTIeedd8f55273178b04f5153e51a06d5acB05785FA/sprint-backlog-1" target="_blank">
+      Sprint Backlog #1
+    </a>
+  </td>
+</tr>
+<tr>
+  <td>
+    Sprint Backlog #2
+  </td>
+  <td>
+    Cantidad de tareas: 23
+  </td>
+  <td>
+    Es un tablero de Trello enfocado en un Sprint, donde se define la meta del sprint y se distribuyen las tareas en diferentes estados para organizar el trabajo del equipo y dar seguimiento al progreso durante el desarrollo del proyecto.
+  </td>
+  <td>
+    <strong>Link:</strong><br>
+    <a href="https://trello.com/invite/b/68e6a24e145e10af2d0544e9/ATTI665460f059d6c7874a198e1956dc49cf05BDE973/sprint-backlog-2" target="_blank">
+      Sprint Backlog #2
+    </a>
+  </td>
+</tr>
+<tr>
+  <td>
+    Sprint Backlog #3
+  </td>
+  <td>
+    Cantidad de tareas: 51
+  </td>
+  <td>
+    Es un tablero de Trello enfocado en un Sprint, donde se define la meta del sprint y se distribuyen las tareas en diferentes estados para organizar el trabajo del equipo y dar seguimiento al progreso durante el desarrollo del proyecto.
+  </td>
+  <td>
+    <strong>Link:</strong><br>
+    <a href="https://trello.com/invite/b/68f5e16b2d218361134e968d/ATTI38f28eeaeeab178948c534a8df161bb4DC92F947/sprint-backlog-3" target="_blank">
+      Sprint Backlog #3
+    </a>
+  </td>
+</tr>
+<table>
+
+### Anexo C. Diseño y Prototipo
+
+Enlace de Figma: https://shorturl.at/cmiuH
 
 ![evidencia de figma](./Resources/anexos/figma-evidencia-anexo.png)
 
-### Anexo B. Trello Sprint 1
-
-Link del trello: https://shorturl.at/yq54o
-
-![evidencia de trello](./Resources/Capitulo_5/Trello_sprint1.png)
-
-### Anexo C. Video de Exposición TB1
-Link del video: https://shorturl.at/Qgka1
-
 ### Anexo D. Deployment de landing page
-Link de landing page: https://shorturl.at/ekn7c
-
+Link de la landing page: <a href="https://qoritech-7468.github.io/Landing-Page-Repository/index.html" target="_blank">
+     https://qoritech-7468.github.io/Landing-Page-Repository/index.html
+    </a>
 ### Anexo E. Diagrama de Clases Frontend
-Link del diagrama: https://shorturl.at/J0nyP
+Link del diagrama: <a href="https://shorturl.at/J0nyP" target="_blank">
+      https://shorturl.at/J0nyP
+    </a>
 
 ### Anexo F. Deployment de aplicación frontend
-Link de aplicación frontend: https://shorturl.at/g93lZ
+Link de aplicación frontend:<a href="https://shorturl.at/g93lZ" target="_blank">
+      https://shorturl.at/g93lZ
+    </a> 
 
-### Anexo G. Trello Sprint 2
-Link del trello: https://shorturl.at/yIF72
-![evidencia de trello](./Resources/Capitulo_5/Trello_sprint2.jpg)
 
-### Anexo H. Video de Exposición TP1
-Link del video: https://shorturl.at/zGhAA
+### Anexo G. Deploynment backend
+Link del video: <a href="https://backend-webapplication.onrender.com/swagger/index.html" target="_blank">
+      https://backend-webapplication.onrender.com/swagger/index.html
+    </a>
 
-### Anexo I. Video de Exposición TB2
-Link del video: https://shorturl.at/asdasd
-
-### Anexo J. Deploynment backend
-Link del video: https://frock-back-end.onrender.com
-
-### Anexo J. Trello Sprint 3
-Link del video: https://trello.com/b/1n7Mp1Xp/sprint-backlog-3
