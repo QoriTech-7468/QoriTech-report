@@ -306,45 +306,51 @@ Para el desarrollo del **Project Report**, se utilizó un repositorio dentro de 
 **Repositorio del informe del proyecto:**
 [https://shorturl.at/aQDFp](https://shorturl.at/aQDFp)
 
-## TB1 - Informe inicial y Landing Page (8 de setiembre - 21 de setiembre de 2025)
+## TB1 - Informe inicial (8 de setiembre - 21 de setiembre de 2025)
 
-Durante esta fase, el equipo elaboró el informe base del proyecto, abarcando la definición del problema, justificación, objetivos y marco teórico. Simultáneamente, se desarrolló la **Landing Page** utilizando HTML5, CSS3 y JavaScript puro. Esta fase corresponde a las versiones 1.0-1.25 del Registro de Versiones del Informe.
+Durante esta fase, el equipo elaboró el informe base del proyecto, abarcando la definición del problema, justificación, objetivos, marco teórico y todas las secciones correspondientes al primer entregable. Esta fase corresponde a las versiones 1.0-1.25 del Registro de Versiones del Informe.
 
-<img src="./Resources/contributors-tb1.png" alt="Gráfico de contribuciones del repositorio del informe del proyecto para TB1" width="600">
+<img src="./Resources/readme/sprint_1_contributions.png" alt="Gráfico de contribuciones del repositorio del informe del proyecto para TB1" width="600">
 
-*Figura 1: Gráfico de contribuciones del repositorio del informe del proyecto para TB1, mostrando la actividad de colaboración de todos los miembros del equipo durante el desarrollo del informe inicial y la landing page.*
+*Figura 1: Gráfico de contribuciones del repositorio del informe del proyecto para TB1, mostrando la actividad de colaboración de todos los miembros del equipo durante la elaboración del informe inicial.*
 
-- **Total de commits:** 59
+- **Total de commits:** 119
 - **Autores contribuyentes:**
-  - Jesús Castillo: 13 commits, 1021 adiciones, 438 eliminaciones
-  - Ingrid Medina: 29 commits, 4600 adiciones, 42 eliminaciones
-  - Christofer Costa: 24 commits, 1289 adiciones, 195 eliminaciones
-  - Yaku Guzmán: 33 commits, 1200 adiciones, 153 eliminaciones
+  - Ingrid Medina: 31 commits, 4,615 adiciones, 77 eliminaciones
   - Santiago Gordillo: 27 commits, 283 adiciones, 28 eliminaciones
+  - Yaku Guzmán: 24 commits, 1,328 adiciones, 283 eliminaciones
+  - Christofer Costa: 24 commits, 1,289 adiciones, 195 eliminaciones
+  - Jesús Castillo: 13 commits, 1,021 adiciones, 438 eliminaciones
 - Actividad distribuida por ramas correspondientes a cada sección del informe.
 
-## TP1 - Aplicación Frontend (22 de setiembre - 10 de octubre de 2025)
+## TP1 - Actualización del Informe (22 de setiembre - 10 de octubre de 2025)
 
-Durante esta fase, el equipo desarrolló la aplicación frontend completa utilizando Vue.js y PrimeVue, implementando los bounded contexts principales y desplegando la aplicación en Firebase Hosting. Esta fase corresponde a las versiones 2.0-2.7 del Registro de Versiones del Informe.
+Durante esta fase, el equipo actualizó y completó las secciones del informe correspondientes al segundo entregable, incluyendo las correcciones, actualizaciones y nuevas secciones documentadas. Esta fase corresponde a las versiones 2.0-2.7 del Registro de Versiones del Informe. Todo esto corresponde a poder añadir al sprint 2. 
 
-<img src="./Resources/Frontend_contributors.png" alt="Gráfico de contribuciones del repositorio Frontend para TP1" width="600">
+<img src="./Resources/readme/sprint_2_contributions.png" alt="Gráfico de contribuciones del repositorio del informe del proyecto para TP1" width="600">
 
-*Figura 2: Gráfico de contribuciones del repositorio Frontend para TP1, mostrando la actividad de colaboración de todos los miembros del equipo durante el desarrollo de la aplicación frontend.*
+*Figura 2: Gráfico de contribuciones del repositorio del informe del proyecto para TP1, mostrando la actividad de colaboración de todos los miembros del equipo durante la actualización del informe.*
 
-- **miniChorri (Christofer Costa):** 17 commits, 5,587 adiciones, 458 eliminaciones
-- **Jcdev04 (Jesús Castillo):** 15 commits, 1,237 adiciones, 749 eliminaciones
-- **yak-cod (Yaku Guzmán):** 14 commits, 2,810 adiciones, 684 eliminaciones
-- **SantiIHC (Santiago Gordillo):** 9 commits, 4,677 adiciones, 1,811 eliminaciones
-- **Grini913 (Ingrid Medina):** 2 commits, 402 adiciones, 110 eliminaciones
-- **Total de commits en TP1:** 57
+- **Total de commits:** 40
+- **Autores contribuyentes:**
+  - Ingrid Medina: 20 commits, 777 adiciones, 403 eliminaciones
+  - Jesús Castillo: 15 commits, 6,172 adiciones, 2,346 eliminaciones
+  - Santiago Gordillo: 4 commits, 2 adiciones, 2 eliminaciones
+  - Yaku Guzmán: 1 commit, 0 adiciones, 0 eliminaciones
 
-## TB2 - Aplicación Backend (10 de octubre - 16 de noviembre de 2025)
+## TB2 - Actualización del Informe (10 de octubre - 16 de noviembre de 2025)
 
-Durante esta fase, el equipo desarrolló la aplicación backend completa, implementando los servicios y APIs necesarios para soportar la funcionalidad de la aplicación. Esta fase corresponde a las versiones 3.0-3.3 del Registro de Versiones del Informe.
+Durante esta fase, el equipo actualizó y completó las secciones del informe correspondientes al tercer entregable, incluyendo las correcciones, actualizaciones y nuevas secciones documentadas. Esta fase corresponde a las versiones 3.0-3.3 del Registro de Versiones del Informe. De esta manera se incluye el sprint 3 como principal actualización.
 
-<img src="./Resources/Frontend_contributors.png" alt="Gráfico de contribuciones del repositorio para TB2" width="600">
+<img src="./Resources/readme/sprint_3_contributions.png" alt="Gráfico de contribuciones del repositorio del informe del proyecto para TB2" width="600">
 
-*Figura 3: Gráfico de contribuciones del repositorio para TB2, mostrando la actividad de colaboración de todos los miembros del equipo durante el desarrollo de la aplicación backend.*
+*Figura 3: Gráfico de contribuciones del repositorio del informe del proyecto para TB2, mostrando la actividad de colaboración de todos los miembros del equipo durante la actualización del informe.*
+
+- **Total de commits:** 20
+- **Autores contribuyentes:**
+  - Ingrid Medina: 11 commits, 173 adiciones, 142 eliminaciones
+  - Jesús Castillo: 7 commits, 735 adiciones, 250 eliminaciones
+  - Yaku Guzmán: 2 commits, 391 adiciones, 245 eliminaciones
 
 # Tabla de contenidos
 
