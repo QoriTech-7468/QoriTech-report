@@ -151,8 +151,8 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
     Prototypes Navigation / Product Navigation
   </td>
   <td>
-    Cantidad de videos: 1
-    Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-prototype-navigation-sprint-1
+    Cantidad de videos: 1<br>
+    Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-prototype-navigation-sprint-1<br>
     Formato: .mp4
   </td>
   <td>
@@ -186,8 +186,8 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
     About the Product
   </td>
   <td>
-    Cantidad de videos: 1
-    Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-aboutthe-product-sprint-3
+    Cantidad de videos: 1<br>
+    Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-aboutthe-product-sprint-3<br>
     Formato: .mp4 
   </td>
   <td>
@@ -206,8 +206,8 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
     About the Team
   </td>
   <td>
-    Cantidad de videos: 1
-    Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-aboutthe-team-sprint-3
+    Cantidad de videos: 1<br>
+    Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-aboutthe-team-sprint-3<br>
     Formato: .mp4  
   </td>
   <td>
