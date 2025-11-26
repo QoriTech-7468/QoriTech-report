@@ -5,116 +5,123 @@
 ### 2.1.1. Análisis competitivo.
 
 <table style="width:100%; border-collapse:collapse; table-layout:fixed;" border="1" align="center">
-<tr>
-<th colspan="6" align="center">Competitive Analysis Landscape</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="1" align="center"><b>¿Por qué llevar a cabo este análisis?</b></td>
-<td colspan="6" align="center">Identificar fortalezas, debilidades y estrategias de los principales competidores en logística de última milla (SimpliRoute, Beetrack, FarEye) para posicionar nuestra aplicación web.</td>
-</tr>
- <tr>
-    <td colspan="6">
-       <b>Objetivo:</b> Determinar cómo diferenciar nuestro producto frente a competidores consolidados en LATAM y globales. <br> 
+  <!-- Título principal -->
+  <tr>
+    <th colspan="6" align="center">Competitive Analysis Landscape</th>
+  </tr>
+  <!-- Justificación -->
+  <tr>
+    <td rowspan="2" align="center"><b>¿Por qué llevar a cabo este análisis?</b></td>
+    <td colspan="5" align="center">
+      Identificar fortalezas, debilidades y estrategias de los principales competidores en logística de última milla (SimpliRoute, Beetrack, FarEye) para posicionar nuestra aplicación web.
     </td>
   </tr>
-<tr>
-<th colspan="2" style="width:12%">(En la cabecera colocar por cada competidor nombre y logo)</th>
-<th style="width:22%">
-<img src="./Resources/Capitulo_2/Logo_rutana.png" alt="Rutana"width="100" height="100">
-</th>
-<th style="width:22%">
-<img src="./Resources/Capitulo_2/Logo_simpliroute.png" alt="SimpliRoute" width="100" height="100">
-</th>
-<th style="width:22%">
-<img src="./Resources/Capitulo_2/Logo_beetrack.png" alt="Beetrack" width="100" height="100">
-</th>
-   
-<th style="width:22%">
-<img src="./Resources/Capitulo_2/Logo_fareye.png" alt="FarEye" width="100" height="100">
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="1" align="center" ><b>Perfil</b></td>
-<td style="word-wrap:break-word; white-space:normal;"><b>Overview</b></td>
-   <td> Plataforma logística para el mercado peruano que integra IoT y GPS para monitoreo en tiempo real, optimización de rutas y control de productos en tránsito, adaptada a problemas locales como tráfico, bloqueos y cambios climáticos. </td>
-   <td> Plataforma chilena con fuerte presencia en LATAM; optimización de rutas y seguimiento en tiempo real. </td>
-   <td> Fundada en Chile, adquirida por DispatchTrack; fuerte en trazabilidad de última milla. </td>
-   <td> Empresa global india; ofrece orquestación de entregas, visibilidad y devoluciones. </td>
-</tr>
-<tr>
-<td><b>Ventaja competitiva:<br>¿Qué valor ofrece a los clientes?</b></td>
-   <td> Ofrece en una sola solución: seguimiento en vivo, validación automatizada de pedidos y alertas inteligentes. Está pensada para pymes peruanas, ayudándolas a reducir errores de entrega, evitar pérdidas y mejorar la puntualidad. </td>
-   <td> Reducción de costos logísticos hasta 30% con algoritmos de optimización. </td>
-   <td> Experiencia de usuario robusta y alta penetración en empresas medianas/grandes de LATAM. </td>
-   <td> Escalabilidad global y capacidad de integración con grandes retailers y 3PL. </td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1" align="center"><b>Perfil de Marketing</b></td>
-<td><b>Mercado objetivo</b></td>
-   <td> Pequeñas y medianas empresas de transporte y distribución en Perú, con foco inicial en Lima y ciudades con alta informalidad logística como las empresas de provincia también.</td>
-   <td> Pymes y grandes empresas de distribución en LATAM. </td>
-   <td> Retail, consumo masivo y distribución en varios países de LATAM. </td>
-   <td> Retailers, e-commerce y logística global (Asia, Europa, LATAM). </td>
-</tr>
-<tr>
-<td><b>Estrategias de marketing</b></td>
-   <td> Evidenciar beneficios cuantitativos (menos errores, más puntualidad) mediante pilotos locales, campañas digitales y casos de éxito adaptados a la realidad peruana.</td>
-   <td> Casos de éxito locales, métricas de reducción de costos y demos personalizadas. </td>
-   <td> Branding fuerte en trazabilidad y seguridad de entregas; foco en confiabilidad. </td>
-   <td> Posicionamiento como solución integral global; alianzas con grandes corporativos. </td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1" align="center"><b>Perfil de Producto</b></td>
-<td><b>Productos & Servicios</b></td>
-   <td> Incluye monitoreo IoT en tiempo real, registro automático de pedidos, panel de control para administradores y alertas de desvíos o incidencias.</td>
-   <td> Optimización de rutas, seguimiento en vivo, gestión de flota y analítica. </td>
-   <td> PlannerPro (rutas), LastMile (seguimiento), notificaciones y prueba de entrega. </td>
-   <td> Gestión integral de entregas, devoluciones, visibilidad en tiempo real. </td>
-</tr>
-<tr>
-<td><b>Precios & Costos</b></td>
-   <td> Suscripción mensual escalonada: plan básico para pymes, plan estándar para medianas flotas y plan corporativo para grandes empresas. Adaptado al mercado peruano, permite empezar con bajo costo y escalar según crecimiento.</td>
-   <td> Modelo SaaS flexible según volumen de entregas. </td>
-   <td> Suscripción mensual adaptada al tamaño de la operación. </td>
-   <td> Tarifas empresariales escalables para operaciones globales. </td>
-</tr>
-<tr>
-<td><b>Canales de distribución<br>(Web y/o Móvil)</b></td>
-   <td> El sistema será accesible a través de plataforma web para administradores y conductores, garantizando sincronización en tiempo real entre ambos segmentos. </td>
-   <td> Web y app móvil para conductores y administradores. </td>
-   <td> Web, app móvil y APIs de integración. </td>
-   <td> Plataforma web, apps móviles, integraciones con ERP/CRM. </td>
-</tr>
-<tr>
-   <td rowspan="4" colspan="1" align="center"><b>Análisis SWOT</b></td>
-   <td><b>Fortalezas</b></td>
-   <td> Integración de IoT y validaciones automatizadas que ofrecen una trazabilidad superior a competidores regionales. </td>
-   <td> Alta adopción en LATAM; soporte local. </td>
-   <td> Reconocimiento de marca y respaldo de DispatchTrack. </td>
-   <td> Cobertura global, escalabilidad y capacidad de integración. </td>
-</tr>
-<tr>
-<td><b>Debilidades</b></td>
-   <td> Al ser una solución nueva, carece todavía de base de clientes consolidados y casos de éxito reales. </td>
-   <td> Menos reconocimiento fuera de LATAM. </td>
-   <td> Dependencia de adaptación tras adquisición. </td>
-   <td> Puede resultar costosa y compleja para pymes locales. </td>
-</tr>
-<tr>
-<td><b>Oportunidades</b></td>
-   <td> Aprovechar el crecimiento acelerado del e-commerce y la digitalización logística en LATAM para posicionarse como alternativa innovadora. </td>
-   <td> Crecimiento del e-commerce en LATAM. </td>
-   <td> Sinergias con la expansión global de DispatchTrack. </td>
-   <td> Expansión en mercados emergentes con alto crecimiento digital. </td>
-</tr>
-<tr>
-<td><b>Amenazas</b></td>
-   <td> Competidores consolidados como Beetrack y SimpliRoute ya cuentan con reconocimiento de marca y clientes en el mercado. </td>
-   <td> Aparición de nuevos SaaS locales más económicos. </td>
-   <td> Competencia fuerte de soluciones globales más completas. </td>
-   <td> Regulaciones locales y adaptación cultural en LATAM. </td>
-</tr>
-
+  <tr>
+    <td colspan="5">
+      <b>Objetivo:</b> Determinar cómo diferenciar nuestro producto frente a competidores consolidados en LATAM y globales. <br> 
+    </td>
+  </tr>
+  <!-- Encabezados con logos -->
+  <tr>
+    <th colspan="2" style="width:20%">(En la cabecera colocar por cada competidor nombre y logo)</th>
+    <th style="width:20%">
+      <img src="./Resources/Capitulo_2/Logo_rutana.png" alt="Rutana" width="100" height="100">
+    </th>
+    <th style="width:20%">
+      <img src="./Resources/Capitulo_2/Logo_simpliroute.png" alt="SimpliRoute" width="100" height="100">
+    </th>
+    <th style="width:20%">
+      <img src="./Resources/Capitulo_2/Logo_beetrack.png" alt="Beetrack" width="100" height="100">
+    </th>   
+    <th style="width:20%">
+      <img src="./Resources/Capitulo_2/Logo_fareye.png" alt="FarEye" width="100" height="100">
+    </th>
+  </tr>
+  <!-- PERFIL -->
+  <tr>
+    <td rowspan="2" align="center"><b>Perfil</b></td>
+    <td><b>Overview</b></td>
+    <td> Plataforma logística para el mercado peruano que integra IoT y GPS para monitoreo en tiempo real, optimización de rutas y control de productos en tránsito, adaptada a problemas locales como tráfico, bloqueos y cambios climáticos. </td>
+    <td> Plataforma chilena con fuerte presencia en LATAM; optimización de rutas y seguimiento en tiempo real. </td>
+    <td> Fundada en Chile, adquirida por DispatchTrack; fuerte en trazabilidad de última milla. </td>
+    <td> Empresa global india; ofrece orquestación de entregas, visibilidad y devoluciones. </td>
+  </tr>
+  <tr>
+    <td><b>Ventaja competitiva:<br>¿Qué valor ofrece a los clientes?</b></td>
+    <td> Ofrece en una sola solución: seguimiento en vivo, validación automatizada de pedidos y alertas inteligentes. Está pensada para pymes peruanas, ayudándolas a reducir errores de entrega, evitar pérdidas y mejorar la puntualidad. </td>
+    <td> Reducción de costos logísticos hasta 30% con algoritmos de optimización. </td>
+    <td> Experiencia de usuario robusta y alta penetración en empresas medianas/grandes de LATAM. </td>
+    <td> Escalabilidad global y capacidad de integración con grandes retailers y 3PL. </td>
+  </tr>
+  <!-- PERFIL DE MARKETING -->
+  <tr>
+    <td rowspan="2" align="center"><b>Perfil de Marketing</b></td>
+    <td><b>Mercado objetivo</b></td>
+    <td> Pequeñas y medianas empresas de transporte y distribución en Perú, con foco inicial en Lima y ciudades con alta informalidad logística como las empresas de provincia también.</td>
+    <td> Pymes y grandes empresas de distribución en LATAM. </td>
+    <td> Retail, consumo masivo y distribución en varios países de LATAM. </td>
+    <td> Retailers, e-commerce y logística global (Asia, Europa, LATAM). </td>
+  </tr>
+  <tr>
+    <td><b>Estrategias de marketing</b></td>
+    <td> Evidenciar beneficios cuantitativos (menos errores, más puntualidad) mediante pilotos locales, campañas digitales y casos de éxito adaptados a la realidad peruana.</td>
+    <td> Casos de éxito locales, métricas de reducción de costos y demos personalizadas. </td>
+    <td> Branding fuerte en trazabilidad y seguridad de entregas; foco en confiabilidad. </td>
+    <td> Posicionamiento como solución integral global; alianzas con grandes corporativos. </td>
+  </tr>
+  <!-- PERFIL DE PRODUCTO -->
+  <tr>
+    <td rowspan="3" align="center"><b>Perfil de Producto</b></td>
+    <td><b>Productos & Servicios</b></td>
+    <td> Incluye monitoreo IoT en tiempo real, registro automático de pedidos, panel de control para administradores y alertas de desvíos o incidencias.</td>
+    <td> Optimización de rutas, seguimiento en vivo, gestión de flota y analítica. </td>
+    <td> PlannerPro (rutas), LastMile (seguimiento), notificaciones y prueba de entrega. </td>
+    <td> Gestión integral de entregas, devoluciones, visibilidad en tiempo real. </td>
+  </tr>
+  <tr>
+    <td><b>Precios & Costos</b></td>
+    <td> Suscripción mensual escalonada: plan básico para pymes, plan estándar para medianas flotas y plan corporativo para grandes empresas. Adaptado al mercado peruano, permite empezar con bajo costo y escalar según crecimiento.</td>
+    <td> Modelo SaaS flexible según volumen de entregas. </td>
+    <td> Suscripción mensual adaptada al tamaño de la operación. </td>
+    <td> Tarifas empresariales escalables para operaciones globales. </td>
+  </tr>
+  <tr>
+    <td><b>Canales de distribución<br>(Web y/o Móvil)</b></td>
+    <td> El sistema será accesible a través de plataforma web para administradores y conductores, garantizando sincronización en tiempo real entre ambos segmentos. </td>
+    <td> Web y app móvil para conductores y administradores. </td>
+    <td> Web, app móvil y APIs de integración. </td>
+    <td> Plataforma web, apps móviles, integraciones con ERP/CRM. </td>
+  </tr>
+  <!-- SWOT -->
+  <tr>
+    <td rowspan="4" align="center"><b>Análisis SWOT</b></td>
+    <td><b>Fortalezas</b></td>
+    <td> Integración de IoT y validaciones automatizadas que ofrecen una trazabilidad superior a competidores regionales. </td>
+    <td> Alta adopción en LATAM; soporte local. </td>
+    <td> Reconocimiento de marca y respaldo de DispatchTrack. </td>
+    <td> Cobertura global, escalabilidad y capacidad de integración. </td>
+  </tr>
+  <tr>
+    <td><b>Debilidades</b></td>
+    <td> Al ser una solución nueva, carece todavía de base de clientes consolidados y casos de éxito reales. </td>
+    <td> Menos reconocimiento fuera de LATAM. </td>
+    <td> Dependencia de adaptación tras adquisición. </td>
+    <td> Puede resultar costosa y compleja para pymes locales. </td>
+  </tr>
+  <tr>
+    <td><b>Oportunidades</b></td>
+    <td> Aprovechar el crecimiento acelerado del e-commerce y la digitalización logística en LATAM para posicionarse como alternativa innovadora. </td>
+    <td> Crecimiento del e-commerce en LATAM. </td>
+    <td> Sinergias con la expansión global de DispatchTrack. </td>
+    <td> Expansión en mercados emergentes con alto crecimiento digital. </td>
+  </tr>
+  <tr>
+    <td><b>Amenazas</b></td>
+    <td> Competidores consolidados como Beetrack y SimpliRoute ya cuentan con reconocimiento de marca y clientes en el mercado. </td>
+    <td> Aparición de nuevos SaaS locales más económicos. </td>
+    <td> Competencia fuerte de soluciones globales más completas. </td>
+    <td> Regulaciones locales y adaptación cultural en LATAM. </td>
+  </tr>
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
@@ -164,7 +171,7 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
 
 #### 1. Primer Segmento Objetivo:
 
-**1️⃣ Primer Segmento Objetivo: Transportistas**
+**Primer Segmento Objetivo: Transportistas**
 
 <table style="width: 100%" align='center'>
 <tr>
@@ -223,7 +230,7 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
    </tr>
 </table>
 
-**2️⃣ Segundo Segmento Objetivo: Administradores**
+**Segundo Segmento Objetivo: Administradores**
 
 <table style="width: 100%" align='center'>
 <tr>
@@ -295,18 +302,13 @@ Se realizo el analisis de 3 entrevistas a los transportistas con experiencia en 
 ##### Caracteristicas
 
 <table>
-
 <tr>
-
 <th>Características</th>
 <th>Mención</th>
 <th>Porcentaje</th>
 <th>Evidencia</th>
-
 </tr>
-
 <tr>
-
 <td>Uso de aplicaciones de gestión de entregas</td>
 <td>2/3</td>
 <td>66.7%</td>
@@ -513,21 +515,40 @@ Ambos perfiles coinciden en la importancia de **gestionar incidencias** y **mant
 
 ### 2.4. Big Picture EventStorming.
 
-1. Delivery Execution
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Delivery Execution.jpg" alt="SuscripcionesyPagos">
+1. Delivery Execution  
+<p align="center">
+  <img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Delivery Execution.jpg" 
+       alt="SuscripcionesyPagos" 
+       width="400">
+</p>
 
-2. Route Management
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Route Management.jpg" alt="IdentidadyAcceso">
+2. Route Management  
+<p align="center">
+  <img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Route Management.jpg" 
+       alt="IdentidadyAcceso" 
+       width="400">
+</p>
 
-3. Operations Monitoring
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Operations Monitoring.jpg" alt="Recursos">
+3. Operations Monitoring  
+<p align="center">
+  <img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Operations Monitoring.jpg" 
+       alt="Recursos" 
+       width="400">
+</p>
 
-4. Document Management
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Document Management.jpg" alt="Ejecucion">
+4. Document Management  
+<p align="center">
+  <img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Document Management.jpg" 
+       alt="Ejecucion" 
+       width="400">
+</p>
 
-5. Incident Management
-<img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Incident Management.jpg" alt="Incidencias">
-
+5. Incident Management  
+<p align="center">
+  <img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Incident Management.jpg" 
+       alt="Incidencias" 
+       width="400">
+</p>
 
 ### 2.5. Ubiquitous Language.
 
