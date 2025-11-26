@@ -211,7 +211,7 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
     Formato: .mp4  
   </td>
   <td>
-    En el contexto de la orientación promocional, el trabajo en equipo juega un papel crucial para garantizar que todos los elementos clave del modelo de negocio sean claramente comunicados. El equipo debe colaborar para resumir eficientemente las características y beneficios del producto, presentando ejemplos visuales de interacción con el producto para hacer más tangible su valor. Cada miembro del equipo, con su expertise, puede aportar a crear mensajes dirigidos a diferentes segmentos del público objetivo, asegurando que cada uno reciba una opinión relevante y adaptada a sus necesidades y expectativas.
+    En este video se presenta un breve resumen del proceso de investigación de la lógica de negocio, así como las técnicas y métodos utilizados para el trabajo en equipo, e incluye testimonios breves de cada integrante sobre su experiencia en el desarrollo del proyecto.
   </td>
   <td>
    <strong>Link:</strong><br>
