@@ -1175,7 +1175,6 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, en el cual se incluyen las User Stories seleccionadas y su descomposición en tasks. Cada ítem contiene su respectiva descripción, estimación en horas, asignación y estado actual.
 
-<<<<<<< HEAD
 | Sprint # | User Story Id | User Story Title                         | Work-Item / Task Id | Task Title                                           | Description                                                                 | Estimation (Hours) | Assigned To         | Status    |
 | -------- | ------------- | ---------------------------------------- | ------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------- | ------------------ | ------------------- | --------- |
 | 3        | US33          | Diseño responsivo y navegación           | US33T001            | Modificar diseño responsivo en seccion about         | Actualizar el diseño responsivo de la sección "About" para mejorar la experiencia en diferentes dispositivos. | 2                  | Ingrid              | Done      |
@@ -1245,7 +1244,6 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 3| | | TS-FLE-001-T002|Implementar comando RegisterVehicleCommand y su handler|...|3|...|Done|
 3| | |TS-FLE-001-T003| Implementar endpoint POST /api/v1/vehicles con validaciones|...|3|...|Done|
 
->>>>>>> 7109c1638caa5b27ddd2ddc1c776f9ed54ccf39b
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
@@ -1331,9 +1329,19 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-
 <img src="./Resources/Capitulo_5/database-deploynment.png" alt="Trello Sprint 3">
 <br>
 <img src="./Resources/Capitulo_5/deploynment-backend.png" alt="Trello Sprint 3">
 <br>
 
+####  5.4. Video About-the-Product.
+<p align="center">
+  <a href="https://youtu.be/2dZIAQPCCvM" target="_blank">
+    <img src="Resources/AboutTheProductv1/Youtube2.png" 
+         alt="About The Product">
+  </a>
+</p>
+   <strong>Link:</strong>
+    <a href="https://youtu.be/2dZIAQPCCvM" target="_blank">
+      https://youtu.be/2dZIAQPCCvM
+    </a>
