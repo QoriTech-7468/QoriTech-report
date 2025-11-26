@@ -223,7 +223,7 @@ Nuestra propuesta se diferenciará al integrar monitoreo IoT en tiempo real, val
     <b>Edad:</b> 24 años <br>
     <b>Distrito:</b> San Jeronimo - Cusco <br>
     <b>Inicio de la entrevista:</b> 0:25<br>
-     <b>Resumen:</b> Danny Riverra, encargado y chofer en una empresa de transporte, utiliza el teléfono móvil y la aplicación <b>BeeTrack</b> para gestionar entregas, junto con documentos de oficina. Usa <b>BeeTrack</b> para localizar direcciones y referencias de clientes, necesitando solo la dirección exacta y calles cercanas. Registra las entregas con la firma del cliente y valida en <b>BeeTrack</b>, aunque las fallas de internet complican el proceso. Los retrasos principales son por tráfico, demoras en alistar mercadería y clientes sin pedidos, lo que requiere contactar al vendedor y reportar en <b>WhatsApp</b>. Los incidentes más comunes son locales cerrados o clientes sin dinero.<br><br>
+     <b>Resumen:</b> Danny Riverra, encargado y chofer en una empresa de transporte, utiliza el teléfono móvil y la aplicación <b>BeeTrack</b> para gestionar entregas, junto con documentos de oficina. Usa <b>BeeTrack y Google Maps</b> para localizar direcciones y referencias de clientes, necesitando solo la dirección exacta y calles cercanas. Registra las entregas con la firma del cliente y valida en <b>BeeTrack</b>, aunque las fallas de internet complican el proceso. Los retrasos principales son por tráfico, demoras en alistar mercadería y clientes sin pedidos, lo que requiere contactar al vendedor y reportar en <b>WhatsApp</b>. Los incidentes más comunes son locales cerrados o clientes sin dinero.<br><br>
     <b>Perfil del entrevistado:</b> El entrevistado muestra una actitud práctica y confianza en herramientas digitales, pero se frustra por factores externos como el tráfico, la falta de preparación de clientes y la dependencia de internet.<br>
       <p> 
      </p>
@@ -523,35 +523,35 @@ Ambos perfiles coinciden en la importancia de **gestionar incidencias** y **mant
 <p align="center">
   <img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Delivery Execution.jpg" 
        alt="SuscripcionesyPagos" 
-       width="400">
+       width="250">
 </p>
 
 2. Route Management  
 <p align="center">
   <img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Route Management.jpg" 
        alt="IdentidadyAcceso" 
-       width="400">
+       width="250">
 </p>
 
 3. Operations Monitoring  
 <p align="center">
   <img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Operations Monitoring.jpg" 
        alt="Recursos" 
-       width="400">
+       width="250">
 </p>
 
 4. Document Management  
 <p align="center">
   <img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Document Management.jpg" 
        alt="Ejecucion" 
-       width="400">
+       width="250">
 </p>
 
 5. Incident Management  
 <p align="center">
   <img src="Resources/Big-Picture-EventStorming/Storming AppsWeb - Incident Management.jpg" 
        alt="Incidencias" 
-       width="400">
+       width="250">
 </p>
 
 ### 2.5. Ubiquitous Language.
