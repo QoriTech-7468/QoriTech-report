@@ -89,7 +89,7 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
 </tr>
 <!--========================================= FILA 2 ======================================-->
 <tr>
-  <td rowspan="4"><strong>Exposición</strong></td>
+  <td rowspan="4">Presentations</td>
   <td>
     Cantidad de videos: 1 <br>
     Nomenclatura: upc-pre-202520-1asi0730-7468-QoriTech-expo-tb1 <br>
@@ -305,7 +305,7 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
 
 ### Anexo C. Diseño y Prototipo
 
-Enlace de Figma: https://shorturl.at/cmiuH
+Enlace de Figma: <a href= "https://www.figma.com/design/5jPKslsPd2yzl8DypTv23M/Landing-page-Qoritech?node-id=0-1&t=c9KtMK86xgb6Tnmi-1">Figma QoriTech</a>
 
 ![evidencia de figma](./Resources/anexos/figma-evidencia-anexo.png)
 

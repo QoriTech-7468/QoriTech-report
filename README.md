@@ -352,6 +352,8 @@ Durante esta fase, el equipo actualizó y completó las secciones del informe co
   - Jesús Castillo: 7 commits, 735 adiciones, 250 eliminaciones
   - Yaku Guzmán: 2 commits, 391 adiciones, 245 eliminaciones
 
+<div style="page-break-after: always;"></div>
+
 # Tabla de contenidos
 
 ## [Capítulo I: Introducción](Capitulo_1.md)
@@ -463,7 +465,6 @@ Durante esta fase, el equipo actualizó y completó las secciones del informe co
     - [5.2.3.2 Aspect Leaders and Collaborators](Capitulo_5.md#5232-aspect-leaders-and-collaborators)
     - [5.2.3.3 Sprint Backlog 3](Capitulo_5.md#5233-sprint-backlog-3)
 
-<div style="page-break-after: always;"></div>
 
 ## [Conclusiones](Conclusiones_bibliografica.md#conclusiones)
 

@@ -1334,6 +1334,14 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 <img src="./Resources/Capitulo_5/deploynment-backend.png" alt="Trello Sprint 3">
 <br>
 
+####  5.3. Validation Interviews.
+
+####  5.3.1. Diseño de Entrevistas.
+
+####  5.3.2. Registro de Entrevistas.
+
+####  5.3.3. Evaluaciones según heurísticas.
+
 ####  5.4. Video About-the-Product.
 <p align="center">
   <a href="https://youtu.be/2dZIAQPCCvM" target="_blank">
