@@ -288,40 +288,35 @@
 
 ## Project Report Collaboration Insights
 
-Para el desarrollo del **Project Report**, se utilizó un repositorio dentro de la organización del equipo en GitHub. A continuación, se presenta la evidencia de colaboración correspondiente, en coherencia con el Registro de Versiones del Informe.
+Para el desarrollo del **Project Report**, se utilizó un repositorio dentro de la organización del equipo en GitHub. A continuación, se presenta la evidencia de colaboración correspondiente, en coherencia con el Registro de Versiones del Informe (versiones 1.0-1.25 para TB1, 2.0-2.7 para TP1, y 3.0-3.3 para TB2).
 
 **Repositorio del informe del proyecto:**
 [https://shorturl.at/aQDFp](https://shorturl.at/aQDFp)
 
-![Contributors](./Resources/contributors-tb1.png)
+## TB1 - Informe inicial y Landing Page (8 de setiembre - 21 de setiembre de 2025)
+
+Durante esta fase, el equipo elaboró el informe base del proyecto, abarcando la definición del problema, justificación, objetivos y marco teórico. Simultáneamente, se desarrolló la **Landing Page** utilizando HTML5, CSS3 y JavaScript puro. Esta fase corresponde a las versiones 1.0-1.25 del Registro de Versiones del Informe.
+
+<img src="./Resources/contributors-tb1.png" alt="Gráfico de contribuciones del repositorio del informe del proyecto para TB1" width="600">
+
+*Figura 1: Gráfico de contribuciones del repositorio del informe del proyecto para TB1, mostrando la actividad de colaboración de todos los miembros del equipo durante el desarrollo del informe inicial y la landing page.*
 
 - **Total de commits:** 59
 - **Autores contribuyentes:**
-  - Jesús Castillo
-  - Ingrid Medina
-  - Christofer Costa
-  - Yaku Guzmán
-  - Santiago Gordillo
-- Actividad distribuida por ramas correspondientes a cada sección del informe.
-
-## TB1 - Informe inicial y Landing Page (8 de setiembre - 21 de setiembre de 2025)
-
-Durante esta fase, el equipo elaboró el informe base del proyecto, abarcando la definición del problema, justificación, objetivos y marco teórico. Simultáneamente, se desarrolló la **Landing Page** utilizando HTML5, CSS3 y JavaScript puro.
-
-![Evidencia de commits del repositorio](./Resources/contributors-tb1.png)
-
   - Jesús Castillo: 13 commits, 1021 adiciones, 438 eliminaciones
   - Ingrid Medina: 29 commits, 4600 adiciones, 42 eliminaciones
   - Christofer Costa: 24 commits, 1289 adiciones, 195 eliminaciones
   - Yaku Guzmán: 33 commits, 1200 adiciones, 153 eliminaciones
   - Santiago Gordillo: 27 commits, 283 adiciones, 28 eliminaciones
-- **Total de commits en TB1:** 59
+- Actividad distribuida por ramas correspondientes a cada sección del informe.
 
 ## TP1 - Aplicación Frontend (22 de setiembre - 10 de octubre de 2025)
 
-Durante esta fase, el equipo desarrolló la aplicación frontend completa utilizando Vue.js y PrimeVue, implementando los bounded contexts principales y desplegando la aplicación en Firebase Hosting.
+Durante esta fase, el equipo desarrolló la aplicación frontend completa utilizando Vue.js y PrimeVue, implementando los bounded contexts principales y desplegando la aplicación en Firebase Hosting. Esta fase corresponde a las versiones 2.0-2.7 del Registro de Versiones del Informe.
 
-![Evidencia de commits del repositorio Frontend](./Resources/Frontend_contributors.png)
+<img src="./Resources/Frontend_contributors.png" alt="Gráfico de contribuciones del repositorio Frontend para TP1" width="600">
+
+*Figura 2: Gráfico de contribuciones del repositorio Frontend para TP1, mostrando la actividad de colaboración de todos los miembros del equipo durante el desarrollo de la aplicación frontend.*
 
 - **miniChorri (Christofer Costa):** 17 commits, 5,587 adiciones, 458 eliminaciones
 - **Jcdev04 (Jesús Castillo):** 15 commits, 1,237 adiciones, 749 eliminaciones
@@ -329,6 +324,14 @@ Durante esta fase, el equipo desarrolló la aplicación frontend completa utiliz
 - **SantiIHC (Santiago Gordillo):** 9 commits, 4,677 adiciones, 1,811 eliminaciones
 - **Grini913 (Ingrid Medina):** 2 commits, 402 adiciones, 110 eliminaciones
 - **Total de commits en TP1:** 57
+
+## TB2 - Aplicación Backend (10 de octubre - 16 de noviembre de 2025)
+
+Durante esta fase, el equipo desarrolló la aplicación backend completa, implementando los servicios y APIs necesarios para soportar la funcionalidad de la aplicación. Esta fase corresponde a las versiones 3.0-3.3 del Registro de Versiones del Informe.
+
+<img src="./Resources/Frontend_contributors.png" alt="Gráfico de contribuciones del repositorio para TB2" width="600">
+
+*Figura 3: Gráfico de contribuciones del repositorio para TB2, mostrando la actividad de colaboración de todos los miembros del equipo durante el desarrollo de la aplicación backend.*
 
 # Tabla de contenidos
 
