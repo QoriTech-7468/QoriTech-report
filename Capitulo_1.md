@@ -220,23 +220,25 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 - #### 1. Optimización de tiempos
 
   - **Hipótesis:**  
-    **Creemos que** si implementamos un módulo de optimización de rutas con geolocalización en tiempo real para transportistas y administradores,<br><br>**Entonces esto logrará** reducir el tiempo promedio de entrega en 1 hora por reparto, mejorar la eficiencia operativa y aumentar la satisfacción del cliente.<br><br>**Sabremos que** estamos en lo cierto<br><br>**Cuando** los registros de GPS muestren una reducción del 15–20 % en los tiempos promedio de entrega y los transportistas comenten: “Ahora llego más rápido a todos los puntos”.
+    **Creemos que lograremos** una reducción de 1 hora por reparto y una disminución del 15–20 % en los tiempos promedio de entrega, aumentando la eficiencia operativa y la satisfacción del cliente.<br>**Si** los transportistas y administradores<br>**Obtienen** rutas optimizadas en tiempo real que les permitan planificar mejor sus recorridos y evitar retrasos<br>**Con** un módulo de optimización de rutas con geolocalización en tiempo real integrado en la plataforma.
 
 - #### 2. Prevención de pérdidas y robos
 
   - **Hipótesis:**  
-   **Creemos que** si integramos alertas de desvíos no autorizados y paradas inusuales en la plataforma para administradores,<br><br>**Entonces esto logrará** reducir en un 30 % las incidencias de robo o pérdida de mercadería, aumentando la confiabilidad del servicio.<br><br>**Sabremos que** estamos en lo cierto<br><br> **Cuando** los administradores comenten: “Ahora detecto al instante cuando un conductor se sale de la ruta” y las incidencias reportadas disminuyan más del 30 % en el primer año.
+  **Creemos que lograremos** una reducción superior al 30 % en incidencias de robo o pérdida de mercadería, aumentando la confiabilidad del servicio.<br>**Si** los administradores<br>**Obtienen** notificaciones inmediatas sobre desvíos no autorizados y paradas inusuales<br>**Con** un sistema de alertas automatizadas integrado en la plataforma que monitorea rutas y comportamientos en tiempo real.
 - #### 3. Control en tiempo real de transportistas
 
   - **Hipótesis:**  
-  **Creemos que** si ofrecemos un panel de control en tiempo real para monitorear la ubicación y actividad de cada conductor,<br><br>**Entonces esto logrará** aumentar la puntualidad de las entregas en un 25 % y mejorar la toma de decisiones de los administradores.<br><br>**Sabremos que** estamos en lo cierto<br><br>**Cuando** los administradores comenten: “Puedo ver en dónde está cada camión sin llamar por teléfono” y los indicadores de entregas puntuales aumenten un 25 % respecto a la línea base.
+  **Creemos que lograremos** un aumento del 25 % en la puntualidad de las entregas y una mejor toma de decisiones operativas.<br>**Si** los administradores de flota<br>**Obtienen** visibilidad en tiempo real sobre la ubicación y actividad de cada conductor<br>**Con** un panel de control en tiempo real que muestre el estado y geolocalización de cada vehículo.
 
 - #### 4. Listado digital de productos por camión
   - **Hipótesis:**  
-  **Creemos que** si permitimos registrar y consultar un listado digital de productos por camión para transportistas y administradores,<br><br>**Entonces esto logrará** reducir los errores de carga y entrega en un 30 % y mejorar la trazabilidad, aumentando la confiabilidad y satisfacción de los clientes finales<br><br>**Sabremos que** estamos en lo cierto<br><br>**Cuando** los conductores comenten: “Ahora sé exactamente qué productos llevo en mi camión”, los administradores digan: “Puedo verificar en segundos la carga de cada vehículo”, y los registros muestren una disminución del 30 % en reclamos o incidencias por productos mal cargados o entregados.
+  **Creemos que lograremos** una reducción del 30 % en los errores de carga y entrega, aumentando la trazabilidad y la satisfacción del cliente.<br>**Si** los transportistas y administradores<br>**Obtienen** la capacidad de registrar y consultar fácilmente el listado digital de productos por cada camión<br>**Con** un sistema digital de inventario por vehículo accesible en tiempo real.
  - #### 5. Adopción y uso de la plataforma por transportistas
     - **Hipótesis:**  
-   **Creemos que** si ofrecemos un proceso de incorporación guiada y capacitación en campo para transportistas,<br><br>**Entonces esto logrará** aumentar la adopción de la plataforma en un 50 %, reduciendo la resistencia tecnológica y mejorando el uso consistente del sistema.<br><br>**Sabremos que** estamos en lo cierto<br><br>**Cuando** las encuestas de adopción muestren que ≥50 % de usuarios completan el onboarding y el uso activo diario (DAU) de la plataforma aumente entre 25–50 %.
+    **Creemos que lograremos** un aumento del 50 % en la adopción de la plataforma y un incremento del 25–50 % en el uso activo diario.<br>
+    **Si** los transportistas con baja familiaridad digital<br>
+    **Obtienen** una experiencia de incorporación guiada y capacitación en campo que reduzca la resistencia tecnológica y aumente su confianza en el uso de la plataforma<br>**Con** un programa estructurado de onboarding y entrenamiento práctico en campo.
 ### 1.2.2.4. Lean UX Canvas.
 
 <table align='center'>
@@ -291,11 +293,10 @@ En la actualidad, las empresas de transporte y distribución enfrentan dificulta
 </tr>
 <tr>
 <td>
-- Creemos que al implementar un módulo de optimización de rutas con geolocalización en tiempo real, reduciremos el tiempo promedio de entrega en 1 hora por reparto. <br>
-<br>
-- Creemos que al integrar alertas de desvíos no autorizados y paradas inusuales, reduciremos en un 30 % las incidencias de robo o pérdida de mercadería. <br><br>
-- Creemos que al ofrecer un panel de control en tiempo real para monitorear la ubicación y actividad de cada conductor, aumentaremos la puntualidad de entregas en un 25 %. <br><br>
-- Creemos que al permitir registrar y consultar un listado digital de productos por camión, reduciremos los errores de carga y entrega en un 30 % y mejoraremos la trazabilidad de la distribución. <br>
+ - <strong>Creemos que lograremos</strong> reducir el tiempo promedio de entrega en 1 hora por reparto. <strong>Si</strong> los transportistas y administradores <strong>Obtienen</strong> rutas optimizadas en tiempo real <strong>Con</strong> un módulo de optimización de rutas con geolocalización en tiempo real.<br><br>
+- <strong>Creemos que lograremos</strong> reducir en 30 % las incidencias de robo o pérdida de mercadería. <trong>Si</strong> los administradores <strong>Obtienen</strong> alertas inmediatas sobre desvíos no autorizados y paradas inusuales </strong>Con</strong> un sistema de alertas automatizadas integrado en la plataforma.<br><br>
+- <strong>Creemos que lograremos</strong> aumentar la puntualidad de las entregas en 25 %. <strong>Si</strong> los administradores <strong>Obtienen</strong> visibilidad en tiempo real de la ubicación y actividad de los conductores <strong>Con</strong> un panel de control en tiempo real.<br><br>
+- <strong>Creemos que lograremos</strong> reducir los errores de carga y entrega en 30 % y mejorar la trazabilidad. <strong>Si</strong> los transportistas y administradores <strong>Obtienen</strong> acceso a un listado digital de productos por camión <strong>Con</strong> un sistema de registro y consulta digital de productos por vehículo.
 </td>
 <td>
 - Si el sistema no puede realizar las validaciones necesarias para el registro de los pedidos, los transportistas no la utilizarían por miedo a la posibilidad de tener varios pedidos repetidos.<br><br>
