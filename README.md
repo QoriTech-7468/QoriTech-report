@@ -5,8 +5,8 @@
 <h1 style="text-align: center;">Universidad Peruana de Ciencias Aplicada</h1><br>
 
 <h3 style="text-align: center; font-weight: normal; font-size: 22px; margin-top: 0;">
-  Ingeniería de Software – 2025-20
-</h3><br>
+  Ingeniería de Software – 202520
+</h3><br><br>
 
 <p align="center"><strong>Curso:</strong> 1ASI0730 – Aplicaciones Web</p>
 

@@ -216,7 +216,7 @@ Frente a esta situación, nuestra aplicación se presenta como una alternativa i
 5. **Reportes automáticos de entregas y tiempos de ruta** mejoran la toma de decisiones estratégicas.
      
 ### 1.2.2.3. Lean UX Hypothesis Statements.
-Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX: [Creemos que], [Esto logrará] y [Sabremos que]
+Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX: **“We believe we will achieve [this business outcome], If [these personas] attain [this benefit/user outcome] with [this feature or solution]”**, el cual permite estructurar las hipótesis de manera más clara, enfocándolas en el resultado de negocio, los usuarios involucrados, el beneficio esperado y la solución propuesta.
 - #### 1. Optimización de tiempos
 
   - **Hipótesis:**  
