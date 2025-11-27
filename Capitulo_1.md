@@ -165,10 +165,15 @@ Según *Flock Freight (2023)*:
 ### 1.2.2.1. Lean UX Problem Statements.
 
  
-En la actualidad, las empresas de transporte y distribución enfrentan dificultades para poder gestionar y enviar de manera
-eficiente sus productos. La falta de soluciones que permitan monitorear en tiempo real los vehículos, el estado de los productos, generan constantes retrasos, ciertas pérdidas de información y errores en las entregas. Esta situación impacta directamente en el cliente, que exige cada vez mayor rapidez y confiabilidad en los procesos de distribución de sus productos.
+**El estado actual del sector de transporte y distribución** está enfocado principalmente en procesos manuales, comunicación informal con los conductores y un control limitado sobre la ubicación de los vehículos y el estado de los productos.
 
-Frente a esta situación, nuestra aplicación se presenta como una alternativa innovadora que integra el seguimiento de tiempo real de los camiones con un gps integrado sin errores con una gestión de productos que logrará optimizar los tiempos de las entregas. La plataforma esta pensada paralos administradores y transportistas para que puedan llevar un control detallado de los paquetes, los productos entregados, y los que faltan entregar. En resumen, nuestra herramienta busca garantizar eficiencia, confiabilidad y simplicidad a nuestros usuarios.
+Lo que los productos y servicios existentes **no logran abordar es la falta de integración entre el monitoreo en tiempo real de los camiones y la gestión digital de los productos**, lo que genera retrasos, errores en las entregas y baja trazabilidad de la información.
+
+Nuestro producto abordará esta brecha mediante una **plataforma digital que integre geolocalización en tiempo real y un sistema de gestión de productos**, permitiendo a los usuarios optimizar las rutas, controlar las cargas y mejorar la visibilidad de las operaciones.
+
+Nuestro enfoque inicial estará dirigido a **administradores de flotas y transportistas de empresas de distribución.**
+
+Sabremos que hemos tenido éxito cuando observemos una **reducción en los tiempos de entrega, una disminución en los errores de carga y un incremento en la puntualidad de las entregas**, medido a través de indicadores de desempeño operativo.
 
 ### 1.2.2.2. Lean UX Assumptions.
 
