@@ -98,7 +98,7 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
   <td>Consolida la exposición de la TB1</td>
   <td>
     <strong>Link:</strong><br>
-    <a href="https://shorturl.at/Qgka1" target="_blank">
+    <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/IQBqIkzTw_XsS7RdIsr6zQVKARXZ7E-nsU4iR1OMm87lxPQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=du47pe" target="_blank">
       Ver video
     </a>
   </td>
@@ -298,6 +298,23 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
     <strong>Link:</strong><br>
     <a href="https://trello.com/invite/b/68f5e16b2d218361134e968d/ATTI38f28eeaeeab178948c534a8df161bb4DC92F947/sprint-backlog-3" target="_blank">
       Sprint Backlog #3
+    </a>
+  </td>
+</tr>
+<tr>
+  <td>
+    Sprint Backlog #4
+  </td>
+  <td>
+    Cantidad de tareas: 
+  </td>
+  <td>
+    Es un tablero de Trello enfocado en un Sprint, donde se define la meta del sprint y se distribuyen las tareas en diferentes estados para organizar el trabajo del equipo y dar seguimiento al progreso durante el desarrollo del proyecto.
+  </td>
+  <td>
+    <strong>Link:</strong><br>
+    <a href="" target="_blank">
+      Sprint Backlog #4
     </a>
   </td>
 </tr>
