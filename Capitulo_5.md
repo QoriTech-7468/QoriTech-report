@@ -1384,9 +1384,18 @@ Recursos del Sprint
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+Despliegue del Backend:
+
 <img src="./Resources/Capitulo_5/database-deploynment.png" alt="Trello Sprint 3">
 <br>
 <img src="./Resources/Capitulo_5/deploynment-backend.png" alt="Trello Sprint 3">
+<br>
+
+Despliegue del Frontend:
+
+<img src="Resources/Deployment_Frontend.jpeg" alt="Trello Sprint 3">
+<br>
+<img src="Resources/Deployment_Frontend2.jpeg" alt="Trello Sprint 3">
 <br>
 
 ### 5.2.4. Sprint 4
