@@ -719,27 +719,34 @@ Este diagrama se enfoca en los componentes internos del contenedor backend (Web 
 En esta sección se presentan los diagramas de clases que detallan la implementación orientada a objetos de los distintos componentes del sistema Qoritech Logistics. Cada diagrama está organizado por bounded context, lo que permite visualizar las entidades, agregados, value objects y relaciones clave dentro de cada dominio del negocio. Se destacan los agregados root para mantener la consistencia de los procesos críticos, como rutas e incidencias, así como las asociaciones, composiciones y dependencias entre clases.
 
 ### 4.7.1. Class Diagrams.
+
+1. IAM
+
+<div style="text-align: center;">
+<img src="./Resources/IAM.png">
+</div>
+
+2. Subscriptions
 <div style="text-align: center;">
 <img src="Resources/BC/Suscription.png">
 </div>
 
-1. Subscriptions
 <div style="text-align: center;">
 
 <img src="Resources/BC/Suscription2.png">
 </div>
 
-2. Fleet and Resource Management (Fleet)
+3. Fleet and Resource Management (Fleet)
 <div style="text-align: center;">
 <img src="Resources/BC/Fleet.png" alt="Recursos">
 </div>
 
-3. Customer & Location Management (CRM)
+4. Customer & Location Management (CRM)
 <div style="text-align: center;">
 <img src="Resources/BC/CRM.png" alt="Ejecucion">
 </div>
 
-4. Route Planning & Execution (Plannig)
+5   . Route Planning & Execution (Plannig)
 <div style="text-align: center;">
 <img src="Resources/BC/Planning.png" alt="rutas">
 </div>
