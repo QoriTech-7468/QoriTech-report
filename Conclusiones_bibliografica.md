@@ -60,7 +60,7 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
 
 ## Anexos
 
-### Anexo A. Videos
+### Anexo A. Contenido con Videos
 
 <table>
 <thead>
@@ -362,5 +362,5 @@ Link de aplicación frontend:<a href="https://shorturl.at/g93lZ" target="_blank"
 Link del video: <a href="https://backend-webapplication.onrender.com/swagger/index.html" target="_blank">
       https://backend-webapplication.onrender.com/swagger/index.html
     </a>
-    
+
   ![evidencia de Deployment de backend](./Resources/anexos/Deploynmentbackend-evidencia.png)

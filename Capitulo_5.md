@@ -1335,7 +1335,7 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 <br>
 
 ### 5.2.4. Sprint 4
-### 5.2.4.1.Spring Planning .
+### 5.2.4.1.Spring Planning 4.
 ### 5.2.4.2. Aspect Leaders and Collaborators.
 ### 5.2.4.3.Sprint Backlog 4.
 ### 5.2.4.4.Development Evidence for Sprint Review.
@@ -1344,10 +1344,9 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 ### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 ### 5.2.4.8.Team Collaboration Insights during Sprint.
 
-####  5.3. Validation Interviews.
+#### 5.3. Validation Interviews.
 
-####  5.3.1. Diseño de Entrevistas.
- Diseño de entrevistas.
+#### 5.3.1. Diseño de Entrevistas.
 
 **Preguntas Generales**
 
