@@ -311,34 +311,51 @@
 <td align="center">4.3</td>
     <td align="center">2025-11-30</td>
     <td>Medina Merma, Ingrid Melani </td>
-    <td></td>
+    <td>Cambios en caratula, Correccion de Problem Statements y Hypothesis en Lean UX, actualizaciones en formato de Anexos, diseño de entrevistas de validación.</td>
   </tr>
   <tr>
-<td align="center">4.6</td>
+  <td align="center">4.4</td>
+    <td align="center">2025-12-01</td>
+    <td>Costa Morales, Christofer Williamn </td>
+    <td>Documentacion del Sprint 4 y actualizacion de anexos</td>
+  </tr>
+  <tr>
+  <td align="center">4.5</td>
+    <td align="center">2025-12-01</td>
+    <td>Gordillo Ramos, Santiago Alonso</td>
+    <td>Correccion en Story Points</td>
+  </tr>
+    <tr>
+  <td align="center">4.6</td>
+    <td align="center">2025-12-01</td>
+    <td>Guzmán Cabrejos, Yaku MateoGuzmán Cabrejos, Yaku Mateo</td>
+    <td>Cambios en diagramas como diagrama de clases, Frontend y Backend</td>
+  </tr>
+<td align="center">4.7</td>
     <td align="center">2025-12-01</td>
     <td>Castillo Vidal, Jesus Ivan</td>
     <td>Student Outcome</td>
 </tr>
 <tr>
-<td align="center">4.7</td>
+<td align="center">4.8</td>
     <td align="center">2025-12-01</td>
     <td>Guzmán Cabrejos, Yaku Mateo</td>
     <td>Student Outcome</td>
 </tr>
 <tr>
-<td align="center">4.8</td>
+<td align="center">4.9</td>
     <td align="center">2025-12-01</td>
     <td>Gordillo Ramos, Santiago Alonso</td>
     <td>Student Outcome</td>
 </tr>
 <tr>
-<td align="center">4.9</td>
+<td align="center">4.10</td>
     <td align="center">2025-12-01</td>
     <td>Costa Morales, Christofer Williamn</td>
     <td>Student Outcome</td>
 </tr>
 <tr>
-<td align="center">4.10</td>
+<td align="center">4.11</td>
     <td align="center">2025-12-01</td>
     <td>Medina Merma, Ingrid Melani</td>
     <td>Student Outcome</td>

@@ -1513,7 +1513,65 @@ Recursos del Sprint
 ####  5.3.2. Registro de Entrevistas.
 
 ####  5.3.3. Evaluaciones según heurísticas.
+**SITE o APP A EVALUAR:**  Rutana - Aplicación web de gestion de transporte y logistica.
 
+**TAREAS A EVALUAR:**
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. 
+
+**ESCALA DE SEVERIDAD:**
+
+|**Nivel**| **Descripción**|
+|-----------|--------------|
+| 1|  |
+|2| |
+|3| |
+
+**TABLA RESUMEN:**
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Problema</th>
+      <th>Escala de severidad</th>
+      <th>Heurística / Principio violado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>No hay un control que permita regresar a la tienda durante el trámite de compra</td>
+      <td>3</td>
+      <td>Usability: Libertad y control del usuario</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Se repiten constantemente algunas opciones</td>
+      <td>1</td>
+      <td>Usability: Consistencia y estándares</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Imágenes sin atributo “alt”</td>
+      <td>3</td>
+      <td>Inclusive Design: Proporciona experiencias comparables</td>
+    </tr>
+  </tbody>
+</table>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+  PROBLEMA #1:
+
+  Severidad:
+
+  Problema:
+
+  Recomendación:
+
+  
 ####  5.4. Video About-the-Product.
 <p align="center">
   <a href="https://youtu.be/2dZIAQPCCvM" target="_blank">

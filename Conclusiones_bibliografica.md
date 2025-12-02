@@ -172,13 +172,19 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
     Validation Interviews
   </td>
   <td>
-    Contenido 
+   Cantidad de Videos: 
+    Nomenclatura:
+    upc-pre-202520-1asi0730-7468-QoriTech-validation-sprint-4
+Formato: .mp4
   </td>
   <td>
     Contenido 
   </td>
   <td>
-    Contenido 
+    <strong>Link:</strong>
+    <a href="https://tinyurl.com/yuush9bw" target="_blank">
+      https://tinyurl.com/yuush9bw
+    </a>
   </td>
 </tr>
 <!--========================================= FILA 5 ======================================-->
