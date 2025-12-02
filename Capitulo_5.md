@@ -1467,9 +1467,9 @@ Recursos del Sprint
 ### 5.2.4.8.Team Collaboration Insights during Sprint.
 
 
-#### 5.3. Validation Interviews.
+### 5.3. Validation Interviews.
 
-#### 5.3.1. Diseño de Entrevistas.
+### 5.3.1. Diseño de Entrevistas.
 
 **Preguntas Generales**
 
@@ -1511,6 +1511,50 @@ Recursos del Sprint
 
 
 ####  5.3.2. Registro de Entrevistas.
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 1</th>
+                <th> </th>
+            </tr>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="" alt="Foto de entrevista">
+                </td>
+                <td>
+                <strong>
+                    Resumen:</strong><br>           
+            </td>
+            </tr>
+            <tr>
+                <td>Tiempo que empieza</td>
+                <td>0:00 minutos</td>
+            </tr>
+            <tr>
+                <td>Tiempo de la entrevista</td>
+                <td> 5:30 minuntos  </td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td> </td>
+            </tr>
+        </tbody>
+</table>
 
 ####  5.3.3. Evaluaciones según heurísticas.
 **SITE o APP A EVALUAR:**  Rutana - Aplicación web de gestion de transporte y logistica.
@@ -1571,7 +1615,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
   Recomendación:
 
-  
+
 ####  5.4. Video About-the-Product.
 <p align="center">
   <a href="https://youtu.be/2dZIAQPCCvM" target="_blank">
