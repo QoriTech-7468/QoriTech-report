@@ -824,21 +824,22 @@ a los actores involucrados y los impactos esperados en su comportamiento.
   </tr>
   <tr>
     <td>1</td>
-    <td>US33</td>
-    <td>Diseño responsivo y navegación</td>
-    <td><b>Como visitante</b>, quiero que la landing se adapte y sea clara,<br><p>para explorar en móvil/tablet/desktop.</p>
-        <b>Escenario 1:</b> Vista móvil usable. <br>
-        <b>Escenario 2:</b> Navegación intuitiva.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>2</td>
     <td>US34</td>
     <td>Secciones segmentadas</td>
     <td><b>Como empresa de transporte</b>, quiero una sección dedicada con beneficios y planes,<br><p>para evaluar si se ajusta a mi negocio.</p>
         <b>Escenario 1:</b> Visualización de planes. <br>
         <b>Escenario 2:</b> Segmento correcto por tipo de visitante.</td>
-    <td>5</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>US33</td>
+    <td>Diseño responsivo y navegación</td>
+    <td><b>Como visitante</b>, quiero que la landing se adapte y sea clara,<br><p>para explorar en móvil/tablet/desktop.</p>
+        <b>Escenario 1:</b> Vista móvil usable. <br>
+        <b>Escenario 2:</b> Navegación intuitiva.</td>
+    <td>1</td>
+    
   </tr>
   <tr>
     <td>3</td>
@@ -847,7 +848,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
     <td><b>Como visitante internacional</b>, quiero seleccionar idioma (ES/EN),<br><p>para entender la propuesta sin barreras.</p>
         <b>Escenario 1:</b> Selector de idioma. <br>
         <b>Escenario 2:</b> Idioma por defecto según navegador.</td>
-    <td>5</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>4</td>
@@ -883,7 +884,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
     <td><b>Como administrador con suscripción</b>, quiero dar permisos a los miembros,<br><p>para limitar el acceso según su rol.</p>
         <b>Escenario 1:</b> Permiso asignado. <br>
         <b>Escenario 2:</b> Permiso denegado por plan.</td>
-    <td>5</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>8</td>
@@ -902,7 +903,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
     <td><b>Como usuario</b>, quiero suscribirme a un plan,<br><p>para acceder a beneficios (más cuentas, plan mensual).</p>
         <b>Escenario 1:</b> Suscripción exitosa. <br>
         <b>Escenario 2:</b> Falta de información.</td>
-    <td>8</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>10</td>
@@ -930,7 +931,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
     <td><b>Como administrador</b>, quiero registrar clientes frecuentes,<br><p>para mantener una lista organizada.</p>
         <b>Escenario 1:</b> Registro exitoso. <br>
         <b>Escenario 2:</b> Información insuficiente.</td>
-    <td>3</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>13</td>
@@ -939,7 +940,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
     <td><b>Como administrador</b>, quiero habilitar/inhabilitar clientes,<br><p>para controlar su disponibilidad.</p>
         <b>Escenario 1:</b> Cliente habilitado. <br>
         <b>Escenario 2:</b> Cliente deshabilitado.</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>14</td>
@@ -958,7 +959,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
         <b>Escenario 1:</b> Guardar dirección (reverse geocoding). <br>
         <b>Escenario 2:</b> Bloqueo sin cliente seleccionado. <br>
         <b>Escenario 3:</b> Falla de geocoding con fallback.</td>
-    <td>8</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>16</td>
@@ -994,7 +995,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
         <b>Escenario 1:</b> Asignar y reservar punto. <br>
         <b>Escenario 2:</b> Impedir duplicado el mismo día. <br>
         <b>Escenario 3:</b> Quitar punto.</td>
-    <td>5</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>20</td>
@@ -1011,7 +1012,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
     <td>Inhabilitar vehículo</td>
     <td><b>Como administrador</b>, quiero inhabilitar un vehículo,<br><p>para evitar su uso en nuevas rutas.</p>
         <b>Escenario 1:</b> Bloquea nuevas asignaciones/publicación.</td>
-    <td>3</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>22</td>
@@ -1039,7 +1040,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
     <td><b>Como transportista</b>, quiero marcar entregada o rechazada con motivo,<br><p>para dejar constancia.</p>
         <b>Escenario 1:</b> Entrega finalizada. <br>
         <b>Escenario 2:</b> Rechazada con motivo.</td>
-    <td>5</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>25</td>
@@ -1048,7 +1049,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
     <td><b>Como transportista</b>, quiero cerrar la ruta y reprogramar pendientes,<br><p>para continuar al día siguiente.</p>
         <b>Escenario 1:</b> Cierre normal. <br>
         <b>Escenario 2:</b> Cierre forzado con pendientes.</td>
-    <td>5</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>26</td>
@@ -1065,7 +1066,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
     <td><b>Como administrador</b>, quiero ver progreso en tiempo real y alertas,<br><p>para tomar decisiones oportunas.</p>
         <b>Escenario 1:</b> Estado actualizado en panel. <br>
         <b>Escenario 2:</b> Notificación automática.</td>
-    <td>8</td>
+    <td>3</td>
   </tr>
 <tr>
  <td>28</td>
@@ -1089,7 +1090,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
 <b>Escenario 1: Filtro aplicado</b><br>
 <b>Escenario 2: Filtro limpio</b><br>
 </td>
-<td>8</td>
+<td>3</td>
 </tr>
 <tr>
  <td>30</td>
@@ -1102,7 +1103,7 @@ a los actores involucrados y los impactos esperados en su comportamiento.
 <b>Escenario 1:  Entrega completada exitosamente</b><br>
 zación del progreso total</b><br>
 </td>
-<td>8</td>
+<td>3</td>
 </tr>
 <tr>
  <td>31</td>
@@ -1116,10 +1117,10 @@ zación del progreso total</b><br>
 <b>Escenario 2: Ingreso de detalle adicional</b><br>
 <b>Escenario 3: Estado actualizado</b><br>
 </td>
-<td>8</td>
+<td>3</td>
 </tr>
 <tr>
- <td>33</td>
+ <td>32</td>
 <td>US29</td>
 <td>Asignación de flota a la ruta</td>
 <td>
@@ -1128,27 +1129,27 @@ zación del progreso total</b><br>
 <b>Escenario 1: Selección de ruta para asignar flota</b><br>
 <b>Escenario 2: Asignación de equipo de transporte</b><br>
 </td>
-<td>8</td>
+<td>3</td>
 </tr>
   <tr>
-    <td>34</td>
+    <td>33</td>
     <td>US30</td>
     <td>Adjuntar evidencia</td>
     <td><b>Como transportista</b>, quiero adjuntar fotos en incidencias,<br><p>para brindar pruebas claras.</p>
         <b>Escenario 1:</b> Foto como evidencia.</td>
-    <td>5</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>31</td>
+    <td>34</td>
     <td>US32</td>
     <td>Etiquetado de incidencias por prioridad</td>
     <td><b>Como administrador</b>, quiero etiquetar incidencias por prioridad,<br><p>para gestionar lo urgente primero.</p>
         <b>Escenario 1:</b> Incidencia urgente destacada. <br>
         <b>Escenario 2:</b> Rechazo por mercadería dañada con evidencia.</td>
-    <td>5</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>30</td>
+    <td>35</td>
     <td>US32</td>
     <td>Generación de reportes operativos</td>
     <td><b>Como administrador</b>, quiero reportes de entregas y exportación a Excel,<br><p>para evaluar desempeño.</p>
@@ -1157,7 +1158,7 @@ zación del progreso total</b><br>
     <td>5</td>
   </tr>
   <tr>
-    <td>35</td>
+    <td>36</td>
     <td>TS-IAM-001</td>
     <td>Register User</td>
     <td><b>Como usuario</b>, quiero registrarme en la plataforma,<br><p>para poder acceder a las funcionalidades de mi organización.</p>
@@ -1167,7 +1168,7 @@ zación del progreso total</b><br>
     <td>3</td>
   </tr>
   <tr>
-    <td>36</td>
+    <td>37</td>
     <td>TS-IAM-002</td>
     <td>Sign In User</td>
     <td><b>Como usuario</b>, quiero iniciar sesión,<br><p>para obtener un token de acceso.</p>
@@ -1176,7 +1177,7 @@ zación del progreso total</b><br>
     <td>2</td>
   </tr>
   <tr>
-    <td>37</td>
+    <td>38</td>
     <td>TS-IAM-003</td>
     <td>Invite & Accept Organization Member</td>
     <td><b>Como owner</b>, quiero invitar usuarios a mi organización,<br><p>para que ellos puedan aceptar la invitación.</p>
@@ -1186,7 +1187,7 @@ zación del progreso total</b><br>
     <td>3</td>
   </tr>
   <tr>
-    <td>38</td>
+    <td>39</td>
     <td>TS-SUB-001</td>
     <td>Create Organization</td>
     <td><b>Como owner</b>, quiero registrar la organización,<br><p>para poder gestionar flota, clientes y rutas.</p>
@@ -1196,7 +1197,7 @@ zación del progreso total</b><br>
     <td>2</td>
   </tr>
   <tr>
-    <td>39</td>
+    <td>40</td>
     <td>TS-SUB-002</td>
     <td>Get Organization By Id</td>
     <td><b>Como usuario</b>, quiero obtener los datos de mi organización,<br><p>para mostrarlos en el panel de configuración.</p>
@@ -1205,7 +1206,7 @@ zación del progreso total</b><br>
     <td>1</td>
   </tr>
   <tr>
-    <td>40</td>
+    <td>41</td>
     <td>TS-FLE-001</td>
     <td>Register Vehicle</td>
     <td><b>Como owner/dispatcher</b>, quiero registrar vehículos,<br><p>para asociarlos a mi organización.</p>
@@ -1215,7 +1216,7 @@ zación del progreso total</b><br>
     <td>2</td>
   </tr>
   <tr>
-    <td>41</td>
+    <td>42</td>
     <td>TS-FLE-002</td>
     <td>Update Vehicle Profile & Enable/Disable</td>
     <td><b>Como dispatcher</b>, quiero editar datos del vehículo,<br><p>para habilitarlo o deshabilitarlo.</p>
@@ -1225,7 +1226,7 @@ zación del progreso total</b><br>
     <td>2</td>
   </tr>
   <tr>
-    <td>42</td>
+    <td>43</td>
     <td>TS-FLE-003</td>
     <td>Get Vehicles By Organization</td>
     <td><b>Como dispatcher</b>, quiero listar los vehículos de mi organización,<br><p>para filtrar por estado.</p>
@@ -1235,7 +1236,7 @@ zación del progreso total</b><br>
     <td>2</td>
   </tr>
   <tr>
-    <td>43</td>
+    <td>44</td>
     <td>TS-CRM-001</td>
     <td>Register & Toggle Client</td>
     <td><b>Como dispatcher</b>, quiero registrar clientes (tiendas),<br><p>para poder habilitarlos o deshabilitarlos.</p>
@@ -1245,7 +1246,7 @@ zación del progreso total</b><br>
     <td>2</td>
   </tr>
   <tr>
-    <td>44</td>
+    <td>45</td>
     <td>TS-CRM-002</td>
     <td>Register & Toggle Location</td>
     <td><b>Como dispatcher</b>, quiero registrar puntos de entrega (locations),<br><p>para asociarlos a un cliente y poder habilitarlos o deshabilitarlos.</p>
@@ -1255,7 +1256,7 @@ zación del progreso total</b><br>
     <td>2</td>
   </tr>
   <tr>
-    <td>45</td>
+    <td>46</td>
     <td>TS-CRM-003</td>
     <td>Query Clients and Locations</td>
     <td><b>Como dispatcher</b>, quiero ver todos los clientes de mi organización,<br><p>para consultar sus locations.</p>
@@ -1265,7 +1266,7 @@ zación del progreso total</b><br>
     <td>2</td>
   </tr>
   <tr>
-    <td>46</td>
+    <td>47</td>
     <td>TS-PLA-001</td>
     <td>Create Route Draft</td>
     <td><b>Como planner</b>, quiero crear un borrador de ruta para una fecha,<br><p>para utilizar un color de identificación.</p>
@@ -1274,7 +1275,7 @@ zación del progreso total</b><br>
     <td>2</td>
   </tr>
   <tr>
-    <td>47</td>
+    <td>48</td>
     <td>TS-PLA-002</td>
     <td>Edit Route Draft (Locations, Vehicle, Team)</td>
     <td><b>Como planner</b>, quiero armar el borrador de ruta,<br><p>para añadir locations, vehículo y equipo.</p>
@@ -1285,7 +1286,7 @@ zación del progreso total</b><br>
     <td>3</td>
   </tr>
   <tr>
-    <td>48</td>
+    <td>49</td>
     <td>TS-PLA-003</td>
     <td>Publish Route</td>
     <td><b>Como planner</b>, quiero publicar un borrador de ruta,<br><p>para que pase a ejecución generando una snapshot estable.</p>
@@ -1294,7 +1295,7 @@ zación del progreso total</b><br>
     <td>3</td>
   </tr>
   <tr>
-    <td>49</td>
+    <td>50</td>
     <td>TS-PLA-004</td>
     <td>Query Routes</td>
     <td><b>Como dispatcher/planner</b>, quiero consultar las rutas publicadas,<br><p>para ver su información completa.</p>

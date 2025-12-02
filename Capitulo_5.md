@@ -225,8 +225,8 @@ A continuación, se expone la planificación de nuestro Sprint 1, orientado prin
 <th>Sprint 1</th>
 </tr>
 <tr>
-<td><strong>Sprint Planning Background</strong></td>
-<td></td>
+<td colspan="2"><strong>Sprint Planning Background</strong></td>
+
 </tr>
 <tr>
 <td><strong>Date</strong></td>
@@ -257,8 +257,8 @@ A continuación, se expone la planificación de nuestro Sprint 1, orientado prin
 <td>Dado que este es el sprint inicial, no se presenta una retroalimentación del sprint anterior.</td>
 </tr>
 <tr>
-<td><strong>Sprint Goal & User Stories</strong></td>
-<td></td>
+<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+
 </tr>
 <tr>
 <td><strong>Sprint 1 Goal</strong></td>
@@ -614,8 +614,7 @@ Gracias a esta organización, se logró cumplir de manera efectiva el objetivo d
 <th>Sprint 2</th>
 </tr>
 <tr>
-<td><strong>Sprint Planning Background</strong></td>
-<td></td>
+<td colspan="2"><strong>Sprint Planning Background</strong></td>
 </tr>
 <tr>
 <td><strong>Date</strong></td>
@@ -646,8 +645,8 @@ Gracias a esta organización, se logró cumplir de manera efectiva el objetivo d
 <td>El trabajo en equipo no fue tan eficaz como se esperaba debido a que, al ser un equipo nuevo, el líder no conocía completamente las fortalezas y debilidades de cada miembro. Esto resultó en asignaciones de tareas que no aprovecharon al máximo las capacidades individuales. Además, no se siguió estrictamente el statement de trabajo, especialmente en la fase de ejecución, donde se desviaron algunos aspectos del plan original. Sin embargo, también se identificaron aspectos positivos: el equipo logró comprender profundamente el problema del usuario y sus necesidades reales, lo cual fue crucial para proponer funcionalidades apropiadas y desarrollar un entendimiento sólido del lenguaje ubicuo del dominio. Para Sprint 2, se implementará una mejor comunicación, evaluación de habilidades del equipo y seguimiento más estricto del plan de trabajo.</td>
 </tr>
 <tr>
-<td><strong>Sprint Goal & User Stories</strong></td>
-<td></td>
+<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+
 </tr>
 <tr>
 <td><strong>Sprint 2 Goal</strong></td>
@@ -1023,8 +1022,8 @@ Durante el Sprint 2, el equipo demostró una colaboración efectiva enfocada en 
 <th>Sprint 3</th>
 </tr>
 <tr>
-<td><strong>Sprint Planning Background</strong></td>
-<td></td>
+<td colspan="2"><strong>Sprint Planning Background</strong></td>
+
 </tr>
 <tr>
 <td><strong>Date</strong></td>
@@ -1055,8 +1054,7 @@ Durante el Sprint 2, el equipo demostró una colaboración efectiva enfocada en 
 <td>El equipo enfrentó varios retos durante el Sprint 2, especialmente relacionados con la integración del código y el trabajo colaborativo. Se presentaron conflictos de merge al unificar los avances individuales, lo que afectó el ritmo de desarrollo. Además, persistió parte de la deuda técnica del sprint anterior, especialmente en la comprensión de la arquitectura y simulación del backend. A pesar de ello, el equipo mostró una mejora significativa en comunicación, coordinación y dominio de las herramientas. Se destaca el cumplimiento del diseño de producto y la capacidad de resolver problemas técnicos de manera colaborativa. Para el siguiente sprint se priorizará la reducción de deuda técnica y la implementación completa de las funcionalidades restantes.</td>
 </tr>
 <tr>
-<td><strong>Sprint Goal & User Stories</strong></td>
-<td></td>
+<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
 </tr>
 <tr>
 <td><strong>Sprint 3 Goal</strong></td>
@@ -1064,11 +1062,11 @@ Durante el Sprint 2, el equipo demostró una colaboración efectiva enfocada en 
 </tr>
 <tr>
 <td><strong>Sprint 3 Velocity</strong></td>
-<td></td>
+<td>30</td>
 </tr>
 <tr>
 <td><strong>Sum of Story Points</strong></td>
-<td></td>
+<td>30</td>
 </tr>
 </table>
 
@@ -1167,7 +1165,7 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 #### 5.2.3.3. Sprint Backlog 3.
 
-<img src="./Resources/Capitulo_5/Trello_sprint3.jpg" alt="Trello Sprint 3">
+<img src="Resources/Capitulo_5/Sprint3/SprintBacklog.png" alt="Trello Sprint 3">
 <br>
 <a href="https://trello.com/b/1n7Mp1Xp/sprint-backlog-3" target="_blank">
   <span>Tablero Sprint 3 en Trello</span>
@@ -1222,7 +1220,8 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 | 3        |               |                                            | TS-CRM-003-T002     | Implementar ClientResource y endpoints GET para clientes | Implementar el ClientResource y los endpoints GET para obtener clientes. | 2                  | Jesús               | Done      |
 | 3        |               |                                            | TS-CRM-003-T003     | Crear queries para Location (ById, ByClient) y sus handlers | Crear las queries GetLocationByIdQuery y GetLocationsByClientQuery con sus respectivos handlers. | 2                  | Jesús               | Done      |
 | 3        |               |                                            | TS-CRM-003-T004     | Implementar LocationResource y endpoints GET para locations | Implementar el LocationResource y los endpoints GET para obtener ubicaciones. | 2                  | Jesús               | Done      |
-=======
+
+
 | Sprint # | User Story Id | User Story Title                              | Work-Item / Task Id | Task Title                                      | Description                                                                                     | Estimation (Hours) | Assigned To              | Status |
 |-----------|----------------|-----------------------------------------------|---------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------|---------------------------|---------|
 3 | US10| Gestión de clientes| US10T001|Mejorar el apartado visual|... |2|...|To Review|
@@ -1323,16 +1322,221 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 <img src="./Resources/Capitulo_5/endpoints-2.jpg" alt="Trello Sprint 3">
 <br>
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+Durante este sprint se completó una versión preliminar del backend de la aplicación Rutana utilizando la estructura net9.0, con el lenguaje C# y la plantilla de Web API, con despliegue exitoso en onRender. Aunque no se completaron todas los endpoint que se planificaron, se logró implementar los bounded contexts core y desplegar sus respectivos endpoint.
 
+**Descripción del Logro:**
 
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+- Implementación del backend con net9.0 y C#
+- Desarrollo de los bounded contexts principales (Subscription, Fleet & Resource Management, Customer & Location Management)
+- Implementación de los metodos HTTP: Get, Post, Put y Patch
+- Deployment exitoso en onRender
+
+Recursos del Sprint
+
+<table>
+<tr>
+<th>Recurso</th>
+<th>Acción implementada</th>
+<th>Método HTTP</th>
+<th>URL / Endpoint</th>
+<th>Link de repositorio</th>
+</tr>
+<tr>
+<td>Backend Application</td>
+<td>Aplicación web Api</td>
+<td>GET</td>
+<td>https://backend-webapplication.onrender.com/swagger/index.html</td>
+<td>https://github.com/QoriTech-7468/BackEnd-WebApplication.git</td>
+</tr>
+<tr>
+<td>Backend Application</td>
+<td>Aplicación web Api</td>
+<td>Post</td>
+<td>https://backend-webapplication.onrender.com/swagger/index.html</td>
+<td>https://github.com/QoriTech-7468/BackEnd-WebApplication.git</td>
+</tr>
+<tr>
+<td>Backend Application</td>
+<td>Aplicación web Api</td>
+<td>Put</td>
+<td>https://backend-webapplication.onrender.com/swagger/index.html</td>
+<td>https://github.com/QoriTech-7468/BackEnd-WebApplication.git</td>
+</tr>
+<tr>
+<td>Backend Application</td>
+<td>Aplicación web Api</td>
+<td>Patch</td>
+<td>https://backend-webapplication.onrender.com/swagger/index.html</td>
+<td>https://github.com/QoriTech-7468/BackEnd-WebApplication.git</td>
+</tr>
+<tr>
+</table>
+
+**Documentación de Servicios:**
+
+1. **API Documentation**: Documentación de los endpoint con la estructura net9.0
+2. **Component Documentation**: Documentación de componentes Vue.js desarrollados con PrimeVue
+3. **Deployment Guide**: Guía de despliegue en onRender con configuración de producción
+4. **Architecture Documentation**: Documentación de la arquitectura con Domain Driven Design
+5. **Repository Documentation**: Documentación completa del código fuente en GitHub con 89 commits
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Despliegue del Backend:
 
 <img src="./Resources/Capitulo_5/database-deploynment.png" alt="Trello Sprint 3">
 <br>
 <img src="./Resources/Capitulo_5/deploynment-backend.png" alt="Trello Sprint 3">
 <br>
+
+Despliegue del Frontend:
+
+<img src="Resources/Deployment_Frontend.jpeg" alt="Trello Sprint 3">
+<br>
+<img src="Resources/Deployment_Frontend2.jpeg" alt="Trello Sprint 3">
+<br>
+
+### 5.2.4. Sprint 4
+### 5.2.4.1.Spring Planning 4.
+<table>
+<tr>
+<th>Sprint #</th>
+<th>Sprint 4</th>
+</tr>
+<tr>
+<td colspan="2"><strong>Sprint Planning Background</strong></td>
+
+</tr>
+<tr>
+<td><strong>Date</strong></td>
+<td>2025-12-01</td>
+</tr>
+<tr>
+<td><strong>Time</strong></td>
+<td>12:18 PM (GMT-5)</td>
+</tr>
+<tr>
+<td><strong>Location</strong></td>
+<td>Modalidad remota mediante la plataforma Discord</td>
+</tr>
+<tr>
+<td><strong>Prepared By</strong></td>
+<td>Jesús Castillo Vidal</td>
+</tr>
+<tr>
+<td><strong>Attendees (to planning meeting)</strong></td>
+<td>Castillo Vidal, Jesús Iván / Costa Morales, Christofer William / Gordillo Ramos, Santiago Alonso / Guzmán Cabrejos, Yaku Mateo / Medina Merma, Ingrid Melani</td>
+</tr>
+<tr>
+<td><strong>Sprint 3 Review Summary</strong></td>
+<td>Durante el Sprint 3 se completó la mayor parte de los entregables planificados. Se habilitó el flujo completo de gestión de suscripciones, y se implementaron las operaciones de edición y eliminación en los módulos principales de Usuarios, Flotas y Rutas. Asimismo, se desarrollaron las vistas iniciales para Dispatchers y se incorporaron validaciones y manejo de errores en las acciones críticas de la plataforma. En el backend, se documentaron en Swagger los endpoints esenciales de los bounded contexts de Subscriptions, Fleet, Planning y CRM, quedando operativos para pruebas funcionales. Finalmente, se actualizó la landing page con los cambios solicitados en términos y condiciones y se añadieron los videos de presentación del equipo y del producto.</td>
+</tr>
+<tr>
+<td><strong>Sprint 3 Retrospective Summary</strong></td>
+<td> El equipo identificó que, al ser un sprint con múltiples entregables transversales (backend, frontend y documentación), fue necesario mejorar la priorización y dividir con mayor claridad las tareas críticas para evitar bloqueos. Se observó que las integraciones entre bounded contexts requerían mayor coordinación temprana, especialmente en endpoints compartidos y manejo unificado de errores. A nivel técnico, se reconoció que la complejidad del backend aumentó debido al despliegue y a la documentación de los servicios, lo que destacó la importancia de realizar revisiones de código más frecuentes y pruebas automatizadas tempranas. Finalmente, se valoró de manera positiva la comunicación del equipo y la capacidad de adaptación, pero se acordó mejorar la estimación de historias para evitar sobrecarga en futuros sprints. </td>
+</tr>
+<tr>
+<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+</tr>
+<tr>
+<td><strong>Sprint 4 Goal</strong></td>
+<td><strong>Nuestro propósito está</strong> consolidar una versión estable y totalmente operativa de la plataforma Rutana, asegurando la integración fluida entre los bounded contexts (Subscriptions, Fleet, Planning y CRM) y completando las funcionalidades pendientes del Sprint pasado, para que se garantice el uso real por parte de administradores y transportistas.<strong> Creemos que esto aportará </strong>una experiencia más fluida, confiable y cohesiva entre frontend y backend, reduciendo puntos de falla y asegurando que los usuarios clave puedan ejecutar sus procesos sin interrupciones. <strong>Esto se confirmará cuando:</strong> tengamos la versión final del frontend conectada con la versión final del backend y que se pueda utilizar estos dos, sin errores ni complicaciones.</td>
+</tr>
+<tr>
+<td><strong>Sprint 4 Velocity</strong></td>
+<td>27</td>
+</tr>
+<tr>
+<td><strong>Sum of Story Points</strong></td>
+<td>27</td>
+</tr>
+</table>
+
+### 5.2.4.2. Aspect Leaders and Collaborators.
+
+
+### 5.2.4.3.Sprint Backlog 4.
+
+<img src="Resources/Capitulo_5/Trello_sprint4.png" alt="Trello Sprint 4">
+<br>
+<a href="https://trello.com/b/0eTLOSys/sprint-backlog-4" target="_blank">
+  <span>Tablero Sprint 4 en Trello</span>
+</a>
+
+### 5.2.4.4.Development Evidence for Sprint Review.
+
+
+### 5.2.4.5.Execution Evidence for Sprint Review.
+
+![alt text](Resources/Execution_Evidence1.jpeg)
+
+![alt text](Resources/Execution_Evidence2.jpeg)
+
+![alt text](Resources/Execution_Evidence3.jpeg)
+
+![alt text](Resources/Execution_Evidence4.jpeg)
+
+![alt text](Resources/Execution_Evidence5.jpeg)
+
+### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+
+### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+![alt text](Resources/Deployment_Backend.jpeg)
+
+![alt text](Resources/Deployment_Backend2.jpeg)
+### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+
+#### 5.3. Validation Interviews.
+
+#### 5.3.1. Diseño de Entrevistas.
+
+**Preguntas Generales**
+
+**Objetivo:** Conocer percepción global del proyecto RUTANA.
+- **Principal:** ¿Qué fue lo primero que pensaste al ver o escuchar sobre RUTANA?
+
+- **Principal:** En tus palabras, ¿qué problema crees que resuelve RUTANA?
+
+- **Principal**En una escala del 1 al 10, ¿qué tan útil crees que sería RUTANA para tu día a día? ¿Por qué ese puntaje?
+- **Complementaria:** ¿Qué fue lo que más te gustó de lo que viste?
+- **Complementaria:** ¿Qué fue lo que menos te convenció o te generó dudas?
+
+**Primer Segmento Objetivo: Transportistas**
+
+**Objetivo:** Obtener la opinión directa del transportista sobre la utilidad, usabilidad y deseabilidad de RUTANA, y cómo resuelve sus principales problemas en ruta.
+
+- **Principal:** Cuando ingresas a RUTANA, ¿la forma en que se te presentan las rutas asignadas y las entregas pendientes es clara y te permite empezar a trabajar rápidamente?
+
+- **Principal:** El proceso de marcar una entrega como "Completada"¿te parece simple y rápido de hacer al terminar con el cliente?
+
+- **Principal:** ¿Qué tan fácil o difícil fue navegar por la aplicación?
+
+- **Principal:** ¿Qué tan dispuesto estarías a usarla como tu principal herramienta de trabajo?  
+
+- **Complementaria:** ¿Hay algo en la interfaz o en el flujo que te pareció confuso o que cambiarías?
+
+- **Complementaria:** ¿Recomendarías esta aplicación a otros compañeros conductores? ¿Por qué sí o por qué no?
+
+
+**Segundo Segmento Objetivo: Administradores**
+
+**Objetivo:** Evaluar si RUTANA cumple con sus necesidades de planificación, monitoreo en tiempo real, control de carga y gestión de incidencias, y el valor que perciben.
+
+- **Principal:** ¿Qué tan útil consideras la vista en tiempo real del camión y su progreso?
+- **Principal:** El sistema de monitoreo en tiempo real de RUTANA, ¿te proporciona suficiente información para saber si un camión está siguiendo la ruta y cumpliendo los horarios?
+- **Principal:**¿La información presentada te permitiría tomar decisiones operativas mejor que ahora?
+- **Principal:** Si tuvieras que decidir implementar RUTANA, ¿cuál es el beneficio principal que te convencería de adoptarlo? (Ej. Reducción de costos, mejora de servicio, etc.)
+- **Complementaria:** La posibilidad de crear roles de equipo de transporte con permisos limitados, ¿Es un beneficio importante para la seguridad y organización de tu operación?
+
+
+####  5.3.2. Registro de Entrevistas.
+
+####  5.3.3. Evaluaciones según heurísticas.
 
 ####  5.4. Video About-the-Product.
 <p align="center">
@@ -1345,3 +1549,5 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
     <a href="https://youtu.be/2dZIAQPCCvM" target="_blank">
       https://youtu.be/2dZIAQPCCvM
     </a>
+
+
