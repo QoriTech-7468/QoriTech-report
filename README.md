@@ -295,6 +295,54 @@
     <td>Castillo Vidal, Jesus Ivan</td>
     <td>Documentación del sprint 3 y actualización de anexos</td>
   </tr>
+  <tr>
+<td align="center">4.1</td>
+    <td align="center">2025-1-30</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td>Documentación del sprint 3 y actualización de anexos</td>
+  </tr>
+  <tr>
+<td align="center">4.2</td>
+    <td align="center">2025-11-30</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td>Documentación del sprint 4 y actualización de anexos</td>
+  </tr>
+    <tr>
+<td align="center">4.3</td>
+    <td align="center">2025-11-30</td>
+    <td>Medina Merma, Ingrid Melani </td>
+    <td></td>
+  </tr>
+  <tr>
+<td align="center">4.6</td>
+    <td align="center">2025-12-01</td>
+    <td>Castillo Vidal, Jesus Ivan</td>
+    <td>Student Outcome</td>
+</tr>
+<tr>
+<td align="center">4.7</td>
+    <td align="center">2025-12-01</td>
+    <td>Guzmán Cabrejos, Yaku Mateo</td>
+    <td>Student Outcome</td>
+</tr>
+<tr>
+<td align="center">4.8</td>
+    <td align="center">2025-12-01</td>
+    <td>Gordillo Ramos, Santiago Alonso</td>
+    <td>Student Outcome</td>
+</tr>
+<tr>
+<td align="center">4.9</td>
+    <td align="center">2025-12-01</td>
+    <td>Costa Morales, Christofer Williamn</td>
+    <td>Student Outcome</td>
+</tr>
+<tr>
+<td align="center">4.10</td>
+    <td align="center">2025-12-01</td>
+    <td>Medina Merma, Ingrid Melani</td>
+    <td>Student Outcome</td>
+</tr>
 </table>
 
 <div style="page-break-after: always;"></div>

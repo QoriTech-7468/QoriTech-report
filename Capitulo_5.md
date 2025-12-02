@@ -1336,6 +1336,61 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 
 ### 5.2.4. Sprint 4
 ### 5.2.4.1.Spring Planning 4.
+<table>
+<tr>
+<th>Sprint #</th>
+<th>Sprint 4</th>
+</tr>
+<tr>
+<td><strong>Sprint Planning Background</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Date</strong></td>
+<td>2025-12-01</td>
+</tr>
+<tr>
+<td><strong>Time</strong></td>
+<td>12:18 PM (GMT-5)</td>
+</tr>
+<tr>
+<td><strong>Location</strong></td>
+<td>Modalidad remota mediante la plataforma Discord</td>
+</tr>
+<tr>
+<td><strong>Prepared By</strong></td>
+<td>Jesús Castillo Vidal</td>
+</tr>
+<tr>
+<td><strong>Attendees (to planning meeting)</strong></td>
+<td>Castillo Vidal, Jesús Iván / Costa Morales, Christofer William / Gordillo Ramos, Santiago Alonso / Guzmán Cabrejos, Yaku Mateo / Medina Merma, Ingrid Melani</td>
+</tr>
+<tr>
+<td><strong>Sprint 3 Review Summary</strong></td>
+<td>...</td>
+</tr>
+<tr>
+<td><strong>Sprint 3 Retrospective Summary</strong></td>
+<td> ... </td>
+</tr>
+<tr>
+<td><strong>Sprint Goal & User Stories</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Sprint 4 Goal</strong></td>
+<td><strong>Nuestro propósito está</strong>   </td>
+</tr>
+<tr>
+<td><strong>Sprint 4 Velocity</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Sum of Story Points</strong></td>
+<td></td>
+</tr>
+</table>
+
 ### 5.2.4.2. Aspect Leaders and Collaborators.
 ### 5.2.4.3.Sprint Backlog 4.
 ### 5.2.4.4.Development Evidence for Sprint Review.
