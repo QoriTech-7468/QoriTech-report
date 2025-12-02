@@ -1516,29 +1516,33 @@ Recursos del Sprint
         <thead>
             <tr>
                 <th>Entrevistado 1</th>
-                <th> </th>
+                <th> Marcia Diana Marcoschino</th>
             </tr>
             <tr>
                 <th>Entrevistador </th>
-                <th></th>
+                <th>Gordillo Ramos, Santiago Alonso</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad </td>
-                <td></td>
+                <td>27 años</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td> </td>
+                <td>Lima</td>
             </tr>
             <tr>
                 <td>
-                    <img src="" alt="Foto de entrevista">
+                    <img src="Resources/EntrevistasVavlidacion/Entrevista-Administrador1.png" width="500">
                 </td>
                 <td>
                 <strong>
-                    Resumen:</strong><br>           
+                    Resumen:</strong><br>
+                    La entrevistada, Marcia Diana Marcoschino (27 años, área administrativa en logística), señaló que inicialmente pensó que RUTANA era una aplicación similar a Google Maps y no relacionada con logística. Tras conocer sus funciones, consideró que la aplicación sí resuelve problemas del proceso de delivery, especialmente en organización y control de rutas.
+Calificó su utilidad con un 7/10, destacando que optimiza procesos, aunque requiere ser más intuitiva para usuarios sin capacitación. Respecto a la vista en tiempo real del camión, la consideró útil, pero mencionó que falta información clave, especialmente tiempos estimados y demoras, lo cual afecta la toma de decisiones operativas.
+Indicó que RUTANA podría mejorar significativamente la calidad del servicio, ya que un mejor control del delivery beneficia la experiencia del cliente. Valoró positivamente la funcionalidad de roles y permisos, señalando que es importante que los transportistas solo vean la información necesaria.
+En general, la aplicación le resultó útil y con buen potencial, aunque señaló que aún requiere mejoras para ser más completa y fácil de usar. 
             </td>
             </tr>
             <tr>
@@ -1547,11 +1551,11 @@ Recursos del Sprint
             </tr>
             <tr>
                 <td>Tiempo de la entrevista</td>
-                <td> 5:30 minuntos  </td>
+                <td> 6:38 minuntos  </td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td> </td>
+                <td>https://tinyurl.com/4k9a4ucd</td>
             </tr>
         </tbody>
 </table>
@@ -1562,15 +1566,38 @@ Recursos del Sprint
 **TAREAS A EVALUAR:**
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1. 
+1. Visualizar rutas y progreso de entregas en tiempo real
+
+2. Monitorear vehículos y estado de deliveries
+
+3. Interpretar información del camión en la vista de tiempo real
+
+4. Crear y gestionar roles (administrador – transportista)
+
+5. Navegar por las diferentes secciones de la aplicación
+
+6. Tomar decisiones operativas con base en la información mostrada
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Integración con sistemas externos
+
+2. Comunicación interna con transportistas
+
+3. Reportes avanzados de desempeño
+
+4. Estadísticas históricas de rutas
+
+5. Personalización de vistas o configuraciones internas
 
 **ESCALA DE SEVERIDAD:**
 
 |**Nivel**| **Descripción**|
 |-----------|--------------|
-| 1|  |
-|2| |
-|3| |
+| 1| Problema superficial. Puede ignorarse si no hay tiempo |
+|2| Problema menor. Ocurre ocasionalmente y afecta un poco la experiencia.|
+|3| Problema mayor. Limita significativamente la usabilidad o comprensión.|
+|4| Problema muy grave. Impide continuar tareas críticas.|
 
 **TABLA RESUMEN:**
 
@@ -1586,34 +1613,78 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
   <tbody>
     <tr>
       <td>1</td>
-      <td>No hay un control que permita regresar a la tienda durante el trámite de compra</td>
+      <td>La aplicación no es intuitiva para usuarios nuevos sin capacitación</td>
       <td>3</td>
-      <td>Usability: Libertad y control del usuario</td>
+      <td>Usability: Learnability / Consistencia y estándares</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Se repiten constantemente algunas opciones</td>
+      <td>Falta información de tiempo estimado o demoras en la vista del camión</td>
       <td>1</td>
-      <td>Usability: Consistencia y estándares</td>
+      <td>Information Architecture: Is it useful? / Visibility of system status</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Imágenes sin atributo “alt”</td>
+      <td>La vista de rutas no permite tomar decisiones completas (información insuficiente)</td>
       <td>3</td>
-      <td>Inclusive Design: Proporciona experiencias comparables</td>
+      <td>Usability: Adecuación a la tarea / Visibility of system status</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Falta claridad en algunos segmentos y secciones de la aplicación</td>
+      <td>2</td>
+      <td>Usability: Adecuación a la tarea / Visibility of system status</td>
+    </tr>
+        <tr>
+      <td>5</td>
+      <td>Expectativa inicial del usuario no coincide con el propósito de la app (nombre no comunica la función)</td>
+      <td>1</td>
+      <td>Usability: Match between system and real world</td>
     </tr>
   </tbody>
 </table>
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
-  PROBLEMA #1:
+PROBLEMA #1: La aplicación no es intuitiva para usuarios nuevos sin capacitación
 
-  Severidad:
+Severidad: 3
+Heurística violada: Usability – Learnability / Consistencia y estándares
 
-  Problema:
+Problema:
+La entrevistada señala que, sin una demostración previa, no habría sabido cómo usar la aplicación. También menciona que sus compañeros tampoco podrían utilizarla de forma intuitiva sin capacitación. Esto indica dificultades de aprendizaje y falta de guías internas o indicadores visuales claros.
 
-  Recomendación:
+PROBLEMA #2: Falta mostrar tiempo estimado y demoras en las rutas
+
+Severidad: 3
+Heurística violada: Visibility of system status / IA – Is it useful?
+
+Problema:
+La vista en tiempo real solo muestra distancia, pero no tiempos estimados ni retrasos. Esto limita la toma de decisiones operativas, especialmente en logística donde el tiempo es crítico. La usuaria considera esta falta como “limitante” e incluso “crítica”.
+
+PROBLEMA #3: Información insuficiente para tomar decisiones completas
+
+Severidad: 3
+Heurística violada: Adecuación a la tarea / Visibility of system status
+
+Problema:
+Aunque se pueden ver las rutas y si los deliveries están entregados, la usuaria menciona que “no tiene toda la información necesaria”. Al faltar datos importantes, el control operativo se vuelve parcial.
+
+PROBLEMA #4: Falta claridad en algunos segmentos de la aplicación
+
+Severidad: 2
+Heurística violada: IA – Is it findable?
+
+Problema:
+La entrevistada menciona que “falta facilidad para cada segmento” y que algunas secciones no se entienden claramente sin guía previa. Esto indica problemas de navegación y arquitectura de información.
+
+PROBLEMA #5: El nombre de la aplicación no comunica su propósito
+
+Severidad: 1
+Heurística violada: Match between system and real world
+
+Problema:
+La entrevistada pensó que RUTANA era similar a Google Maps o Waze, sin asociarlo a logística. Esto afecta la primera impresión y puede generar confusión sobre el propósito de la app.
 
 
 ####  5.4. Video About-the-Product.
