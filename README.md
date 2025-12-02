@@ -24,30 +24,30 @@
 </h2>
 
 
-<table align="center"> 
+<table style="display: flex; justify-content: center;"> 
 <tr>
-<th>Integrantes</th>
 <th>Código</th>
+<th>Integrantes</th>
 </tr> 
 <tr>
-<td>Castillo Vidal, Jesus Ivan</td>
 <td>U202322952</td>
+<td>Castillo Vidal, Jesus Ivan</td>
 </tr> 
 <tr>
-<td>Costa Morales, Christofer William</td>
 <td>U202315968</td>
+<td>Costa Morales, Christofer William</td>
 </tr> 
 <tr>
-<td>Gordillo Ramos, Santiago Alonso </td>
-<td>U202215160</td>
+<td>U202215160 </td>
+<td>Gordillo Ramos, Santiago Alonso</td>
 </tr> 
 <tr>
-<td>Guzmán Cabrejos, Yaku Mateo </td>
-<td>U20231B173</td>
+<td>U20231B173 </td>
+<td>Guzmán Cabrejos, Yaku Mateo</td>
 </tr> 
 <tr>
-<td>Medina Merma, Ingrid Melani </td>
-<td>U202213185</td>
+<td>U202213185 </td>
+<td>Medina Merma, Ingrid Melani</td>
 </tr>
 </table>
 <br><br>
@@ -417,7 +417,10 @@ Durante esta fase, el equipo actualizó y completó las secciones del informe co
   - Jesús Castillo: 7 commits, 735 adiciones, 250 eliminaciones
   - Yaku Guzmán: 2 commits, 391 adiciones, 245 eliminaciones
 
+
+
 <div style="page-break-after: always;"></div>
+
 
 # Tabla de contenidos
 

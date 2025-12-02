@@ -1384,9 +1384,18 @@ Recursos del Sprint
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+Despliegue del Backend:
+
 <img src="./Resources/Capitulo_5/database-deploynment.png" alt="Trello Sprint 3">
 <br>
 <img src="./Resources/Capitulo_5/deploynment-backend.png" alt="Trello Sprint 3">
+<br>
+
+Despliegue del Frontend:
+
+<img src="Resources/Deployment_Frontend.jpeg" alt="Trello Sprint 3">
+<br>
+<img src="Resources/Deployment_Frontend2.jpeg" alt="Trello Sprint 3">
 <br>
 
 ### 5.2.4. Sprint 4
@@ -1458,12 +1467,27 @@ Recursos del Sprint
 
 ### 5.2.4.4.Development Evidence for Sprint Review.
 
+
 ### 5.2.4.5.Execution Evidence for Sprint Review.
+
+![alt text](Resources/Execution_Evidence1.jpeg)
+
+![alt text](Resources/Execution_Evidence2.jpeg)
+
+![alt text](Resources/Execution_Evidence3.jpeg)
+
+![alt text](Resources/Execution_Evidence4.jpeg)
+
+![alt text](Resources/Execution_Evidence5.jpeg)
 
 ### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
+
 ### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 
+![alt text](Resources/Deployment_Backend.jpeg)
+
+![alt text](Resources/Deployment_Backend2.jpeg)
 ### 5.2.4.8.Team Collaboration Insights during Sprint.
 
 
