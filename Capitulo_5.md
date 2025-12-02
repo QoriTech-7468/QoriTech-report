@@ -1347,6 +1347,46 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 ####  5.3. Validation Interviews.
 
 ####  5.3.1. Diseño de Entrevistas.
+ Diseño de entrevistas.
+
+**Preguntas Generales**
+
+**Objetivo:** Conocer percepción global del proyecto RUTANA.
+- **Principal:** ¿Qué fue lo primero que pensaste al ver o escuchar sobre RUTANA?
+
+- **Principal:** En tus palabras, ¿qué problema crees que resuelve RUTANA?
+
+- **Principal**En una escala del 1 al 10, ¿qué tan útil crees que sería RUTANA para tu día a día? ¿Por qué ese puntaje?
+- **Complementaria:** ¿Qué fue lo que más te gustó de lo que viste?
+- **Complementaria:** ¿Qué fue lo que menos te convenció o te generó dudas?
+
+**Primer Segmento Objetivo: Transportistas**
+
+**Objetivo:** Obtener la opinión directa del transportista sobre la utilidad, usabilidad y deseabilidad de RUTANA, y cómo resuelve sus principales problemas en ruta.
+
+- **Principal:** Cuando ingresas a RUTANA, ¿la forma en que se te presentan las rutas asignadas y las entregas pendientes es clara y te permite empezar a trabajar rápidamente?
+
+- **Principal:** El proceso de marcar una entrega como "Completada"¿te parece simple y rápido de hacer al terminar con el cliente?
+
+- **Principal:** ¿Qué tan fácil o difícil fue navegar por la aplicación?
+
+- **Principal:** ¿Qué tan dispuesto estarías a usarla como tu principal herramienta de trabajo?  
+
+- **Complementaria:** ¿Hay algo en la interfaz o en el flujo que te pareció confuso o que cambiarías?
+
+- **Complementaria:** ¿Recomendarías esta aplicación a otros compañeros conductores? ¿Por qué sí o por qué no?
+
+
+**Segundo Segmento Objetivo: Administradores**
+
+**Objetivo:** Evaluar si RUTANA cumple con sus necesidades de planificación, monitoreo en tiempo real, control de carga y gestión de incidencias, y el valor que perciben.
+
+- **Principal:** ¿Qué tan útil consideras la vista en tiempo real del camión y su progreso?
+- **Principal:** El sistema de monitoreo en tiempo real de RUTANA, ¿te proporciona suficiente información para saber si un camión está siguiendo la ruta y cumpliendo los horarios?
+- **Principal:**¿La información presentada te permitiría tomar decisiones operativas mejor que ahora?
+- **Principal:** Si tuvieras que decidir implementar RUTANA, ¿cuál es el beneficio principal que te convencería de adoptarlo? (Ej. Reducción de costos, mejora de servicio, etc.)
+- **Complementaria:** La posibilidad de crear roles de equipo de transporte con permisos limitados, ¿Es un beneficio importante para la seguridad y organización de tu operación?
+
 
 ####  5.3.2. Registro de Entrevistas.
 
