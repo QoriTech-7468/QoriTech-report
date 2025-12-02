@@ -1465,6 +1465,29 @@ Despliegue del Frontend:
   <span>Tablero Sprint 4 en Trello</span>
 </a>
 
+| Sprint # | User Story Id | User Story Title | Work-Item / Task Id | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 4 | TS-SUB-002 | Get Organization By Id | TS-SUB-002-T001 | Endpoint GET Organización | Crear un endpoint GET para obtener la información de la nueva empresa registrada. | 2 | Jesús | Done |
+| 4 | TS-PLA-004 | Query Routes | TS-PLA-004-T001 | Endpoint GET Rutas | Crear un endpoint GET que permita consultar rutas borrador y rutas publicadas. | 3 | Jesús | Done |
+| 4 | TS-SUB-001 | Create Organization | TS-SUB-001-T001 | Endpoint POST Organización | Realizar un endpoint POST para registrar una nueva empresa en la plataforma. | 3 | Ingrid | Done |
+| 4 | TS-PLA-003 | Publish Route | TS-PLA-003-T001 | Endpoint POST Publicar Ruta | Crear endpoint POST que permita publicar una ruta. | 2 | Yaku | Done |
+| 4 | TS-PLA-002 | Edit Route Draft | TS-PLA-002-T001 | Endpoint PUT Editar Ruta | Implementar un endpoint PUT que permita editar un borrador de ruta. | 3 | Jesús | Done |
+| 4 | US13 | Reubicar una ubicación existente | US13-TS001 | Endpoint PUT Ubicación | Implementar un endpoint PUT que permita actualizar la ubicación geográfica. | 2 | Santiago | Done |
+| 4 | TS-FLE-002 | Update Vehicle Profile | TS-FLE-002-T001 | Refactorizar POST/GET Vehículos | Refactorizar los endpoint Post y Get para alinearse al formato REST. | 3 | Ingrid | Done |
+| 4 | TS-FLE-002 | Update Vehicle Profile | TS-FLE-002-T002 | Endpoint PUT Vehículo | Implementar un endpoint PUT para actualizar la información del vehiculo. | 2 | Santiago | Done |
+| 4 | TS-IAM-001 | Register User | TS-IAM-001-T001 | Endpoint POST Registro | Realizar un endpoint POST para registrar un nuevo usuario a la plataforma. | 3 | Jesús | Done |
+| 4 | TS-IAM-002 | Sign In User | TS-IAM-002-T001 | Endpoint POST Login | Desarrollar un endpoint POST de autenticación que permita iniciar sesión con credenciales válidas. | 3 | Christofer | Done |
+| 4 | TS-CRM-002 | Register & Toggle Location | TS-CRM-002-T001 | Refactorizar GET/POST CRM | Refactorizar los endpoint Get y Post para alinearse a los utilizados en el frontend. | 3 | Jesús | Done |
+| 4 | TS-IAM-003 | Invite & Accept Org Member | TS-IAM-003-T001 | Endpoint POST Invitaciones | Crear endpoint POST para enviar invitaciones. | 2 | Yaku | Done |
+| 4 | TS-IAM-003 | Invite & Accept Org Member | TS-IAM-003-T003 | Registrar Invitación BD | Registrar la invitación en la base de datos. | 2 | Christofer | Done |
+| 4 | TS-PLA-001 | Create Route Draft | TS-PLA-001-T001 | Endpoint POST Borrador Ruta | Crear endpoint POST para crear un borrador de ruta. | 3 | Santiago | Done |
+| 4 | TS-IAM-003 | Invite & Accept Org Member | TS-IAM-003-T002 | Endpoint GET Invitaciones | Implementar GET de las invitaciones por usuario y por Organization. | 2 | Yaku | Done |
+| 4 | US10 | Gestión de clientes | US10-TS001 | Endpoint PUT Cliente | Implementar un endpoint PUT que permita editar y reemplazar la información completa de un cliente mediante su ID. | 3 | Christofer | Done |
+| 4 | US05 | Gestión de roles | US05-TS001 | Endpoint POST Roles | Crear endpoint POST para crear nuevos roles. | 2 | ingrid | Done |
+| 4 | US05 | Gestión de roles | US05-TS002 | Endpoint GET Roles | Crear endpoint GET para consultar lista de roles. | 2 | Santiago | Done |
+| 4 | US32 | Generación de reportes | US32-TS002 | Endpoint GET Reportes | Crear un endpoint GET para solicitar reportes operativos. | 3 | Christofer | Done |
+| 4 | US15 | Filtrar puntos en mapa | US15-T001 | Endpoint GET Puntos | Implementar un endpoint GET que permita filtrar y devolver los puntos (locations) asociados a un cliente específico. | 2 | Jesús | Done |
+
 ### 5.2.4.4.Development Evidence for Sprint Review.
 
 
@@ -1491,9 +1514,9 @@ Despliegue del Frontend:
 ### 5.2.4.8.Team Collaboration Insights during Sprint.
 
 
-#### 5.3. Validation Interviews.
+### 5.3. Validation Interviews.
 
-#### 5.3.1. Diseño de Entrevistas.
+### 5.3.1. Diseño de Entrevistas.
 
 **Preguntas Generales**
 
@@ -1536,7 +1559,180 @@ Despliegue del Frontend:
 
 ####  5.3.2. Registro de Entrevistas.
 
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 1</th>
+                <th> Marcia Diana Marcoschino</th>
+            </tr>
+            <tr>
+                <th>Entrevistador </th>
+                <th>Gordillo Ramos, Santiago Alonso</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad </td>
+                <td>27 años</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Lima</td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="Resources/EntrevistasVavlidacion/Entrevista-Administrador1.png" width="500">
+                </td>
+                <td>
+                <strong>
+                    Resumen:</strong><br>
+                    La entrevistada, Marcia Diana Marcoschino (27 años, área administrativa en logística), señaló que inicialmente pensó que RUTANA era una aplicación similar a Google Maps y no relacionada con logística. Tras conocer sus funciones, consideró que la aplicación sí resuelve problemas del proceso de delivery, especialmente en organización y control de rutas.
+Calificó su utilidad con un 7/10, destacando que optimiza procesos, aunque requiere ser más intuitiva para usuarios sin capacitación. Respecto a la vista en tiempo real del camión, la consideró útil, pero mencionó que falta información clave, especialmente tiempos estimados y demoras, lo cual afecta la toma de decisiones operativas.
+Indicó que RUTANA podría mejorar significativamente la calidad del servicio, ya que un mejor control del delivery beneficia la experiencia del cliente. Valoró positivamente la funcionalidad de roles y permisos, señalando que es importante que los transportistas solo vean la información necesaria.
+En general, la aplicación le resultó útil y con buen potencial, aunque señaló que aún requiere mejoras para ser más completa y fácil de usar. 
+            </td>
+            </tr>
+            <tr>
+                <td>Tiempo que empieza</td>
+                <td>0:00 minutos</td>
+            </tr>
+            <tr>
+                <td>Tiempo de la entrevista</td>
+                <td> 6:38 minuntos  </td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td>https://tinyurl.com/4k9a4ucd</td>
+            </tr>
+        </tbody>
+</table>
+
 ####  5.3.3. Evaluaciones según heurísticas.
+**SITE o APP A EVALUAR:**  Rutana - Aplicación web de gestion de transporte y logistica.
+
+**TAREAS A EVALUAR:**
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Visualizar rutas y progreso de entregas en tiempo real
+
+2. Monitorear vehículos y estado de deliveries
+
+3. Interpretar información del camión en la vista de tiempo real
+
+4. Crear y gestionar roles (administrador – transportista)
+
+5. Navegar por las diferentes secciones de la aplicación
+
+6. Tomar decisiones operativas con base en la información mostrada
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Integración con sistemas externos
+
+2. Comunicación interna con transportistas
+
+3. Reportes avanzados de desempeño
+
+4. Estadísticas históricas de rutas
+
+5. Personalización de vistas o configuraciones internas
+
+**ESCALA DE SEVERIDAD:**
+
+|**Nivel**| **Descripción**|
+|-----------|--------------|
+| 1| Problema superficial. Puede ignorarse si no hay tiempo |
+|2| Problema menor. Ocurre ocasionalmente y afecta un poco la experiencia.|
+|3| Problema mayor. Limita significativamente la usabilidad o comprensión.|
+|4| Problema muy grave. Impide continuar tareas críticas.|
+
+**TABLA RESUMEN:**
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Problema</th>
+      <th>Escala de severidad</th>
+      <th>Heurística / Principio violado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>La aplicación no es intuitiva para usuarios nuevos sin capacitación</td>
+      <td>3</td>
+      <td>Usability: Learnability / Consistencia y estándares</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Falta información de tiempo estimado o demoras en la vista del camión</td>
+      <td>1</td>
+      <td>Information Architecture: Is it useful? / Visibility of system status</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>La vista de rutas no permite tomar decisiones completas (información insuficiente)</td>
+      <td>3</td>
+      <td>Usability: Adecuación a la tarea / Visibility of system status</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Falta claridad en algunos segmentos y secciones de la aplicación</td>
+      <td>2</td>
+      <td>Usability: Adecuación a la tarea / Visibility of system status</td>
+    </tr>
+        <tr>
+      <td>5</td>
+      <td>Expectativa inicial del usuario no coincide con el propósito de la app (nombre no comunica la función)</td>
+      <td>1</td>
+      <td>Usability: Match between system and real world</td>
+    </tr>
+  </tbody>
+</table>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+PROBLEMA #1: La aplicación no es intuitiva para usuarios nuevos sin capacitación
+
+Severidad: 3
+Heurística violada: Usability – Learnability / Consistencia y estándares
+
+Problema:
+La entrevistada señala que, sin una demostración previa, no habría sabido cómo usar la aplicación. También menciona que sus compañeros tampoco podrían utilizarla de forma intuitiva sin capacitación. Esto indica dificultades de aprendizaje y falta de guías internas o indicadores visuales claros.
+
+PROBLEMA #2: Falta mostrar tiempo estimado y demoras en las rutas
+
+Severidad: 3
+Heurística violada: Visibility of system status / IA – Is it useful?
+
+Problema:
+La vista en tiempo real solo muestra distancia, pero no tiempos estimados ni retrasos. Esto limita la toma de decisiones operativas, especialmente en logística donde el tiempo es crítico. La usuaria considera esta falta como “limitante” e incluso “crítica”.
+
+PROBLEMA #3: Información insuficiente para tomar decisiones completas
+
+Severidad: 3
+Heurística violada: Adecuación a la tarea / Visibility of system status
+
+Problema:
+Aunque se pueden ver las rutas y si los deliveries están entregados, la usuaria menciona que “no tiene toda la información necesaria”. Al faltar datos importantes, el control operativo se vuelve parcial.
+
+PROBLEMA #4: Falta claridad en algunos segmentos de la aplicación
+
+Severidad: 2
+Heurística violada: IA – Is it findable?
+
+Problema:
+La entrevistada menciona que “falta facilidad para cada segmento” y que algunas secciones no se entienden claramente sin guía previa. Esto indica problemas de navegación y arquitectura de información.
+
+PROBLEMA #5: El nombre de la aplicación no comunica su propósito
+
+Severidad: 1
+Heurística violada: Match between system and real world
+
+Problema:
+La entrevistada pensó que RUTANA era similar a Google Maps o Waze, sin asociarlo a logística. Esto afecta la primera impresión y puede generar confusión sobre el propósito de la app.
+
 
 ####  5.4. Video About-the-Product.
 <p align="center">
