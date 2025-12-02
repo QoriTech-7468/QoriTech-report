@@ -56,6 +56,7 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
 - PrimeVue Team. (2025). *PrimeVue - Vue UI Component Library*. PrimeVue Documentation. Recuperado el 10 de setiembre de 2025 de [PrimeVue](https://primevue.org/)
 
 
+<div style="page-break-after: always;"></div>
 
 ## Anexos
 
@@ -223,6 +224,8 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
 </tbody>
 </table>
 
+<div style="page-break-after: always;"></div>
+
 ### Anexo B. Trello
 <table>
 <thead>
@@ -320,29 +323,44 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
 </tr>
 <table>
 
+<div style="page-break-after: always;"></div>
+
 ### Anexo C. Diseño y Prototipo
 
 Enlace de Figma: <a href= "https://www.figma.com/design/5jPKslsPd2yzl8DypTv23M/Landing-page-Qoritech?node-id=0-1&t=c9KtMK86xgb6Tnmi-1"> https://www.figma.com/design/5jPKslsPd2yzl8DypTv23M/Landing-page-Qoritech?node-id=0-1&t=c9KtMK86xgb6Tnmi-1</a>
 
 ![evidencia de figma](./Resources/anexos/figma-evidencia-anexo.png)
 
+<div style="page-break-after: always;"></div>
+
 ### Anexo D. Deployment de landing page
 Link de la landing page: <a href="https://qoritech-7468.github.io/Landing-Page-Repository/index.html" target="_blank">
      https://qoritech-7468.github.io/Landing-Page-Repository/index.html
     </a>
+![evidencia de Landing Page](./Resources/anexos/LandingPage-evidencia.png)
+
+<div style="page-break-after: always;"></div>
+
 ### Anexo E. Diagrama de Clases Frontend
 Link del diagrama: <a href="https://shorturl.at/J0nyP" target="_blank">
       https://shorturl.at/J0nyP
     </a>
+    ![evidencia de  Diagrama de Clases Frontend](./Resources/anexos/DiagramadeClasesFrontend-evidencia.png)
+
+<div style="page-break-after: always;"></div>
 
 ### Anexo F. Deployment de aplicación frontend
 Link de aplicación frontend:<a href="https://shorturl.at/g93lZ" target="_blank">
       https://shorturl.at/g93lZ
     </a> 
 
+  ![evidencia de Deployment de aplicación frontend](./Resources/anexos/Deploymentaplicaciónfrontend-evidencia.png)
+
+<div style="page-break-after: always;"></div>
 
 ### Anexo G. Deploynment backend
 Link del video: <a href="https://backend-webapplication.onrender.com/swagger/index.html" target="_blank">
       https://backend-webapplication.onrender.com/swagger/index.html
     </a>
-
+    
+  ![evidencia de Deployment de backend](./Resources/anexos/Deploynmentbackend-evidencia.png)
