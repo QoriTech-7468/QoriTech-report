@@ -728,13 +728,9 @@ En esta sección se presentan los diagramas de clases que detallan la implementa
 
 2. Subscriptions
 <div style="text-align: center;">
-<img src="Resources/BC/Suscription.png">
+<img src="Resources/BC/suscription.jpg">
 </div>
 
-<div style="text-align: center;">
-
-<img src="Resources/BC/Suscription2.png">
-</div>
 
 3. Fleet and Resource Management (Fleet)
 <div style="text-align: center;">
