@@ -225,8 +225,8 @@ A continuación, se expone la planificación de nuestro Sprint 1, orientado prin
 <th>Sprint 1</th>
 </tr>
 <tr>
-<td><strong>Sprint Planning Background</strong></td>
-<td></td>
+<td colspan="2"><strong>Sprint Planning Background</strong></td>
+
 </tr>
 <tr>
 <td><strong>Date</strong></td>
@@ -257,8 +257,8 @@ A continuación, se expone la planificación de nuestro Sprint 1, orientado prin
 <td>Dado que este es el sprint inicial, no se presenta una retroalimentación del sprint anterior.</td>
 </tr>
 <tr>
-<td><strong>Sprint Goal & User Stories</strong></td>
-<td></td>
+<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+
 </tr>
 <tr>
 <td><strong>Sprint 1 Goal</strong></td>
@@ -614,8 +614,7 @@ Gracias a esta organización, se logró cumplir de manera efectiva el objetivo d
 <th>Sprint 2</th>
 </tr>
 <tr>
-<td><strong>Sprint Planning Background</strong></td>
-<td></td>
+<td colspan="2"><strong>Sprint Planning Background</strong></td>
 </tr>
 <tr>
 <td><strong>Date</strong></td>
@@ -646,8 +645,8 @@ Gracias a esta organización, se logró cumplir de manera efectiva el objetivo d
 <td>El trabajo en equipo no fue tan eficaz como se esperaba debido a que, al ser un equipo nuevo, el líder no conocía completamente las fortalezas y debilidades de cada miembro. Esto resultó en asignaciones de tareas que no aprovecharon al máximo las capacidades individuales. Además, no se siguió estrictamente el statement de trabajo, especialmente en la fase de ejecución, donde se desviaron algunos aspectos del plan original. Sin embargo, también se identificaron aspectos positivos: el equipo logró comprender profundamente el problema del usuario y sus necesidades reales, lo cual fue crucial para proponer funcionalidades apropiadas y desarrollar un entendimiento sólido del lenguaje ubicuo del dominio. Para Sprint 2, se implementará una mejor comunicación, evaluación de habilidades del equipo y seguimiento más estricto del plan de trabajo.</td>
 </tr>
 <tr>
-<td><strong>Sprint Goal & User Stories</strong></td>
-<td></td>
+<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+
 </tr>
 <tr>
 <td><strong>Sprint 2 Goal</strong></td>
@@ -1023,8 +1022,8 @@ Durante el Sprint 2, el equipo demostró una colaboración efectiva enfocada en 
 <th>Sprint 3</th>
 </tr>
 <tr>
-<td><strong>Sprint Planning Background</strong></td>
-<td></td>
+<td colspan="2"><strong>Sprint Planning Background</strong></td>
+
 </tr>
 <tr>
 <td><strong>Date</strong></td>
@@ -1055,8 +1054,7 @@ Durante el Sprint 2, el equipo demostró una colaboración efectiva enfocada en 
 <td>El equipo enfrentó varios retos durante el Sprint 2, especialmente relacionados con la integración del código y el trabajo colaborativo. Se presentaron conflictos de merge al unificar los avances individuales, lo que afectó el ritmo de desarrollo. Además, persistió parte de la deuda técnica del sprint anterior, especialmente en la comprensión de la arquitectura y simulación del backend. A pesar de ello, el equipo mostró una mejora significativa en comunicación, coordinación y dominio de las herramientas. Se destaca el cumplimiento del diseño de producto y la capacidad de resolver problemas técnicos de manera colaborativa. Para el siguiente sprint se priorizará la reducción de deuda técnica y la implementación completa de las funcionalidades restantes.</td>
 </tr>
 <tr>
-<td><strong>Sprint Goal & User Stories</strong></td>
-<td></td>
+<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
 </tr>
 <tr>
 <td><strong>Sprint 3 Goal</strong></td>
@@ -1064,11 +1062,11 @@ Durante el Sprint 2, el equipo demostró una colaboración efectiva enfocada en 
 </tr>
 <tr>
 <td><strong>Sprint 3 Velocity</strong></td>
-<td></td>
+<td>30</td>
 </tr>
 <tr>
 <td><strong>Sum of Story Points</strong></td>
-<td></td>
+<td>30</td>
 </tr>
 </table>
 
@@ -1167,7 +1165,7 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** c
 
 #### 5.2.3.3. Sprint Backlog 3.
 
-<img src="./Resources/Capitulo_5/Trello_sprint3.jpg" alt="Trello Sprint 3">
+<img src="Resources/Capitulo_5/Sprint3/SprintBacklog.png" alt="Trello Sprint 3">
 <br>
 <a href="https://trello.com/b/1n7Mp1Xp/sprint-backlog-3" target="_blank">
   <span>Tablero Sprint 3 en Trello</span>
@@ -1325,7 +1323,63 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+Durante este sprint se completó una versión preliminar del backend de la aplicación Rutana utilizando la estructura net9.0, con el lenguaje C# y la plantilla de Web API, con despliegue exitoso en onRender. Aunque no se completaron todas los endpoint que se planificaron, se logró implementar los bounded contexts core y desplegar sus respectivos endpoint.
 
+**Descripción del Logro:**
+
+- Implementación del backend con net9.0 y C#
+- Desarrollo de los bounded contexts principales (Subscription, Fleet & Resource Management, Customer & Location Management)
+- Implementación de los metodos HTTP: Get, Post, Put y Patch
+- Deployment exitoso en onRender
+
+Recursos del Sprint
+
+<table>
+<tr>
+<th>Recurso</th>
+<th>Acción implementada</th>
+<th>Método HTTP</th>
+<th>URL / Endpoint</th>
+<th>Link de repositorio</th>
+</tr>
+<tr>
+<td>Backend Application</td>
+<td>Aplicación web Api</td>
+<td>GET</td>
+<td>https://backend-webapplication.onrender.com/swagger/index.html</td>
+<td>https://github.com/QoriTech-7468/BackEnd-WebApplication.git</td>
+</tr>
+<tr>
+<td>Backend Application</td>
+<td>Aplicación web Api</td>
+<td>Post</td>
+<td>https://backend-webapplication.onrender.com/swagger/index.html</td>
+<td>https://github.com/QoriTech-7468/BackEnd-WebApplication.git</td>
+</tr>
+<tr>
+<td>Backend Application</td>
+<td>Aplicación web Api</td>
+<td>Put</td>
+<td>https://backend-webapplication.onrender.com/swagger/index.html</td>
+<td>https://github.com/QoriTech-7468/BackEnd-WebApplication.git</td>
+</tr>
+<tr>
+<td>Backend Application</td>
+<td>Aplicación web Api</td>
+<td>Patch</td>
+<td>https://backend-webapplication.onrender.com/swagger/index.html</td>
+<td>https://github.com/QoriTech-7468/BackEnd-WebApplication.git</td>
+</tr>
+<tr>
+</table>
+
+**Documentación de Servicios:**
+
+1. **API Documentation**: Documentación de los endpoint con la estructura net9.0
+2. **Component Documentation**: Documentación de componentes Vue.js desarrollados con PrimeVue
+3. **Deployment Guide**: Guía de despliegue en onRender con configuración de producción
+4. **Architecture Documentation**: Documentación de la arquitectura con Domain Driven Design
+5. **Repository Documentation**: Documentación completa del código fuente en GitHub con 89 commits
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
@@ -1342,8 +1396,8 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 <th>Sprint 4</th>
 </tr>
 <tr>
-<td><strong>Sprint Planning Background</strong></td>
-<td></td>
+<td colspan="2"><strong>Sprint Planning Background</strong></td>
+
 </tr>
 <tr>
 <td><strong>Date</strong></td>
@@ -1374,8 +1428,7 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 <td> ... </td>
 </tr>
 <tr>
-<td><strong>Sprint Goal & User Stories</strong></td>
-<td></td>
+<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
 </tr>
 <tr>
 <td><strong>Sprint 4 Goal</strong></td>
@@ -1392,12 +1445,26 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 </table>
 
 ### 5.2.4.2. Aspect Leaders and Collaborators.
+
+
 ### 5.2.4.3.Sprint Backlog 4.
+
+<img src="Resources/Capitulo_5/Trello_sprint4.png" alt="Trello Sprint 4">
+<br>
+<a href="https://trello.com/b/0eTLOSys/sprint-backlog-4" target="_blank">
+  <span>Tablero Sprint 4 en Trello</span>
+</a>
+
 ### 5.2.4.4.Development Evidence for Sprint Review.
+
 ### 5.2.4.5.Execution Evidence for Sprint Review.
+
 ### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
 ### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
 ### 5.2.4.8.Team Collaboration Insights during Sprint.
+
 
 #### 5.3. Validation Interviews.
 
