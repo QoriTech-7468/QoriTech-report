@@ -82,8 +82,8 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
   <td> Consolida todas las entrevistas realizadas </td>
   <td> 
     <strong>Link:</strong><br>
-    <a href="https://upcedupe-my.sharepoint.com/:f:/g/personal/u202213185_upc_edu_pe/IgCpT7Bs2y9FSJP00Tz9OKb0AcRnyXvD15_gMVkwm5BT1HY?e=4OLDxh" target="_blank">
-      Ver carpeta de videos
+    <a href="https://tinyurl.com/2amttkcn" target="_blank">
+      https://tinyurl.com/2amttkcn
     </a>
 </td>
 </tr>
@@ -98,8 +98,8 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
   <td>Consolida la exposición de la TB1</td>
   <td>
     <strong>Link:</strong><br>
-    <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213185_upc_edu_pe/IQBqIkzTw_XsS7RdIsr6zQVKARXZ7E-nsU4iR1OMm87lxPQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=du47pe" target="_blank">
-      Ver video
+    <a href="https://tinyurl.com/yspubw8k" target="_blank">
+      https://tinyurl.com/yspubw8k
     </a>
   </td>
 </tr>
@@ -113,7 +113,7 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
   <td>
     <strong>Link:</strong><br>
     <a href="https://shorturl.at/zGhAA" target="_blank">
-      Ver video
+      https://shorturl.at/zGhAA
     </a>
   </td>
 </tr>
@@ -127,7 +127,7 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
   <td>
     <strong>Link:</strong><br>
     <a href="https://shorturl.at/asdasd" target="_blank">
-      Ver video
+      https://shorturl.at/asdasd
     </a>
   </td>
 </tr>
@@ -245,8 +245,8 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
   </td>
   <td>
     <strong>Link:</strong><br>
-    <a href="https://trello.com/invite/b/68e69b6b3feba0c17ec850ce/ATTI7879b7e4c56309ac25e88a1982d383352294D12A/product-backlog" target="_blank">
-      Product Backlog
+    <a href="https://tinyurl.com/y3ap6aaf" target="_blank">
+      https://tinyurl.com/y3ap6aaf
     </a>
   </td>
 </tr>
@@ -262,8 +262,8 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
   </td>
   <td>
     <strong>Link:</strong><br>
-    <a href="https://trello.com/invite/b/68ae46f19af5526803981b41/ATTIeedd8f55273178b04f5153e51a06d5acB05785FA/sprint-backlog-1" target="_blank">
-      Sprint Backlog #1
+    <a href="https://tinyurl.com/3mzf4e3d" target="_blank">
+      https://tinyurl.com/3mzf4e3d
     </a>
   </td>
 </tr>
@@ -279,8 +279,8 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
   </td>
   <td>
     <strong>Link:</strong><br>
-    <a href="https://trello.com/invite/b/68e6a24e145e10af2d0544e9/ATTI665460f059d6c7874a198e1956dc49cf05BDE973/sprint-backlog-2" target="_blank">
-      Sprint Backlog #2
+    <a href="https://tinyurl.com/32ksv7vd" target="_blank">
+      https://tinyurl.com/32ksv7vd
     </a>
   </td>
 </tr>
@@ -296,8 +296,8 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
   </td>
   <td>
     <strong>Link:</strong><br>
-    <a href="https://trello.com/invite/b/68f5e16b2d218361134e968d/ATTI38f28eeaeeab178948c534a8df161bb4DC92F947/sprint-backlog-3" target="_blank">
-      Sprint Backlog #3
+    <a href="https://tinyurl.com/43mfv7ey" target="_blank">
+      https://tinyurl.com/43mfv7ey
     </a>
   </td>
 </tr>
@@ -313,8 +313,8 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
   </td>
   <td>
     <strong>Link:</strong><br>
-    <a href="" target="_blank">
-      Sprint Backlog #4
+    <a href="https://tinyurl.com/mr33c6yw" target="_blank">
+      https://tinyurl.com/mr33c6yw
     </a>
   </td>
 </tr>
@@ -322,7 +322,7 @@ En resumen, este sprint cumplió con transformar los conceptos y diseños del Sp
 
 ### Anexo C. Diseño y Prototipo
 
-Enlace de Figma: <a href= "https://www.figma.com/design/5jPKslsPd2yzl8DypTv23M/Landing-page-Qoritech?node-id=0-1&t=c9KtMK86xgb6Tnmi-1">Figma QoriTech</a>
+Enlace de Figma: <a href= "https://www.figma.com/design/5jPKslsPd2yzl8DypTv23M/Landing-page-Qoritech?node-id=0-1&t=c9KtMK86xgb6Tnmi-1"> https://www.figma.com/design/5jPKslsPd2yzl8DypTv23M/Landing-page-Qoritech?node-id=0-1&t=c9KtMK86xgb6Tnmi-1</a>
 
 ![evidencia de figma](./Resources/anexos/figma-evidencia-anexo.png)
 
