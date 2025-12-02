@@ -1465,6 +1465,29 @@ Despliegue del Frontend:
   <span>Tablero Sprint 4 en Trello</span>
 </a>
 
+| Sprint # | User Story Id | User Story Title | Work-Item / Task Id | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 4 | TS-SUB-002 | Get Organization By Id | TS-SUB-002-T001 | Endpoint GET Organización | Crear un endpoint GET para obtener la información de la nueva empresa registrada. | 2 | Jesús | Done |
+| 4 | TS-PLA-004 | Query Routes | TS-PLA-004-T001 | Endpoint GET Rutas | Crear un endpoint GET que permita consultar rutas borrador y rutas publicadas. | 3 | Jesús | Done |
+| 4 | TS-SUB-001 | Create Organization | TS-SUB-001-T001 | Endpoint POST Organización | Realizar un endpoint POST para registrar una nueva empresa en la plataforma. | 3 | Ingrid | Done |
+| 4 | TS-PLA-003 | Publish Route | TS-PLA-003-T001 | Endpoint POST Publicar Ruta | Crear endpoint POST que permita publicar una ruta. | 2 | Yaku | Done |
+| 4 | TS-PLA-002 | Edit Route Draft | TS-PLA-002-T001 | Endpoint PUT Editar Ruta | Implementar un endpoint PUT que permita editar un borrador de ruta. | 3 | Jesús | Done |
+| 4 | US13 | Reubicar una ubicación existente | US13-TS001 | Endpoint PUT Ubicación | Implementar un endpoint PUT que permita actualizar la ubicación geográfica. | 2 | Santiago | Done |
+| 4 | TS-FLE-002 | Update Vehicle Profile | TS-FLE-002-T001 | Refactorizar POST/GET Vehículos | Refactorizar los endpoint Post y Get para alinearse al formato REST. | 3 | Ingrid | Done |
+| 4 | TS-FLE-002 | Update Vehicle Profile | TS-FLE-002-T002 | Endpoint PUT Vehículo | Implementar un endpoint PUT para actualizar la información del vehiculo. | 2 | Santiago | Done |
+| 4 | TS-IAM-001 | Register User | TS-IAM-001-T001 | Endpoint POST Registro | Realizar un endpoint POST para registrar un nuevo usuario a la plataforma. | 3 | Jesús | Done |
+| 4 | TS-IAM-002 | Sign In User | TS-IAM-002-T001 | Endpoint POST Login | Desarrollar un endpoint POST de autenticación que permita iniciar sesión con credenciales válidas. | 3 | Christofer | Done |
+| 4 | TS-CRM-002 | Register & Toggle Location | TS-CRM-002-T001 | Refactorizar GET/POST CRM | Refactorizar los endpoint Get y Post para alinearse a los utilizados en el frontend. | 3 | Jesús | Done |
+| 4 | TS-IAM-003 | Invite & Accept Org Member | TS-IAM-003-T001 | Endpoint POST Invitaciones | Crear endpoint POST para enviar invitaciones. | 2 | Yaku | Done |
+| 4 | TS-IAM-003 | Invite & Accept Org Member | TS-IAM-003-T003 | Registrar Invitación BD | Registrar la invitación en la base de datos. | 2 | Christofer | Done |
+| 4 | TS-PLA-001 | Create Route Draft | TS-PLA-001-T001 | Endpoint POST Borrador Ruta | Crear endpoint POST para crear un borrador de ruta. | 3 | Santiago | Done |
+| 4 | TS-IAM-003 | Invite & Accept Org Member | TS-IAM-003-T002 | Endpoint GET Invitaciones | Implementar GET de las invitaciones por usuario y por Organization. | 2 | Yaku | Done |
+| 4 | US10 | Gestión de clientes | US10-TS001 | Endpoint PUT Cliente | Implementar un endpoint PUT que permita editar y reemplazar la información completa de un cliente mediante su ID. | 3 | Christofer | Done |
+| 4 | US05 | Gestión de roles | US05-TS001 | Endpoint POST Roles | Crear endpoint POST para crear nuevos roles. | 2 | ingrid | Done |
+| 4 | US05 | Gestión de roles | US05-TS002 | Endpoint GET Roles | Crear endpoint GET para consultar lista de roles. | 2 | Santiago | Done |
+| 4 | US32 | Generación de reportes | US32-TS002 | Endpoint GET Reportes | Crear un endpoint GET para solicitar reportes operativos. | 3 | Christofer | Done |
+| 4 | US15 | Filtrar puntos en mapa | US15-T001 | Endpoint GET Puntos | Implementar un endpoint GET que permita filtrar y devolver los puntos (locations) asociados a un cliente específico. | 2 | Jesús | Done |
+
 ### 5.2.4.4.Development Evidence for Sprint Review.
 
 
