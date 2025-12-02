@@ -1221,6 +1221,14 @@ En esta sección el equipo presenta y explica los **Database Diagrams** para cad
 
 
 ### 4.8.1. Database Diagrams
-
-<img src="Resources/Capitulo_4/D_DataBase.png" alt="DataBase">
+Base de datos del bounded CRM:
+<img src="Resources/Capitulo_4/crmbd.jpeg" alt="DataBase">
+Base de datos del bounded Fleet:
+<img src="Resources/Capitulo_4/fleetbd.jpeg" alt="DataBase">
+Base de datos del bounded IAM:
+<img src="Resources/Capitulo_4/iambd.jpeg" alt="DataBase">
+Base de datos del bounded Organization:
+<img src="Resources/Capitulo_4/organizationbd.jpeg" alt="DataBase">
+Base de datos del bounded Planning:
+<img src="Resources/Capitulo_4/planningbd.jpeg" alt="DataBase">
 
