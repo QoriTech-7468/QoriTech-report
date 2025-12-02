@@ -1220,7 +1220,8 @@ A continuación, se presenta el Sprint Backlog correspondiente al **Sprint 3**, 
 | 3        |               |                                            | TS-CRM-003-T002     | Implementar ClientResource y endpoints GET para clientes | Implementar el ClientResource y los endpoints GET para obtener clientes. | 2                  | Jesús               | Done      |
 | 3        |               |                                            | TS-CRM-003-T003     | Crear queries para Location (ById, ByClient) y sus handlers | Crear las queries GetLocationByIdQuery y GetLocationsByClientQuery con sus respectivos handlers. | 2                  | Jesús               | Done      |
 | 3        |               |                                            | TS-CRM-003-T004     | Implementar LocationResource y endpoints GET para locations | Implementar el LocationResource y los endpoints GET para obtener ubicaciones. | 2                  | Jesús               | Done      |
-=======
+
+
 | Sprint # | User Story Id | User Story Title                              | Work-Item / Task Id | Task Title                                      | Description                                                                                     | Estimation (Hours) | Assigned To              | Status |
 |-----------|----------------|-----------------------------------------------|---------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------|---------------------------|---------|
 3 | US10| Gestión de clientes| US10T001|Mejorar el apartado visual|... |2|...|To Review|
