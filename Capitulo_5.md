@@ -1431,26 +1431,26 @@ Despliegue del Frontend:
 </tr>
 <tr>
 <td><strong>Sprint 3 Review Summary</strong></td>
-<td>...</td>
+<td>Durante el Sprint 3 se completó la mayor parte de los entregables planificados. Se habilitó el flujo completo de gestión de suscripciones, y se implementaron las operaciones de edición y eliminación en los módulos principales de Usuarios, Flotas y Rutas. Asimismo, se desarrollaron las vistas iniciales para Dispatchers y se incorporaron validaciones y manejo de errores en las acciones críticas de la plataforma. En el backend, se documentaron en Swagger los endpoints esenciales de los bounded contexts de Subscriptions, Fleet, Planning y CRM, quedando operativos para pruebas funcionales. Finalmente, se actualizó la landing page con los cambios solicitados en términos y condiciones y se añadieron los videos de presentación del equipo y del producto.</td>
 </tr>
 <tr>
 <td><strong>Sprint 3 Retrospective Summary</strong></td>
-<td> ... </td>
+<td> El equipo identificó que, al ser un sprint con múltiples entregables transversales (backend, frontend y documentación), fue necesario mejorar la priorización y dividir con mayor claridad las tareas críticas para evitar bloqueos. Se observó que las integraciones entre bounded contexts requerían mayor coordinación temprana, especialmente en endpoints compartidos y manejo unificado de errores. A nivel técnico, se reconoció que la complejidad del backend aumentó debido al despliegue y a la documentación de los servicios, lo que destacó la importancia de realizar revisiones de código más frecuentes y pruebas automatizadas tempranas. Finalmente, se valoró de manera positiva la comunicación del equipo y la capacidad de adaptación, pero se acordó mejorar la estimación de historias para evitar sobrecarga en futuros sprints. </td>
 </tr>
 <tr>
 <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
 </tr>
 <tr>
 <td><strong>Sprint 4 Goal</strong></td>
-<td><strong>Nuestro propósito está</strong>   </td>
+<td><strong>Nuestro propósito está</strong> consolidar una versión estable y totalmente operativa de la plataforma Rutana, asegurando la integración fluida entre los bounded contexts (Subscriptions, Fleet, Planning y CRM) y completando las funcionalidades pendientes del Sprint pasado, para que se garantice el uso real por parte de administradores y transportistas.<strong> Creemos que esto aportará </strong>una experiencia más fluida, confiable y cohesiva entre frontend y backend, reduciendo puntos de falla y asegurando que los usuarios clave puedan ejecutar sus procesos sin interrupciones. <strong>Esto se confirmará cuando:</strong> tengamos la versión final del frontend conectada con la versión final del backend y que se pueda utilizar estos dos, sin errores ni complicaciones.</td>
 </tr>
 <tr>
 <td><strong>Sprint 4 Velocity</strong></td>
-<td></td>
+<td>27</td>
 </tr>
 <tr>
 <td><strong>Sum of Story Points</strong></td>
-<td></td>
+<td>27</td>
 </tr>
 </table>
 
