@@ -738,12 +738,12 @@ En esta sección se presentan los diagramas de clases que detallan la implementa
 
 3. Fleet and Resource Management (Fleet)
 <div style="text-align: center;">
-<img src="Resources/BC/Fleet.png" alt="Recursos">
+<img src="Resources/BC/fleet.jpg" alt="Recursos">
 </div>
 
 4. Customer & Location Management (CRM)
 <div style="text-align: center;">
-<img src="Resources/BC/CRM.png" alt="Ejecucion">
+<img src="Resources/BC/crm.jpg" alt="Ejecucion">
 </div>
 
 5   . Route Planning & Execution (Plannig)
